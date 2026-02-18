@@ -1,4 +1,134 @@
 [
-  {"player":"Alice","ep":1200,"gp":300,"pr":4.00},
-  {"player":"Bob","ep":950,"gp":400,"pr":2.38}
+  {
+    "player": "Briaar",
+    "ep": 750,
+    "gp": 10,
+    "pr": 75
+  },
+  {
+    "player": "Cao",
+    "ep": 750,
+    "gp": 10,
+    "pr": 75
+  },
+  {
+    "player": "Grokhna",
+    "ep": 750,
+    "gp": 10,
+    "pr": 75
+  },
+  {
+    "player": "Maerthyr",
+    "ep": 750,
+    "gp": 10,
+    "pr": 75
+  },
+  {
+    "player": "Preus",
+    "ep": 750,
+    "gp": 10,
+    "pr": 75
+  },
+  {
+    "player": "Qurac",
+    "ep": 750,
+    "gp": 10,
+    "pr": 75
+  },
+  {
+    "player": "Sandu",
+    "ep": 750,
+    "gp": 10,
+    "pr": 75
+  },
+  {
+    "player": "Tschuberle",
+    "ep": 750,
+    "gp": 10,
+    "pr": 75
+  },
+  {
+    "player": "Vhecna",
+    "ep": 750,
+    "gp": 10,
+    "pr": 75
+  },
+  {
+    "player": "Waldi",
+    "ep": 750,
+    "gp": 10,
+    "pr": 75
+  },
+  {
+    "player": "Almi",
+    "ep": 600,
+    "gp": 10,
+    "pr": 60
+  },
+  {
+    "player": "Billii",
+    "ep": 600,
+    "gp": 10,
+    "pr": 60
+  },
+  {
+    "player": "Brotus",
+    "ep": 600,
+    "gp": 10,
+    "pr": 60
+  },
+  {
+    "player": "Dotlike",
+    "ep": 600,
+    "gp": 10,
+    "pr": 60
+  },
+  {
+    "player": "Luisken",
+    "ep": 600,
+    "gp": 10,
+    "pr": 60
+  },
+  {
+    "player": "Sheff",
+    "ep": 600,
+    "gp": 10,
+    "pr": 60
+  },
+  {
+    "player": "Valysra",
+    "ep": 600,
+    "gp": 10,
+    "pr": 60
+  },
+  {
+    "player": "Yuzuyuu",
+    "ep": 600,
+    "gp": 10,
+    "pr": 60
+  },
+  {
+    "player": "Bringschuld",
+    "ep": 300,
+    "gp": 10,
+    "pr": 30
+  },
+  {
+    "player": "Llinchen",
+    "ep": 300,
+    "gp": 10,
+    "pr": 30
+  },
+  {
+    "player": "Yolanda",
+    "ep": 300,
+    "gp": 10,
+    "pr": 30
+  },
+  {
+    "player": "Joffrey",
+    "ep": 150,
+    "gp": 10,
+    "pr": 15
+  }
 ]
