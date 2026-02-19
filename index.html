@@ -8,20 +8,42 @@
 </head>
 <body>
   <h1>Guild EPGP Standings</h1>
+
+  <div id="meta" style="margin: 0 0 12px 0; font-family: sans-serif;">
+    Letzte Änderung: <span id="lastModified">–</span>
+  </div>
+
   <div id="table"></div>
 
   <script>
     fetch('standings.json')
       .then(r => r.json())
-      .then(data => {
+      .then(payload => {
+        // Header info
+        document.getElementById('lastModified').textContent =
+          payload.lastModified ?? '–';
+
+        const rows = payload.rows ?? [];
+
         new gridjs.Grid({
           columns: [
             { name: 'Player', sort: true },
+            { name: 'Main', sort: true },
             { name: 'EP', sort: true },
-            { name: 'GP', sort: true },
-            { name: 'PR', sort: true }
+            { name: 'GP-M', sort: true },
+            { name: 'PR-M', sort: true },
+            { name: 'GP-A', sort: true },
+            { name: 'PR-A', sort: true }
           ],
-          data: data.map(p => [p.player, p.ep, p.gp, p.pr])
+          data: rows.map(p => [
+            p.player ?? '',
+            p.main ?? '',
+            p.ep ?? 0,
+            p.gp_m ?? 0,
+            p.pr_m ?? 0,
+            p.gp_a ?? 0,
+            p.pr_a ?? 0
+          ])
         }).render(document.getElementById('table'));
       });
   </script>
