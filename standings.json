@@ -1,45 +1,144 @@
 {
-  "lastModified": "2026-02-19 19:33 \u002B01:00",
+  "lastModified": "2026-02-19 19:55 \u002B01:00",
   "rows": [
     {
       "player": "Briaar",
       "main": "Briaar",
-      "ep": 750,
+      "ep": 1950,
       "gp_m": 10,
-      "pr_m": 75,
+      "pr_m": 195,
       "gp_a": 10,
-      "pr_a": 75
+      "pr_a": 195
     },
     {
       "player": "Cao",
       "main": "Tayami",
-      "ep": 750,
+      "ep": 1950,
       "gp_m": 10,
-      "pr_m": 75,
+      "pr_m": 195,
       "gp_a": 10,
-      "pr_a": 75
+      "pr_a": 195
     },
     {
       "player": "Waldi",
       "main": "Waldmeister",
-      "ep": 750,
+      "ep": 1950,
       "gp_m": 10,
-      "pr_m": 75,
+      "pr_m": 195,
       "gp_a": 10,
-      "pr_a": 75
-    },
-    {
-      "player": "Brotus",
-      "main": "Brotuswar",
-      "ep": 600,
-      "gp_m": 10,
-      "pr_m": 60,
-      "gp_a": 10,
-      "pr_a": 60
+      "pr_a": 195
     },
     {
       "player": "Preus",
       "main": "Preus",
+      "ep": 1800,
+      "gp_m": 10,
+      "pr_m": 180,
+      "gp_a": 10,
+      "pr_a": 180
+    },
+    {
+      "player": "Bringschuld",
+      "main": "Bringschuld",
+      "ep": 1500,
+      "gp_m": 10,
+      "pr_m": 150,
+      "gp_a": 10,
+      "pr_a": 150
+    },
+    {
+      "player": "Yolanda",
+      "main": "Yolanda",
+      "ep": 1500,
+      "gp_m": 10,
+      "pr_m": 150,
+      "gp_a": 10,
+      "pr_a": 150
+    },
+    {
+      "player": "Grokhna",
+      "main": "Grokhna",
+      "ep": 1950,
+      "gp_m": 10,
+      "pr_m": 195,
+      "gp_a": 15,
+      "pr_a": 130
+    },
+    {
+      "player": "Tschuberle",
+      "main": "Tschuberle",
+      "ep": 1950,
+      "gp_m": 10,
+      "pr_m": 195,
+      "gp_a": 15,
+      "pr_a": 130
+    },
+    {
+      "player": "Billii",
+      "main": "Billii",
+      "ep": 1800,
+      "gp_m": 10,
+      "pr_m": 180,
+      "gp_a": 15,
+      "pr_a": 120
+    },
+    {
+      "player": "Luisken",
+      "main": "Luisken",
+      "ep": 1800,
+      "gp_m": 10,
+      "pr_m": 180,
+      "gp_a": 15,
+      "pr_a": 120
+    },
+    {
+      "player": "Maerthyr",
+      "main": "Maerthyr",
+      "ep": 1950,
+      "gp_m": 10,
+      "pr_m": 195,
+      "gp_a": 20,
+      "pr_a": 97.5
+    },
+    {
+      "player": "Sandu",
+      "main": "Sandu",
+      "ep": 1950,
+      "gp_m": 10,
+      "pr_m": 195,
+      "gp_a": 20,
+      "pr_a": 97.5
+    },
+    {
+      "player": "Qurac",
+      "main": "Qurac",
+      "ep": 1950,
+      "gp_m": 10,
+      "pr_m": 195,
+      "gp_a": 25,
+      "pr_a": 78
+    },
+    {
+      "player": "Joffrey",
+      "main": "Joffrey",
+      "ep": 1350,
+      "gp_m": 10,
+      "pr_m": 135,
+      "gp_a": 20,
+      "pr_a": 67.5
+    },
+    {
+      "player": "Almi",
+      "main": "Almidrood",
+      "ep": 1800,
+      "gp_m": 10,
+      "pr_m": 180,
+      "gp_a": 30,
+      "pr_a": 60
+    },
+    {
+      "player": "Brotus",
+      "main": "Brotuswar",
       "ep": 600,
       "gp_m": 10,
       "pr_m": 60,
@@ -56,67 +155,40 @@
       "pr_a": 60
     },
     {
-      "player": "Grokhna",
-      "main": "Grokhna",
-      "ep": 750,
+      "player": "Yuzuyuu",
+      "main": "Yuzuyuu",
+      "ep": 1800,
       "gp_m": 10,
-      "pr_m": 75,
-      "gp_a": 15,
-      "pr_a": 50
+      "pr_m": 180,
+      "gp_a": 30,
+      "pr_a": 60
     },
     {
-      "player": "Tschuberle",
-      "main": "Tschuberle",
-      "ep": 750,
+      "player": "Vhecna",
+      "main": "Vhecna",
+      "ep": 1950,
       "gp_m": 10,
-      "pr_m": 75,
-      "gp_a": 15,
-      "pr_a": 50
+      "pr_m": 195,
+      "gp_a": 45,
+      "pr_a": 43.33
     },
     {
-      "player": "Billii",
-      "main": "Billii",
-      "ep": 600,
+      "player": "Dotlike",
+      "main": "Dotlike",
+      "ep": 1800,
       "gp_m": 10,
-      "pr_m": 60,
-      "gp_a": 15,
+      "pr_m": 180,
+      "gp_a": 45,
       "pr_a": 40
     },
     {
-      "player": "Luisken",
-      "main": "Luisken",
-      "ep": 600,
+      "player": "Valysra",
+      "main": "Valysra",
+      "ep": 1800,
       "gp_m": 10,
-      "pr_m": 60,
-      "gp_a": 15,
+      "pr_m": 180,
+      "gp_a": 45,
       "pr_a": 40
-    },
-    {
-      "player": "Maerthyr",
-      "main": "Maerthyr",
-      "ep": 750,
-      "gp_m": 10,
-      "pr_m": 75,
-      "gp_a": 20,
-      "pr_a": 37.5
-    },
-    {
-      "player": "Sandu",
-      "main": "Sandu",
-      "ep": 750,
-      "gp_m": 10,
-      "pr_m": 75,
-      "gp_a": 20,
-      "pr_a": 37.5
-    },
-    {
-      "player": "Bringschuld",
-      "main": "Bringschuld",
-      "ep": 300,
-      "gp_m": 10,
-      "pr_m": 30,
-      "gp_a": 10,
-      "pr_a": 30
     },
     {
       "player": "Llinchen",
@@ -126,78 +198,6 @@
       "pr_m": 30,
       "gp_a": 10,
       "pr_a": 30
-    },
-    {
-      "player": "Qurac",
-      "main": "Qurac",
-      "ep": 750,
-      "gp_m": 10,
-      "pr_m": 75,
-      "gp_a": 25,
-      "pr_a": 30
-    },
-    {
-      "player": "Yolanda",
-      "main": "Yolanda",
-      "ep": 300,
-      "gp_m": 10,
-      "pr_m": 30,
-      "gp_a": 10,
-      "pr_a": 30
-    },
-    {
-      "player": "Almi",
-      "main": "Almidrood",
-      "ep": 600,
-      "gp_m": 10,
-      "pr_m": 60,
-      "gp_a": 30,
-      "pr_a": 20
-    },
-    {
-      "player": "Yuzuyuu",
-      "main": "Yuzuyuu",
-      "ep": 600,
-      "gp_m": 10,
-      "pr_m": 60,
-      "gp_a": 30,
-      "pr_a": 20
-    },
-    {
-      "player": "Vhecna",
-      "main": "Vhecna",
-      "ep": 750,
-      "gp_m": 10,
-      "pr_m": 75,
-      "gp_a": 45,
-      "pr_a": 16.67
-    },
-    {
-      "player": "Dotlike",
-      "main": "Dotlike",
-      "ep": 600,
-      "gp_m": 10,
-      "pr_m": 60,
-      "gp_a": 45,
-      "pr_a": 13.33
-    },
-    {
-      "player": "Valysra",
-      "main": "Valysra",
-      "ep": 600,
-      "gp_m": 10,
-      "pr_m": 60,
-      "gp_a": 45,
-      "pr_a": 13.33
-    },
-    {
-      "player": "Joffrey",
-      "main": "Joffrey",
-      "ep": 150,
-      "gp_m": 10,
-      "pr_m": 15,
-      "gp_a": 20,
-      "pr_a": 7.5
     }
   ]
 }
