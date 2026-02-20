@@ -1,5 +1,5 @@
 {
-  "lastModified": "2026-02-19 19:55 \u002B01:00",
+  "lastModified": "2026-02-20 07:26 \u002B01:00",
   "rows": [
     {
       "player": "Briaar",
@@ -16,6 +16,15 @@
       "ep": 1950,
       "gp_m": 10,
       "pr_m": 195,
+      "gp_a": 10,
+      "pr_a": 195
+    },
+    {
+      "player": "Qurac",
+      "main": "Qurac",
+      "ep": 1950,
+      "gp_m": 25,
+      "pr_m": 78,
       "gp_a": 10,
       "pr_a": 195
     },
@@ -65,6 +74,24 @@
       "pr_a": 130
     },
     {
+      "player": "Maerthyr",
+      "main": "Maerthyr",
+      "ep": 1950,
+      "gp_m": 15,
+      "pr_m": 130,
+      "gp_a": 15,
+      "pr_a": 130
+    },
+    {
+      "player": "Sandu",
+      "main": "Sandu",
+      "ep": 1950,
+      "gp_m": 15,
+      "pr_m": 130,
+      "gp_a": 15,
+      "pr_a": 130
+    },
+    {
       "player": "Tschuberle",
       "main": "Tschuberle",
       "ep": 1950,
@@ -72,6 +99,15 @@
       "pr_m": 195,
       "gp_a": 15,
       "pr_a": 130
+    },
+    {
+      "player": "Almi",
+      "main": "Almidrood",
+      "ep": 1800,
+      "gp_m": 25,
+      "pr_m": 72,
+      "gp_a": 15,
+      "pr_a": 120
     },
     {
       "player": "Billii",
@@ -92,31 +128,22 @@
       "pr_a": 120
     },
     {
-      "player": "Maerthyr",
-      "main": "Maerthyr",
-      "ep": 1950,
-      "gp_m": 10,
-      "pr_m": 195,
-      "gp_a": 20,
-      "pr_a": 97.5
+      "player": "Yuzuyuu",
+      "main": "Yuzuyuu",
+      "ep": 1800,
+      "gp_m": 25,
+      "pr_m": 72,
+      "gp_a": 15,
+      "pr_a": 120
     },
     {
-      "player": "Sandu",
-      "main": "Sandu",
-      "ep": 1950,
-      "gp_m": 10,
-      "pr_m": 195,
-      "gp_a": 20,
-      "pr_a": 97.5
-    },
-    {
-      "player": "Qurac",
-      "main": "Qurac",
-      "ep": 1950,
-      "gp_m": 10,
-      "pr_m": 195,
+      "player": "Valysra",
+      "main": "Valysra",
+      "ep": 1800,
+      "gp_m": 30,
+      "pr_m": 60,
       "gp_a": 25,
-      "pr_a": 78
+      "pr_a": 72
     },
     {
       "player": "Joffrey",
@@ -126,15 +153,6 @@
       "pr_m": 135,
       "gp_a": 20,
       "pr_a": 67.5
-    },
-    {
-      "player": "Almi",
-      "main": "Almidrood",
-      "ep": 1800,
-      "gp_m": 10,
-      "pr_m": 180,
-      "gp_a": 30,
-      "pr_a": 60
     },
     {
       "player": "Brotus",
@@ -155,15 +173,6 @@
       "pr_a": 60
     },
     {
-      "player": "Yuzuyuu",
-      "main": "Yuzuyuu",
-      "ep": 1800,
-      "gp_m": 10,
-      "pr_m": 180,
-      "gp_a": 30,
-      "pr_a": 60
-    },
-    {
       "player": "Vhecna",
       "main": "Vhecna",
       "ep": 1950,
@@ -175,15 +184,6 @@
     {
       "player": "Dotlike",
       "main": "Dotlike",
-      "ep": 1800,
-      "gp_m": 10,
-      "pr_m": 180,
-      "gp_a": 45,
-      "pr_a": 40
-    },
-    {
-      "player": "Valysra",
-      "main": "Valysra",
       "ep": 1800,
       "gp_m": 10,
       "pr_m": 180,
