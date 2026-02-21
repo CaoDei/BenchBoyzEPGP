@@ -4,10 +4,10 @@
   "main": "Valysra",
   "saldo": {
     "ep": 1800,
-    "gp_m": 30,
-    "gp_a": 25,
-    "pr_m": 60,
-    "pr_a": 72
+    "gp_m": 50,
+    "gp_a": 40,
+    "pr_m": 36,
+    "pr_a": 45
   },
   "ledger": {
     "ep": [
@@ -25,19 +25,19 @@
     "gp_m": [
       {
         "ts": "2026-02-20T07:21:58\u002B01:00",
-        "delta": 15,
+        "delta": 30,
         "desc": "Eruption Cord (ms-high)"
       },
       {
         "ts": "2026-02-20T07:22:59\u002B01:00",
-        "delta": 5,
+        "delta": 10,
         "desc": "Chromatic Headpiece (ms-low)"
       }
     ],
     "gp_a": [
       {
         "ts": "2026-02-19T17:56:07\u002B01:00",
-        "delta": 15,
+        "delta": 30,
         "desc": "Molten Spaulders (ms-mid)"
       }
     ]
