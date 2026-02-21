@@ -1,0 +1,39 @@
+{
+  "lastModified": "2026-02-20T07:26:12\u002B01:00",
+  "player": "Joffrey",
+  "main": "Joffrey",
+  "saldo": {
+    "ep": 1350,
+    "gp_m": 10,
+    "gp_a": 20,
+    "pr_m": 135,
+    "pr_a": 67.5
+  },
+  "ledger": {
+    "ep": [
+      {
+        "ts": "2026-02-18T17:10:57\u002B01:00",
+        "delta": 150,
+        "desc": "Anwesenheit in der ID vor EP/GP-Einf\u00FChrung"
+      },
+      {
+        "ts": "2026-02-20T07:26:12\u002B01:00",
+        "delta": 1200,
+        "desc": "Raidanwesenheit am 18.02.2026 - MC-A und Ony-M"
+      }
+    ],
+    "gp_m": [],
+    "gp_a": [
+      {
+        "ts": "2026-02-19T18:55:36\u002B01:00",
+        "delta": 5,
+        "desc": "Chromatic Wristguards (ms-low)"
+      },
+      {
+        "ts": "2026-02-19T18:55:55\u002B01:00",
+        "delta": 5,
+        "desc": "Molten Tunic (ms-low)"
+      }
+    ]
+  }
+}
