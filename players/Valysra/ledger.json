@@ -1,0 +1,45 @@
+{
+  "lastModified": "2026-02-20T07:26:12\u002B01:00",
+  "player": "Valysra",
+  "main": "Valysra",
+  "saldo": {
+    "ep": 1800,
+    "gp_m": 30,
+    "gp_a": 25,
+    "pr_m": 60,
+    "pr_a": 72
+  },
+  "ledger": {
+    "ep": [
+      {
+        "ts": "2026-02-18T17:13:00\u002B01:00",
+        "delta": 600,
+        "desc": "Anwesenheit in der ID vor EP/GP-Einf\u00FChrung"
+      },
+      {
+        "ts": "2026-02-20T07:26:12\u002B01:00",
+        "delta": 1200,
+        "desc": "Raidanwesenheit am 18.02.2026 - MC-A und Ony-M"
+      }
+    ],
+    "gp_m": [
+      {
+        "ts": "2026-02-20T07:21:58\u002B01:00",
+        "delta": 15,
+        "desc": "Eruption Cord (ms-high)"
+      },
+      {
+        "ts": "2026-02-20T07:22:59\u002B01:00",
+        "delta": 5,
+        "desc": "Chromatic Headpiece (ms-low)"
+      }
+    ],
+    "gp_a": [
+      {
+        "ts": "2026-02-19T17:56:07\u002B01:00",
+        "delta": 15,
+        "desc": "Molten Spaulders (ms-mid)"
+      }
+    ]
+  }
+}
