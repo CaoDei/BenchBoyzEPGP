@@ -5,9 +5,9 @@
   "saldo": {
     "ep": 1950,
     "gp_m": 10,
-    "gp_a": 15,
+    "gp_a": 20,
     "pr_m": 195,
-    "pr_a": 130
+    "pr_a": 97.5
   },
   "ledger": {
     "ep": [
@@ -26,7 +26,7 @@
     "gp_a": [
       {
         "ts": "2026-02-19T17:56:40\u002B01:00",
-        "delta": 5,
+        "delta": 10,
         "desc": "Seal of the Archmagus (os-low)"
       }
     ]
