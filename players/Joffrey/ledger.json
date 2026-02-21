@@ -5,9 +5,9 @@
   "saldo": {
     "ep": 1350,
     "gp_m": 10,
-    "gp_a": 20,
+    "gp_a": 30,
     "pr_m": 135,
-    "pr_a": 67.5
+    "pr_a": 45
   },
   "ledger": {
     "ep": [
@@ -26,12 +26,12 @@
     "gp_a": [
       {
         "ts": "2026-02-19T18:55:36\u002B01:00",
-        "delta": 5,
+        "delta": 10,
         "desc": "Chromatic Wristguards (ms-low)"
       },
       {
         "ts": "2026-02-19T18:55:55\u002B01:00",
-        "delta": 5,
+        "delta": 10,
         "desc": "Molten Tunic (ms-low)"
       }
     ]
