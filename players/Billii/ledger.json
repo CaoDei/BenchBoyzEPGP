@@ -5,9 +5,9 @@
   "saldo": {
     "ep": 1800,
     "gp_m": 10,
-    "gp_a": 15,
+    "gp_a": 20,
     "pr_m": 180,
-    "pr_a": 120
+    "pr_a": 90
   },
   "ledger": {
     "ep": [
@@ -26,7 +26,7 @@
     "gp_a": [
       {
         "ts": "2026-02-19T17:56:48\u002B01:00",
-        "delta": 5,
+        "delta": 10,
         "desc": "Drillborer Disk (os-low)"
       }
     ]
