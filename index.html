@@ -1,51 +1,44 @@
-<!doctype html>
-<html>
-<head>
-  <meta charset="utf-8">
-  <title>EPGP Standings</title>
-  <link href="https://unpkg.com/gridjs/dist/theme/mermaid.min.css" rel="stylesheet" />
-  <script src="https://unpkg.com/gridjs/dist/gridjs.umd.js"></script>
-</head>
-<body>
-  <h1>BenchBoyz EPGP</h1>
+<script>
+  function playerUrl(playerName) {
+    // folder per player; encode for spaces/umlauts
+    return `players/${encodeURIComponent(playerName)}/`;
+  }
 
-  <div id="meta" style="margin: 0 0 12px 0; font-family: sans-serif;">
-    Letzte Änderung: <span id="lastModified">–</span>
-  </div>
+  fetch('standings.json')
+    .then(r => r.json())
+    .then(payload => {
+      document.getElementById('lastModified').textContent =
+        payload.lastModified ?? '–';
 
-  <div id="table"></div>
+      const rows = payload.rows ?? [];
 
-  <script>
-    fetch('standings.json')
-      .then(r => r.json())
-      .then(payload => {
-        // Header info
-        document.getElementById('lastModified').textContent =
-          payload.lastModified ?? '–';
-
-        const rows = payload.rows ?? [];
-
-        new gridjs.Grid({
-          columns: [
-            { name: 'Player', sort: true },
-            { name: 'Main', sort: true },
-            { name: 'EP', sort: true },
-            { name: 'GP-M', sort: true },
-            { name: 'PR-M', sort: true },
-            { name: 'GP-A', sort: true },
-            { name: 'PR-A', sort: true }
-          ],
-          data: rows.map(p => [
-            p.player ?? '',
-            p.main ?? '',
-            p.ep ?? 0,
-            p.gp_m ?? 0,
-            p.pr_m ?? 0,
-            p.gp_a ?? 0,
-            p.pr_a ?? 0
-          ])
-        }).render(document.getElementById('table'));
-      });
-  </script>
-</body>
-</html>
+      new gridjs.Grid({
+        columns: [
+          {
+            name: 'Player',
+            sort: true,
+            formatter: (cell) => gridjs.html(
+              `<a href="${playerUrl(cell)}">${cell}</a>`
+            )
+          },
+          { name: 'Main', sort: true },
+          { name: 'Class', sort: true },
+          { name: 'EP', sort: true },
+          { name: 'GP-M', sort: true },
+          { name: 'PR-M', sort: true },
+          { name: 'GP-A', sort: true },
+          { name: 'PR-A', sort: true }
+        ],
+        data: rows.map(p => [
+          p.player ?? '',
+          p.main ?? '',
+          p.class ?? '',
+          p.ep ?? 0,
+          p.gp_m ?? 0,
+          p.pr_m ?? 0,
+          p.gp_a ?? 0,
+          p.pr_a ?? 0
+        ])
+      }).render(document.getElementById('table'));
+    });
+</script>
