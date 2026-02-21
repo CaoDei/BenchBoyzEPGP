@@ -1,0 +1,34 @@
+{
+  "lastModified": "2026-02-20T07:26:12\u002B01:00",
+  "player": "Billii",
+  "main": "Billii",
+  "saldo": {
+    "ep": 1800,
+    "gp_m": 10,
+    "gp_a": 15,
+    "pr_m": 180,
+    "pr_a": 120
+  },
+  "ledger": {
+    "ep": [
+      {
+        "ts": "2026-02-18T17:13:00\u002B01:00",
+        "delta": 600,
+        "desc": "Anwesenheit in der ID vor EP/GP-Einf\u00FChrung"
+      },
+      {
+        "ts": "2026-02-20T07:26:12\u002B01:00",
+        "delta": 1200,
+        "desc": "Raidanwesenheit am 18.02.2026 - MC-A und Ony-M"
+      }
+    ],
+    "gp_m": [],
+    "gp_a": [
+      {
+        "ts": "2026-02-19T17:56:48\u002B01:00",
+        "delta": 5,
+        "desc": "Drillborer Disk (os-low)"
+      }
+    ]
+  }
+}
