@@ -5,9 +5,9 @@
   "saldo": {
     "ep": 1950,
     "gp_m": 10,
-    "gp_a": 45,
+    "gp_a": 80,
     "pr_m": 195,
-    "pr_a": 43.33
+    "pr_a": 24.38
   },
   "ledger": {
     "ep": [
@@ -26,17 +26,17 @@
     "gp_a": [
       {
         "ts": "2026-02-19T17:54:28\u002B01:00",
-        "delta": 15,
+        "delta": 30,
         "desc": "Molten Legguards (ms-mid)"
       },
       {
         "ts": "2026-02-19T17:55:38\u002B01:00",
-        "delta": 15,
+        "delta": 30,
         "desc": "Molten Headpiece (ms-mid)"
       },
       {
         "ts": "2026-02-19T18:48:50\u002B01:00",
-        "delta": 5,
+        "delta": 10,
         "desc": "Molten Girdle (ms-low)"
       }
     ]
