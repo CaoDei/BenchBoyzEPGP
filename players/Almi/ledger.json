@@ -4,10 +4,10 @@
   "main": "Almidrood",
   "saldo": {
     "ep": 1800,
-    "gp_m": 25,
-    "gp_a": 15,
-    "pr_m": 72,
-    "pr_a": 120
+    "gp_m": 40,
+    "gp_a": 20,
+    "pr_m": 45,
+    "pr_a": 90
   },
   "ledger": {
     "ep": [
@@ -25,14 +25,14 @@
     "gp_m": [
       {
         "ts": "2026-02-20T07:22:26\u002B01:00",
-        "delta": 15,
+        "delta": 30,
         "desc": "Sapphiron Drape (ms-mid)"
       }
     ],
     "gp_a": [
       {
         "ts": "2026-02-20T07:19:08\u002B01:00",
-        "delta": 5,
+        "delta": 10,
         "desc": "Band of Sulfuras of Arcane Fortitude (os-low)"
       }
     ]
