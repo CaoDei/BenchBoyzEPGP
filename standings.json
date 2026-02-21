@@ -4,6 +4,7 @@
     {
       "player": "Briaar",
       "main": "Briaar",
+      "class": "",
       "ep": 1950,
       "gp_m": 10,
       "pr_m": 195,
@@ -13,6 +14,7 @@
     {
       "player": "Cao",
       "main": "Tayami",
+      "class": "",
       "ep": 1950,
       "gp_m": 10,
       "pr_m": 195,
@@ -22,6 +24,7 @@
     {
       "player": "Qurac",
       "main": "Qurac",
+      "class": "",
       "ep": 1950,
       "gp_m": 25,
       "pr_m": 78,
@@ -31,6 +34,7 @@
     {
       "player": "Waldi",
       "main": "Waldmeister",
+      "class": "",
       "ep": 1950,
       "gp_m": 10,
       "pr_m": 195,
@@ -40,6 +44,7 @@
     {
       "player": "Preus",
       "main": "Preus",
+      "class": "",
       "ep": 1800,
       "gp_m": 10,
       "pr_m": 180,
@@ -49,6 +54,7 @@
     {
       "player": "Bringschuld",
       "main": "Bringschuld",
+      "class": "",
       "ep": 1500,
       "gp_m": 10,
       "pr_m": 150,
@@ -58,6 +64,7 @@
     {
       "player": "Yolanda",
       "main": "Yolanda",
+      "class": "",
       "ep": 1500,
       "gp_m": 10,
       "pr_m": 150,
@@ -67,6 +74,7 @@
     {
       "player": "Grokhna",
       "main": "Grokhna",
+      "class": "",
       "ep": 1950,
       "gp_m": 10,
       "pr_m": 195,
@@ -76,6 +84,7 @@
     {
       "player": "Maerthyr",
       "main": "Maerthyr",
+      "class": "",
       "ep": 1950,
       "gp_m": 15,
       "pr_m": 130,
@@ -85,6 +94,7 @@
     {
       "player": "Sandu",
       "main": "Sandu",
+      "class": "",
       "ep": 1950,
       "gp_m": 15,
       "pr_m": 130,
@@ -94,6 +104,7 @@
     {
       "player": "Tschuberle",
       "main": "Tschuberle",
+      "class": "",
       "ep": 1950,
       "gp_m": 10,
       "pr_m": 195,
@@ -103,6 +114,7 @@
     {
       "player": "Almi",
       "main": "Almidrood",
+      "class": "",
       "ep": 1800,
       "gp_m": 25,
       "pr_m": 72,
@@ -112,6 +124,7 @@
     {
       "player": "Billii",
       "main": "Billii",
+      "class": "",
       "ep": 1800,
       "gp_m": 10,
       "pr_m": 180,
@@ -121,6 +134,7 @@
     {
       "player": "Luisken",
       "main": "Luisken",
+      "class": "",
       "ep": 1800,
       "gp_m": 10,
       "pr_m": 180,
@@ -130,6 +144,7 @@
     {
       "player": "Yuzuyuu",
       "main": "Yuzuyuu",
+      "class": "",
       "ep": 1800,
       "gp_m": 25,
       "pr_m": 72,
@@ -139,6 +154,7 @@
     {
       "player": "Valysra",
       "main": "Valysra",
+      "class": "",
       "ep": 1800,
       "gp_m": 30,
       "pr_m": 60,
@@ -148,6 +164,7 @@
     {
       "player": "Joffrey",
       "main": "Joffrey",
+      "class": "",
       "ep": 1350,
       "gp_m": 10,
       "pr_m": 135,
@@ -157,6 +174,7 @@
     {
       "player": "Brotus",
       "main": "Brotuswar",
+      "class": "",
       "ep": 600,
       "gp_m": 10,
       "pr_m": 60,
@@ -166,6 +184,7 @@
     {
       "player": "Sheff",
       "main": "Sheff",
+      "class": "",
       "ep": 600,
       "gp_m": 10,
       "pr_m": 60,
@@ -175,6 +194,7 @@
     {
       "player": "Vhecna",
       "main": "Vhecna",
+      "class": "",
       "ep": 1950,
       "gp_m": 10,
       "pr_m": 195,
@@ -184,6 +204,7 @@
     {
       "player": "Dotlike",
       "main": "Dotlike",
+      "class": "",
       "ep": 1800,
       "gp_m": 10,
       "pr_m": 180,
@@ -193,6 +214,7 @@
     {
       "player": "Llinchen",
       "main": "Llinchen",
+      "class": "",
       "ep": 300,
       "gp_m": 10,
       "pr_m": 30,
