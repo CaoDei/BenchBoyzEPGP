@@ -1,0 +1,40 @@
+{
+  "lastModified": "2026-02-20T07:26:12\u002B01:00",
+  "player": "Sandu",
+  "main": "Sandu",
+  "saldo": {
+    "ep": 1950,
+    "gp_m": 15,
+    "gp_a": 15,
+    "pr_m": 130,
+    "pr_a": 130
+  },
+  "ledger": {
+    "ep": [
+      {
+        "ts": "2026-02-18T17:13:51\u002B01:00",
+        "delta": 750,
+        "desc": "Anwesenheit in der ID vor EP/GP-Einf\u00FChrung"
+      },
+      {
+        "ts": "2026-02-20T07:26:12\u002B01:00",
+        "delta": 1200,
+        "desc": "Raidanwesenheit am 18.02.2026 - MC-A und Ony-M"
+      }
+    ],
+    "gp_m": [
+      {
+        "ts": "2026-02-20T07:23:09\u002B01:00",
+        "delta": 5,
+        "desc": "Drakon Soul Shard (ms-low)"
+      }
+    ],
+    "gp_a": [
+      {
+        "ts": "2026-02-20T07:18:58\u002B01:00",
+        "delta": 5,
+        "desc": "Malistar\u0027s Defender (ms-low)"
+      }
+    ]
+  }
+}
