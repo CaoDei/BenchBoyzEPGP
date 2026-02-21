@@ -5,9 +5,9 @@
   "saldo": {
     "ep": 1800,
     "gp_m": 10,
-    "gp_a": 45,
+    "gp_a": 80,
     "pr_m": 180,
-    "pr_a": 40
+    "pr_a": 22.5
   },
   "ledger": {
     "ep": [
@@ -26,17 +26,17 @@
     "gp_a": [
       {
         "ts": "2026-02-19T18:55:35\u002B01:00",
-        "delta": 5,
+        "delta": 10,
         "desc": "Chromatic Wristguards (ms-low)"
       },
       {
         "ts": "2026-02-20T07:18:32\u002B01:00",
-        "delta": 15,
+        "delta": 30,
         "desc": "Choker of the Fire Lord (ms-mid)"
       },
       {
         "ts": "2026-02-20T07:18:41\u002B01:00",
-        "delta": 15,
+        "delta": 30,
         "desc": "Chromatic Legguards (ms-mid)"
       }
     ]
