@@ -4,9 +4,9 @@
   "main": "Qurac",
   "saldo": {
     "ep": 1950,
-    "gp_m": 25,
+    "gp_m": 40,
     "gp_a": 10,
-    "pr_m": 78,
+    "pr_m": 48.75,
     "pr_a": 195
   },
   "ledger": {
@@ -25,7 +25,7 @@
     "gp_m": [
       {
         "ts": "2026-02-20T07:22:19\u002B01:00",
-        "delta": 15,
+        "delta": 30,
         "desc": "Head of Onyxia (ms-high)"
       }
     ],
