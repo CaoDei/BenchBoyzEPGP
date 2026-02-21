@@ -4,10 +4,10 @@
   "main": "Maerthyr",
   "saldo": {
     "ep": 1950,
-    "gp_m": 15,
-    "gp_a": 15,
-    "pr_m": 130,
-    "pr_a": 130
+    "gp_m": 20,
+    "gp_a": 20,
+    "pr_m": 97.5,
+    "pr_a": 97.5
   },
   "ledger": {
     "ep": [
@@ -25,14 +25,14 @@
     "gp_m": [
       {
         "ts": "2026-02-20T07:22:38\u002B01:00",
-        "delta": 5,
+        "delta": 10,
         "desc": "Chromatic Headpiece (ms-low)"
       }
     ],
     "gp_a": [
       {
         "ts": "2026-02-19T18:48:48\u002B01:00",
-        "delta": 5,
+        "delta": 10,
         "desc": "Molten Girdle (ms-low)"
       }
     ]
