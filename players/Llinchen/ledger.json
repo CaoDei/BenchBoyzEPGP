@@ -1,0 +1,23 @@
+{
+  "lastModified": "2026-02-18T17:11:22\u002B01:00",
+  "player": "Llinchen",
+  "main": "Llinchen",
+  "saldo": {
+    "ep": 300,
+    "gp_m": 10,
+    "gp_a": 10,
+    "pr_m": 30,
+    "pr_a": 30
+  },
+  "ledger": {
+    "ep": [
+      {
+        "ts": "2026-02-18T17:11:22\u002B01:00",
+        "delta": 300,
+        "desc": "Anwesenheit in der ID vor EP/GP-Einf\u00FChrung"
+      }
+    ],
+    "gp_m": [],
+    "gp_a": []
+  }
+}
