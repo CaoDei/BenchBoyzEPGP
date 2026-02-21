@@ -1,0 +1,23 @@
+{
+  "lastModified": "2026-02-18T17:13:00\u002B01:00",
+  "player": "Sheff",
+  "main": "Sheff",
+  "saldo": {
+    "ep": 600,
+    "gp_m": 10,
+    "gp_a": 10,
+    "pr_m": 60,
+    "pr_a": 60
+  },
+  "ledger": {
+    "ep": [
+      {
+        "ts": "2026-02-18T17:13:00\u002B01:00",
+        "delta": 600,
+        "desc": "Anwesenheit in der ID vor EP/GP-Einf\u00FChrung"
+      }
+    ],
+    "gp_m": [],
+    "gp_a": []
+  }
+}
