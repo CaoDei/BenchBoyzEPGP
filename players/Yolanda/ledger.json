@@ -1,13 +1,13 @@
 {
-  "lastModified": "2026-02-20T07:26:12\u002B01:00",
+  "lastModified": "2026-02-24T14:58:35\u002B01:00",
   "player": "Yolanda",
   "main": "Yolanda",
   "saldo": {
-    "ep": 1500,
+    "ep": 2648,
     "gp_m": 10,
     "gp_a": 10,
-    "pr_m": 150,
-    "pr_a": 150
+    "pr_m": 264.8,
+    "pr_a": 264.8
   },
   "ledger": {
     "ep": [
@@ -20,6 +20,11 @@
         "ts": "2026-02-20T07:26:12\u002B01:00",
         "delta": 1200,
         "desc": "Raidanwesenheit am 18.02.2026 - MC-A und Ony-M"
+      },
+      {
+        "ts": "2026-02-24T14:58:35\u002B01:00",
+        "delta": 1148,
+        "desc": "Attendance EP (1148) for raid (233 min @ 3 EP/min, buffed 216 min @ 1 EP/min, enchanted 233 min @ 1 EP/min)"
       }
     ],
     "gp_m": [],
