@@ -1,13 +1,13 @@
 {
-  "lastModified": "2026-02-20T07:26:12\u002B01:00",
+  "lastModified": "2026-02-24T14:58:35\u002B01:00",
   "player": "Maerthyr",
   "main": "Maerthyr",
   "saldo": {
-    "ep": 1950,
+    "ep": 3104,
     "gp_m": 20,
     "gp_a": 20,
-    "pr_m": 97.5,
-    "pr_a": 97.5
+    "pr_m": 155.2,
+    "pr_a": 155.2
   },
   "ledger": {
     "ep": [
@@ -20,6 +20,11 @@
         "ts": "2026-02-20T07:26:12\u002B01:00",
         "delta": 1200,
         "desc": "Raidanwesenheit am 18.02.2026 - MC-A und Ony-M"
+      },
+      {
+        "ts": "2026-02-24T14:58:35\u002B01:00",
+        "delta": 1154,
+        "desc": "Attendance EP (1154) for raid (233 min @ 3 EP/min, buffed 222 min @ 1 EP/min, enchanted 233 min @ 1 EP/min)"
       }
     ],
     "gp_m": [
