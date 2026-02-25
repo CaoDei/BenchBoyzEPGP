@@ -1,13 +1,13 @@
 {
-  "lastModified": "2026-02-20T07:26:12\u002B01:00",
+  "lastModified": "2026-02-25T07:50:25\u002B01:00",
   "player": "Bringschuld",
   "main": "Bringschuld",
   "saldo": {
-    "ep": 1500,
+    "ep": 1200,
     "gp_m": 10,
     "gp_a": 10,
-    "pr_m": 150,
-    "pr_a": 150
+    "pr_m": 120,
+    "pr_a": 120
   },
   "ledger": {
     "ep": [
@@ -20,6 +20,11 @@
         "ts": "2026-02-20T07:26:12\u002B01:00",
         "delta": 1200,
         "desc": "Raidanwesenheit am 18.02.2026 - MC-A und Ony-M"
+      },
+      {
+        "ts": "2026-02-25T07:50:25\u002B01:00",
+        "delta": -300,
+        "desc": "Decay -20% applied to all players"
       }
     ],
     "gp_m": [],
