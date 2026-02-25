@@ -1,13 +1,13 @@
 {
-  "lastModified": "2026-02-24T14:58:35\u002B01:00",
+  "lastModified": "2026-02-25T07:50:25\u002B01:00",
   "player": "Qurac",
   "main": "Qurac",
   "saldo": {
-    "ep": 3103,
-    "gp_m": 40,
+    "ep": 2530,
+    "gp_m": 32,
     "gp_a": 10,
-    "pr_m": 77.58,
-    "pr_a": 310.3
+    "pr_m": 79.06,
+    "pr_a": 253
   },
   "ledger": {
     "ep": [
@@ -24,7 +24,17 @@
       {
         "ts": "2026-02-24T14:58:35\u002B01:00",
         "delta": 1153,
-        "desc": "Attendance EP (1153) for raid (233 min @ 3 EP/min, buffed 221 min @ 1 EP/min, enchanted 233 min @ 1 EP/min)"
+        "desc": "Attendance EP (1153) Ony Asc 23.02.2026 (233 min @ 3 EP/min, buffed 221 min @ 1 EP/min, enchanted 233 min @ 1 EP/min)"
+      },
+      {
+        "ts": "2026-02-25T07:49:39\u002B01:00",
+        "delta": 60,
+        "desc": "Bonus-EP f\u00FCr rechtzeitige Anmeldung zum Raid am 23.02.2026"
+      },
+      {
+        "ts": "2026-02-25T07:50:25\u002B01:00",
+        "delta": -633,
+        "desc": "Decay -20% applied to all players"
       }
     ],
     "gp_m": [
@@ -32,6 +42,11 @@
         "ts": "2026-02-20T07:22:19\u002B01:00",
         "delta": 30,
         "desc": "Head of Onyxia (ms-high)"
+      },
+      {
+        "ts": "2026-02-25T07:50:25\u002B01:00",
+        "delta": -8,
+        "desc": "Decay -20% applied to all players"
       }
     ],
     "gp_a": []
