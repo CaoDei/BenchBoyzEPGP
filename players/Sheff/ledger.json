@@ -1,13 +1,13 @@
 {
-  "lastModified": "2026-02-18T17:13:00\u002B01:00",
+  "lastModified": "2026-02-25T07:50:25\u002B01:00",
   "player": "Sheff",
   "main": "Sheff",
   "saldo": {
-    "ep": 600,
+    "ep": 480,
     "gp_m": 10,
     "gp_a": 10,
-    "pr_m": 60,
-    "pr_a": 60
+    "pr_m": 48,
+    "pr_a": 48
   },
   "ledger": {
     "ep": [
@@ -15,6 +15,11 @@
         "ts": "2026-02-18T17:13:00\u002B01:00",
         "delta": 600,
         "desc": "Anwesenheit in der ID vor EP/GP-Einf\u00FChrung"
+      },
+      {
+        "ts": "2026-02-25T07:50:25\u002B01:00",
+        "delta": -120,
+        "desc": "Decay -20% applied to all players"
       }
     ],
     "gp_m": [],
