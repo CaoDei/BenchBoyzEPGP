@@ -1,13 +1,13 @@
 {
-  "lastModified": "2026-02-26T10:31:08\u002B01:00",
+  "lastModified": "2026-02-26T12:33:03\u002B01:00",
   "player": "Yolanda",
   "main": "Yolanda",
   "saldo": {
-    "ep": 3233,
+    "ep": 3293,
     "gp_m": 10,
     "gp_a": 10,
-    "pr_m": 323.3,
-    "pr_a": 323.3
+    "pr_m": 329.3,
+    "pr_a": 329.3
   },
   "ledger": {
     "ep": [
@@ -40,6 +40,11 @@
         "ts": "2026-02-26T10:31:08\u002B01:00",
         "delta": 1055,
         "desc": "Attendance EP (1055) for raid (211 min @ 4 EP/min, buffed 207 min @ 0 EP/min, enchanted 211 min @ 1 EP/min)"
+      },
+      {
+        "ts": "2026-02-26T12:33:03\u002B01:00",
+        "delta": 60,
+        "desc": "Bonus-EP f\u00FCr rechtzeitige Anmeldung zum Raid am 25.02.2026"
       }
     ],
     "gp_m": [],
