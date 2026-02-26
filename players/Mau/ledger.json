@@ -1,0 +1,17 @@
+{
+  "lastModified": "2026-02-25T07:50:25\u002B01:00",
+  "player": "Mau",
+  "main": "Mau",
+  "saldo": {
+    "ep": 0,
+    "gp_m": 10,
+    "gp_a": 10,
+    "pr_m": 0,
+    "pr_a": 0
+  },
+  "ledger": {
+    "ep": [],
+    "gp_m": [],
+    "gp_a": []
+  }
+}
