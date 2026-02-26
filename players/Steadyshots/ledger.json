@@ -1,0 +1,60 @@
+{
+  "lastModified": "2026-02-26T10:31:08\u002B01:00",
+  "player": "Steadyshots",
+  "main": "Steadyshots",
+  "saldo": {
+    "ep": 1055,
+    "gp_m": 80,
+    "gp_a": 50,
+    "pr_m": 13.19,
+    "pr_a": 21.1
+  },
+  "ledger": {
+    "ep": [
+      {
+        "ts": "2026-02-26T10:31:08\u002B01:00",
+        "delta": 1055,
+        "desc": "Attendance EP (1055) for raid (211 min @ 4 EP/min, buffed 207 min @ 0 EP/min, enchanted 211 min @ 1 EP/min)"
+      }
+    ],
+    "gp_m": [
+      {
+        "ts": "2026-02-25T23:01:39\u002B01:00",
+        "delta": 30,
+        "desc": "Chromatic Headpiece (ms-mid)"
+      },
+      {
+        "ts": "2026-02-25T23:01:44\u002B01:00",
+        "delta": 30,
+        "desc": "Head of Onyxia (ms-mid)"
+      },
+      {
+        "ts": "2026-02-25T23:01:55\u002B01:00",
+        "delta": 10,
+        "desc": "Shard of the Scale (ms-low)"
+      }
+    ],
+    "gp_a": [
+      {
+        "ts": "2026-02-25T19:27:57\u002B01:00",
+        "delta": 10,
+        "desc": "Molten Wristguards (ms-low)"
+      },
+      {
+        "ts": "2026-02-25T20:24:31\u002B01:00",
+        "delta": 10,
+        "desc": "Molten Girdle (ms-low)"
+      },
+      {
+        "ts": "2026-02-25T21:02:34\u002B01:00",
+        "delta": 10,
+        "desc": "Molten Handguards (ms-low)"
+      },
+      {
+        "ts": "2026-02-25T21:31:26\u002B01:00",
+        "delta": 10,
+        "desc": "Molten Tunic (ms-low)"
+      }
+    ]
+  }
+}
