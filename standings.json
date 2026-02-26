@@ -162,16 +162,6 @@
       "pr_a": 78.11
     },
     {
-      "player": "Tashock",
-      "main": "Tashock",
-      "class": "",
-      "ep": 776,
-      "gp_m": 10,
-      "pr_m": 77.6,
-      "gp_a": 10,
-      "pr_a": 77.6
-    },
-    {
       "player": "Billii",
       "main": "Billii",
       "class": "Warrior",
@@ -190,16 +180,6 @@
       "pr_m": 86.82,
       "gp_a": 64.00,
       "pr_a": 54.27
-    },
-    {
-      "player": "Smoted",
-      "main": "Smoted",
-      "class": "",
-      "ep": 508,
-      "gp_m": 10,
-      "pr_m": 50.8,
-      "gp_a": 10,
-      "pr_a": 50.8
     },
     {
       "player": "Brotus",
