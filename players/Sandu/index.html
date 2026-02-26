@@ -38,8 +38,10 @@
 
     const fmtDelta = (n) => {
       const x = Number(n) || 0;
-      return (x > 0 ? "+" : "") + x.toString();
+            return (x > 0 ? "+" : "") + x.toFixed(2);
     };
+
+        const fmtNum2 = (n) => (Number(n) || 0).toFixed(2);
 
     function renderLedger(targetId, rows) {
       new gridjs.Grid({
@@ -60,7 +62,7 @@
 
         const s = p.saldo || {};
         document.getElementById("summary").textContent =
-          `Saldo — EP: ${s.ep ?? 0} | GP-M: ${s.gp_m ?? 0} | PR-M: ${s.pr_m ?? 0} | GP-A: ${s.gp_a ?? 0} | PR-A: ${s.pr_a ?? 0}`;
+                    `Saldo — EP: ${s.ep ?? 0} | GP-M: ${fmtNum2(s.gp_m)} | PR-M: ${s.pr_m ?? 0} | GP-A: ${fmtNum2(s.gp_a)} | PR-A: ${s.pr_a ?? 0}`;
 
         renderLedger("epTable",  p.ledger?.ep);
         renderLedger("gpmTable", p.ledger?.gp_m);
