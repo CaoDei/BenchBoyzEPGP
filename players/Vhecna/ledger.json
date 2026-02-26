@@ -1,13 +1,13 @@
 {
-  "lastModified": "2026-02-25T07:50:25\u002B01:00",
+  "lastModified": "2026-02-26T10:31:08\u002B01:00",
   "player": "Vhecna",
   "main": "Vhecna",
   "saldo": {
-    "ep": 2526,
-    "gp_m": 10,
-    "gp_a": 64,
-    "pr_m": 252.6,
-    "pr_a": 39.47
+    "ep": 3523,
+    "gp_m": 40,
+    "gp_a": 74.00,
+    "pr_m": 88.08,
+    "pr_a": 47.61
   },
   "ledger": {
     "ep": [
@@ -23,8 +23,8 @@
       },
       {
         "ts": "2026-02-24T14:58:35\u002B01:00",
-        "delta": 1148,
-        "desc": "Attendance EP (1148) Ony Asc 23.02.2026 (233 min @ 3 EP/min, buffed 216 min @ 1 EP/min, enchanted 233 min @ 1 EP/min)"
+        "delta": 1163,
+        "desc": "Attendance EP (1163) Ony Asc 23.02.2026 (233 min @ 3 EP/min, buffed 231 min @ 1 EP/min, enchanted 233 min @ 1 EP/min)"
       },
       {
         "ts": "2026-02-25T07:49:39\u002B01:00",
@@ -33,11 +33,22 @@
       },
       {
         "ts": "2026-02-25T07:50:25\u002B01:00",
-        "delta": -632,
+        "delta": -635,
         "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-02-26T10:31:08\u002B01:00",
+        "delta": 985,
+        "desc": "Attendance EP (985) for raid (197 min @ 4 EP/min, buffed 153 min @ 0 EP/min, enchanted 197 min @ 1 EP/min)"
       }
     ],
-    "gp_m": [],
+    "gp_m": [
+      {
+        "ts": "2026-02-25T23:01:49\u002B01:00",
+        "delta": 30,
+        "desc": "Mace of the Dragon Knight (ms-mid)"
+      }
+    ],
     "gp_a": [
       {
         "ts": "2026-02-19T17:54:28\u002B01:00",
@@ -56,8 +67,13 @@
       },
       {
         "ts": "2026-02-25T07:50:25\u002B01:00",
-        "delta": -16,
+        "delta": -16.00,
         "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-02-25T21:31:17\u002B01:00",
+        "delta": 10,
+        "desc": "Chromatic Wristguards (ms-low)"
       }
     ]
   }
