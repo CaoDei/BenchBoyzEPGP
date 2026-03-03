@@ -1,13 +1,13 @@
 {
-  "lastModified": "2026-02-26T10:31:08\u002B01:00",
+  "lastModified": "2026-03-03T08:34:16\u002B01:00",
   "player": "Joffrey",
   "main": "Joffrey",
   "saldo": {
-    "ep": 3113,
+    "ep": 2490,
     "gp_m": 10,
-    "gp_a": 24.00,
-    "pr_m": 311.3,
-    "pr_a": 129.71
+    "gp_a": 19.20,
+    "pr_m": 249,
+    "pr_a": 129.69
   },
   "ledger": {
     "ep": [
@@ -40,6 +40,11 @@
         "ts": "2026-02-26T10:31:08\u002B01:00",
         "delta": 1055,
         "desc": "Attendance EP (1055) for raid (211 min @ 4 EP/min, buffed 200 min @ 0 EP/min, enchanted 211 min @ 1 EP/min)"
+      },
+      {
+        "ts": "2026-03-03T08:34:16\u002B01:00",
+        "delta": -623,
+        "desc": "Decay -20% applied to all players"
       }
     ],
     "gp_m": [],
@@ -57,6 +62,11 @@
       {
         "ts": "2026-02-25T07:50:25\u002B01:00",
         "delta": -6.00,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-03-03T08:34:16\u002B01:00",
+        "delta": -4.80,
         "desc": "Decay -20% applied to all players"
       }
     ]
