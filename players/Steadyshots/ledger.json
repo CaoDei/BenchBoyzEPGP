@@ -1,11 +1,11 @@
 {
-  "lastModified": "2026-02-26T10:31:08\u002B01:00",
+  "lastModified": "2026-03-03T08:34:16\u002B01:00",
   "player": "Steadyshots",
   "main": "Steadyshots",
   "saldo": {
-    "ep": 1055,
-    "gp_m": 80,
-    "gp_a": 50,
+    "ep": 844,
+    "gp_m": 64.00,
+    "gp_a": 40.00,
     "pr_m": 13.19,
     "pr_a": 21.1
   },
@@ -15,6 +15,11 @@
         "ts": "2026-02-26T10:31:08\u002B01:00",
         "delta": 1055,
         "desc": "Attendance EP (1055) for raid (211 min @ 4 EP/min, buffed 207 min @ 0 EP/min, enchanted 211 min @ 1 EP/min)"
+      },
+      {
+        "ts": "2026-03-03T08:34:16\u002B01:00",
+        "delta": -211,
+        "desc": "Decay -20% applied to all players"
       }
     ],
     "gp_m": [
@@ -32,6 +37,11 @@
         "ts": "2026-02-25T23:01:55\u002B01:00",
         "delta": 10,
         "desc": "Shard of the Scale (ms-low)"
+      },
+      {
+        "ts": "2026-03-03T08:34:16\u002B01:00",
+        "delta": -16.00,
+        "desc": "Decay -20% applied to all players"
       }
     ],
     "gp_a": [
@@ -54,6 +64,11 @@
         "ts": "2026-02-25T21:31:26\u002B01:00",
         "delta": 10,
         "desc": "Molten Tunic (ms-low)"
+      },
+      {
+        "ts": "2026-03-03T08:34:16\u002B01:00",
+        "delta": -10.00,
+        "desc": "Decay -20% applied to all players"
       }
     ]
   }
