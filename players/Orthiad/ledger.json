@@ -1,13 +1,13 @@
 {
-  "lastModified": "2026-02-26T12:33:03\u002B01:00",
+  "lastModified": "2026-03-03T08:34:16\u002B01:00",
   "player": "Orthiad",
   "main": "Orthiad",
   "saldo": {
-    "ep": 1115,
+    "ep": 1840,
     "gp_m": 10,
-    "gp_a": 70,
-    "pr_m": 111.5,
-    "pr_a": 15.93
+    "gp_a": 56.00,
+    "pr_m": 184,
+    "pr_a": 32.86
   },
   "ledger": {
     "ep": [
@@ -20,6 +20,21 @@
         "ts": "2026-02-26T12:33:03\u002B01:00",
         "delta": 60,
         "desc": "Bonus-EP f\u00FCr rechtzeitige Anmeldung zum Raid am 25.02.2026"
+      },
+      {
+        "ts": "2026-03-03T08:31:42\u002B01:00",
+        "delta": 60,
+        "desc": "Bonus-EP f\u00FCr rechtzeitige Anmeldung zum Raid am 02.03.2026"
+      },
+      {
+        "ts": "2026-03-03T08:33:58\u002B01:00",
+        "delta": 1125,
+        "desc": "EP f\u00FCr Raidteilnahme am 02.03.2026"
+      },
+      {
+        "ts": "2026-03-03T08:34:16\u002B01:00",
+        "delta": -460,
+        "desc": "Decay -20% applied to all players"
       }
     ],
     "gp_m": [],
@@ -63,6 +78,11 @@
         "ts": "2026-02-25T21:05:50\u002B01:00",
         "delta": 10,
         "desc": "Molten Handguards (ms-low)"
+      },
+      {
+        "ts": "2026-03-03T08:34:16\u002B01:00",
+        "delta": -14.00,
+        "desc": "Decay -20% applied to all players"
       }
     ]
   }
