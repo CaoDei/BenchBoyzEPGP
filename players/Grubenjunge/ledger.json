@@ -1,13 +1,13 @@
 {
-  "lastModified": "2026-02-26T10:31:08\u002B01:00",
+  "lastModified": "2026-03-03T08:34:16\u002B01:00",
   "player": "Grubenjunge",
   "main": "Grubenjunge",
   "saldo": {
-    "ep": 596,
+    "ep": 477,
     "gp_m": 10,
-    "gp_a": 40,
-    "pr_m": 59.6,
-    "pr_a": 14.9
+    "gp_a": 32.00,
+    "pr_m": 47.7,
+    "pr_a": 14.91
   },
   "ledger": {
     "ep": [
@@ -15,6 +15,11 @@
         "ts": "2026-02-26T10:31:08\u002B01:00",
         "delta": 596,
         "desc": "Attendance EP (596) for raid (149 min @ 4 EP/min, buffed 0 min @ 0 EP/min, enchanted 0 min @ 1 EP/min)"
+      },
+      {
+        "ts": "2026-03-03T08:34:16\u002B01:00",
+        "delta": -119,
+        "desc": "Decay -20% applied to all players"
       }
     ],
     "gp_m": [],
@@ -33,6 +38,11 @@
         "ts": "2026-02-25T20:25:16\u002B01:00",
         "delta": 10,
         "desc": "Obsidian Edged Blade (ms-low)"
+      },
+      {
+        "ts": "2026-03-03T08:34:16\u002B01:00",
+        "delta": -8.00,
+        "desc": "Decay -20% applied to all players"
       }
     ]
   }
