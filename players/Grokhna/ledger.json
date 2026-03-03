@@ -1,13 +1,13 @@
 {
-  "lastModified": "2026-02-25T07:50:25\u002B01:00",
+  "lastModified": "2026-03-03T08:34:16\u002B01:00",
   "player": "Grokhna",
   "main": "Grokhna",
   "saldo": {
-    "ep": 2538,
+    "ep": 2978,
     "gp_m": 10,
-    "gp_a": 16.00,
-    "pr_m": 253.8,
-    "pr_a": 158.62
+    "gp_a": 12.80,
+    "pr_m": 297.8,
+    "pr_a": 232.66
   },
   "ledger": {
     "ep": [
@@ -35,6 +35,21 @@
         "ts": "2026-02-25T07:50:25\u002B01:00",
         "delta": -635,
         "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-03-03T08:31:42\u002B01:00",
+        "delta": 60,
+        "desc": "Bonus-EP f\u00FCr rechtzeitige Anmeldung zum Raid am 02.03.2026"
+      },
+      {
+        "ts": "2026-03-03T08:33:58\u002B01:00",
+        "delta": 1125,
+        "desc": "EP f\u00FCr Raidteilnahme am 02.03.2026"
+      },
+      {
+        "ts": "2026-03-03T08:34:16\u002B01:00",
+        "delta": -745,
+        "desc": "Decay -20% applied to all players"
       }
     ],
     "gp_m": [],
@@ -47,6 +62,11 @@
       {
         "ts": "2026-02-25T07:50:25\u002B01:00",
         "delta": -4.00,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-03-03T08:34:16\u002B01:00",
+        "delta": -3.20,
         "desc": "Decay -20% applied to all players"
       }
     ]
