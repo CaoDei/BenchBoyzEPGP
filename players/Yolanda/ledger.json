@@ -1,13 +1,13 @@
 {
-  "lastModified": "2026-02-26T12:33:03\u002B01:00",
+  "lastModified": "2026-03-03T08:34:16\u002B01:00",
   "player": "Yolanda",
   "main": "Yolanda",
   "saldo": {
-    "ep": 3293,
+    "ep": 2634,
     "gp_m": 10,
     "gp_a": 10,
-    "pr_m": 329.3,
-    "pr_a": 329.3
+    "pr_m": 263.4,
+    "pr_a": 263.4
   },
   "ledger": {
     "ep": [
@@ -45,6 +45,11 @@
         "ts": "2026-02-26T12:33:03\u002B01:00",
         "delta": 60,
         "desc": "Bonus-EP f\u00FCr rechtzeitige Anmeldung zum Raid am 25.02.2026"
+      },
+      {
+        "ts": "2026-03-03T08:34:16\u002B01:00",
+        "delta": -659,
+        "desc": "Decay -20% applied to all players"
       }
     ],
     "gp_m": [],
