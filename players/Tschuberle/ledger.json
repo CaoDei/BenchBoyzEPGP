@@ -1,13 +1,13 @@
 {
-  "lastModified": "2026-02-26T12:33:03\u002B01:00",
+  "lastModified": "2026-03-03T08:34:16\u002B01:00",
   "player": "Tschuberle",
   "main": "Tschuberle",
   "saldo": {
-    "ep": 3653,
+    "ep": 3870,
     "gp_m": 10,
-    "gp_a": 26.00,
-    "pr_m": 365.3,
-    "pr_a": 140.5
+    "gp_a": 20.80,
+    "pr_m": 387,
+    "pr_a": 186.06
   },
   "ledger": {
     "ep": [
@@ -45,6 +45,21 @@
         "ts": "2026-02-26T12:33:03\u002B01:00",
         "delta": 60,
         "desc": "Bonus-EP f\u00FCr rechtzeitige Anmeldung zum Raid am 25.02.2026"
+      },
+      {
+        "ts": "2026-03-03T08:31:42\u002B01:00",
+        "delta": 60,
+        "desc": "Bonus-EP f\u00FCr rechtzeitige Anmeldung zum Raid am 02.03.2026"
+      },
+      {
+        "ts": "2026-03-03T08:33:58\u002B01:00",
+        "delta": 1125,
+        "desc": "EP f\u00FCr Raidteilnahme am 02.03.2026"
+      },
+      {
+        "ts": "2026-03-03T08:34:16\u002B01:00",
+        "delta": -968,
+        "desc": "Decay -20% applied to all players"
       }
     ],
     "gp_m": [],
@@ -63,6 +78,11 @@
         "ts": "2026-02-25T19:50:29\u002B01:00",
         "delta": 10,
         "desc": "Medallion of Steadfast Might (ms-low)"
+      },
+      {
+        "ts": "2026-03-03T08:34:16\u002B01:00",
+        "delta": -5.20,
+        "desc": "Decay -20% applied to all players"
       }
     ]
   }
