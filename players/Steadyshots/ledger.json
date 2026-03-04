@@ -1,13 +1,13 @@
 {
-  "lastModified": "2026-03-03T08:34:16\u002B01:00",
+  "lastModified": "2026-03-04T22:58:29\u002B01:00",
   "player": "Steadyshots",
   "main": "Steadyshots",
   "saldo": {
-    "ep": 844,
+    "ep": 1984,
     "gp_m": 64.00,
-    "gp_a": 40.00,
-    "pr_m": 13.19,
-    "pr_a": 21.1
+    "gp_a": 90.00,
+    "pr_m": 31,
+    "pr_a": 22.04
   },
   "ledger": {
     "ep": [
@@ -20,6 +20,11 @@
         "ts": "2026-03-03T08:34:16\u002B01:00",
         "delta": -211,
         "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-03-04T22:58:29\u002B01:00",
+        "delta": 1140,
+        "desc": "Attendance EP (1140) for raid (228 min @ 4 EP/min, buffed 212 min @ 0 EP/min, enchanted 228 min @ 1 EP/min)"
       }
     ],
     "gp_m": [
@@ -69,6 +74,21 @@
         "ts": "2026-03-03T08:34:16\u002B01:00",
         "delta": -10.00,
         "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-03-04T20:19:49\u002B01:00",
+        "delta": 10,
+        "desc": "Molten Spaulders (ms-low)"
+      },
+      {
+        "ts": "2026-03-04T21:30:06\u002B01:00",
+        "delta": 30,
+        "desc": "Chromatic Wristguards (ms-mid)"
+      },
+      {
+        "ts": "2026-03-04T21:30:15\u002B01:00",
+        "delta": 10,
+        "desc": "Molten Boots (ms-low)"
       }
     ]
   }
