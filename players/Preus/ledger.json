@@ -1,13 +1,13 @@
 {
-  "lastModified": "2026-03-03T08:34:16\u002B01:00",
+  "lastModified": "2026-03-04T23:02:00\u002B01:00",
   "player": "Preus",
   "main": "Preus",
   "saldo": {
-    "ep": 2826,
+    "ep": 4026,
     "gp_m": 10,
     "gp_a": 32.00,
-    "pr_m": 282.6,
-    "pr_a": 88.31
+    "pr_m": 402.6,
+    "pr_a": 125.81
   },
   "ledger": {
     "ep": [
@@ -55,6 +55,16 @@
         "ts": "2026-03-03T08:34:16\u002B01:00",
         "delta": -707,
         "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-03-04T22:58:29\u002B01:00",
+        "delta": 1140,
+        "desc": "Attendance EP (1140) for raid (228 min @ 4 EP/min, buffed 213 min @ 0 EP/min, enchanted 228 min @ 1 EP/min)"
+      },
+      {
+        "ts": "2026-03-04T23:02:00\u002B01:00",
+        "delta": 60,
+        "desc": "Bonus-EP f\u00FCr rechtzeitige Anmeldung zum Raid am 04.03.2026"
       }
     ],
     "gp_m": [],
