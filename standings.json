@@ -1,5 +1,5 @@
 {
-  "lastModified": "2026-03-04 23:02 \u002B01:00",
+  "lastModified": "2026-03-05 00:06 \u002B01:00",
   "rows": [
     {
       "player": "Cao",
@@ -212,6 +212,16 @@
       "pr_a": 22.04
     },
     {
+      "player": "Llinchen",
+      "main": "Llinchen",
+      "class": "Shaman",
+      "ep": 517,
+      "gp_m": 10,
+      "pr_m": 51.7,
+      "gp_a": 30,
+      "pr_a": 17.23
+    },
+    {
       "player": "Grubenjunge",
       "main": "Grubenjunge",
       "class": "Paladin",
@@ -224,7 +234,7 @@
     {
       "player": "Zaphyras",
       "main": "Zaphyras",
-      "class": "",
+      "class": "Paladin",
       "ep": 1200,
       "gp_m": 40,
       "pr_m": 30,
@@ -240,16 +250,6 @@
       "pr_m": 120,
       "gp_a": 180,
       "pr_a": 6.67
-    },
-    {
-      "player": "Llinchen",
-      "main": "Llinchen",
-      "class": "Shaman",
-      "ep": 192,
-      "gp_m": 10,
-      "pr_m": 19.2,
-      "gp_a": 30,
-      "pr_a": 6.4
     }
   ]
 }
