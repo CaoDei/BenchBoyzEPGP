@@ -234,7 +234,7 @@
     {
       "player": "Mauqt",
       "main": "Mauqt",
-      "class": "",
+      "class": "Mage",
       "ep": 1200,
       "gp_m": 10,
       "pr_m": 120,
@@ -250,16 +250,6 @@
       "pr_m": 19.2,
       "gp_a": 30,
       "pr_a": 6.4
-    },
-    {
-      "player": "Mau",
-      "main": "Mau",
-      "class": "Mage",
-      "ep": 0,
-      "gp_m": 10,
-      "pr_m": 0,
-      "gp_a": 10,
-      "pr_a": 0
     }
   ]
 }
