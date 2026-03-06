@@ -1,0 +1,302 @@
+{
+  "lastModified": "2026-03-06T20:19:02\u002B01:00",
+  "raids": [
+    {
+      "name": "Molten Core Ascended Mittwoch 04.03.2026",
+      "totalMinutes": 228
+    },
+    {
+      "name": "Onyxia Ascended Montag 02.03.2026",
+      "totalMinutes": 225
+    },
+    {
+      "name": "Molten Core Ascended Mittwoch 25.02.2026",
+      "totalMinutes": 211
+    },
+    {
+      "name": "Onyxia Ascended Montag 23.02.2026",
+      "totalMinutes": 233
+    },
+    {
+      "name": "Molten Core Ascended Mittwoch 18.02.2026",
+      "totalMinutes": 240
+    }
+  ],
+  "players": [
+    {
+      "name": "Cao",
+      "overallPct": 100,
+      "raids": [
+        100,
+        100,
+        100,
+        100,
+        100
+      ]
+    },
+    {
+      "name": "Waldi",
+      "overallPct": 100,
+      "raids": [
+        100,
+        100,
+        100,
+        100,
+        100
+      ]
+    },
+    {
+      "name": "Luisken",
+      "overallPct": 100,
+      "raids": [
+        100,
+        100,
+        100,
+        100,
+        100
+      ]
+    },
+    {
+      "name": "Yolanda",
+      "overallPct": 80.21108179419525,
+      "raids": [
+        100,
+        0,
+        100,
+        100,
+        100
+      ]
+    },
+    {
+      "name": "Bringschuld",
+      "overallPct": 79.50747581354442,
+      "raids": [
+        100,
+        100,
+        100,
+        0,
+        100
+      ]
+    },
+    {
+      "name": "Sandu",
+      "overallPct": 100,
+      "raids": [
+        100,
+        100,
+        100,
+        100,
+        100
+      ]
+    },
+    {
+      "name": "Tschuberle",
+      "overallPct": 100,
+      "raids": [
+        100,
+        100,
+        100,
+        100,
+        100
+      ]
+    },
+    {
+      "name": "Briaar",
+      "overallPct": 91.90853122251539,
+      "raids": [
+        100,
+        100,
+        56.39810426540285,
+        100,
+        100
+      ]
+    },
+    {
+      "name": "Yuzuyuu",
+      "overallPct": 100,
+      "raids": [
+        100,
+        100,
+        100,
+        100,
+        100
+      ]
+    },
+    {
+      "name": "Qurac",
+      "overallPct": 41.60070360598065,
+      "raids": [
+        0,
+        0,
+        0,
+        100,
+        100
+      ]
+    },
+    {
+      "name": "Joffrey",
+      "overallPct": 80.21108179419525,
+      "raids": [
+        100,
+        0,
+        100,
+        100,
+        100
+      ]
+    },
+    {
+      "name": "Maerthyr",
+      "overallPct": 100,
+      "raids": [
+        100,
+        100,
+        100,
+        100,
+        100
+      ]
+    },
+    {
+      "name": "Preus",
+      "overallPct": 80.21108179419525,
+      "raids": [
+        100,
+        0,
+        100,
+        100,
+        100
+      ]
+    },
+    {
+      "name": "Valysra",
+      "overallPct": 79.94722955145119,
+      "raids": [
+        0,
+        100,
+        100,
+        100,
+        100
+      ]
+    },
+    {
+      "name": "Billii",
+      "overallPct": 79.94722955145119,
+      "raids": [
+        0,
+        100,
+        100,
+        100,
+        100
+      ]
+    },
+    {
+      "name": "Grokhna",
+      "overallPct": 81.44239226033422,
+      "raids": [
+        100,
+        100,
+        0,
+        100,
+        100
+      ]
+    },
+    {
+      "name": "Dotlike",
+      "overallPct": 100,
+      "raids": [
+        100,
+        100,
+        100,
+        100,
+        100
+      ]
+    },
+    {
+      "name": "Almi",
+      "overallPct": 100,
+      "raids": [
+        100,
+        100,
+        100,
+        100,
+        100
+      ]
+    },
+    {
+      "name": "Vhecna",
+      "overallPct": 98.76868953386105,
+      "raids": [
+        100,
+        100,
+        93.36492890995261,
+        100,
+        100
+      ]
+    },
+    {
+      "name": "Orthiad",
+      "overallPct": 57.080035180299035,
+      "raids": [
+        93.42105263157895,
+        100,
+        100,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "Steadyshots",
+      "overallPct": 38.6103781882146,
+      "raids": [
+        100,
+        0,
+        100,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "Llinchen",
+      "overallPct": 5.716798592788039,
+      "raids": [
+        28.50877192982456,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "Grubenjunge",
+      "overallPct": 13.10466138962181,
+      "raids": [
+        0,
+        0,
+        70.61611374407583,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "Zaphyras",
+      "overallPct": 20.052770448548813,
+      "raids": [
+        100,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "Mauqt",
+      "overallPct": 20.052770448548813,
+      "raids": [
+        100,
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ]
+}
