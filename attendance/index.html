@@ -1,0 +1,76 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>EPGP Attendance</title>
+  <link href="https://unpkg.com/gridjs/dist/theme/mermaid.min.css" rel="stylesheet" />
+  <script src="https://unpkg.com/gridjs/dist/gridjs.umd.js"></script>
+  <style>
+    body { font-family: sans-serif; }
+    #tableWrapper { overflow-x: auto; }
+  </style>
+</head>
+<body>
+  <a href="../">← Back to standings</a>
+  <h1>Attendance</h1>
+
+  <div style="margin: 0 0 12px 0;">
+    Letzte Änderung: <span id="lastModified">–</span>
+  </div>
+
+  <div id="tableWrapper"></div>
+
+  <script>
+    const fmtPct = (val) => {
+      if (val === null || val === undefined) return '???';
+      if (val === 0) return '---';
+      return val.toFixed(1) + '%';
+    };
+
+    const sortNum = (a, b) => {
+      const sa = (a === null || a === undefined) ? -1 : a;
+      const sb = (b === null || b === undefined) ? -1 : b;
+      return sa - sb;
+    };
+
+    fetch('attendance.json')
+      .then(r => r.json())
+      .then(data => {
+        document.getElementById('lastModified').textContent = data.lastModified ?? '–';
+
+        const raids = data.raids ?? [];
+        const players = data.players ?? [];
+
+        const raidColumns = raids.map(r => ({
+          name: gridjs.html(
+            `${r.name}<br><small style="font-weight:normal;">${r.totalMinutes !== null ? r.totalMinutes + ' min' : '–'}</small>`
+          ),
+          sort: { compare: sortNum },
+          formatter: (cell) => fmtPct(cell)
+        }));
+
+        const columns = [
+          { name: 'Player', sort: true },
+          {
+            name: 'Overall',
+            sort: { compare: sortNum },
+            formatter: (cell) => fmtPct(cell)
+          },
+          ...raidColumns
+        ];
+
+        const tableData = players.map(p => [
+          p.name ?? '',
+          p.overallPct ?? null,
+          ...(p.raids ?? []).map(v => (v === undefined ? null : v))
+        ]);
+
+        new gridjs.Grid({
+          columns,
+          data: tableData,
+          sort: true
+        }).render(document.getElementById('tableWrapper'));
+      });
+  </script>
+</body>
+</html>
