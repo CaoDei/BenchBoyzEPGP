@@ -8,11 +8,32 @@
   <style>
     body { font-family: sans-serif; }
     #tableWrapper { overflow-x: auto; }
+
+    /* Raid header cells (3rd column onward): tall, narrow, bottom-aligned */
+    #tableWrapper .gridjs-thead th.gridjs-th:nth-child(n+3) {
+      height: 160px;
+      vertical-align: bottom;
+      overflow: visible;
+      padding: 0 2px 4px 2px;
+    }
+
+    /* Rotate raid header text 90° (reads bottom-to-top) */
+    #tableWrapper .gridjs-thead th.gridjs-th:nth-child(n+3) .gridjs-th-content {
+      writing-mode: vertical-rl;
+      transform: rotate(180deg);
+      white-space: nowrap;
+      text-align: left;
+    }
+
+    /* Center percentage values in raid data cells */
+    #tableWrapper .gridjs-tbody td.gridjs-td:nth-child(n+3) {
+      text-align: center;
+    }
   </style>
 </head>
 <body>
   <a href="../">← Back to standings</a>
-  <h1>Attendance</h1>
+  <h1>Raidteilnahme</h1>
 
   <div style="margin: 0 0 12px 0;">
     Letzte Änderung: <span id="lastModified">–</span>
@@ -21,10 +42,19 @@
   <div id="tableWrapper"></div>
 
   <script>
+    function fmtLastModified(s) {
+      if (!s) return '–';
+      const parts = s.split(' ');
+      if (parts.length < 2) return s;
+      const d = parts[0].split('-');
+      if (d.length !== 3) return s;
+      return `${d[2]}.${d[1]}.${d[0]} ${parts[1]}`;
+    }
+
     const fmtPct = (val) => {
       if (val === null || val === undefined) return '???';
       if (val === 0) return '---';
-      return val.toFixed(1) + '%';
+      return Math.round(val) + '%';
     };
 
     const sortNum = (a, b) => {
@@ -36,15 +66,14 @@
     fetch('attendance.json')
       .then(r => r.json())
       .then(data => {
-        document.getElementById('lastModified').textContent = data.lastModified ?? '–';
+        document.getElementById('lastModified').textContent = fmtLastModified(data.lastModified);
 
         const raids = data.raids ?? [];
         const players = data.players ?? [];
 
         const raidColumns = raids.map(r => ({
-          name: gridjs.html(
-            `${r.name}<br><small style="font-weight:normal;">${r.totalMinutes !== null ? r.totalMinutes + ' min' : '–'}</small>`
-          ),
+          name: r.totalMinutes !== null ? `${r.name} · ${r.totalMinutes} min` : r.name,
+          width: '52px',
           sort: { compare: sortNum },
           formatter: (cell) => fmtPct(cell)
         }));
