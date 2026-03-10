@@ -1,13 +1,13 @@
 {
-  "lastModified": "2026-03-05T00:06:07\u002B01:00",
+  "lastModified": "2026-03-10T10:24:50\u002B01:00",
   "player": "Llinchen",
   "main": "Llinchen",
   "saldo": {
-    "ep": 517,
+    "ep": 414,
     "gp_m": 10,
-    "gp_a": 30,
-    "pr_m": 51.7,
-    "pr_a": 17.23
+    "gp_a": 24.00,
+    "pr_m": 41.4,
+    "pr_a": 17.25
   },
   "ledger": {
     "ep": [
@@ -30,6 +30,11 @@
         "ts": "2026-03-05T00:06:07\u002B01:00",
         "delta": 325,
         "desc": "EP f\u00FCr Raidteilnahme am 04.03.2026"
+      },
+      {
+        "ts": "2026-03-10T10:24:50\u002B01:00",
+        "delta": -103,
+        "desc": "Decay -20% applied to all players"
       }
     ],
     "gp_m": [],
@@ -43,6 +48,11 @@
         "ts": "2026-03-04T20:20:03\u002B01:00",
         "delta": 10,
         "desc": "Molten Girdle (os-low)"
+      },
+      {
+        "ts": "2026-03-10T10:24:50\u002B01:00",
+        "delta": -6.00,
+        "desc": "Decay -20% applied to all players"
       }
     ]
   }
