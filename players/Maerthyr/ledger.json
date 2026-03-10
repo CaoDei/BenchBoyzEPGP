@@ -1,13 +1,13 @@
 {
-  "lastModified": "2026-03-04T23:02:00\u002B01:00",
+  "lastModified": "2026-03-10T10:24:50\u002B01:00",
   "player": "Maerthyr",
   "main": "Maerthyr",
   "saldo": {
-    "ep": 5022,
-    "gp_m": 12.80,
-    "gp_a": 36.80,
-    "pr_m": 392.34,
-    "pr_a": 136.47
+    "ep": 5030,
+    "gp_m": 10.24,
+    "gp_a": 101.44,
+    "pr_m": 491.21,
+    "pr_a": 49.59
   },
   "ledger": {
     "ep": [
@@ -65,6 +65,21 @@
         "ts": "2026-03-04T23:02:00\u002B01:00",
         "delta": 60,
         "desc": "Bonus-EP f\u00FCr rechtzeitige Anmeldung zum Raid am 04.03.2026"
+      },
+      {
+        "ts": "2026-03-10T10:22:59\u002B01:00",
+        "delta": 60,
+        "desc": "Timely signup EP bonus for: Onyxia Ascended Montag 09.03.2026"
+      },
+      {
+        "ts": "2026-03-10T10:23:56\u002B01:00",
+        "delta": 1205,
+        "desc": "Attendance EP (1205) for raid (241 min @ 3 EP/min, buffed 241 min @ 1 EP/min, enchanted 241 min @ 1 EP/min) [source: Manual]"
+      },
+      {
+        "ts": "2026-03-10T10:24:50\u002B01:00",
+        "delta": -1257,
+        "desc": "Decay -20% applied to all players"
       }
     ],
     "gp_m": [
@@ -81,6 +96,11 @@
       {
         "ts": "2026-03-03T08:34:16\u002B01:00",
         "delta": -3.20,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-03-10T10:24:50\u002B01:00",
+        "delta": -2.56,
         "desc": "Decay -20% applied to all players"
       }
     ],
@@ -103,6 +123,16 @@
       {
         "ts": "2026-03-03T08:34:16\u002B01:00",
         "delta": -9.20,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-03-09T21:33:29\u002B01:00",
+        "delta": 90,
+        "desc": "Chromatic Headpiece (ms-high)"
+      },
+      {
+        "ts": "2026-03-10T10:24:50\u002B01:00",
+        "delta": -25.36,
         "desc": "Decay -20% applied to all players"
       }
     ]
