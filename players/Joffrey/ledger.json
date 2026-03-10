@@ -1,12 +1,12 @@
 {
-  "lastModified": "2026-03-04T23:02:00\u002B01:00",
+  "lastModified": "2026-03-10T10:24:50\u002B01:00",
   "player": "Joffrey",
   "main": "Joffrey",
   "saldo": {
-    "ep": 3690,
+    "ep": 2952,
     "gp_m": 10,
-    "gp_a": 19.20,
-    "pr_m": 369,
+    "gp_a": 15.36,
+    "pr_m": 295.2,
     "pr_a": 192.19
   },
   "ledger": {
@@ -55,6 +55,11 @@
         "ts": "2026-03-04T23:02:00\u002B01:00",
         "delta": 60,
         "desc": "Bonus-EP f\u00FCr rechtzeitige Anmeldung zum Raid am 04.03.2026"
+      },
+      {
+        "ts": "2026-03-10T10:24:50\u002B01:00",
+        "delta": -738,
+        "desc": "Decay -20% applied to all players"
       }
     ],
     "gp_m": [],
@@ -77,6 +82,11 @@
       {
         "ts": "2026-03-03T08:34:16\u002B01:00",
         "delta": -4.80,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-03-10T10:24:50\u002B01:00",
+        "delta": -3.84,
         "desc": "Decay -20% applied to all players"
       }
     ]
