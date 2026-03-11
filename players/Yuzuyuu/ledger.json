@@ -1,13 +1,13 @@
 {
-  "lastModified": "2026-03-10T10:24:50\u002B01:00",
+  "lastModified": "2026-03-11T23:35:59\u002B01:00",
   "player": "Yuzuyuu",
   "main": "Yuzuyuu",
   "saldo": {
-    "ep": 4991,
+    "ep": 5141,
     "gp_m": 20.48,
     "gp_a": 42.24,
-    "pr_m": 243.70,
-    "pr_a": 118.16
+    "pr_m": 251.03,
+    "pr_a": 121.71
   },
   "ledger": {
     "ep": [
@@ -85,6 +85,11 @@
         "ts": "2026-03-10T10:24:50\u002B01:00",
         "delta": -1248,
         "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-03-11T23:35:59\u002B01:00",
+        "delta": 150,
+        "desc": "Attendance EP (150) for raid (30 min @ 4 EP/min, buffed 30 min @ 0 EP/min, enchanted 30 min @ 1 EP/min) [source: Manual]"
       }
     ],
     "gp_m": [
@@ -107,6 +112,26 @@
         "ts": "2026-03-10T10:24:50\u002B01:00",
         "delta": -5.12,
         "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-03-11T22:59:07\u002B01:00",
+        "delta": 30,
+        "desc": "Fang of the Mystics (ms-mid) [downgraded from ms-high: Below min EP (4991/5000)]"
+      },
+      {
+        "ts": "2026-03-11T22:59:14\u002B01:00",
+        "delta": -30,
+        "desc": "Undo loot: Fang of the Mystics"
+      },
+      {
+        "ts": "2026-03-11T22:59:26\u002B01:00",
+        "delta": 30,
+        "desc": "Fang of the Mystics (ms-mid) [downgraded from ms-high: Below min EP (4991/5000)]"
+      },
+      {
+        "ts": "2026-03-11T23:01:58\u002B01:00",
+        "delta": -30,
+        "desc": "Undo loot: Fang of the Mystics"
       }
     ],
     "gp_a": [
