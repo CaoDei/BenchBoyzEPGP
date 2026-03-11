@@ -1,13 +1,13 @@
 {
-  "lastModified": "2026-03-10T10:24:50\u002B01:00",
+  "lastModified": "2026-03-11T23:35:59\u002B01:00",
   "player": "Vhecna",
   "main": "Vhecna",
   "saldo": {
-    "ep": 5023,
-    "gp_m": 49.60,
-    "gp_a": 135.36,
-    "pr_m": 101.27,
-    "pr_a": 37.11
+    "ep": 6213,
+    "gp_m": 59.60,
+    "gp_a": 155.36,
+    "pr_m": 104.24,
+    "pr_a": 39.99
   },
   "ledger": {
     "ep": [
@@ -85,6 +85,16 @@
         "ts": "2026-03-10T10:24:50\u002B01:00",
         "delta": -1256,
         "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-03-11T23:34:55\u002B01:00",
+        "delta": 60,
+        "desc": "Timely signup EP bonus for: MC"
+      },
+      {
+        "ts": "2026-03-11T23:35:59\u002B01:00",
+        "delta": 1130,
+        "desc": "Attendance EP (1130) for raid (226 min @ 4 EP/min, buffed 206 min @ 0 EP/min, enchanted 226 min @ 1 EP/min) [source: Computed]"
       }
     ],
     "gp_m": [
@@ -107,6 +117,11 @@
         "ts": "2026-03-10T10:24:50\u002B01:00",
         "delta": -12.40,
         "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-03-11T21:51:29\u002B01:00",
+        "delta": 10,
+        "desc": "Chromatic Headpiece (ms-low)"
       }
     ],
     "gp_a": [
@@ -169,6 +184,16 @@
         "ts": "2026-03-10T10:24:50\u002B01:00",
         "delta": -33.84,
         "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-03-11T20:17:57\u002B01:00",
+        "delta": 10,
+        "desc": "Molten Handguards (ms-low)"
+      },
+      {
+        "ts": "2026-03-11T21:08:05\u002B01:00",
+        "delta": 10,
+        "desc": "Molten Boots (ms-low)"
       }
     ]
   }
