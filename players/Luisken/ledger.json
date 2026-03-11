@@ -1,13 +1,13 @@
 {
-  "lastModified": "2026-03-10T10:24:50\u002B01:00",
+  "lastModified": "2026-03-11T23:35:59\u002B01:00",
   "player": "Luisken",
   "main": "Luisken",
   "saldo": {
-    "ep": 4991,
-    "gp_m": 60.80,
-    "gp_a": 50.24,
-    "pr_m": 82.09,
-    "pr_a": 99.34
+    "ep": 6181,
+    "gp_m": 110.80,
+    "gp_a": 180.24,
+    "pr_m": 55.79,
+    "pr_a": 34.29
   },
   "ledger": {
     "ep": [
@@ -85,6 +85,16 @@
         "ts": "2026-03-10T10:24:50\u002B01:00",
         "delta": -1248,
         "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-03-11T23:34:55\u002B01:00",
+        "delta": 60,
+        "desc": "Timely signup EP bonus for: MC"
+      },
+      {
+        "ts": "2026-03-11T23:35:59\u002B01:00",
+        "delta": 1130,
+        "desc": "Attendance EP (1130) for raid (226 min @ 4 EP/min, buffed 196 min @ 0 EP/min, enchanted 226 min @ 1 EP/min) [source: Computed]"
       }
     ],
     "gp_m": [
@@ -112,6 +122,21 @@
         "ts": "2026-03-10T10:24:50\u002B01:00",
         "delta": -15.20,
         "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-03-11T21:51:25\u002B01:00",
+        "delta": 30,
+        "desc": "Head of Onyxia (ms-mid)"
+      },
+      {
+        "ts": "2026-03-11T21:51:35\u002B01:00",
+        "delta": 10,
+        "desc": "Eruption Cord (os-low)"
+      },
+      {
+        "ts": "2026-03-11T23:00:38\u002B01:00",
+        "delta": 10,
+        "desc": "Insignia of the Shifting Sands (ms-low)"
       }
     ],
     "gp_a": [
@@ -149,6 +174,31 @@
         "ts": "2026-03-10T10:24:50\u002B01:00",
         "delta": -12.56,
         "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-03-11T20:17:24\u002B01:00",
+        "delta": 30,
+        "desc": "Molten Girdle (ms-mid)"
+      },
+      {
+        "ts": "2026-03-11T20:17:33\u002B01:00",
+        "delta": 30,
+        "desc": "Molten Spaulders (ms-mid)"
+      },
+      {
+        "ts": "2026-03-11T20:17:53\u002B01:00",
+        "delta": 10,
+        "desc": "Quick Strike Ring (ms-low)"
+      },
+      {
+        "ts": "2026-03-11T21:07:24\u002B01:00",
+        "delta": 30,
+        "desc": "Chromatic Legguards (ms-mid) [downgraded from ms-high: Below min EP (4991/5000)]"
+      },
+      {
+        "ts": "2026-03-11T21:21:50\u002B01:00",
+        "delta": 30,
+        "desc": "Chromatic Wristguards (ms-mid) [downgraded from ms-high: Below min EP (4991/5000)]"
       }
     ]
   }
