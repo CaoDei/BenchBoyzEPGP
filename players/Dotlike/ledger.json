@@ -1,13 +1,13 @@
 {
-  "lastModified": "2026-03-10T10:24:50\u002B01:00",
+  "lastModified": "2026-03-11T23:35:59\u002B01:00",
   "player": "Dotlike",
   "main": "Dotlike",
   "saldo": {
-    "ep": 4991,
+    "ep": 6181,
     "gp_m": 33.60,
-    "gp_a": 64.96,
-    "pr_m": 148.54,
-    "pr_a": 76.83
+    "gp_a": 104.96,
+    "pr_m": 183.96,
+    "pr_a": 58.89
   },
   "ledger": {
     "ep": [
@@ -85,6 +85,16 @@
         "ts": "2026-03-10T10:24:50\u002B01:00",
         "delta": -1248,
         "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-03-11T23:34:55\u002B01:00",
+        "delta": 60,
+        "desc": "Timely signup EP bonus for: MC"
+      },
+      {
+        "ts": "2026-03-11T23:35:59\u002B01:00",
+        "delta": 1130,
+        "desc": "Attendance EP (1130) for raid (226 min @ 4 EP/min, buffed 206 min @ 0 EP/min, enchanted 226 min @ 1 EP/min) [source: Computed]"
       }
     ],
     "gp_m": [
@@ -154,6 +164,16 @@
         "ts": "2026-03-10T10:24:50\u002B01:00",
         "delta": -16.24,
         "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-03-11T21:07:30\u002B01:00",
+        "delta": 30,
+        "desc": "Sash of Whispered Secrets (ms-mid)"
+      },
+      {
+        "ts": "2026-03-11T21:08:00\u002B01:00",
+        "delta": 10,
+        "desc": "Blazing Slippers (ms-low)"
       }
     ]
   }
