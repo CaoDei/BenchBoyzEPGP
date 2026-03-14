@@ -64,7 +64,7 @@
     fetch('attendance.json')
       .then(r => r.json())
       .then(data => {
-        document.getElementById('lastModified').textContent = fmtLastModified(data.lastModified);
+        document.getElementById('lastModified').textContent = fmtLastModified(data.attendanceLastModified ?? data.lastModified);
 
         const raids = data.raids ?? [];
         const players = data.players ?? [];
@@ -89,7 +89,7 @@
             formatter: (cell) => fmtPct(cell)
           },
           {
-            name: 'Member Since',
+            name: 'Weighted since member',
             sort: { compare: sortNum },
             formatter: (cell) => fmtPct(cell)
           },
