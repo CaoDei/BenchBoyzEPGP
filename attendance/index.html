@@ -9,8 +9,8 @@
     body { font-family: sans-serif; }
     #tableWrapper { overflow-x: auto; }
 
-    /* Raid header cells (4th column onward): tall, narrow, bottom-aligned */
-    #tableWrapper .gridjs-thead th.gridjs-th:nth-child(n+4) {
+    /* Raid header cells (5th column onward): tall, narrow, bottom-aligned */
+    #tableWrapper .gridjs-thead th.gridjs-th:nth-child(n+5) {
       height: 160px;
       vertical-align: bottom;
       overflow: visible;
@@ -18,7 +18,7 @@
     }
 
     /* Rotate raid header text 90° (reads bottom-to-top) */
-    #tableWrapper .gridjs-thead th.gridjs-th:nth-child(n+4) .gridjs-th-content {
+    #tableWrapper .gridjs-thead th.gridjs-th:nth-child(n+5) .gridjs-th-content {
       writing-mode: vertical-rl;
       transform: rotate(180deg);
       white-space: nowrap;
@@ -26,7 +26,7 @@
     }
 
     /* Center percentage values in computed + raid data cells */
-    #tableWrapper .gridjs-tbody td.gridjs-td:nth-child(n+3) {
+    #tableWrapper .gridjs-tbody td.gridjs-td:nth-child(n+2) {
       text-align: center;
     }
   </style>
@@ -88,6 +88,11 @@
             sort: { compare: sortNum },
             formatter: (cell) => fmtPct(cell)
           },
+          {
+            name: 'Member Since',
+            sort: { compare: sortNum },
+            formatter: (cell) => fmtPct(cell)
+          },
           ...raidColumns
         ];
 
@@ -95,6 +100,7 @@
           p.name ?? '',
           p.overallPct ?? null,
           p.decayedPct ?? null,
+          p.memberSincePct ?? null,
           ...(p.raids ?? []).map(v => (v === undefined ? null : v))
         ]);
 
