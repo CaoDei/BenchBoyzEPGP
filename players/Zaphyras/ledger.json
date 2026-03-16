@@ -1,12 +1,12 @@
 {
-  "lastModified": "2026-03-11T23:35:59\u002B01:00",
+  "lastModified": "2026-03-16T23:32:12\u002B01:00",
   "player": "Zaphyras",
   "main": "Zaphyras",
   "saldo": {
-    "ep": 3162,
-    "gp_m": 32.00,
-    "gp_a": 98.00,
-    "pr_m": 98.81,
+    "ep": 2530,
+    "gp_m": 25.60,
+    "gp_a": 78.40,
+    "pr_m": 98.83,
     "pr_a": 32.27
   },
   "ledger": {
@@ -45,6 +45,11 @@
         "ts": "2026-03-11T23:35:59\u002B01:00",
         "delta": 1130,
         "desc": "Attendance EP (1130) for raid (226 min @ 4 EP/min, buffed 206 min @ 0 EP/min, enchanted 226 min @ 1 EP/min) [source: Computed]"
+      },
+      {
+        "ts": "2026-03-16T23:32:12\u002B01:00",
+        "delta": -632,
+        "desc": "Decay -20% applied to all players"
       }
     ],
     "gp_m": [
@@ -56,6 +61,11 @@
       {
         "ts": "2026-03-10T10:24:50\u002B01:00",
         "delta": -8.00,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-03-16T23:32:12\u002B01:00",
+        "delta": -6.40,
         "desc": "Decay -20% applied to all players"
       }
     ],
@@ -89,6 +99,11 @@
         "ts": "2026-03-11T20:18:04\u002B01:00",
         "delta": 10,
         "desc": "Azuresong Mageblade (os-low)"
+      },
+      {
+        "ts": "2026-03-16T23:32:12\u002B01:00",
+        "delta": -19.60,
+        "desc": "Decay -20% applied to all players"
       }
     ]
   }
