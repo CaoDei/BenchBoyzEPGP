@@ -1,12 +1,12 @@
 {
-  "lastModified": "2026-03-11T23:35:59\u002B01:00",
+  "lastModified": "2026-03-16T23:32:12\u002B01:00",
   "player": "Almi",
   "main": "Almidrood",
   "saldo": {
-    "ep": 6181,
-    "gp_m": 20.48,
-    "gp_a": 90.24,
-    "pr_m": 301.81,
+    "ep": 4945,
+    "gp_m": 16.38,
+    "gp_a": 72.19,
+    "pr_m": 301.89,
     "pr_a": 68.50
   },
   "ledger": {
@@ -95,6 +95,11 @@
         "ts": "2026-03-11T23:35:59\u002B01:00",
         "delta": 1130,
         "desc": "Attendance EP (1130) for raid (226 min @ 4 EP/min, buffed 187 min @ 0 EP/min, enchanted 226 min @ 1 EP/min) [source: Computed]"
+      },
+      {
+        "ts": "2026-03-16T23:32:12\u002B01:00",
+        "delta": -1236,
+        "desc": "Decay -20% applied to all players"
       }
     ],
     "gp_m": [
@@ -116,6 +121,11 @@
       {
         "ts": "2026-03-10T10:24:50\u002B01:00",
         "delta": -5.12,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-03-16T23:32:12\u002B01:00",
+        "delta": -4.10,
         "desc": "Decay -20% applied to all players"
       }
     ],
@@ -158,6 +168,11 @@
       {
         "ts": "2026-03-10T10:24:50\u002B01:00",
         "delta": -22.56,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-03-16T23:32:12\u002B01:00",
+        "delta": -18.05,
         "desc": "Decay -20% applied to all players"
       }
     ]
