@@ -202,36 +202,6 @@
       "pr_a": 40.87
     },
     {
-      "player": "Bzlla",
-      "main": "Bzlla",
-      "class": "",
-      "ep": 358,
-      "gp_m": 10,
-      "pr_m": 35.8,
-      "gp_a": 10,
-      "pr_a": 35.8
-    },
-    {
-      "player": "Vojczek",
-      "main": "Vojczek",
-      "class": "",
-      "ep": 358,
-      "gp_m": 10,
-      "pr_m": 35.8,
-      "gp_a": 10,
-      "pr_a": 35.8
-    },
-    {
-      "player": "Sabad",
-      "main": "Sabad",
-      "class": "",
-      "ep": 343,
-      "gp_m": 10,
-      "pr_m": 34.3,
-      "gp_a": 10,
-      "pr_a": 34.3
-    },
-    {
       "player": "Zaphyras",
       "main": "Zaphyras",
       "class": "Paladin",
@@ -242,16 +212,6 @@
       "pr_a": 32.27
     },
     {
-      "player": "Wokesniff",
-      "main": "Wokesniff",
-      "class": "",
-      "ep": 272,
-      "gp_m": 10,
-      "pr_m": 27.2,
-      "gp_a": 10,
-      "pr_a": 27.2
-    },
-    {
       "player": "Steadyshots",
       "main": "Steadyshots",
       "class": "Hunter",
@@ -260,16 +220,6 @@
       "pr_m": 31.01,
       "gp_a": 57.60,
       "pr_a": 22.05
-    },
-    {
-      "player": "Tjenatjena",
-      "main": "Tjenatjena",
-      "class": "",
-      "ep": 204,
-      "gp_m": 10,
-      "pr_m": 20.4,
-      "gp_a": 10,
-      "pr_a": 20.4
     },
     {
       "player": "Mau",
@@ -300,26 +250,6 @@
       "pr_m": 30.6,
       "gp_a": 20.48,
       "pr_a": 14.94
-    },
-    {
-      "player": "Skropp",
-      "main": "Skropp",
-      "class": "",
-      "ep": 46,
-      "gp_m": 10,
-      "pr_m": 4.6,
-      "gp_a": 10,
-      "pr_a": 4.6
-    },
-    {
-      "player": "Titansteel",
-      "main": "Titansteel",
-      "class": "",
-      "ep": 0,
-      "gp_m": 10,
-      "pr_m": 0,
-      "gp_a": 10,
-      "pr_a": 0
     }
   ]
 }
