@@ -1,0 +1,28 @@
+{
+  "lastModified": "2026-03-16T23:32:12\u002B01:00",
+  "player": "Sabad",
+  "main": "Sabad",
+  "saldo": {
+    "ep": 343,
+    "gp_m": 10,
+    "gp_a": 10,
+    "pr_m": 34.3,
+    "pr_a": 34.3
+  },
+  "ledger": {
+    "ep": [
+      {
+        "ts": "2026-03-16T23:32:01\u002B01:00",
+        "delta": 429,
+        "desc": "Attendance EP (429) for raid (112 min @ 3 EP/min, buffed 93 min @ 1 EP/min, enchanted 0 min @ 1 EP/min) [source: Computed]"
+      },
+      {
+        "ts": "2026-03-16T23:32:12\u002B01:00",
+        "delta": -86,
+        "desc": "Decay -20% applied to all players"
+      }
+    ],
+    "gp_m": [],
+    "gp_a": []
+  }
+}
