@@ -1,13 +1,13 @@
 {
-  "lastModified": "2026-03-11T23:35:59\u002B01:00",
+  "lastModified": "2026-03-16T23:32:12\u002B01:00",
   "player": "Maerthyr",
   "main": "Maerthyr",
   "saldo": {
-    "ep": 6220,
-    "gp_m": 10.24,
-    "gp_a": 101.44,
-    "pr_m": 607.42,
-    "pr_a": 61.32
+    "ep": 5884,
+    "gp_m": 10,
+    "gp_a": 81.15,
+    "pr_m": 588.4,
+    "pr_a": 72.51
   },
   "ledger": {
     "ep": [
@@ -90,6 +90,16 @@
         "ts": "2026-03-11T23:35:59\u002B01:00",
         "delta": 1130,
         "desc": "Attendance EP (1130) for raid (226 min @ 4 EP/min, buffed 206 min @ 0 EP/min, enchanted 226 min @ 1 EP/min) [source: Computed]"
+      },
+      {
+        "ts": "2026-03-16T23:32:01\u002B01:00",
+        "delta": 1135,
+        "desc": "Attendance EP (1135) for raid (229 min @ 3 EP/min, buffed 219 min @ 1 EP/min, enchanted 229 min @ 1 EP/min) [source: Computed]"
+      },
+      {
+        "ts": "2026-03-16T23:32:12\u002B01:00",
+        "delta": -1471,
+        "desc": "Decay -20% applied to all players"
       }
     ],
     "gp_m": [
@@ -111,6 +121,11 @@
       {
         "ts": "2026-03-10T10:24:50\u002B01:00",
         "delta": -2.56,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-03-16T23:32:12\u002B01:00",
+        "delta": -0.24,
         "desc": "Decay -20% applied to all players"
       }
     ],
@@ -143,6 +158,11 @@
       {
         "ts": "2026-03-10T10:24:50\u002B01:00",
         "delta": -25.36,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-03-16T23:32:12\u002B01:00",
+        "delta": -20.29,
         "desc": "Decay -20% applied to all players"
       }
     ]
