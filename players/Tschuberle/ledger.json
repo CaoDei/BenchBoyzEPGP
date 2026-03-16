@@ -1,13 +1,13 @@
 {
-  "lastModified": "2026-03-11T23:35:59\u002B01:00",
+  "lastModified": "2026-03-16T23:32:12\u002B01:00",
   "player": "Tschuberle",
   "main": "Tschuberle",
   "saldo": {
-    "ep": 6258,
-    "gp_m": 40.00,
-    "gp_a": 106.64,
-    "pr_m": 156.45,
-    "pr_a": 58.68
+    "ep": 5907,
+    "gp_m": 32.00,
+    "gp_a": 85.31,
+    "pr_m": 184.59,
+    "pr_a": 69.24
   },
   "ledger": {
     "ep": [
@@ -95,6 +95,16 @@
         "ts": "2026-03-11T23:35:59\u002B01:00",
         "delta": 1130,
         "desc": "Attendance EP (1130) for raid (226 min @ 4 EP/min, buffed 206 min @ 0 EP/min, enchanted 226 min @ 1 EP/min) [source: Computed]"
+      },
+      {
+        "ts": "2026-03-16T23:32:01\u002B01:00",
+        "delta": 1126,
+        "desc": "Attendance EP (1126) for raid (229 min @ 3 EP/min, buffed 210 min @ 1 EP/min, enchanted 229 min @ 1 EP/min) [source: Computed]"
+      },
+      {
+        "ts": "2026-03-16T23:32:12\u002B01:00",
+        "delta": -1477,
+        "desc": "Decay -20% applied to all players"
       }
     ],
     "gp_m": [
@@ -111,6 +121,11 @@
       {
         "ts": "2026-03-10T10:24:50\u002B01:00",
         "delta": -10.00,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-03-16T23:32:12\u002B01:00",
+        "delta": -8.00,
         "desc": "Decay -20% applied to all players"
       }
     ],
@@ -154,6 +169,11 @@
         "ts": "2026-03-11T20:18:02\u002B01:00",
         "delta": 10,
         "desc": "Heavy Dark Iron Ring (ms-low)"
+      },
+      {
+        "ts": "2026-03-16T23:32:12\u002B01:00",
+        "delta": -21.33,
+        "desc": "Decay -20% applied to all players"
       }
     ]
   }
