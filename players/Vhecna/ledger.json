@@ -1,13 +1,13 @@
 {
-  "lastModified": "2026-03-11T23:35:59\u002B01:00",
+  "lastModified": "2026-03-16T23:32:12\u002B01:00",
   "player": "Vhecna",
   "main": "Vhecna",
   "saldo": {
-    "ep": 6213,
-    "gp_m": 59.60,
-    "gp_a": 155.36,
-    "pr_m": 104.24,
-    "pr_a": 39.99
+    "ep": 5743,
+    "gp_m": 47.68,
+    "gp_a": 124.29,
+    "pr_m": 120.45,
+    "pr_a": 46.21
   },
   "ledger": {
     "ep": [
@@ -95,6 +95,21 @@
         "ts": "2026-03-11T23:35:59\u002B01:00",
         "delta": 1130,
         "desc": "Attendance EP (1130) for raid (226 min @ 4 EP/min, buffed 206 min @ 0 EP/min, enchanted 226 min @ 1 EP/min) [source: Computed]"
+      },
+      {
+        "ts": "2026-03-16T23:31:23\u002B01:00",
+        "delta": 60,
+        "desc": "Timely signup EP bonus for: Onyxia Ascended Montag 16.03.2026"
+      },
+      {
+        "ts": "2026-03-16T23:32:01\u002B01:00",
+        "delta": 906,
+        "desc": "Attendance EP (906) for raid (229 min @ 3 EP/min, buffed 219 min @ 1 EP/min, enchanted 0 min @ 1 EP/min) [source: Computed]"
+      },
+      {
+        "ts": "2026-03-16T23:32:12\u002B01:00",
+        "delta": -1436,
+        "desc": "Decay -20% applied to all players"
       }
     ],
     "gp_m": [
@@ -122,6 +137,11 @@
         "ts": "2026-03-11T21:51:29\u002B01:00",
         "delta": 10,
         "desc": "Chromatic Headpiece (ms-low)"
+      },
+      {
+        "ts": "2026-03-16T23:32:12\u002B01:00",
+        "delta": -11.92,
+        "desc": "Decay -20% applied to all players"
       }
     ],
     "gp_a": [
@@ -194,6 +214,11 @@
         "ts": "2026-03-11T21:08:05\u002B01:00",
         "delta": 10,
         "desc": "Molten Boots (ms-low)"
+      },
+      {
+        "ts": "2026-03-16T23:32:12\u002B01:00",
+        "delta": -31.07,
+        "desc": "Decay -20% applied to all players"
       }
     ]
   }
