@@ -1,13 +1,13 @@
 {
-  "lastModified": "2026-03-10T10:24:50\u002B01:00",
+  "lastModified": "2026-03-16T23:32:12\u002B01:00",
   "player": "Grubenjunge",
   "main": "Grubenjunge",
   "saldo": {
-    "ep": 382,
+    "ep": 306,
     "gp_m": 10,
-    "gp_a": 25.60,
-    "pr_m": 38.2,
-    "pr_a": 14.92
+    "gp_a": 20.48,
+    "pr_m": 30.6,
+    "pr_a": 14.94
   },
   "ledger": {
     "ep": [
@@ -24,6 +24,11 @@
       {
         "ts": "2026-03-10T10:24:50\u002B01:00",
         "delta": -95,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-03-16T23:32:12\u002B01:00",
+        "delta": -76,
         "desc": "Decay -20% applied to all players"
       }
     ],
@@ -52,6 +57,11 @@
       {
         "ts": "2026-03-10T10:24:50\u002B01:00",
         "delta": -6.40,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-03-16T23:32:12\u002B01:00",
+        "delta": -5.12,
         "desc": "Decay -20% applied to all players"
       }
     ]
