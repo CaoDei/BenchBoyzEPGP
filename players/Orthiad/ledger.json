@@ -1,13 +1,13 @@
 {
-  "lastModified": "2026-03-11T23:35:59\u002B01:00",
+  "lastModified": "2026-03-16T23:32:12\u002B01:00",
   "player": "Orthiad",
   "main": "Orthiad",
   "saldo": {
-    "ep": 4526,
-    "gp_m": 40.00,
-    "gp_a": 118.80,
-    "pr_m": 113.15,
-    "pr_a": 38.10
+    "ep": 4577,
+    "gp_m": 32.00,
+    "gp_a": 103.04,
+    "pr_m": 143.03,
+    "pr_a": 44.42
   },
   "ledger": {
     "ep": [
@@ -65,6 +65,21 @@
         "ts": "2026-03-11T23:35:59\u002B01:00",
         "delta": 1130,
         "desc": "Attendance EP (1130) for raid (226 min @ 4 EP/min, buffed 196 min @ 0 EP/min, enchanted 226 min @ 1 EP/min) [source: Computed]"
+      },
+      {
+        "ts": "2026-03-16T23:31:23\u002B01:00",
+        "delta": 60,
+        "desc": "Timely signup EP bonus for: Onyxia Ascended Montag 16.03.2026"
+      },
+      {
+        "ts": "2026-03-16T23:32:01\u002B01:00",
+        "delta": 1135,
+        "desc": "Attendance EP (1135) for raid (229 min @ 3 EP/min, buffed 219 min @ 1 EP/min, enchanted 229 min @ 1 EP/min) [source: Computed]"
+      },
+      {
+        "ts": "2026-03-16T23:32:12\u002B01:00",
+        "delta": -1144,
+        "desc": "Decay -20% applied to all players"
       }
     ],
     "gp_m": [
@@ -102,6 +117,11 @@
         "ts": "2026-03-11T23:09:30\u002B01:00",
         "delta": -10,
         "desc": "Undo loot: Puissant Cape"
+      },
+      {
+        "ts": "2026-03-16T23:32:12\u002B01:00",
+        "delta": -8.00,
+        "desc": "Decay -20% applied to all players"
       }
     ],
     "gp_a": [
@@ -179,6 +199,16 @@
         "ts": "2026-03-11T20:17:43\u002B01:00",
         "delta": 10,
         "desc": "Molten Spaulders (ms-low)"
+      },
+      {
+        "ts": "2026-03-16T23:10:36\u002B01:00",
+        "delta": 10,
+        "desc": "Head of Onyxia (ms-low)"
+      },
+      {
+        "ts": "2026-03-16T23:32:12\u002B01:00",
+        "delta": -25.76,
+        "desc": "Decay -20% applied to all players"
       }
     ]
   }
