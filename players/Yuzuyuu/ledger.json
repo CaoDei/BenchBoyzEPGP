@@ -1,13 +1,13 @@
 {
-  "lastModified": "2026-03-11T23:35:59\u002B01:00",
+  "lastModified": "2026-03-16T23:32:12\u002B01:00",
   "player": "Yuzuyuu",
   "main": "Yuzuyuu",
   "saldo": {
-    "ep": 5141,
-    "gp_m": 20.48,
-    "gp_a": 42.24,
-    "pr_m": 251.03,
-    "pr_a": 121.71
+    "ep": 5069,
+    "gp_m": 16.38,
+    "gp_a": 33.79,
+    "pr_m": 309.46,
+    "pr_a": 150.01
   },
   "ledger": {
     "ep": [
@@ -90,6 +90,21 @@
         "ts": "2026-03-11T23:35:59\u002B01:00",
         "delta": 150,
         "desc": "Attendance EP (150) for raid (30 min @ 4 EP/min, buffed 30 min @ 0 EP/min, enchanted 30 min @ 1 EP/min) [source: Manual]"
+      },
+      {
+        "ts": "2026-03-16T23:31:23\u002B01:00",
+        "delta": 60,
+        "desc": "Timely signup EP bonus for: Onyxia Ascended Montag 16.03.2026"
+      },
+      {
+        "ts": "2026-03-16T23:32:01\u002B01:00",
+        "delta": 1135,
+        "desc": "Attendance EP (1135) for raid (229 min @ 3 EP/min, buffed 219 min @ 1 EP/min, enchanted 229 min @ 1 EP/min) [source: Computed]"
+      },
+      {
+        "ts": "2026-03-16T23:32:12\u002B01:00",
+        "delta": -1267,
+        "desc": "Decay -20% applied to all players"
       }
     ],
     "gp_m": [
@@ -132,6 +147,11 @@
         "ts": "2026-03-11T23:01:58\u002B01:00",
         "delta": -30,
         "desc": "Undo loot: Fang of the Mystics"
+      },
+      {
+        "ts": "2026-03-16T23:32:12\u002B01:00",
+        "delta": -4.10,
+        "desc": "Decay -20% applied to all players"
       }
     ],
     "gp_a": [
@@ -163,6 +183,11 @@
       {
         "ts": "2026-03-10T10:24:50\u002B01:00",
         "delta": -10.56,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-03-16T23:32:12\u002B01:00",
+        "delta": -8.45,
         "desc": "Decay -20% applied to all players"
       }
     ]
