@@ -1,12 +1,12 @@
 {
-  "lastModified": "2026-03-11T23:35:59\u002B01:00",
+  "lastModified": "2026-03-16T23:32:12\u002B01:00",
   "player": "Mau",
   "main": "Mauqt",
   "saldo": {
-    "ep": 3017,
-    "gp_m": 62.00,
-    "gp_a": 154.00,
-    "pr_m": 48.66,
+    "ep": 2414,
+    "gp_m": 49.60,
+    "gp_a": 123.20,
+    "pr_m": 48.67,
     "pr_a": 19.59
   },
   "ledger": {
@@ -45,6 +45,11 @@
         "ts": "2026-03-11T23:35:59\u002B01:00",
         "delta": 985,
         "desc": "Attendance EP (985) for raid (197 min @ 4 EP/min, buffed 173 min @ 0 EP/min, enchanted 197 min @ 1 EP/min) [source: Computed]"
+      },
+      {
+        "ts": "2026-03-16T23:32:12\u002B01:00",
+        "delta": -603,
+        "desc": "Decay -20% applied to all players"
       }
     ],
     "gp_m": [
@@ -62,6 +67,11 @@
         "ts": "2026-03-11T21:51:28\u002B01:00",
         "delta": 30,
         "desc": "Chromatic Headpiece (ms-mid)"
+      },
+      {
+        "ts": "2026-03-16T23:32:12\u002B01:00",
+        "delta": -12.40,
+        "desc": "Decay -20% applied to all players"
       }
     ],
     "gp_a": [
@@ -119,6 +129,11 @@
         "ts": "2026-03-11T20:17:58\u002B01:00",
         "delta": 10,
         "desc": "Molten Wristguards (ms-low)"
+      },
+      {
+        "ts": "2026-03-16T23:32:12\u002B01:00",
+        "delta": -30.80,
+        "desc": "Decay -20% applied to all players"
       }
     ]
   }
