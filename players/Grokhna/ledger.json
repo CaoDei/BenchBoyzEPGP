@@ -1,13 +1,13 @@
 {
-  "lastModified": "2026-03-11T23:35:59\u002B01:00",
+  "lastModified": "2026-03-16T23:32:12\u002B01:00",
   "player": "Grokhna",
   "main": "Grokhna",
   "saldo": {
-    "ep": 5544,
+    "ep": 5391,
     "gp_m": 10,
-    "gp_a": 52.24,
-    "pr_m": 554.4,
-    "pr_a": 106.13
+    "gp_a": 41.79,
+    "pr_m": 539.1,
+    "pr_a": 129.00
   },
   "ledger": {
     "ep": [
@@ -85,6 +85,21 @@
         "ts": "2026-03-11T23:35:59\u002B01:00",
         "delta": 1130,
         "desc": "Attendance EP (1130) for raid (226 min @ 4 EP/min, buffed 183 min @ 0 EP/min, enchanted 226 min @ 1 EP/min) [source: Computed]"
+      },
+      {
+        "ts": "2026-03-16T23:31:23\u002B01:00",
+        "delta": 60,
+        "desc": "Timely signup EP bonus for: Onyxia Ascended Montag 16.03.2026"
+      },
+      {
+        "ts": "2026-03-16T23:32:01\u002B01:00",
+        "delta": 1135,
+        "desc": "Attendance EP (1135) for raid (229 min @ 3 EP/min, buffed 219 min @ 1 EP/min, enchanted 229 min @ 1 EP/min) [source: Computed]"
+      },
+      {
+        "ts": "2026-03-16T23:32:12\u002B01:00",
+        "delta": -1348,
+        "desc": "Decay -20% applied to all players"
       }
     ],
     "gp_m": [],
@@ -123,6 +138,11 @@
         "ts": "2026-03-11T21:08:08\u002B01:00",
         "delta": 10,
         "desc": "Molten Boots (os-low)"
+      },
+      {
+        "ts": "2026-03-16T23:32:12\u002B01:00",
+        "delta": -10.45,
+        "desc": "Decay -20% applied to all players"
       }
     ]
   }
