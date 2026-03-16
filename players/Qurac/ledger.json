@@ -1,13 +1,13 @@
 {
-  "lastModified": "2026-03-10T10:24:50\u002B01:00",
+  "lastModified": "2026-03-16T23:32:12\u002B01:00",
   "player": "Qurac",
   "main": "Qurac",
   "saldo": {
-    "ep": 1624,
-    "gp_m": 20.48,
+    "ep": 1299,
+    "gp_m": 16.38,
     "gp_a": 10,
     "pr_m": 79.30,
-    "pr_a": 162.4
+    "pr_a": 129.9
   },
   "ledger": {
     "ep": [
@@ -45,6 +45,11 @@
         "ts": "2026-03-10T10:24:50\u002B01:00",
         "delta": -406,
         "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-03-16T23:32:12\u002B01:00",
+        "delta": -325,
+        "desc": "Decay -20% applied to all players"
       }
     ],
     "gp_m": [
@@ -66,6 +71,11 @@
       {
         "ts": "2026-03-10T10:24:50\u002B01:00",
         "delta": -5.12,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-03-16T23:32:12\u002B01:00",
+        "delta": -4.10,
         "desc": "Decay -20% applied to all players"
       }
     ],
