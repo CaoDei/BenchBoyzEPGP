@@ -1,13 +1,13 @@
 {
-  "lastModified": "2026-03-11T23:35:59\u002B01:00",
+  "lastModified": "2026-03-16T23:32:12\u002B01:00",
   "player": "Luisken",
   "main": "Luisken",
   "saldo": {
-    "ep": 6181,
-    "gp_m": 110.80,
-    "gp_a": 180.24,
-    "pr_m": 55.79,
-    "pr_a": 34.29
+    "ep": 5893,
+    "gp_m": 88.64,
+    "gp_a": 144.19,
+    "pr_m": 66.48,
+    "pr_a": 40.87
   },
   "ledger": {
     "ep": [
@@ -95,6 +95,21 @@
         "ts": "2026-03-11T23:35:59\u002B01:00",
         "delta": 1130,
         "desc": "Attendance EP (1130) for raid (226 min @ 4 EP/min, buffed 196 min @ 0 EP/min, enchanted 226 min @ 1 EP/min) [source: Computed]"
+      },
+      {
+        "ts": "2026-03-16T23:31:23\u002B01:00",
+        "delta": 60,
+        "desc": "Timely signup EP bonus for: Onyxia Ascended Montag 16.03.2026"
+      },
+      {
+        "ts": "2026-03-16T23:32:01\u002B01:00",
+        "delta": 1125,
+        "desc": "Attendance EP (1125) for raid (229 min @ 3 EP/min, buffed 209 min @ 1 EP/min, enchanted 229 min @ 1 EP/min) [source: Computed]"
+      },
+      {
+        "ts": "2026-03-16T23:32:12\u002B01:00",
+        "delta": -1473,
+        "desc": "Decay -20% applied to all players"
       }
     ],
     "gp_m": [
@@ -137,6 +152,11 @@
         "ts": "2026-03-11T23:00:38\u002B01:00",
         "delta": 10,
         "desc": "Insignia of the Shifting Sands (ms-low)"
+      },
+      {
+        "ts": "2026-03-16T23:32:12\u002B01:00",
+        "delta": -22.16,
+        "desc": "Decay -20% applied to all players"
       }
     ],
     "gp_a": [
@@ -199,6 +219,11 @@
         "ts": "2026-03-11T21:21:50\u002B01:00",
         "delta": 30,
         "desc": "Chromatic Wristguards (ms-mid) [downgraded from ms-high: Below min EP (4991/5000)]"
+      },
+      {
+        "ts": "2026-03-16T23:32:12\u002B01:00",
+        "delta": -36.05,
+        "desc": "Decay -20% applied to all players"
       }
     ]
   }
