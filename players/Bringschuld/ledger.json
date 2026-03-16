@@ -1,13 +1,13 @@
 {
-  "lastModified": "2026-03-11T23:35:59\u002B01:00",
+  "lastModified": "2026-03-16T23:32:12\u002B01:00",
   "player": "Bringschuld",
   "main": "Bringschuld",
   "saldo": {
-    "ep": 5354,
+    "ep": 5191,
     "gp_m": 10,
-    "gp_a": 92.80,
-    "pr_m": 535.4,
-    "pr_a": 57.69
+    "gp_a": 74.24,
+    "pr_m": 519.1,
+    "pr_a": 69.92
   },
   "ledger": {
     "ep": [
@@ -80,6 +80,16 @@
         "ts": "2026-03-11T23:35:59\u002B01:00",
         "delta": 1130,
         "desc": "Attendance EP (1130) for raid (226 min @ 4 EP/min, buffed 173 min @ 0 EP/min, enchanted 226 min @ 1 EP/min) [source: Computed]"
+      },
+      {
+        "ts": "2026-03-16T23:32:01\u002B01:00",
+        "delta": 1135,
+        "desc": "Attendance EP (1135) for raid (229 min @ 3 EP/min, buffed 219 min @ 1 EP/min, enchanted 229 min @ 1 EP/min) [source: Computed]"
+      },
+      {
+        "ts": "2026-03-16T23:32:12\u002B01:00",
+        "delta": -1298,
+        "desc": "Decay -20% applied to all players"
       }
     ],
     "gp_m": [],
@@ -118,6 +128,11 @@
         "ts": "2026-03-11T21:08:10\u002B01:00",
         "delta": 10,
         "desc": "Molten Tunic (ms-low)"
+      },
+      {
+        "ts": "2026-03-16T23:32:12\u002B01:00",
+        "delta": -18.56,
+        "desc": "Decay -20% applied to all players"
       }
     ]
   }
