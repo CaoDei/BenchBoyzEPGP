@@ -3,11 +3,11 @@
   "player": "Billii",
   "main": "Billii",
   "saldo": {
-    "ep": 4919,
+    "ep": 5102,
     "gp_m": 26.88,
     "gp_a": 29.95,
-    "pr_m": 183.00,
-    "pr_a": 164.24
+    "pr_m": 189.81,
+    "pr_a": 170.35
   },
   "ledger": {
     "ep": [
@@ -88,12 +88,12 @@
       },
       {
         "ts": "2026-03-16T23:32:01\u002B01:00",
-        "delta": 906,
-        "desc": "Attendance EP (906) for raid (229 min @ 3 EP/min, buffed 219 min @ 1 EP/min, enchanted 0 min @ 1 EP/min) [source: Computed]"
+        "delta": 1135,
+        "desc": "Attendance EP (1135) for raid (229 min @ 3 EP/min, buffed 219 min @ 1 EP/min, enchanted 229 min @ 1 EP/min) [source: Computed]"
       },
       {
         "ts": "2026-03-16T23:32:12\u002B01:00",
-        "delta": -1230,
+        "delta": -1276,
         "desc": "Decay -20% applied to all players"
       }
     ],
