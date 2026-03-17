@@ -3,11 +3,11 @@
   "player": "Vhecna",
   "main": "Vhecna",
   "saldo": {
-    "ep": 5743,
+    "ep": 5926,
     "gp_m": 47.68,
     "gp_a": 124.29,
-    "pr_m": 120.45,
-    "pr_a": 46.21
+    "pr_m": 124.29,
+    "pr_a": 47.68
   },
   "ledger": {
     "ep": [
@@ -103,12 +103,12 @@
       },
       {
         "ts": "2026-03-16T23:32:01\u002B01:00",
-        "delta": 906,
-        "desc": "Attendance EP (906) for raid (229 min @ 3 EP/min, buffed 219 min @ 1 EP/min, enchanted 0 min @ 1 EP/min) [source: Computed]"
+        "delta": 1135,
+        "desc": "Attendance EP (1135) for raid (229 min @ 3 EP/min, buffed 219 min @ 1 EP/min, enchanted 229 min @ 1 EP/min) [source: Computed]"
       },
       {
         "ts": "2026-03-16T23:32:12\u002B01:00",
-        "delta": -1436,
+        "delta": -1482,
         "desc": "Decay -20% applied to all players"
       }
     ],
