@@ -1,7 +1,11 @@
 {
-  "lastModified": "2026-03-17T19:51:24\u002B01:00",
-  "attendanceLastModified": "2026-03-16T23:08:37\u002B01:00",
+  "lastModified": "2026-03-18T22:47:21\u002B01:00",
+  "attendanceLastModified": "2026-03-18T22:34:45\u002B01:00",
   "raids": [
+    {
+      "name": "MC-A 18.03.2026",
+      "totalMinutes": 212
+    },
     {
       "name": "Ony-A 16.03.2026",
       "totalMinutes": 229
@@ -38,10 +42,11 @@
   "players": [
     {
       "name": "Briar",
-      "overallPct": 94.9809056192035,
-      "decayedPct": 95.64308843464929,
-      "memberSincePct": 95.64308843464929,
+      "overallPct": 95.50122249388752,
+      "decayedPct": 96.3573733494348,
+      "memberSincePct": 96.3573733494348,
       "raids": [
+        100,
         100,
         100,
         100,
@@ -65,37 +70,6 @@
         100,
         100,
         100,
-        100
-      ]
-    },
-    {
-      "name": "Yolanda",
-      "overallPct": 87.72504091653029,
-      "decayedPct": 89.34450975865315,
-      "memberSincePct": 89.34450975865315,
-      "raids": [
-        100,
-        100,
-        100,
-        100,
-        0,
-        100,
-        100,
-        100
-      ]
-    },
-    {
-      "name": "Billii",
-      "overallPct": 87.56137479541735,
-      "decayedPct": 86.50304569429397,
-      "memberSincePct": 86.50304569429397,
-      "raids": [
-        100,
-        100,
-        100,
-        0,
-        100,
-        100,
         100,
         100
       ]
@@ -113,15 +87,17 @@
         100,
         100,
         100,
+        100,
         100
       ]
     },
     {
       "name": "Preus",
-      "overallPct": 75.39552645935625,
-      "decayedPct": 72.62130979653934,
-      "memberSincePct": 72.62130979653934,
+      "overallPct": 67.57946210268949,
+      "decayedPct": 60.7155583711124,
+      "memberSincePct": 60.7155583711124,
       "raids": [
+        0,
         100,
         0,
         100,
@@ -134,10 +110,11 @@
     },
     {
       "name": "Yuzuyuu",
-      "overallPct": 89.30714675395527,
-      "decayedPct": 85.49669383816678,
-      "memberSincePct": 85.49669383816678,
+      "overallPct": 80.04889975550122,
+      "decayedPct": 71.48011403005168,
+      "memberSincePct": 71.48011403005168,
       "raids": [
+        0,
         100,
         13.274336283185843,
         100,
@@ -149,32 +126,34 @@
       ]
     },
     {
-      "name": "Qurac",
-      "overallPct": 25.80469176213857,
-      "decayedPct": 17.92016669922511,
-      "memberSincePct": 17.92016669922511,
+      "name": "Yolanda",
+      "overallPct": 88.99755501222494,
+      "decayedPct": 91.09140221329163,
+      "memberSincePct": 91.09140221329163,
       "raids": [
+        100,
+        100,
+        100,
+        100,
+        100,
         0,
-        0,
-        0,
-        0,
-        0,
-        0,
+        100,
         100,
         100
       ]
     },
     {
-      "name": "Grokhna",
-      "overallPct": 88.48881614839061,
-      "decayedPct": 90.00751804033695,
-      "memberSincePct": 90.00751804033695,
+      "name": "Qurac",
+      "overallPct": 23.12958435207824,
+      "decayedPct": 14.982281788846437,
+      "memberSincePct": 14.982281788846437,
       "raids": [
-        100,
-        100,
-        100,
-        100,
-        100,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
         0,
         100,
         100
@@ -182,10 +161,11 @@
     },
     {
       "name": "Valysra",
-      "overallPct": 49.59083469721768,
-      "decayedPct": 38.56813890023501,
-      "memberSincePct": 38.56813890023501,
+      "overallPct": 44.44987775061125,
+      "decayedPct": 32.245164611090225,
+      "memberSincePct": 32.245164611090225,
       "raids": [
+        0,
         0,
         0,
         0,
@@ -197,15 +177,16 @@
       ]
     },
     {
-      "name": "Maerthyr",
-      "overallPct": 100,
-      "decayedPct": 100,
-      "memberSincePct": 100,
+      "name": "Billii",
+      "overallPct": 88.85085574572128,
+      "decayedPct": 88.71577613683608,
+      "memberSincePct": 88.71577613683608,
       "raids": [
         100,
         100,
         100,
         100,
+        0,
         100,
         100,
         100,
@@ -214,10 +195,11 @@
     },
     {
       "name": "Bringschuld",
-      "overallPct": 87.28859792689579,
-      "decayedPct": 91.1725183067242,
-      "memberSincePct": 91.1725183067242,
+      "overallPct": 88.60635696821517,
+      "decayedPct": 92.61972165581139,
+      "memberSincePct": 92.61972165581139,
       "raids": [
+        100,
         100,
         100,
         100,
@@ -225,31 +207,16 @@
         100,
         100,
         0,
-        100
-      ]
-    },
-    {
-      "name": "Tschuberle",
-      "overallPct": 100,
-      "decayedPct": 100,
-      "memberSincePct": 100,
-      "raids": [
-        100,
-        100,
-        100,
-        100,
-        100,
-        100,
-        100,
         100
       ]
     },
     {
       "name": "Almi",
-      "overallPct": 87.50681942171303,
-      "decayedPct": 83.05481065785813,
-      "memberSincePct": 83.05481065785813,
+      "overallPct": 88.80195599022005,
+      "decayedPct": 85.83285490863737,
+      "memberSincePct": 85.83285490863737,
       "raids": [
+        100,
         0,
         100,
         100,
@@ -261,28 +228,13 @@
       ]
     },
     {
-      "name": "Joffrey",
-      "overallPct": 74.5771958537916,
-      "decayedPct": 75.07799226884985,
-      "memberSincePct": 75.07799226884985,
-      "raids": [
-        100,
-        100,
-        0,
-        100,
-        0,
-        100,
-        100,
-        100
-      ]
-    },
-    {
-      "name": "Dotlike",
-      "overallPct": 87.50681942171303,
-      "decayedPct": 83.05481065785813,
-      "memberSincePct": 83.05481065785813,
+      "name": "Maerthyr",
+      "overallPct": 89.63325183374083,
+      "decayedPct": 83.60570546196028,
+      "memberSincePct": 83.60570546196028,
       "raids": [
         0,
+        100,
         100,
         100,
         100,
@@ -305,15 +257,68 @@
         100,
         100,
         100,
+        100,
+        100
+      ]
+    },
+    {
+      "name": "Dotlike",
+      "overallPct": 78.43520782396088,
+      "decayedPct": 69.43856037059768,
+      "memberSincePct": 69.43856037059768,
+      "raids": [
+        0,
+        0,
+        100,
+        100,
+        100,
+        100,
+        100,
+        100,
+        100
+      ]
+    },
+    {
+      "name": "Joffrey",
+      "overallPct": 77.21271393643032,
+      "decayedPct": 79.16377962108766,
+      "memberSincePct": 79.16377962108766,
+      "raids": [
+        100,
+        100,
+        100,
+        0,
+        100,
+        0,
+        100,
+        100,
+        100
+      ]
+    },
+    {
+      "name": "Grokhna",
+      "overallPct": 89.68215158924205,
+      "decayedPct": 91.6457149644646,
+      "memberSincePct": 91.6457149644646,
+      "raids": [
+        100,
+        100,
+        100,
+        100,
+        100,
+        100,
+        0,
+        100,
         100
       ]
     },
     {
       "name": "Vhecna",
-      "overallPct": 99.23622476813966,
-      "decayedPct": 99.3369917183162,
-      "memberSincePct": 99.3369917183162,
+      "overallPct": 99.31540342298288,
+      "decayedPct": 99.44568724882704,
+      "memberSincePct": 99.44568724882704,
       "raids": [
+        100,
         100,
         100,
         100,
@@ -322,22 +327,6 @@
         93.36492890995261,
         100,
         100
-      ]
-    },
-    {
-      "name": "Orthiad",
-      "overallPct": 73.37697763229679,
-      "decayedPct": 81.19187578066264,
-      "memberSincePct": 98.91817821210918,
-      "raids": [
-        100,
-        100,
-        100,
-        93.42105263157895,
-        100,
-        100,
-        0,
-        0
       ]
     },
     {
@@ -353,15 +342,51 @@
         100,
         100,
         100,
+        100,
+        100
+      ]
+    },
+    {
+      "name": "Orthiad",
+      "overallPct": 76.13691931540343,
+      "decayedPct": 84.27533506226119,
+      "memberSincePct": 99.1267900803353,
+      "raids": [
+        100,
+        100,
+        100,
+        100,
+        93.42105263157895,
+        100,
+        100,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "Tschuberle",
+      "overallPct": 100,
+      "decayedPct": 100,
+      "memberSincePct": 100,
+      "raids": [
+        100,
+        100,
+        100,
+        100,
+        100,
+        100,
+        100,
+        100,
         100
       ]
     },
     {
       "name": "Zaphyras",
-      "overallPct": 37.91598472449536,
-      "decayedPct": 44.486671757623114,
-      "memberSincePct": 72.41628523247411,
+      "overallPct": 33.98533007334964,
+      "decayedPct": 37.19339575950745,
+      "memberSincePct": 54.89408327246165,
       "raids": [
+        0,
         0,
         100,
         100,
@@ -374,10 +399,11 @@
     },
     {
       "name": "Steadyshots",
-      "overallPct": 23.949809056192034,
-      "decayedPct": 23.489436265369065,
-      "memberSincePct": 28.617792362338186,
+      "overallPct": 21.466992665036674,
+      "decayedPct": 19.638508898699346,
+      "memberSincePct": 23.0993130748632,
       "raids": [
+        0,
         0,
         0,
         0,
@@ -390,10 +416,11 @@
     },
     {
       "name": "Mau",
-      "overallPct": 36.33387888707038,
-      "decayedPct": 42.340774417351874,
-      "memberSincePct": 68.92315104794025,
+      "overallPct": 32.567237163814184,
+      "decayedPct": 35.39930314968424,
+      "memberSincePct": 52.246165084002925,
       "raids": [
+        0,
         0,
         87.16814159292035,
         100,
@@ -406,10 +433,11 @@
     },
     {
       "name": "Llinchen",
-      "overallPct": 3.546099290780142,
-      "decayedPct": 3.847815920486364,
-      "memberSincePct": 6.263550951577932,
+      "overallPct": 3.1784841075794623,
+      "decayedPct": 3.2169936452002452,
+      "memberSincePct": 4.747991234477721,
       "raids": [
+        0,
         0,
         0,
         0,
@@ -422,16 +450,34 @@
     },
     {
       "name": "Grubenjunge",
-      "overallPct": 8.12875068194217,
-      "decayedPct": 7.056302426491917,
-      "memberSincePct": 8.596877141105622,
+      "overallPct": 7.286063569682151,
+      "decayedPct": 5.899471423197989,
+      "memberSincePct": 6.939108161602049,
       "raids": [
         0,
         0,
         0,
         0,
         0,
+        0,
         70.61611374407583,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "Serpsass",
+      "overallPct": 10.366748166259168,
+      "decayedPct": 16.39429453803971,
+      "memberSincePct": 100,
+      "raids": [
+        100,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
         0,
         0
       ]
