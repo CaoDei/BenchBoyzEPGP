@@ -1,13 +1,13 @@
 {
-  "lastModified": "2026-03-16T23:32:12\u002B01:00",
+  "lastModified": "2026-03-18T22:46:35\u002B01:00",
   "player": "Vhecna",
   "main": "Vhecna",
   "saldo": {
-    "ep": 5926,
+    "ep": 7034,
     "gp_m": 47.68,
-    "gp_a": 124.29,
-    "pr_m": 124.29,
-    "pr_a": 47.68
+    "gp_a": 134.29,
+    "pr_m": 147.53,
+    "pr_a": 52.38
   },
   "ledger": {
     "ep": [
@@ -110,6 +110,16 @@
         "ts": "2026-03-16T23:32:12\u002B01:00",
         "delta": -1482,
         "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-03-18T22:45:40\u002B01:00",
+        "delta": 60,
+        "desc": "Timely signup EP bonus for: Molten Core Ascended Mittwoch 18.03.2026"
+      },
+      {
+        "ts": "2026-03-18T22:46:35\u002B01:00",
+        "delta": 1048,
+        "desc": "Attendance EP (1048) for raid (212 min @ 3 EP/min, buffed 200 min @ 1 EP/min, enchanted 212 min @ 1 EP/min) [source: Computed]"
       }
     ],
     "gp_m": [
@@ -219,6 +229,11 @@
         "ts": "2026-03-16T23:32:12\u002B01:00",
         "delta": -31.07,
         "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-03-18T20:14:19\u002B01:00",
+        "delta": 10,
+        "desc": "Quick Strike Ring (ms-low)"
       }
     ]
   }
