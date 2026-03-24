@@ -1,13 +1,13 @@
 {
-  "lastModified": "2026-03-16T23:32:12\u002B01:00",
+  "lastModified": "2026-03-24T11:49:05\u002B01:00",
   "player": "Yuzuyuu",
   "main": "Yuzuyuu",
   "saldo": {
-    "ep": 5069,
-    "gp_m": 16.38,
-    "gp_a": 33.79,
-    "pr_m": 309.46,
-    "pr_a": 150.01
+    "ep": 4893,
+    "gp_m": 13.10,
+    "gp_a": 51.03,
+    "pr_m": 373.51,
+    "pr_a": 95.88
   },
   "ledger": {
     "ep": [
@@ -105,6 +105,21 @@
         "ts": "2026-03-16T23:32:12\u002B01:00",
         "delta": -1267,
         "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-03-24T11:44:35\u002B01:00",
+        "delta": 60,
+        "desc": "Timely signup EP bonus for: Onyxia Ascended Montag 23.03.2026"
+      },
+      {
+        "ts": "2026-03-24T11:48:52\u002B01:00",
+        "delta": 987,
+        "desc": "Attendance EP (987) for raid (202 min @ 3 EP/min, buffed 179 min @ 1 EP/min, enchanted 202 min @ 1 EP/min) [source: Computed]"
+      },
+      {
+        "ts": "2026-03-24T11:49:05\u002B01:00",
+        "delta": -1223,
+        "desc": "Decay -20% applied to all players"
       }
     ],
     "gp_m": [
@@ -152,6 +167,11 @@
         "ts": "2026-03-16T23:32:12\u002B01:00",
         "delta": -4.10,
         "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-03-24T11:49:05\u002B01:00",
+        "delta": -3.28,
+        "desc": "Decay -20% applied to all players"
       }
     ],
     "gp_a": [
@@ -188,6 +208,16 @@
       {
         "ts": "2026-03-16T23:32:12\u002B01:00",
         "delta": -8.45,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-03-23T21:38:56\u002B01:00",
+        "delta": 30,
+        "desc": "Shard of the Scale (ms-mid)"
+      },
+      {
+        "ts": "2026-03-24T11:49:05\u002B01:00",
+        "delta": -12.76,
         "desc": "Decay -20% applied to all players"
       }
     ]
