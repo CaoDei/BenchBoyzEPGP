@@ -1,12 +1,12 @@
 {
-  "lastModified": "2026-03-16T23:32:12\u002B01:00",
+  "lastModified": "2026-03-24T11:49:05\u002B01:00",
   "player": "Mau",
   "main": "Mauqt",
   "saldo": {
-    "ep": 2414,
-    "gp_m": 49.60,
-    "gp_a": 123.20,
-    "pr_m": 48.67,
+    "ep": 1931,
+    "gp_m": 39.68,
+    "gp_a": 98.56,
+    "pr_m": 48.66,
     "pr_a": 19.59
   },
   "ledger": {
@@ -50,6 +50,11 @@
         "ts": "2026-03-16T23:32:12\u002B01:00",
         "delta": -603,
         "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-03-24T11:49:05\u002B01:00",
+        "delta": -483,
+        "desc": "Decay -20% applied to all players"
       }
     ],
     "gp_m": [
@@ -71,6 +76,11 @@
       {
         "ts": "2026-03-16T23:32:12\u002B01:00",
         "delta": -12.40,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-03-24T11:49:05\u002B01:00",
+        "delta": -9.92,
         "desc": "Decay -20% applied to all players"
       }
     ],
@@ -133,6 +143,11 @@
       {
         "ts": "2026-03-16T23:32:12\u002B01:00",
         "delta": -30.80,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-03-24T11:49:05\u002B01:00",
+        "delta": -24.64,
         "desc": "Decay -20% applied to all players"
       }
     ]
