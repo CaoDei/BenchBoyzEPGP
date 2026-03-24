@@ -1,13 +1,13 @@
 {
-  "lastModified": "2026-03-18T22:46:35\u002B01:00",
+  "lastModified": "2026-03-24T11:49:05\u002B01:00",
   "player": "Joffrey",
   "main": "Joffrey",
   "saldo": {
-    "ep": 5270,
-    "gp_m": 30,
-    "gp_a": 98.29,
-    "pr_m": 175.67,
-    "pr_a": 53.62
+    "ep": 5117,
+    "gp_m": 24.00,
+    "gp_a": 78.63,
+    "pr_m": 213.21,
+    "pr_a": 65.08
   },
   "ledger": {
     "ep": [
@@ -85,6 +85,21 @@
         "ts": "2026-03-18T22:46:35\u002B01:00",
         "delta": 1048,
         "desc": "Attendance EP (1048) for raid (212 min @ 3 EP/min, buffed 200 min @ 1 EP/min, enchanted 212 min @ 1 EP/min) [source: Computed]"
+      },
+      {
+        "ts": "2026-03-24T11:44:35\u002B01:00",
+        "delta": 60,
+        "desc": "Timely signup EP bonus for: Onyxia Ascended Montag 23.03.2026"
+      },
+      {
+        "ts": "2026-03-24T11:48:52\u002B01:00",
+        "delta": 1066,
+        "desc": "Attendance EP (1066) for raid (216 min @ 3 EP/min, buffed 202 min @ 1 EP/min, enchanted 216 min @ 1 EP/min) [source: Computed]"
+      },
+      {
+        "ts": "2026-03-24T11:49:05\u002B01:00",
+        "delta": -1279,
+        "desc": "Decay -20% applied to all players"
       }
     ],
     "gp_m": [
@@ -97,6 +112,11 @@
         "ts": "2026-03-18T22:40:09\u002B01:00",
         "delta": 10,
         "desc": "Living Lavastone Conduit (ms-low)"
+      },
+      {
+        "ts": "2026-03-24T11:49:05\u002B01:00",
+        "delta": -6.00,
+        "desc": "Decay -20% applied to all players"
       }
     ],
     "gp_a": [
@@ -149,6 +169,11 @@
         "ts": "2026-03-18T21:59:04\u002B01:00",
         "delta": 30,
         "desc": "Embercloth Robe (ms-mid)"
+      },
+      {
+        "ts": "2026-03-24T11:49:05\u002B01:00",
+        "delta": -19.66,
+        "desc": "Decay -20% applied to all players"
       }
     ]
   }
