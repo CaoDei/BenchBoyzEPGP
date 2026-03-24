@@ -1,13 +1,13 @@
 {
-  "lastModified": "2026-03-16T23:32:12\u002B01:00",
+  "lastModified": "2026-03-24T11:49:05\u002B01:00",
   "player": "Llinchen",
   "main": "Llinchen",
   "saldo": {
-    "ep": 331,
+    "ep": 265,
     "gp_m": 10,
-    "gp_a": 19.20,
-    "pr_m": 33.1,
-    "pr_a": 17.24
+    "gp_a": 15.36,
+    "pr_m": 26.5,
+    "pr_a": 17.25
   },
   "ledger": {
     "ep": [
@@ -40,6 +40,11 @@
         "ts": "2026-03-16T23:32:12\u002B01:00",
         "delta": -83,
         "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-03-24T11:49:05\u002B01:00",
+        "delta": -66,
+        "desc": "Decay -20% applied to all players"
       }
     ],
     "gp_m": [],
@@ -62,6 +67,11 @@
       {
         "ts": "2026-03-16T23:32:12\u002B01:00",
         "delta": -4.80,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-03-24T11:49:05\u002B01:00",
+        "delta": -3.84,
         "desc": "Decay -20% applied to all players"
       }
     ]
