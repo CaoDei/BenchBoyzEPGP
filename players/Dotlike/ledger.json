@@ -1,12 +1,12 @@
 {
-  "lastModified": "2026-03-16T23:32:12\u002B01:00",
+  "lastModified": "2026-03-24T11:49:05\u002B01:00",
   "player": "Dotlike",
   "main": "Dotlike",
   "saldo": {
-    "ep": 4945,
-    "gp_m": 26.88,
-    "gp_a": 83.97,
-    "pr_m": 183.97,
+    "ep": 3956,
+    "gp_m": 21.50,
+    "gp_a": 67.18,
+    "pr_m": 184,
     "pr_a": 58.89
   },
   "ledger": {
@@ -100,6 +100,11 @@
         "ts": "2026-03-16T23:32:12\u002B01:00",
         "delta": -1236,
         "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-03-24T11:49:05\u002B01:00",
+        "delta": -989,
+        "desc": "Decay -20% applied to all players"
       }
     ],
     "gp_m": [
@@ -126,6 +131,11 @@
       {
         "ts": "2026-03-16T23:32:12\u002B01:00",
         "delta": -6.72,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-03-24T11:49:05\u002B01:00",
+        "delta": -5.38,
         "desc": "Decay -20% applied to all players"
       }
     ],
@@ -188,6 +198,11 @@
       {
         "ts": "2026-03-16T23:32:12\u002B01:00",
         "delta": -20.99,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-03-24T11:49:05\u002B01:00",
+        "delta": -16.79,
         "desc": "Decay -20% applied to all players"
       }
     ]
