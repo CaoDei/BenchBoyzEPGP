@@ -1,11 +1,11 @@
 {
-  "lastModified": "2026-03-16T23:32:12\u002B01:00",
+  "lastModified": "2026-03-24T11:49:05\u002B01:00",
   "player": "Zaphyras",
   "main": "Zaphyras",
   "saldo": {
-    "ep": 2530,
-    "gp_m": 25.60,
-    "gp_a": 78.40,
+    "ep": 2024,
+    "gp_m": 20.48,
+    "gp_a": 62.72,
     "pr_m": 98.83,
     "pr_a": 32.27
   },
@@ -50,6 +50,11 @@
         "ts": "2026-03-16T23:32:12\u002B01:00",
         "delta": -632,
         "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-03-24T11:49:05\u002B01:00",
+        "delta": -506,
+        "desc": "Decay -20% applied to all players"
       }
     ],
     "gp_m": [
@@ -66,6 +71,11 @@
       {
         "ts": "2026-03-16T23:32:12\u002B01:00",
         "delta": -6.40,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-03-24T11:49:05\u002B01:00",
+        "delta": -5.12,
         "desc": "Decay -20% applied to all players"
       }
     ],
@@ -103,6 +113,11 @@
       {
         "ts": "2026-03-16T23:32:12\u002B01:00",
         "delta": -19.60,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-03-24T11:49:05\u002B01:00",
+        "delta": -15.68,
         "desc": "Decay -20% applied to all players"
       }
     ]
