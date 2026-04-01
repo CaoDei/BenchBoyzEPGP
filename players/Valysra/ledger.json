@@ -1,13 +1,13 @@
 {
-  "lastModified": "2026-03-24T11:49:05\u002B01:00",
+  "lastModified": "2026-04-01T17:39:35\u002B02:00",
   "player": "Valysra",
   "main": "Valysra",
   "saldo": {
-    "ep": 1908,
-    "gp_m": 20.48,
-    "gp_a": 17.20,
+    "ep": 1526,
+    "gp_m": 16.38,
+    "gp_a": 13.76,
     "pr_m": 93.16,
-    "pr_a": 110.93
+    "pr_a": 110.90
   },
   "ledger": {
     "ep": [
@@ -70,6 +70,11 @@
         "ts": "2026-03-24T11:49:05\u002B01:00",
         "delta": -477,
         "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-04-01T17:39:35\u002B02:00",
+        "delta": -382,
+        "desc": "Decay -20% applied to all players"
       }
     ],
     "gp_m": [
@@ -112,6 +117,11 @@
         "ts": "2026-03-24T11:49:05\u002B01:00",
         "delta": -5.12,
         "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-04-01T17:39:35\u002B02:00",
+        "delta": -4.10,
+        "desc": "Decay -20% applied to all players"
       }
     ],
     "gp_a": [
@@ -148,6 +158,11 @@
       {
         "ts": "2026-03-24T11:49:05\u002B01:00",
         "delta": -4.30,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-04-01T17:39:35\u002B02:00",
+        "delta": -3.44,
         "desc": "Decay -20% applied to all players"
       }
     ]
