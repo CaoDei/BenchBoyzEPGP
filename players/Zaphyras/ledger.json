@@ -1,13 +1,13 @@
 {
-  "lastModified": "2026-03-24T11:49:05\u002B01:00",
+  "lastModified": "2026-04-01T17:39:35\u002B02:00",
   "player": "Zaphyras",
   "main": "Zaphyras",
   "saldo": {
-    "ep": 2024,
-    "gp_m": 20.48,
-    "gp_a": 62.72,
-    "pr_m": 98.83,
-    "pr_a": 32.27
+    "ep": 1619,
+    "gp_m": 16.38,
+    "gp_a": 50.18,
+    "pr_m": 98.84,
+    "pr_a": 32.26
   },
   "ledger": {
     "ep": [
@@ -55,6 +55,11 @@
         "ts": "2026-03-24T11:49:05\u002B01:00",
         "delta": -506,
         "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-04-01T17:39:35\u002B02:00",
+        "delta": -405,
+        "desc": "Decay -20% applied to all players"
       }
     ],
     "gp_m": [
@@ -76,6 +81,11 @@
       {
         "ts": "2026-03-24T11:49:05\u002B01:00",
         "delta": -5.12,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-04-01T17:39:35\u002B02:00",
+        "delta": -4.10,
         "desc": "Decay -20% applied to all players"
       }
     ],
@@ -118,6 +128,11 @@
       {
         "ts": "2026-03-24T11:49:05\u002B01:00",
         "delta": -15.68,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-04-01T17:39:35\u002B02:00",
+        "delta": -12.54,
         "desc": "Decay -20% applied to all players"
       }
     ]
