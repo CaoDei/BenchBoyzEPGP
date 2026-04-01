@@ -82,16 +82,6 @@
       "pr_a": 115.90
     },
     {
-      "player": "Valysra",
-      "main": "Valysra",
-      "class": "Rogue",
-      "ep": 1526,
-      "gp_m": 16.38,
-      "pr_m": 93.16,
-      "gp_a": 13.76,
-      "pr_a": 110.90
-    },
-    {
       "player": "Maerthyr",
       "main": "Maerthyr",
       "class": "Warlock",
@@ -172,16 +162,6 @@
       "pr_a": 69.74
     },
     {
-      "player": "Dotlike",
-      "main": "Dotlike",
-      "class": "Warlock",
-      "ep": 3165,
-      "gp_m": 17.20,
-      "pr_m": 184.01,
-      "gp_a": 53.74,
-      "pr_a": 58.89
-    },
-    {
       "player": "Joffrey",
       "main": "Joffrey",
       "class": "Warlock",
@@ -200,96 +180,6 @@
       "pr_m": 250.45,
       "gp_a": 120.20,
       "pr_a": 56.01
-    },
-    {
-      "player": "Siltryn",
-      "main": "Siltryn",
-      "class": "",
-      "ep": 346,
-      "gp_m": 10,
-      "pr_m": 34.6,
-      "gp_a": 10,
-      "pr_a": 34.6
-    },
-    {
-      "player": "Zaphyras",
-      "main": "Zaphyras",
-      "class": "Paladin",
-      "ep": 1619,
-      "gp_m": 16.38,
-      "pr_m": 98.84,
-      "gp_a": 50.18,
-      "pr_a": 32.26
-    },
-    {
-      "player": "Yefer",
-      "main": "Yefer",
-      "class": "",
-      "ep": 313,
-      "gp_m": 10,
-      "pr_m": 31.3,
-      "gp_a": 10,
-      "pr_a": 31.3
-    },
-    {
-      "player": "Fontbella",
-      "main": "Fontbella",
-      "class": "",
-      "ep": 262,
-      "gp_m": 10,
-      "pr_m": 26.2,
-      "gp_a": 10,
-      "pr_a": 26.2
-    },
-    {
-      "player": "Mayaj",
-      "main": "Mayaj",
-      "class": "",
-      "ep": 262,
-      "gp_m": 10,
-      "pr_m": 26.2,
-      "gp_a": 10,
-      "pr_a": 26.2
-    },
-    {
-      "player": "Buumeri",
-      "main": "Buumeri",
-      "class": "",
-      "ep": 253,
-      "gp_m": 10,
-      "pr_m": 25.3,
-      "gp_a": 10,
-      "pr_a": 25.3
-    },
-    {
-      "player": "Steadyshots",
-      "main": "Steadyshots",
-      "class": "Hunter",
-      "ep": 813,
-      "gp_m": 26.22,
-      "pr_m": 31.01,
-      "gp_a": 36.86,
-      "pr_a": 22.06
-    },
-    {
-      "player": "Deznutz",
-      "main": "Deznutz",
-      "class": "",
-      "ep": 205,
-      "gp_m": 10,
-      "pr_m": 20.5,
-      "gp_a": 10,
-      "pr_a": 20.5
-    },
-    {
-      "player": "Mau",
-      "main": "Mauqt",
-      "class": "Mage",
-      "ep": 1545,
-      "gp_m": 31.74,
-      "pr_m": 48.68,
-      "gp_a": 78.85,
-      "pr_a": 19.59
     },
     {
       "player": "Llinchen",
@@ -312,16 +202,6 @@
       "pr_a": 13.58
     },
     {
-      "player": "Praseto",
-      "main": "Praseto",
-      "class": "",
-      "ep": 113,
-      "gp_m": 10,
-      "pr_m": 11.3,
-      "gp_a": 10,
-      "pr_a": 11.3
-    },
-    {
       "player": "Serpsass",
       "main": "Serpsass",
       "class": "",
@@ -330,36 +210,6 @@
       "pr_m": 36.38,
       "gp_a": 153.60,
       "pr_a": 10.61
-    },
-    {
-      "player": "Borisov",
-      "main": "Borisov",
-      "class": "",
-      "ep": 91,
-      "gp_m": 10,
-      "pr_m": 9.1,
-      "gp_a": 10,
-      "pr_a": 9.1
-    },
-    {
-      "player": "Irtha",
-      "main": "Irtha",
-      "class": "",
-      "ep": 48,
-      "gp_m": 10,
-      "pr_m": 4.8,
-      "gp_a": 10,
-      "pr_a": 4.8
-    },
-    {
-      "player": "Nuclear",
-      "main": "Nuclear",
-      "class": "",
-      "ep": 48,
-      "gp_m": 10,
-      "pr_m": 4.8,
-      "gp_a": 10,
-      "pr_a": 4.8
     }
   ]
 }
