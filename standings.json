@@ -1,25 +1,25 @@
 {
-  "lastModified": "2026-04-01 17:39 \u002B02:00",
+  "lastModified": "2026-04-06 17:13 \u002B02:00",
   "rows": [
     {
       "player": "Briar",
       "main": "Briaar",
       "class": "Priest",
-      "ep": 5820,
+      "ep": 6583,
       "gp_m": 10,
-      "pr_m": 582,
+      "pr_m": 658.3,
       "gp_a": 10,
-      "pr_a": 582
+      "pr_a": 658.3
     },
     {
       "player": "Cao",
       "main": "Tayami",
       "class": "Priest",
-      "ep": 6991,
+      "ep": 7754,
       "gp_m": 21.91,
-      "pr_m": 319.08,
+      "pr_m": 353.90,
       "gp_a": 23.55,
-      "pr_a": 296.86
+      "pr_a": 329.26
     },
     {
       "player": "Preus",
@@ -35,61 +35,51 @@
       "player": "Yolanda",
       "main": "Yolanda",
       "class": "Hunter",
-      "ep": 6439,
+      "ep": 7202,
       "gp_m": 16.38,
-      "pr_m": 393.10,
-      "gp_a": 37.18,
-      "pr_a": 173.18
-    },
-    {
-      "player": "Sandu",
-      "main": "Sandu",
-      "class": "Paladin",
-      "ep": 6206,
-      "gp_m": 12.80,
-      "pr_m": 484.84,
-      "gp_a": 44.36,
-      "pr_a": 139.90
-    },
-    {
-      "player": "Billii",
-      "main": "Billii",
-      "class": "Warrior",
-      "ep": 6485,
-      "gp_m": 17.20,
-      "pr_m": 377.03,
-      "gp_a": 46.37,
-      "pr_a": 139.85
+      "pr_m": 439.68,
+      "gp_a": 47.18,
+      "pr_a": 152.65
     },
     {
       "player": "Bringschuld",
       "main": "Bringschuld",
       "class": "Shaman",
-      "ep": 5770,
+      "ep": 6533,
       "gp_m": 10,
-      "pr_m": 577,
+      "pr_m": 653.3,
       "gp_a": 47.51,
-      "pr_a": 121.45
+      "pr_a": 137.51
     },
     {
       "player": "Yuzuyuu",
       "main": "Yuzuyuu",
       "class": "Rogue",
-      "ep": 4731,
+      "ep": 5368,
       "gp_m": 10.48,
-      "pr_m": 451.43,
+      "pr_m": 512.21,
       "gp_a": 40.82,
-      "pr_a": 115.90
+      "pr_a": 131.50
     },
     {
-      "player": "Maerthyr",
-      "main": "Maerthyr",
-      "class": "Warlock",
-      "ep": 4486,
-      "gp_m": 10,
-      "pr_m": 448.6,
-      "gp_a": 51.94,
-      "pr_a": 86.37
+      "player": "Billii",
+      "main": "Billii",
+      "class": "Warrior",
+      "ep": 7248,
+      "gp_m": 17.20,
+      "pr_m": 421.40,
+      "gp_a": 56.37,
+      "pr_a": 128.58
+    },
+    {
+      "player": "Sandu",
+      "main": "Sandu",
+      "class": "Paladin",
+      "ep": 6969,
+      "gp_m": 22.80,
+      "pr_m": 305.66,
+      "gp_a": 64.36,
+      "pr_a": 108.28
     },
     {
       "player": "Almi",
@@ -112,14 +102,14 @@
       "pr_a": 83.1
     },
     {
-      "player": "Waldi",
-      "main": "Waldmeister",
-      "class": "Warrior",
-      "ep": 7002,
-      "gp_m": 36.14,
-      "pr_m": 193.75,
-      "gp_a": 86.66,
-      "pr_a": 80.80
+      "player": "Orthiad",
+      "main": "Orthiad",
+      "class": "Hunter",
+      "ep": 6701,
+      "gp_m": 73.28,
+      "pr_m": 91.44,
+      "gp_a": 85.14,
+      "pr_a": 78.71
     },
     {
       "player": "Grokhna",
@@ -135,11 +125,11 @@
       "player": "Luisken",
       "main": "Luisken",
       "class": "Druid",
-      "ep": 6972,
+      "ep": 7735,
       "gp_m": 56.73,
-      "pr_m": 122.90,
-      "gp_a": 92.28,
-      "pr_a": 75.55
+      "pr_m": 136.35,
+      "gp_a": 102.28,
+      "pr_a": 75.63
     },
     {
       "player": "Vhecna",
@@ -152,34 +142,44 @@
       "pr_a": 71.70
     },
     {
-      "player": "Orthiad",
-      "main": "Orthiad",
-      "class": "Hunter",
-      "ep": 5938,
-      "gp_m": 33.28,
-      "pr_m": 178.43,
-      "gp_a": 85.14,
-      "pr_a": 69.74
-    },
-    {
       "player": "Joffrey",
       "main": "Joffrey",
       "class": "Warlock",
-      "ep": 5054,
+      "ep": 5817,
       "gp_m": 19.20,
-      "pr_m": 263.23,
+      "pr_m": 302.97,
       "gp_a": 86.90,
-      "pr_a": 58.16
+      "pr_a": 66.94
     },
     {
       "player": "Tschuberle",
       "main": "Tschuberle",
       "class": "Paladin",
-      "ep": 6732,
-      "gp_m": 26.88,
-      "pr_m": 250.45,
+      "ep": 7495,
+      "gp_m": 36.88,
+      "pr_m": 203.23,
       "gp_a": 120.20,
-      "pr_a": 56.01
+      "pr_a": 62.35
+    },
+    {
+      "player": "Waldi",
+      "main": "Waldmeister",
+      "class": "Warrior",
+      "ep": 7477,
+      "gp_m": 36.14,
+      "pr_m": 206.89,
+      "gp_a": 146.66,
+      "pr_a": 50.98
+    },
+    {
+      "player": "Maerthyr",
+      "main": "Maerthyr",
+      "class": "Warlock",
+      "ep": 5249,
+      "gp_m": 10,
+      "pr_m": 524.9,
+      "gp_a": 121.94,
+      "pr_a": 43.05
     },
     {
       "player": "Llinchen",
