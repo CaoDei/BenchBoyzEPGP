@@ -1,13 +1,13 @@
 {
-  "lastModified": "2026-04-01T17:39:35\u002B02:00",
+  "lastModified": "2026-04-06T17:13:38\u002B02:00",
   "player": "Cao",
   "main": "Tayami",
   "saldo": {
-    "ep": 6991,
+    "ep": 7754,
     "gp_m": 21.91,
     "gp_a": 23.55,
-    "pr_m": 319.08,
-    "pr_a": 296.86
+    "pr_m": 353.90,
+    "pr_a": 329.26
   },
   "ledger": {
     "ep": [
@@ -155,6 +155,16 @@
         "ts": "2026-04-01T17:39:35\u002B02:00",
         "delta": -1748,
         "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-04-06T17:12:58\u002B02:00",
+        "delta": 60,
+        "desc": "Timely signup EP bonus for: Molten Core Ascended Mittwoch 01.04.2026"
+      },
+      {
+        "ts": "2026-04-06T17:13:38\u002B02:00",
+        "delta": 703,
+        "desc": "Attendance EP (703) for raid (143 min @ 3 EP/min, buffed 131 min @ 1 EP/min, enchanted 143 min @ 1 EP/min) [source: Manual]"
       }
     ],
     "gp_m": [
