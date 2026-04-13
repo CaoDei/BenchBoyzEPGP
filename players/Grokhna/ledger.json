@@ -1,13 +1,13 @@
 {
-  "lastModified": "2026-04-13T16:21:42\u002B02:00",
+  "lastModified": "2026-04-13T23:13:05\u002B02:00",
   "player": "Grokhna",
   "main": "Grokhna",
   "saldo": {
-    "ep": 7462,
+    "ep": 6618,
     "gp_m": 10,
-    "gp_a": 104.34,
-    "pr_m": 746.2,
-    "pr_a": 71.52
+    "gp_a": 83.47,
+    "pr_m": 661.8,
+    "pr_a": 79.29
   },
   "ledger": {
     "ep": [
@@ -150,6 +150,21 @@
         "ts": "2026-04-13T16:21:42\u002B02:00",
         "delta": 780,
         "desc": "Attendance EP (780) for raid (156 min @ 3 EP/min, buffed 156 min @ 1 EP/min, enchanted 156 min @ 1 EP/min) [source: Manual]"
+      },
+      {
+        "ts": "2026-04-13T23:12:03\u002B02:00",
+        "delta": 60,
+        "desc": "Timely signup EP bonus for: Onyxia Ascended Montag 13.04.2026"
+      },
+      {
+        "ts": "2026-04-13T23:12:51\u002B02:00",
+        "delta": 750,
+        "desc": "Attendance EP (750) for raid (159 min @ 3 EP/min, buffed 114 min @ 1 EP/min, enchanted 159 min @ 1 EP/min) [source: Computed]"
+      },
+      {
+        "ts": "2026-04-13T23:13:05\u002B02:00",
+        "delta": -1654,
+        "desc": "Decay -20% applied to all players"
       }
     ],
     "gp_m": [],
@@ -258,6 +273,11 @@
         "ts": "2026-04-08T22:09:38\u002B02:00",
         "delta": 10,
         "desc": "Choker of the Fire Lord (os-low)"
+      },
+      {
+        "ts": "2026-04-13T23:13:05\u002B02:00",
+        "delta": -20.87,
+        "desc": "Decay -20% applied to all players"
       }
     ]
   }
