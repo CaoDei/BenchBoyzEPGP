@@ -1,0 +1,28 @@
+{
+  "lastModified": "2026-04-13T16:21:42\u002B02:00",
+  "player": "Jaydizzle",
+  "main": "Jaydizzle",
+  "saldo": {
+    "ep": 840,
+    "gp_m": 10,
+    "gp_a": 10,
+    "pr_m": 84,
+    "pr_a": 84
+  },
+  "ledger": {
+    "ep": [
+      {
+        "ts": "2026-04-13T16:20:30\u002B02:00",
+        "delta": 60,
+        "desc": "Timely signup EP bonus for: Molten Core Ascended Mittwoch 08.04.2026"
+      },
+      {
+        "ts": "2026-04-13T16:21:42\u002B02:00",
+        "delta": 780,
+        "desc": "Attendance EP (780) for raid (156 min @ 3 EP/min, buffed 156 min @ 1 EP/min, enchanted 156 min @ 1 EP/min) [source: Computed]"
+      }
+    ],
+    "gp_m": [],
+    "gp_a": []
+  }
+}
