@@ -1,0 +1,140 @@
+{
+  "lastModified": "2026-04-13T16:21:42\u002B02:00",
+  "player": "Tashock",
+  "main": "Tashock",
+  "saldo": {
+    "ep": 1654,
+    "gp_m": 10,
+    "gp_a": 160,
+    "pr_m": 165.4,
+    "pr_a": 10.34
+  },
+  "ledger": {
+    "ep": [
+      {
+        "ts": "2026-02-26T10:31:08\u002B01:00",
+        "delta": 776,
+        "desc": "Attendance EP (776) for raid (194 min @ 4 EP/min, buffed 194 min @ 0 EP/min, enchanted 0 min @ 1 EP/min)"
+      },
+      {
+        "ts": "2026-03-03T08:34:16\u002B01:00",
+        "delta": -155,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-03-10T10:24:50\u002B01:00",
+        "delta": -124,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-03-16T23:32:12\u002B01:00",
+        "delta": -99,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-03-24T11:49:05\u002B01:00",
+        "delta": -80,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-04-01T17:39:35\u002B02:00",
+        "delta": -64,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-04-06T17:13:38\u002B02:00",
+        "delta": 560,
+        "desc": "Attendance EP (560) for raid (143 min @ 3 EP/min, buffed 131 min @ 1 EP/min, enchanted 0 min @ 1 EP/min) [source: Manual]"
+      },
+      {
+        "ts": "2026-04-13T16:20:30\u002B02:00",
+        "delta": 60,
+        "desc": "Timely signup EP bonus for: Molten Core Ascended Mittwoch 08.04.2026"
+      },
+      {
+        "ts": "2026-04-13T16:21:42\u002B02:00",
+        "delta": 780,
+        "desc": "Attendance EP (780) for raid (156 min @ 3 EP/min, buffed 156 min @ 1 EP/min, enchanted 156 min @ 1 EP/min) [source: Computed]"
+      }
+    ],
+    "gp_m": [
+      {
+        "ts": "2026-04-08T23:00:44\u002B02:00",
+        "delta": 10,
+        "desc": "Desecrator (os-low)"
+      },
+      {
+        "ts": "2026-04-08T23:01:37\u002B02:00",
+        "delta": -10,
+        "desc": "Undo loot: Desecrator"
+      }
+    ],
+    "gp_a": [
+      {
+        "ts": "2026-04-08T20:19:45\u002B02:00",
+        "delta": 10,
+        "desc": "Molten Wristguards (ms-low)"
+      },
+      {
+        "ts": "2026-04-08T20:19:47\u002B02:00",
+        "delta": 10,
+        "desc": "Molten Legguards (ms-low)"
+      },
+      {
+        "ts": "2026-04-08T20:19:51\u002B02:00",
+        "delta": 10,
+        "desc": "Fire Runed Grimoire (os-low)"
+      },
+      {
+        "ts": "2026-04-08T20:19:55\u002B02:00",
+        "delta": 10,
+        "desc": "Molten Spaulders (os-low)"
+      },
+      {
+        "ts": "2026-04-08T20:20:02\u002B02:00",
+        "delta": 10,
+        "desc": "Molten Girdle (os-low)"
+      },
+      {
+        "ts": "2026-04-08T22:09:07\u002B02:00",
+        "delta": 30,
+        "desc": "Perdition\u0027s Blade (ms-mid)"
+      },
+      {
+        "ts": "2026-04-08T22:09:09\u002B02:00",
+        "delta": 10,
+        "desc": "Medallion of Steadfast Might (ms-low)"
+      },
+      {
+        "ts": "2026-04-08T22:09:49\u002B02:00",
+        "delta": 10,
+        "desc": "Molten Headpiece (os-low)"
+      },
+      {
+        "ts": "2026-04-08T22:09:52\u002B02:00",
+        "delta": 10,
+        "desc": "Molten Tunic (os-low)"
+      },
+      {
+        "ts": "2026-04-08T22:09:54\u002B02:00",
+        "delta": 10,
+        "desc": "Band of Sulfuras (os-low)"
+      },
+      {
+        "ts": "2026-04-08T22:10:14\u002B02:00",
+        "delta": 10,
+        "desc": "Molten Handguards (os-low)"
+      },
+      {
+        "ts": "2026-04-08T22:10:57\u002B02:00",
+        "delta": 10,
+        "desc": "Chromatic Wristguards (os-low)"
+      },
+      {
+        "ts": "2026-04-08T22:11:00\u002B02:00",
+        "delta": 10,
+        "desc": "Chromatic Legguards (os-low)"
+      }
+    ]
+  }
+}
