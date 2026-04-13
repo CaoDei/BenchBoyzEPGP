@@ -1,13 +1,13 @@
 {
-  "lastModified": "2026-04-06T17:13:38\u002B02:00",
+  "lastModified": "2026-04-13T16:21:42\u002B02:00",
   "player": "Tschuberle",
   "main": "Tschuberle",
   "saldo": {
-    "ep": 7495,
+    "ep": 8335,
     "gp_m": 36.88,
     "gp_a": 120.20,
-    "pr_m": 203.23,
-    "pr_a": 62.35
+    "pr_m": 226.00,
+    "pr_a": 69.34
   },
   "ledger": {
     "ep": [
@@ -150,6 +150,16 @@
         "ts": "2026-04-06T17:13:38\u002B02:00",
         "delta": 703,
         "desc": "Attendance EP (703) for raid (143 min @ 3 EP/min, buffed 131 min @ 1 EP/min, enchanted 143 min @ 1 EP/min) [source: Manual]"
+      },
+      {
+        "ts": "2026-04-13T16:20:30\u002B02:00",
+        "delta": 60,
+        "desc": "Timely signup EP bonus for: Molten Core Ascended Mittwoch 08.04.2026"
+      },
+      {
+        "ts": "2026-04-13T16:21:42\u002B02:00",
+        "delta": 780,
+        "desc": "Attendance EP (780) for raid (156 min @ 3 EP/min, buffed 156 min @ 1 EP/min, enchanted 156 min @ 1 EP/min) [source: Computed]"
       }
     ],
     "gp_m": [
