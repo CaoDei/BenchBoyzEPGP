@@ -1,0 +1,55 @@
+{
+  "lastModified": "2026-04-13T23:13:05\u002B02:00",
+  "player": "Siestinkt",
+  "main": "Siestinkt",
+  "saldo": {
+    "ep": 641,
+    "gp_m": 10,
+    "gp_a": 32.00,
+    "pr_m": 64.1,
+    "pr_a": 20.03
+  },
+  "ledger": {
+    "ep": [
+      {
+        "ts": "2026-04-13T23:12:03\u002B02:00",
+        "delta": 60,
+        "desc": "Timely signup EP bonus for: Onyxia Ascended Montag 13.04.2026"
+      },
+      {
+        "ts": "2026-04-13T23:12:51\u002B02:00",
+        "delta": 741,
+        "desc": "Attendance EP (741) for raid (153 min @ 3 EP/min, buffed 129 min @ 1 EP/min, enchanted 153 min @ 1 EP/min) [source: Computed]"
+      },
+      {
+        "ts": "2026-04-13T23:13:05\u002B02:00",
+        "delta": -160,
+        "desc": "Decay -20% applied to all players"
+      }
+    ],
+    "gp_m": [
+      {
+        "ts": "2026-04-13T23:04:28\u002B02:00",
+        "delta": 30,
+        "desc": "Deep Sea Oculus (os-mid)"
+      },
+      {
+        "ts": "2026-04-13T23:05:43\u002B02:00",
+        "delta": -30,
+        "desc": "Undo loot: Deep Sea Oculus"
+      }
+    ],
+    "gp_a": [
+      {
+        "ts": "2026-04-13T22:14:44\u002B02:00",
+        "delta": 30,
+        "desc": "Obsidian Signet (ms-mid)"
+      },
+      {
+        "ts": "2026-04-13T23:13:05\u002B02:00",
+        "delta": -8.00,
+        "desc": "Decay -20% applied to all players"
+      }
+    ]
+  }
+}
