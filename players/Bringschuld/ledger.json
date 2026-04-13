@@ -1,13 +1,13 @@
 {
-  "lastModified": "2026-04-13T16:21:42\u002B02:00",
+  "lastModified": "2026-04-13T23:13:05\u002B02:00",
   "player": "Bringschuld",
   "main": "Bringschuld",
   "saldo": {
-    "ep": 7373,
-    "gp_m": 50,
-    "gp_a": 57.51,
-    "pr_m": 147.46,
-    "pr_a": 128.20
+    "ep": 6494,
+    "gp_m": 40.00,
+    "gp_a": 46.01,
+    "pr_m": 162.35,
+    "pr_a": 141.14
   },
   "ledger": {
     "ep": [
@@ -140,6 +140,21 @@
         "ts": "2026-04-13T16:21:42\u002B02:00",
         "delta": 780,
         "desc": "Attendance EP (780) for raid (156 min @ 3 EP/min, buffed 156 min @ 1 EP/min, enchanted 156 min @ 1 EP/min) [source: Computed]"
+      },
+      {
+        "ts": "2026-04-13T23:12:03\u002B02:00",
+        "delta": 60,
+        "desc": "Timely signup EP bonus for: Onyxia Ascended Montag 13.04.2026"
+      },
+      {
+        "ts": "2026-04-13T23:12:51\u002B02:00",
+        "delta": 685,
+        "desc": "Attendance EP (685) for raid (139 min @ 3 EP/min, buffed 129 min @ 1 EP/min, enchanted 139 min @ 1 EP/min) [source: Computed]"
+      },
+      {
+        "ts": "2026-04-13T23:13:05\u002B02:00",
+        "delta": -1624,
+        "desc": "Decay -20% applied to all players"
       }
     ],
     "gp_m": [
@@ -152,6 +167,11 @@
         "ts": "2026-04-08T23:00:42\u002B02:00",
         "delta": 10,
         "desc": "Signet of the Soulflayer (os-low)"
+      },
+      {
+        "ts": "2026-04-13T23:13:05\u002B02:00",
+        "delta": -10.00,
+        "desc": "Decay -20% applied to all players"
       }
     ],
     "gp_a": [
@@ -209,6 +229,11 @@
         "ts": "2026-04-08T22:09:12\u002B02:00",
         "delta": 10,
         "desc": "Molten Boots (ms-low)"
+      },
+      {
+        "ts": "2026-04-13T23:13:05\u002B02:00",
+        "delta": -11.50,
+        "desc": "Decay -20% applied to all players"
       }
     ]
   }
