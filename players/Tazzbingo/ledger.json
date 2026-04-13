@@ -1,0 +1,23 @@
+{
+  "lastModified": "2026-04-13T16:21:42\u002B02:00",
+  "player": "Tazzbingo",
+  "main": "Tazzbingo",
+  "saldo": {
+    "ep": 670,
+    "gp_m": 10,
+    "gp_a": 10,
+    "pr_m": 67,
+    "pr_a": 67
+  },
+  "ledger": {
+    "ep": [
+      {
+        "ts": "2026-04-13T16:21:42\u002B02:00",
+        "delta": 670,
+        "desc": "Attendance EP (670) for raid (134 min @ 3 EP/min, buffed 134 min @ 1 EP/min, enchanted 134 min @ 1 EP/min) [source: Manual]"
+      }
+    ],
+    "gp_m": [],
+    "gp_a": []
+  }
+}
