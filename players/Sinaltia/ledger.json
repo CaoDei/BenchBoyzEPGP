@@ -1,0 +1,28 @@
+{
+  "lastModified": "2026-04-13T23:13:05\u002B02:00",
+  "player": "Sinaltia",
+  "main": "Sinaltia",
+  "saldo": {
+    "ep": 178,
+    "gp_m": 10,
+    "gp_a": 10,
+    "pr_m": 17.8,
+    "pr_a": 17.8
+  },
+  "ledger": {
+    "ep": [
+      {
+        "ts": "2026-04-13T23:12:51\u002B02:00",
+        "delta": 222,
+        "desc": "Attendance EP (222) for raid (74 min @ 3 EP/min, buffed 0 min @ 1 EP/min, enchanted 0 min @ 1 EP/min) [source: Computed]"
+      },
+      {
+        "ts": "2026-04-13T23:13:05\u002B02:00",
+        "delta": -44,
+        "desc": "Decay -20% applied to all players"
+      }
+    ],
+    "gp_m": [],
+    "gp_a": []
+  }
+}
