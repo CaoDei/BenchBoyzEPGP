@@ -1,25 +1,25 @@
 {
-  "lastModified": "2026-04-13 23:13 \u002B02:00",
+  "lastModified": "2026-04-20 17:58 \u002B02:00",
   "rows": [
     {
       "player": "Briar",
       "main": "Briaar",
       "class": "Priest",
-      "ep": 6602,
+      "ep": 7562,
       "gp_m": 10,
-      "pr_m": 660.2,
+      "pr_m": 756.2,
       "gp_a": 10,
-      "pr_a": 660.2
+      "pr_a": 756.2
     },
     {
       "player": "Cao",
       "main": "Tayami",
       "class": "Priest",
-      "ep": 7535,
+      "ep": 8555,
       "gp_m": 17.53,
-      "pr_m": 429.83,
+      "pr_m": 488.02,
       "gp_a": 26.84,
-      "pr_a": 280.74
+      "pr_a": 318.74
     },
     {
       "player": "Preus",
@@ -45,31 +45,51 @@
       "player": "Billii",
       "main": "Billii",
       "class": "Warrior",
-      "ep": 7098,
+      "ep": 8118,
       "gp_m": 13.76,
-      "pr_m": 515.84,
+      "pr_m": 589.97,
       "gp_a": 45.10,
-      "pr_a": 157.38
+      "pr_a": 180
     },
     {
       "player": "Bringschuld",
       "main": "Bringschuld",
       "class": "Shaman",
-      "ep": 6494,
+      "ep": 7514,
       "gp_m": 40.00,
-      "pr_m": 162.35,
+      "pr_m": 187.85,
       "gp_a": 46.01,
-      "pr_a": 141.14
+      "pr_a": 163.31
     },
     {
       "player": "Sandu",
       "main": "Sandu",
       "class": "Paladin",
-      "ep": 6885,
+      "ep": 7905,
       "gp_m": 18.24,
-      "pr_m": 377.47,
+      "pr_m": 433.39,
       "gp_a": 51.49,
-      "pr_a": 133.72
+      "pr_a": 153.52
+    },
+    {
+      "player": "Nofun",
+      "main": "Nofun",
+      "class": "",
+      "ep": 960,
+      "gp_m": 10,
+      "pr_m": 96,
+      "gp_a": 10,
+      "pr_a": 96
+    },
+    {
+      "player": "Osvalld",
+      "main": "Osvalld",
+      "class": "",
+      "ep": 960,
+      "gp_m": 10,
+      "pr_m": 96,
+      "gp_a": 10,
+      "pr_a": 96
     },
     {
       "player": "Yuzuyuu",
@@ -85,21 +105,31 @@
       "player": "Grokhna",
       "main": "Grokhna",
       "class": "Shaman",
-      "ep": 6618,
+      "ep": 7638,
       "gp_m": 10,
-      "pr_m": 661.8,
-      "gp_a": 83.47,
-      "pr_a": 79.29
+      "pr_m": 763.8,
+      "gp_a": 93.47,
+      "pr_a": 81.72
     },
     {
       "player": "Tschuberle",
       "main": "Tschuberle",
       "class": "Paladin",
-      "ep": 7261,
+      "ep": 8281,
       "gp_m": 29.50,
-      "pr_m": 246.14,
-      "gp_a": 96.16,
-      "pr_a": 75.51
+      "pr_m": 280.71,
+      "gp_a": 106.16,
+      "pr_a": 78.00
+    },
+    {
+      "player": "Orthiad",
+      "main": "Orthiad",
+      "class": "Hunter",
+      "ep": 7045,
+      "gp_m": 66.62,
+      "pr_m": 105.75,
+      "gp_a": 92.11,
+      "pr_a": 76.48
     },
     {
       "player": "Vhecna",
@@ -122,24 +152,24 @@
       "pr_a": 66.94
     },
     {
-      "player": "Orthiad",
-      "main": "Orthiad",
-      "class": "Hunter",
-      "ep": 6025,
-      "gp_m": 66.62,
-      "pr_m": 90.44,
-      "gp_a": 92.11,
-      "pr_a": 65.41
-    },
-    {
       "player": "Waldi",
       "main": "Waldmeister",
       "class": "Warrior",
-      "ep": 6854,
+      "ep": 7814,
       "gp_m": 28.91,
-      "pr_m": 237.08,
+      "pr_m": 270.29,
       "gp_a": 117.33,
-      "pr_a": 58.42
+      "pr_a": 66.60
+    },
+    {
+      "player": "Luisken",
+      "main": "Luisken",
+      "class": "Druid",
+      "ep": 8521,
+      "gp_m": 45.38,
+      "pr_m": 187.77,
+      "gp_a": 153.82,
+      "pr_a": 55.40
     },
     {
       "player": "Tazzbingo",
@@ -152,16 +182,6 @@
       "pr_a": 53.6
     },
     {
-      "player": "Luisken",
-      "main": "Luisken",
-      "class": "Druid",
-      "ep": 7501,
-      "gp_m": 45.38,
-      "pr_m": 165.29,
-      "gp_a": 153.82,
-      "pr_a": 48.76
-    },
-    {
       "player": "Maerthyr",
       "main": "Maerthyr",
       "class": "Warlock",
@@ -172,6 +192,16 @@
       "pr_a": 43.04
     },
     {
+      "player": "Siestinkt",
+      "main": "Siestinkt",
+      "class": "",
+      "ep": 1661,
+      "gp_m": 10,
+      "pr_m": 166.1,
+      "gp_a": 62.00,
+      "pr_a": 26.79
+    },
+    {
       "player": "Soirxz",
       "main": "Soirxz",
       "class": "",
@@ -180,16 +210,6 @@
       "pr_m": 23.7,
       "gp_a": 10,
       "pr_a": 23.7
-    },
-    {
-      "player": "Siestinkt",
-      "main": "Siestinkt",
-      "class": "",
-      "ep": 641,
-      "gp_m": 10,
-      "pr_m": 64.1,
-      "gp_a": 32.00,
-      "pr_a": 20.03
     },
     {
       "player": "Sinaltia",
@@ -212,6 +232,16 @@
       "pr_a": 15.86
     },
     {
+      "player": "Tashock",
+      "main": "Tashock",
+      "class": "",
+      "ep": 2981,
+      "gp_m": 10,
+      "pr_m": 298.1,
+      "gp_a": 190.00,
+      "pr_a": 15.69
+    },
+    {
       "player": "Grubenjunge",
       "main": "Grubenjunge",
       "class": "Paladin",
@@ -222,14 +252,24 @@
       "pr_a": 13.59
     },
     {
-      "player": "Tashock",
-      "main": "Tashock",
+      "player": "Elinea",
+      "main": "Elinea",
       "class": "",
-      "ep": 1961,
+      "ep": 0,
       "gp_m": 10,
-      "pr_m": 196.1,
-      "gp_a": 160.00,
-      "pr_a": 12.26
+      "pr_m": 0,
+      "gp_a": 10,
+      "pr_a": 0
+    },
+    {
+      "player": "Viperz",
+      "main": "Viperz",
+      "class": "",
+      "ep": 0,
+      "gp_m": 10,
+      "pr_m": 0,
+      "gp_a": 10,
+      "pr_a": 0
     }
   ]
 }
