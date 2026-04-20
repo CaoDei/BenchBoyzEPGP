@@ -1,13 +1,13 @@
 {
-  "lastModified": "2026-04-13T23:13:05\u002B02:00",
+  "lastModified": "2026-04-20T17:58:36\u002B02:00",
   "player": "Siestinkt",
   "main": "Siestinkt",
   "saldo": {
-    "ep": 641,
+    "ep": 1661,
     "gp_m": 10,
-    "gp_a": 32.00,
-    "pr_m": 64.1,
-    "pr_a": 20.03
+    "gp_a": 62.00,
+    "pr_m": 166.1,
+    "pr_a": 26.79
   },
   "ledger": {
     "ep": [
@@ -25,6 +25,16 @@
         "ts": "2026-04-13T23:13:05\u002B02:00",
         "delta": -160,
         "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-04-20T17:57:17\u002B02:00",
+        "delta": 60,
+        "desc": "Timely signup EP bonus for: Molten Core Ascended Mittwoch 15.04.2026"
+      },
+      {
+        "ts": "2026-04-20T17:58:36\u002B02:00",
+        "delta": 960,
+        "desc": "Attendance EP (960) for raid (192 min @ 3 EP/min, buffed 192 min @ 1 EP/min, enchanted 192 min @ 1 EP/min) [source: Manual]"
       }
     ],
     "gp_m": [
@@ -49,6 +59,11 @@
         "ts": "2026-04-13T23:13:05\u002B02:00",
         "delta": -8.00,
         "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-04-15T20:33:43\u002B02:00",
+        "delta": 30,
+        "desc": "Embercloth Robe (ms-mid) [downgraded from ms-high: Below min EP (641/5000)]"
       }
     ]
   }
