@@ -1,13 +1,13 @@
 {
-  "lastModified": "2026-04-13T23:13:05\u002B02:00",
+  "lastModified": "2026-04-20T17:58:36\u002B02:00",
   "player": "Tschuberle",
   "main": "Tschuberle",
   "saldo": {
-    "ep": 7261,
+    "ep": 8281,
     "gp_m": 29.50,
-    "gp_a": 96.16,
-    "pr_m": 246.14,
-    "pr_a": 75.51
+    "gp_a": 106.16,
+    "pr_m": 280.71,
+    "pr_a": 78.00
   },
   "ledger": {
     "ep": [
@@ -175,6 +175,16 @@
         "ts": "2026-04-13T23:13:05\u002B02:00",
         "delta": -1815,
         "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-04-20T17:57:17\u002B02:00",
+        "delta": 60,
+        "desc": "Timely signup EP bonus for: Molten Core Ascended Mittwoch 15.04.2026"
+      },
+      {
+        "ts": "2026-04-20T17:58:36\u002B02:00",
+        "delta": 960,
+        "desc": "Attendance EP (960) for raid (192 min @ 3 EP/min, buffed 192 min @ 1 EP/min, enchanted 192 min @ 1 EP/min) [source: Manual]"
       }
     ],
     "gp_m": [
@@ -304,6 +314,11 @@
         "ts": "2026-04-13T23:13:05\u002B02:00",
         "delta": -24.04,
         "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-04-15T23:07:24\u002B02:00",
+        "delta": 10,
+        "desc": "Band of Sulfuras (ms-low)"
       }
     ]
   }
