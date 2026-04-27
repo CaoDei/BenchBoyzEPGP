@@ -1,12 +1,12 @@
 {
-  "lastModified": "2026-04-13T23:13:05\u002B02:00",
+  "lastModified": "2026-04-27T18:26:33\u002B02:00",
   "player": "Vhecna",
   "main": "Vhecna",
   "saldo": {
-    "ep": 4930,
-    "gp_m": 24.41,
-    "gp_a": 68.75,
-    "pr_m": 201.97,
+    "ep": 3944,
+    "gp_m": 19.53,
+    "gp_a": 55.00,
+    "pr_m": 201.95,
     "pr_a": 71.71
   },
   "ledger": {
@@ -150,6 +150,11 @@
         "ts": "2026-04-13T23:13:05\u002B02:00",
         "delta": -1232,
         "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-04-27T18:26:33\u002B02:00",
+        "delta": -986,
+        "desc": "Decay -20% applied to all players"
       }
     ],
     "gp_m": [
@@ -196,6 +201,11 @@
       {
         "ts": "2026-04-13T23:13:05\u002B02:00",
         "delta": -6.10,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-04-27T18:26:33\u002B02:00",
+        "delta": -4.88,
         "desc": "Decay -20% applied to all players"
       }
     ],
@@ -293,6 +303,11 @@
       {
         "ts": "2026-04-13T23:13:05\u002B02:00",
         "delta": -17.19,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-04-27T18:26:33\u002B02:00",
+        "delta": -13.75,
         "desc": "Decay -20% applied to all players"
       }
     ]
