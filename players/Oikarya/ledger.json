@@ -1,0 +1,17 @@
+{
+  "lastModified": "2026-04-27T18:26:33\u002B02:00",
+  "player": "Oikarya",
+  "main": "Oikarya",
+  "saldo": {
+    "ep": 0,
+    "gp_m": 10,
+    "gp_a": 10,
+    "pr_m": 0,
+    "pr_a": 0
+  },
+  "ledger": {
+    "ep": [],
+    "gp_m": [],
+    "gp_a": []
+  }
+}
