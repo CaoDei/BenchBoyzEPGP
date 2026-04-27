@@ -1,13 +1,13 @@
 {
-  "lastModified": "2026-04-20T17:58:36\u002B02:00",
+  "lastModified": "2026-04-27T18:26:46\u002B02:00",
   "player": "Bringschuld",
   "main": "Bringschuld",
   "saldo": {
-    "ep": 7514,
-    "gp_m": 40.00,
-    "gp_a": 46.01,
-    "pr_m": 187.85,
-    "pr_a": 163.31
+    "ep": 7302,
+    "gp_m": 32.00,
+    "gp_a": 44.81,
+    "pr_m": 228.19,
+    "pr_a": 162.95
   },
   "ledger": {
     "ep": [
@@ -165,6 +165,21 @@
         "ts": "2026-04-20T17:58:36\u002B02:00",
         "delta": 960,
         "desc": "Attendance EP (960) for raid (192 min @ 3 EP/min, buffed 192 min @ 1 EP/min, enchanted 192 min @ 1 EP/min) [source: Manual]"
+      },
+      {
+        "ts": "2026-04-27T18:26:25\u002B02:00",
+        "delta": 615,
+        "desc": "Attendance EP (615) for raid (123 min @ 3 EP/min, buffed 123 min @ 1 EP/min, enchanted 123 min @ 1 EP/min) [source: Computed]"
+      },
+      {
+        "ts": "2026-04-27T18:26:33\u002B02:00",
+        "delta": -1626,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-04-27T18:26:46\u002B02:00",
+        "delta": 799,
+        "desc": "Attendance EP (799) for raid (162 min @ 3 EP/min, buffed 151 min @ 1 EP/min, enchanted 162 min @ 1 EP/min) [source: Manual]"
       }
     ],
     "gp_m": [
@@ -181,6 +196,11 @@
       {
         "ts": "2026-04-13T23:13:05\u002B02:00",
         "delta": -10.00,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-04-27T18:26:33\u002B02:00",
+        "delta": -8.00,
         "desc": "Decay -20% applied to all players"
       }
     ],
@@ -243,6 +263,16 @@
       {
         "ts": "2026-04-13T23:13:05\u002B02:00",
         "delta": -11.50,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-04-20T23:09:08\u002B02:00",
+        "delta": 10,
+        "desc": "Corelit Igneous (ms-low)"
+      },
+      {
+        "ts": "2026-04-27T18:26:33\u002B02:00",
+        "delta": -11.20,
         "desc": "Decay -20% applied to all players"
       }
     ]
