@@ -1,13 +1,13 @@
 {
-  "lastModified": "2026-04-20T17:58:36\u002B02:00",
+  "lastModified": "2026-04-27T18:26:33\u002B02:00",
   "player": "Orthiad",
   "main": "Orthiad",
   "saldo": {
-    "ep": 7045,
-    "gp_m": 66.62,
-    "gp_a": 92.11,
-    "pr_m": 105.75,
-    "pr_a": 76.48
+    "ep": 6128,
+    "gp_m": 53.30,
+    "gp_a": 73.69,
+    "pr_m": 114.97,
+    "pr_a": 83.16
   },
   "ledger": {
     "ep": [
@@ -160,6 +160,16 @@
         "ts": "2026-04-20T17:58:36\u002B02:00",
         "delta": 960,
         "desc": "Attendance EP (960) for raid (192 min @ 3 EP/min, buffed 192 min @ 1 EP/min, enchanted 192 min @ 1 EP/min) [source: Manual]"
+      },
+      {
+        "ts": "2026-04-27T18:26:25\u002B02:00",
+        "delta": 615,
+        "desc": "Attendance EP (615) for raid (123 min @ 3 EP/min, buffed 123 min @ 1 EP/min, enchanted 123 min @ 1 EP/min) [source: Computed]"
+      },
+      {
+        "ts": "2026-04-27T18:26:33\u002B02:00",
+        "delta": -1532,
+        "desc": "Decay -20% applied to all players"
       }
     ],
     "gp_m": [
@@ -241,6 +251,11 @@
       {
         "ts": "2026-04-13T23:13:05\u002B02:00",
         "delta": -16.66,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-04-27T18:26:33\u002B02:00",
+        "delta": -13.32,
         "desc": "Decay -20% applied to all players"
       }
     ],
@@ -353,6 +368,11 @@
       {
         "ts": "2026-04-13T23:13:05\u002B02:00",
         "delta": -23.03,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-04-27T18:26:33\u002B02:00",
+        "delta": -18.42,
         "desc": "Decay -20% applied to all players"
       }
     ]
