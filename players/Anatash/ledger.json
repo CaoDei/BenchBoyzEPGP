@@ -1,0 +1,23 @@
+{
+  "lastModified": "2026-04-27T21:56:53\u002B02:00",
+  "player": "Anatash",
+  "main": "Anatash",
+  "saldo": {
+    "ep": 541,
+    "gp_m": 10,
+    "gp_a": 10,
+    "pr_m": 54.1,
+    "pr_a": 54.1
+  },
+  "ledger": {
+    "ep": [
+      {
+        "ts": "2026-04-27T21:56:53\u002B02:00",
+        "delta": 541,
+        "desc": "Attendance EP (541) for raid (113 min @ 3 EP/min, buffed 89 min @ 1 EP/min, enchanted 113 min @ 1 EP/min) [source: Computed]"
+      }
+    ],
+    "gp_m": [],
+    "gp_a": []
+  }
+}
