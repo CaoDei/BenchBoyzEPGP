@@ -1,13 +1,13 @@
 {
-  "lastModified": "2026-04-20T17:58:36\u002B02:00",
+  "lastModified": "2026-04-27T18:26:46\u002B02:00",
   "player": "Sandu",
   "main": "Sandu",
   "saldo": {
-    "ep": 7905,
-    "gp_m": 18.24,
-    "gp_a": 51.49,
-    "pr_m": 433.39,
-    "pr_a": 153.52
+    "ep": 7615,
+    "gp_m": 14.59,
+    "gp_a": 89.19,
+    "pr_m": 521.93,
+    "pr_a": 85.38
   },
   "ledger": {
     "ep": [
@@ -190,6 +190,21 @@
         "ts": "2026-04-20T17:58:36\u002B02:00",
         "delta": 960,
         "desc": "Attendance EP (960) for raid (192 min @ 3 EP/min, buffed 192 min @ 1 EP/min, enchanted 192 min @ 1 EP/min) [source: Manual]"
+      },
+      {
+        "ts": "2026-04-27T18:26:25\u002B02:00",
+        "delta": 615,
+        "desc": "Attendance EP (615) for raid (123 min @ 3 EP/min, buffed 123 min @ 1 EP/min, enchanted 123 min @ 1 EP/min) [source: Computed]"
+      },
+      {
+        "ts": "2026-04-27T18:26:33\u002B02:00",
+        "delta": -1704,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-04-27T18:26:46\u002B02:00",
+        "delta": 799,
+        "desc": "Attendance EP (799) for raid (162 min @ 3 EP/min, buffed 151 min @ 1 EP/min, enchanted 162 min @ 1 EP/min) [source: Manual]"
       }
     ],
     "gp_m": [
@@ -241,6 +256,11 @@
       {
         "ts": "2026-04-13T23:13:05\u002B02:00",
         "delta": -4.56,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-04-27T18:26:33\u002B02:00",
+        "delta": -3.65,
         "desc": "Decay -20% applied to all players"
       }
     ],
@@ -318,6 +338,31 @@
       {
         "ts": "2026-04-13T23:13:05\u002B02:00",
         "delta": -12.87,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-04-22T20:11:19\u002B02:00",
+        "delta": 10,
+        "desc": "Molten Headpiece (ms-low)"
+      },
+      {
+        "ts": "2026-04-22T20:11:22\u002B02:00",
+        "delta": 10,
+        "desc": "Molten Spaulders (ms-low)"
+      },
+      {
+        "ts": "2026-04-22T21:13:12\u002B02:00",
+        "delta": 10,
+        "desc": "Molten Boots (ms-low)"
+      },
+      {
+        "ts": "2026-04-22T21:55:47\u002B02:00",
+        "delta": 30,
+        "desc": "Onslaught Girdle (ms-mid)"
+      },
+      {
+        "ts": "2026-04-27T18:26:33\u002B02:00",
+        "delta": -22.30,
         "desc": "Decay -20% applied to all players"
       }
     ]
