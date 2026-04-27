@@ -1,13 +1,13 @@
 {
-  "lastModified": "2026-04-20T17:58:36\u002B02:00",
+  "lastModified": "2026-04-27T18:26:33\u002B02:00",
   "player": "Grokhna",
   "main": "Grokhna",
   "saldo": {
-    "ep": 7638,
+    "ep": 6110,
     "gp_m": 10,
-    "gp_a": 93.47,
-    "pr_m": 763.8,
-    "pr_a": 81.72
+    "gp_a": 74.78,
+    "pr_m": 611,
+    "pr_a": 81.71
   },
   "ledger": {
     "ep": [
@@ -175,6 +175,11 @@
         "ts": "2026-04-20T17:58:36\u002B02:00",
         "delta": 960,
         "desc": "Attendance EP (960) for raid (192 min @ 3 EP/min, buffed 192 min @ 1 EP/min, enchanted 192 min @ 1 EP/min) [source: Manual]"
+      },
+      {
+        "ts": "2026-04-27T18:26:33\u002B02:00",
+        "delta": -1528,
+        "desc": "Decay -20% applied to all players"
       }
     ],
     "gp_m": [],
@@ -293,6 +298,11 @@
         "ts": "2026-04-15T20:34:04\u002B02:00",
         "delta": 10,
         "desc": "Seal of the Archmagus (os-low)"
+      },
+      {
+        "ts": "2026-04-27T18:26:33\u002B02:00",
+        "delta": -18.69,
+        "desc": "Decay -20% applied to all players"
       }
     ]
   }
