@@ -1,13 +1,13 @@
 {
-  "lastModified": "2026-04-27T18:26:33\u002B02:00",
+  "lastModified": "2026-04-27T21:56:53\u002B02:00",
   "player": "Grokhna",
   "main": "Grokhna",
   "saldo": {
-    "ep": 6110,
+    "ep": 6645,
     "gp_m": 10,
-    "gp_a": 74.78,
-    "pr_m": 611,
-    "pr_a": 81.71
+    "gp_a": 114.78,
+    "pr_m": 664.5,
+    "pr_a": 57.89
   },
   "ledger": {
     "ep": [
@@ -180,6 +180,11 @@
         "ts": "2026-04-27T18:26:33\u002B02:00",
         "delta": -1528,
         "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-04-27T21:56:53\u002B02:00",
+        "delta": 535,
+        "desc": "Attendance EP (535) for raid (113 min @ 3 EP/min, buffed 83 min @ 1 EP/min, enchanted 113 min @ 1 EP/min) [source: Computed]"
       }
     ],
     "gp_m": [],
@@ -303,6 +308,16 @@
         "ts": "2026-04-27T18:26:33\u002B02:00",
         "delta": -18.69,
         "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-04-27T21:29:11\u002B02:00",
+        "delta": 30,
+        "desc": "Deathbringer (ms-mid) [downgraded from ms-high: Below min PR (81,706/100)]"
+      },
+      {
+        "ts": "2026-04-27T21:54:51\u002B02:00",
+        "delta": 10,
+        "desc": "Deathbringer"
       }
     ]
   }
