@@ -1,13 +1,13 @@
 {
-  "lastModified": "2026-04-13T23:13:05\u002B02:00",
+  "lastModified": "2026-04-27T18:26:33\u002B02:00",
   "player": "Preus",
   "main": "Preus",
   "saldo": {
-    "ep": 2758,
+    "ep": 2206,
     "gp_m": 10,
-    "gp_a": 14.58,
-    "pr_m": 275.8,
-    "pr_a": 189.16
+    "gp_a": 11.66,
+    "pr_m": 220.6,
+    "pr_a": 189.19
   },
   "ledger": {
     "ep": [
@@ -115,6 +115,11 @@
         "ts": "2026-04-13T23:13:05\u002B02:00",
         "delta": -690,
         "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-04-27T18:26:33\u002B02:00",
+        "delta": -552,
+        "desc": "Decay -20% applied to all players"
       }
     ],
     "gp_m": [],
@@ -167,6 +172,11 @@
       {
         "ts": "2026-04-13T23:13:05\u002B02:00",
         "delta": -3.64,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-04-27T18:26:33\u002B02:00",
+        "delta": -2.92,
         "desc": "Decay -20% applied to all players"
       }
     ]
