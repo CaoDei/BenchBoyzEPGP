@@ -1,0 +1,28 @@
+{
+  "lastModified": "2026-04-27T18:26:33\u002B02:00",
+  "player": "Mangoberry",
+  "main": "Mangoberry",
+  "saldo": {
+    "ep": 150,
+    "gp_m": 10,
+    "gp_a": 10,
+    "pr_m": 15,
+    "pr_a": 15
+  },
+  "ledger": {
+    "ep": [
+      {
+        "ts": "2026-04-27T18:26:25\u002B02:00",
+        "delta": 188,
+        "desc": "Attendance EP (188) for raid (47 min @ 3 EP/min, buffed 47 min @ 1 EP/min, enchanted 0 min @ 1 EP/min) [source: Computed]"
+      },
+      {
+        "ts": "2026-04-27T18:26:33\u002B02:00",
+        "delta": -38,
+        "desc": "Decay -20% applied to all players"
+      }
+    ],
+    "gp_m": [],
+    "gp_a": []
+  }
+}
