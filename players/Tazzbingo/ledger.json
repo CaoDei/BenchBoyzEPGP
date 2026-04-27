@@ -1,13 +1,13 @@
 {
-  "lastModified": "2026-04-13T23:13:05\u002B02:00",
+  "lastModified": "2026-04-27T18:26:33\u002B02:00",
   "player": "Tazzbingo",
   "main": "Tazzbingo",
   "saldo": {
-    "ep": 536,
+    "ep": 429,
     "gp_m": 10,
     "gp_a": 10,
-    "pr_m": 53.6,
-    "pr_a": 53.6
+    "pr_m": 42.9,
+    "pr_a": 42.9
   },
   "ledger": {
     "ep": [
@@ -19,6 +19,11 @@
       {
         "ts": "2026-04-13T23:13:05\u002B02:00",
         "delta": -134,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-04-27T18:26:33\u002B02:00",
+        "delta": -107,
         "desc": "Decay -20% applied to all players"
       }
     ],
