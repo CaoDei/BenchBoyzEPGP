@@ -1,13 +1,13 @@
 {
-  "lastModified": "2026-04-20T17:58:36\u002B02:00",
+  "lastModified": "2026-04-27T18:26:46\u002B02:00",
   "player": "Tashock",
   "main": "Tashock",
   "saldo": {
-    "ep": 2981,
+    "ep": 3184,
     "gp_m": 10,
-    "gp_a": 190.00,
-    "pr_m": 298.1,
-    "pr_a": 15.69
+    "gp_a": 192.00,
+    "pr_m": 318.4,
+    "pr_a": 16.58
   },
   "ledger": {
     "ep": [
@@ -80,6 +80,16 @@
         "ts": "2026-04-20T17:58:36\u002B02:00",
         "delta": 960,
         "desc": "Attendance EP (960) for raid (192 min @ 3 EP/min, buffed 192 min @ 1 EP/min, enchanted 192 min @ 1 EP/min) [source: Manual]"
+      },
+      {
+        "ts": "2026-04-27T18:26:33\u002B02:00",
+        "delta": -596,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-04-27T18:26:46\u002B02:00",
+        "delta": 799,
+        "desc": "Attendance EP (799) for raid (162 min @ 3 EP/min, buffed 151 min @ 1 EP/min, enchanted 162 min @ 1 EP/min) [source: Manual]"
       }
     ],
     "gp_m": [
@@ -189,6 +199,26 @@
         "ts": "2026-04-15T21:24:06\u002B02:00",
         "delta": 10,
         "desc": "Staff of Dominance (os-low)"
+      },
+      {
+        "ts": "2026-04-22T21:13:14\u002B02:00",
+        "delta": 10,
+        "desc": "Robe of Volatile Power (os-low)"
+      },
+      {
+        "ts": "2026-04-22T21:55:48\u002B02:00",
+        "delta": 30,
+        "desc": "Finkle\u0027s Lava Dredger (os-mid)"
+      },
+      {
+        "ts": "2026-04-22T21:55:55\u002B02:00",
+        "delta": 10,
+        "desc": "Band of Sulfuras (os-low)"
+      },
+      {
+        "ts": "2026-04-27T18:26:33\u002B02:00",
+        "delta": -48.00,
+        "desc": "Decay -20% applied to all players"
       }
     ]
   }
