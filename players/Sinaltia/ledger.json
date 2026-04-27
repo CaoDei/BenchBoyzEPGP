@@ -1,13 +1,13 @@
 {
-  "lastModified": "2026-04-13T23:13:05\u002B02:00",
+  "lastModified": "2026-04-27T18:26:33\u002B02:00",
   "player": "Sinaltia",
   "main": "Sinaltia",
   "saldo": {
-    "ep": 178,
+    "ep": 142,
     "gp_m": 10,
     "gp_a": 10,
-    "pr_m": 17.8,
-    "pr_a": 17.8
+    "pr_m": 14.2,
+    "pr_a": 14.2
   },
   "ledger": {
     "ep": [
@@ -19,6 +19,11 @@
       {
         "ts": "2026-04-13T23:13:05\u002B02:00",
         "delta": -44,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-04-27T18:26:33\u002B02:00",
+        "delta": -36,
         "desc": "Decay -20% applied to all players"
       }
     ],
