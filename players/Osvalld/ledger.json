@@ -1,13 +1,13 @@
 {
-  "lastModified": "2026-04-20T17:58:36\u002B02:00",
+  "lastModified": "2026-04-27T18:26:33\u002B02:00",
   "player": "Osvalld",
   "main": "Osvalld",
   "saldo": {
-    "ep": 960,
+    "ep": 768,
     "gp_m": 10,
     "gp_a": 10,
-    "pr_m": 96,
-    "pr_a": 96
+    "pr_m": 76.8,
+    "pr_a": 76.8
   },
   "ledger": {
     "ep": [
@@ -15,6 +15,11 @@
         "ts": "2026-04-20T17:58:36\u002B02:00",
         "delta": 960,
         "desc": "Attendance EP (960) for raid (192 min @ 3 EP/min, buffed 192 min @ 1 EP/min, enchanted 192 min @ 1 EP/min) [source: Manual]"
+      },
+      {
+        "ts": "2026-04-27T18:26:33\u002B02:00",
+        "delta": -192,
+        "desc": "Decay -20% applied to all players"
       }
     ],
     "gp_m": [],
