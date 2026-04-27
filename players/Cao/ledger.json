@@ -1,13 +1,13 @@
 {
-  "lastModified": "2026-04-20T17:58:36\u002B02:00",
+  "lastModified": "2026-04-27T18:26:46\u002B02:00",
   "player": "Cao",
   "main": "Tayami",
   "saldo": {
-    "ep": 8555,
-    "gp_m": 17.53,
-    "gp_a": 26.84,
-    "pr_m": 488.02,
-    "pr_a": 318.74
+    "ep": 8135,
+    "gp_m": 14.02,
+    "gp_a": 21.47,
+    "pr_m": 580.24,
+    "pr_a": 378.90
   },
   "ledger": {
     "ep": [
@@ -200,6 +200,21 @@
         "ts": "2026-04-20T17:58:36\u002B02:00",
         "delta": 960,
         "desc": "Attendance EP (960) for raid (192 min @ 3 EP/min, buffed 192 min @ 1 EP/min, enchanted 192 min @ 1 EP/min) [source: Manual]"
+      },
+      {
+        "ts": "2026-04-27T18:26:25\u002B02:00",
+        "delta": 615,
+        "desc": "Attendance EP (615) for raid (123 min @ 3 EP/min, buffed 123 min @ 1 EP/min, enchanted 123 min @ 1 EP/min) [source: Computed]"
+      },
+      {
+        "ts": "2026-04-27T18:26:33\u002B02:00",
+        "delta": -1834,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-04-27T18:26:46\u002B02:00",
+        "delta": 799,
+        "desc": "Attendance EP (799) for raid (162 min @ 3 EP/min, buffed 151 min @ 1 EP/min, enchanted 162 min @ 1 EP/min) [source: Manual]"
       }
     ],
     "gp_m": [
@@ -241,6 +256,11 @@
       {
         "ts": "2026-04-13T23:13:05\u002B02:00",
         "delta": -4.38,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-04-27T18:26:33\u002B02:00",
+        "delta": -3.51,
         "desc": "Decay -20% applied to all players"
       }
     ],
@@ -293,6 +313,11 @@
       {
         "ts": "2026-04-13T23:13:05\u002B02:00",
         "delta": -6.71,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-04-27T18:26:33\u002B02:00",
+        "delta": -5.37,
         "desc": "Decay -20% applied to all players"
       }
     ]
