@@ -1,25 +1,25 @@
 {
-  "lastModified": "2026-04-27 18:26 \u002B02:00",
+  "lastModified": "2026-04-27 21:56 \u002B02:00",
   "rows": [
     {
       "player": "Briar",
       "main": "Briaar",
       "class": "Priest",
-      "ep": 7361,
+      "ep": 7902,
       "gp_m": 10,
-      "pr_m": 736.1,
+      "pr_m": 790.2,
       "gp_a": 10,
-      "pr_a": 736.1
+      "pr_a": 790.2
     },
     {
       "player": "Cao",
       "main": "Tayami",
       "class": "Priest",
-      "ep": 8135,
+      "ep": 8676,
       "gp_m": 14.02,
-      "pr_m": 580.24,
+      "pr_m": 618.83,
       "gp_a": 21.47,
-      "pr_a": 378.90
+      "pr_a": 404.10
     },
     {
       "player": "Yolanda",
@@ -30,6 +30,16 @@
       "pr_m": 663.17,
       "gp_a": 30.19,
       "pr_a": 230.21
+    },
+    {
+      "player": "Nofun",
+      "main": "Nofun",
+      "class": "",
+      "ep": 2108,
+      "gp_m": 10,
+      "pr_m": 210.8,
+      "gp_a": 10,
+      "pr_a": 210.8
     },
     {
       "player": "Preus",
@@ -45,11 +55,11 @@
       "player": "Billii",
       "main": "Billii",
       "class": "Warrior",
-      "ep": 7785,
+      "ep": 8326,
       "gp_m": 11.01,
-      "pr_m": 707.08,
+      "pr_m": 756.22,
       "gp_a": 44.08,
-      "pr_a": 176.61
+      "pr_a": 188.88
     },
     {
       "player": "Bringschuld",
@@ -60,16 +70,6 @@
       "pr_m": 228.19,
       "gp_a": 44.81,
       "pr_a": 162.95
-    },
-    {
-      "player": "Nofun",
-      "main": "Nofun",
-      "class": "",
-      "ep": 1567,
-      "gp_m": 10,
-      "pr_m": 156.7,
-      "gp_a": 10,
-      "pr_a": 156.7
     },
     {
       "player": "Dzemenka",
@@ -92,14 +92,34 @@
       "pr_a": 105.14
     },
     {
+      "player": "Parnn",
+      "main": "Parnn",
+      "class": "",
+      "ep": 1033,
+      "gp_m": 10,
+      "pr_m": 103.3,
+      "gp_a": 10,
+      "pr_a": 103.3
+    },
+    {
       "player": "Sandu",
       "main": "Sandu",
       "class": "Paladin",
-      "ep": 7615,
+      "ep": 8156,
       "gp_m": 14.59,
-      "pr_m": 521.93,
+      "pr_m": 559.01,
       "gp_a": 89.19,
-      "pr_a": 85.38
+      "pr_a": 91.45
+    },
+    {
+      "player": "Tschuberle",
+      "main": "Tschuberle",
+      "class": "Paladin",
+      "ep": 7947,
+      "gp_m": 23.60,
+      "pr_m": 336.74,
+      "gp_a": 92.93,
+      "pr_a": 85.52
     },
     {
       "player": "Orthiad",
@@ -110,26 +130,6 @@
       "pr_m": 114.97,
       "gp_a": 73.69,
       "pr_a": 83.16
-    },
-    {
-      "player": "Grokhna",
-      "main": "Grokhna",
-      "class": "Shaman",
-      "ep": 6110,
-      "gp_m": 10,
-      "pr_m": 611,
-      "gp_a": 74.78,
-      "pr_a": 81.71
-    },
-    {
-      "player": "Tschuberle",
-      "main": "Tschuberle",
-      "class": "Paladin",
-      "ep": 7424,
-      "gp_m": 23.60,
-      "pr_m": 314.58,
-      "gp_a": 92.93,
-      "pr_a": 79.89
     },
     {
       "player": "Osvalld",
@@ -152,6 +152,16 @@
       "pr_a": 71.71
     },
     {
+      "player": "Mangoberry",
+      "main": "Mangoberry",
+      "class": "",
+      "ep": 691,
+      "gp_m": 10,
+      "pr_m": 69.1,
+      "gp_a": 10,
+      "pr_a": 69.1
+    },
+    {
       "player": "Joffrey",
       "main": "Joffrey",
       "class": "Warlock",
@@ -162,24 +172,34 @@
       "pr_a": 66.94
     },
     {
+      "player": "Grokhna",
+      "main": "Grokhna",
+      "class": "Shaman",
+      "ep": 6645,
+      "gp_m": 10,
+      "pr_m": 664.5,
+      "gp_a": 114.78,
+      "pr_a": 57.89
+    },
+    {
       "player": "Luisken",
       "main": "Luisken",
       "class": "Druid",
-      "ep": 8128,
+      "ep": 8669,
       "gp_m": 36.30,
-      "pr_m": 223.91,
-      "gp_a": 123.06,
-      "pr_a": 66.05
+      "pr_m": 238.82,
+      "gp_a": 153.06,
+      "pr_a": 56.64
     },
     {
-      "player": "Waldi",
-      "main": "Waldmeister",
-      "class": "Warrior",
-      "ep": 7562,
-      "gp_m": 23.13,
-      "pr_m": 326.93,
-      "gp_a": 117.86,
-      "pr_a": 64.16
+      "player": "Anatash",
+      "main": "Anatash",
+      "class": "",
+      "ep": 541,
+      "gp_m": 10,
+      "pr_m": 54.1,
+      "gp_a": 10,
+      "pr_a": 54.1
     },
     {
       "player": "Maerthyr",
@@ -192,14 +212,24 @@
       "pr_a": 49.35
     },
     {
-      "player": "Parnn",
-      "main": "Parnn",
+      "player": "Waldi",
+      "main": "Waldmeister",
+      "class": "Warrior",
+      "ep": 8103,
+      "gp_m": 23.13,
+      "pr_m": 350.32,
+      "gp_a": 177.86,
+      "pr_a": 45.56
+    },
+    {
+      "player": "Kalija",
+      "main": "Kalija",
       "class": "",
-      "ep": 492,
+      "ep": 445,
       "gp_m": 10,
-      "pr_m": 49.2,
+      "pr_m": 44.5,
       "gp_a": 10,
-      "pr_a": 49.2
+      "pr_a": 44.5
     },
     {
       "player": "Tazzbingo",
@@ -215,11 +245,21 @@
       "player": "Siestinkt",
       "main": "Siestinkt",
       "class": "",
-      "ep": 2128,
+      "ep": 2669,
       "gp_m": 10,
-      "pr_m": 212.8,
-      "gp_a": 89.60,
-      "pr_a": 23.75
+      "pr_m": 266.9,
+      "gp_a": 119.60,
+      "pr_a": 22.32
+    },
+    {
+      "player": "Tashock",
+      "main": "Tashock",
+      "class": "",
+      "ep": 3725,
+      "gp_m": 10,
+      "pr_m": 372.5,
+      "gp_a": 192.00,
+      "pr_a": 19.40
     },
     {
       "player": "Soirxz",
@@ -242,26 +282,6 @@
       "pr_a": 17.32
     },
     {
-      "player": "Tashock",
-      "main": "Tashock",
-      "class": "",
-      "ep": 3184,
-      "gp_m": 10,
-      "pr_m": 318.4,
-      "gp_a": 192.00,
-      "pr_a": 16.58
-    },
-    {
-      "player": "Mangoberry",
-      "main": "Mangoberry",
-      "class": "",
-      "ep": 150,
-      "gp_m": 10,
-      "pr_m": 15,
-      "gp_a": 10,
-      "pr_a": 15
-    },
-    {
       "player": "Sinaltia",
       "main": "Sinaltia",
       "class": "",
@@ -282,8 +302,38 @@
       "pr_a": 13.59
     },
     {
+      "player": "Idynamic",
+      "main": "Idynamic",
+      "class": "",
+      "ep": 541,
+      "gp_m": 10,
+      "pr_m": 54.1,
+      "gp_a": 40,
+      "pr_a": 13.52
+    },
+    {
+      "player": "Biggalow",
+      "main": "Biggalow",
+      "class": "",
+      "ep": 535,
+      "gp_m": 10,
+      "pr_m": 53.5,
+      "gp_a": 70,
+      "pr_a": 7.64
+    },
+    {
       "player": "Elinea",
       "main": "Elinea",
+      "class": "",
+      "ep": 0,
+      "gp_m": 10,
+      "pr_m": 0,
+      "gp_a": 10,
+      "pr_a": 0
+    },
+    {
+      "player": "Oikarya",
+      "main": "Oikarya",
       "class": "",
       "ep": 0,
       "gp_m": 10,
