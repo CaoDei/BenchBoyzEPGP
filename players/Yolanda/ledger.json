@@ -1,13 +1,13 @@
 {
-  "lastModified": "2026-04-27T18:26:46\u002B02:00",
+  "lastModified": "2026-05-04T18:40:59\u002B02:00",
   "player": "Yolanda",
   "main": "Yolanda",
   "saldo": {
-    "ep": 6950,
+    "ep": 7613,
     "gp_m": 10.48,
-    "gp_a": 30.19,
-    "pr_m": 663.17,
-    "pr_a": 230.21
+    "gp_a": 40.19,
+    "pr_m": 726.43,
+    "pr_a": 189.43
   },
   "ledger": {
     "ep": [
@@ -195,6 +195,11 @@
         "ts": "2026-04-27T18:26:46\u002B02:00",
         "delta": 799,
         "desc": "Attendance EP (799) for raid (162 min @ 3 EP/min, buffed 151 min @ 1 EP/min, enchanted 162 min @ 1 EP/min) [source: Manual]"
+      },
+      {
+        "ts": "2026-05-04T18:40:59\u002B02:00",
+        "delta": 663,
+        "desc": "Attendance EP (663) for raid (135 min @ 3 EP/min, buffed 123 min @ 1 EP/min, enchanted 135 min @ 1 EP/min) [source: Manual]"
       }
     ],
     "gp_m": [
@@ -289,6 +294,11 @@
         "ts": "2026-04-27T18:26:33\u002B02:00",
         "delta": -7.55,
         "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-04-29T22:22:57\u002B02:00",
+        "delta": 10,
+        "desc": "Volcanic Arbalest (ms-low)"
       }
     ]
   }
