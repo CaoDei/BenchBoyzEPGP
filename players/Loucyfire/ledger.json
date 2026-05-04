@@ -1,0 +1,29 @@
+{
+  "lastModified": "2026-05-04T18:40:59\u002B02:00",
+  "player": "Loucyfire",
+  "main": "Loucyfire",
+  "saldo": {
+    "ep": 663,
+    "gp_m": 10,
+    "gp_a": 40,
+    "pr_m": 66.3,
+    "pr_a": 16.58
+  },
+  "ledger": {
+    "ep": [
+      {
+        "ts": "2026-05-04T18:40:59\u002B02:00",
+        "delta": 663,
+        "desc": "Attendance EP (663) for raid (135 min @ 3 EP/min, buffed 123 min @ 1 EP/min, enchanted 135 min @ 1 EP/min) [source: Manual]"
+      }
+    ],
+    "gp_m": [],
+    "gp_a": [
+      {
+        "ts": "2026-04-29T22:22:45\u002B02:00",
+        "delta": 30,
+        "desc": "Blade of Dragon Bone (ms-mid) [downgraded from ms-high: Below min EP (0/5000)]"
+      }
+    ]
+  }
+}
