@@ -1,17 +1,39 @@
 {
-  "lastModified": "2026-04-27T18:26:33\u002B02:00",
+  "lastModified": "2026-05-04T18:40:59\u002B02:00",
   "player": "Oikarya",
   "main": "Oikarya",
   "saldo": {
-    "ep": 0,
+    "ep": 663,
     "gp_m": 10,
-    "gp_a": 10,
-    "pr_m": 0,
-    "pr_a": 0
+    "gp_a": 80,
+    "pr_m": 66.3,
+    "pr_a": 8.29
   },
   "ledger": {
-    "ep": [],
+    "ep": [
+      {
+        "ts": "2026-05-04T18:40:59\u002B02:00",
+        "delta": 663,
+        "desc": "Attendance EP (663) for raid (135 min @ 3 EP/min, buffed 123 min @ 1 EP/min, enchanted 135 min @ 1 EP/min) [source: Manual]"
+      }
+    ],
     "gp_m": [],
-    "gp_a": []
+    "gp_a": [
+      {
+        "ts": "2026-04-29T21:24:56\u002B02:00",
+        "delta": 10,
+        "desc": "Molten Spaulders (ms-low)"
+      },
+      {
+        "ts": "2026-04-29T22:22:51\u002B02:00",
+        "delta": 30,
+        "desc": "Chromatic Legguards (ms-mid)"
+      },
+      {
+        "ts": "2026-04-29T22:22:54\u002B02:00",
+        "delta": 30,
+        "desc": "Chromatic Wristguards (ms-mid)"
+      }
+    ]
   }
 }
