@@ -1,0 +1,23 @@
+{
+  "lastModified": "2026-05-04T18:40:59\u002B02:00",
+  "player": "Scraph",
+  "main": "Scraph",
+  "saldo": {
+    "ep": 350,
+    "gp_m": 10,
+    "gp_a": 10,
+    "pr_m": 35,
+    "pr_a": 35
+  },
+  "ledger": {
+    "ep": [
+      {
+        "ts": "2026-05-04T18:40:59\u002B02:00",
+        "delta": 350,
+        "desc": "Attendance EP (350) for raid (70 min @ 3 EP/min, buffed 70 min @ 1 EP/min, enchanted 70 min @ 1 EP/min) [source: Computed]"
+      }
+    ],
+    "gp_m": [],
+    "gp_a": []
+  }
+}
