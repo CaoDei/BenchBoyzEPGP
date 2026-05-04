@@ -1,13 +1,13 @@
 {
-  "lastModified": "2026-04-27T18:26:46\u002B02:00",
+  "lastModified": "2026-05-04T18:40:59\u002B02:00",
   "player": "Yuzuyuu",
   "main": "Yuzuyuu",
   "saldo": {
-    "ep": 4766,
+    "ep": 5429,
     "gp_m": 10,
     "gp_a": 45.33,
-    "pr_m": 476.6,
-    "pr_a": 105.14
+    "pr_m": 542.9,
+    "pr_a": 119.77
   },
   "ledger": {
     "ep": [
@@ -170,6 +170,11 @@
         "ts": "2026-04-27T18:26:46\u002B02:00",
         "delta": 799,
         "desc": "Attendance EP (799) for raid (162 min @ 3 EP/min, buffed 151 min @ 1 EP/min, enchanted 162 min @ 1 EP/min) [source: Manual]"
+      },
+      {
+        "ts": "2026-05-04T18:40:59\u002B02:00",
+        "delta": 663,
+        "desc": "Attendance EP (663) for raid (135 min @ 3 EP/min, buffed 123 min @ 1 EP/min, enchanted 135 min @ 1 EP/min) [source: Manual]"
       }
     ],
     "gp_m": [
