@@ -1,13 +1,13 @@
 {
-  "lastModified": "2026-04-27T18:26:33\u002B02:00",
+  "lastModified": "2026-05-05T13:39:31\u002B02:00",
   "player": "Osvalld",
   "main": "Osvalld",
   "saldo": {
-    "ep": 768,
+    "ep": 614,
     "gp_m": 10,
     "gp_a": 10,
-    "pr_m": 76.8,
-    "pr_a": 76.8
+    "pr_m": 61.4,
+    "pr_a": 61.4
   },
   "ledger": {
     "ep": [
@@ -19,6 +19,11 @@
       {
         "ts": "2026-04-27T18:26:33\u002B02:00",
         "delta": -192,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-05-05T13:39:31\u002B02:00",
+        "delta": -154,
         "desc": "Decay -20% applied to all players"
       }
     ],
