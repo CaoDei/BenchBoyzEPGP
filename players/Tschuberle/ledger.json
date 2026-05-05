@@ -1,13 +1,13 @@
 {
-  "lastModified": "2026-05-05T13:26:53\u002B02:00",
+  "lastModified": "2026-05-05T13:39:31\u002B02:00",
   "player": "Tschuberle",
   "main": "Tschuberle",
   "saldo": {
-    "ep": 9220,
-    "gp_m": 23.60,
-    "gp_a": 122.93,
+    "ep": 7376,
+    "gp_m": 18.88,
+    "gp_a": 98.34,
     "pr_m": 390.68,
-    "pr_a": 75.00
+    "pr_a": 75.01
   },
   "ledger": {
     "ep": [
@@ -210,6 +210,11 @@
         "ts": "2026-05-05T13:26:53\u002B02:00",
         "delta": 610,
         "desc": "Attendance EP (610) for raid (122 min @ 3 EP/min, buffed 122 min @ 1 EP/min, enchanted 122 min @ 1 EP/min) [source: Computed]"
+      },
+      {
+        "ts": "2026-05-05T13:39:31\u002B02:00",
+        "delta": -1844,
+        "desc": "Decay -20% applied to all players"
       }
     ],
     "gp_m": [
@@ -271,6 +276,11 @@
       {
         "ts": "2026-04-27T18:26:33\u002B02:00",
         "delta": -5.90,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-05-05T13:39:31\u002B02:00",
+        "delta": -4.72,
         "desc": "Decay -20% applied to all players"
       }
     ],
@@ -364,6 +374,11 @@
         "ts": "2026-05-04T22:05:27\u002B02:00",
         "delta": 30,
         "desc": "Wyrmguard Talisman (ms-mid) [downgraded from ms-high: Below min PR (92,650/100)]"
+      },
+      {
+        "ts": "2026-05-05T13:39:31\u002B02:00",
+        "delta": -24.59,
+        "desc": "Decay -20% applied to all players"
       }
     ]
   }
