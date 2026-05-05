@@ -1,13 +1,13 @@
 {
-  "lastModified": "2026-04-27T18:26:33\u002B02:00",
+  "lastModified": "2026-05-05T13:39:31\u002B02:00",
   "player": "Joffrey",
   "main": "Joffrey",
   "saldo": {
-    "ep": 3723,
-    "gp_m": 12.29,
-    "gp_a": 55.62,
-    "pr_m": 302.93,
-    "pr_a": 66.94
+    "ep": 2978,
+    "gp_m": 10,
+    "gp_a": 44.50,
+    "pr_m": 297.8,
+    "pr_a": 66.92
   },
   "ledger": {
     "ep": [
@@ -130,6 +130,11 @@
         "ts": "2026-04-27T18:26:33\u002B02:00",
         "delta": -931,
         "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-05-05T13:39:31\u002B02:00",
+        "delta": -745,
+        "desc": "Decay -20% applied to all players"
       }
     ],
     "gp_m": [
@@ -161,6 +166,11 @@
       {
         "ts": "2026-04-27T18:26:33\u002B02:00",
         "delta": -3.07,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-05-05T13:39:31\u002B02:00",
+        "delta": -2.29,
         "desc": "Decay -20% applied to all players"
       }
     ],
@@ -238,6 +248,11 @@
       {
         "ts": "2026-04-27T18:26:33\u002B02:00",
         "delta": -13.90,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-05-05T13:39:31\u002B02:00",
+        "delta": -11.12,
         "desc": "Decay -20% applied to all players"
       }
     ]
