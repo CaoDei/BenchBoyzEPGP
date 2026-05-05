@@ -1,13 +1,13 @@
 {
-  "lastModified": "2026-05-04T18:40:59\u002B02:00",
+  "lastModified": "2026-05-05T13:26:53\u002B02:00",
   "player": "Luisken",
   "main": "Luisken",
   "saldo": {
-    "ep": 9332,
+    "ep": 10100,
     "gp_m": 36.30,
     "gp_a": 153.06,
-    "pr_m": 257.08,
-    "pr_a": 60.97
+    "pr_m": 278.24,
+    "pr_a": 65.99
   },
   "ledger": {
     "ep": [
@@ -225,6 +225,16 @@
         "ts": "2026-05-04T18:40:59\u002B02:00",
         "delta": 663,
         "desc": "Attendance EP (663) for raid (135 min @ 3 EP/min, buffed 123 min @ 1 EP/min, enchanted 135 min @ 1 EP/min) [source: Manual]"
+      },
+      {
+        "ts": "2026-05-05T13:17:06\u002B02:00",
+        "delta": 60,
+        "desc": "Timely signup EP bonus for: Onyxia Ascended Montag 04.05.2026"
+      },
+      {
+        "ts": "2026-05-05T13:26:53\u002B02:00",
+        "delta": 708,
+        "desc": "Attendance EP (708) for raid (144 min @ 3 EP/min, buffed 132 min @ 1 EP/min, enchanted 144 min @ 1 EP/min) [source: Computed]"
       }
     ],
     "gp_m": [
