@@ -1,13 +1,13 @@
 {
-  "lastModified": "2026-05-04T18:40:59\u002B02:00",
+  "lastModified": "2026-05-05T13:26:53\u002B02:00",
   "player": "Cao",
   "main": "Tayami",
   "saldo": {
-    "ep": 9339,
+    "ep": 10107,
     "gp_m": 14.02,
-    "gp_a": 21.47,
-    "pr_m": 666.12,
-    "pr_a": 434.98
+    "gp_a": 51.47,
+    "pr_m": 720.90,
+    "pr_a": 196.37
   },
   "ledger": {
     "ep": [
@@ -225,6 +225,16 @@
         "ts": "2026-05-04T18:40:59\u002B02:00",
         "delta": 663,
         "desc": "Attendance EP (663) for raid (135 min @ 3 EP/min, buffed 123 min @ 1 EP/min, enchanted 135 min @ 1 EP/min) [source: Manual]"
+      },
+      {
+        "ts": "2026-05-05T13:17:06\u002B02:00",
+        "delta": 60,
+        "desc": "Timely signup EP bonus for: Onyxia Ascended Montag 04.05.2026"
+      },
+      {
+        "ts": "2026-05-05T13:26:53\u002B02:00",
+        "delta": 708,
+        "desc": "Attendance EP (708) for raid (144 min @ 3 EP/min, buffed 132 min @ 1 EP/min, enchanted 144 min @ 1 EP/min) [source: Computed]"
       }
     ],
     "gp_m": [
@@ -329,6 +339,11 @@
         "ts": "2026-04-27T18:26:33\u002B02:00",
         "delta": -5.37,
         "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-05-04T22:05:22\u002B02:00",
+        "delta": 30,
+        "desc": "Insignia of the Dragon (ms-mid)"
       }
     ]
   }
