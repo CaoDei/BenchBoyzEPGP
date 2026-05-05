@@ -1,0 +1,28 @@
+{
+  "lastModified": "2026-05-05T13:26:53\u002B02:00",
+  "player": "Managlow",
+  "main": "Managlow",
+  "saldo": {
+    "ep": 758,
+    "gp_m": 10,
+    "gp_a": 10,
+    "pr_m": 75.8,
+    "pr_a": 75.8
+  },
+  "ledger": {
+    "ep": [
+      {
+        "ts": "2026-05-05T13:17:06\u002B02:00",
+        "delta": 60,
+        "desc": "Timely signup EP bonus for: Onyxia Ascended Montag 04.05.2026"
+      },
+      {
+        "ts": "2026-05-05T13:26:53\u002B02:00",
+        "delta": 698,
+        "desc": "Attendance EP (698) for raid (144 min @ 3 EP/min, buffed 122 min @ 1 EP/min, enchanted 144 min @ 1 EP/min) [source: Computed]"
+      }
+    ],
+    "gp_m": [],
+    "gp_a": []
+  }
+}
