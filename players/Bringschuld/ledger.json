@@ -3,11 +3,11 @@
   "player": "Bringschuld",
   "main": "Bringschuld",
   "saldo": {
-    "ep": 8733,
+    "ep": 8753,
     "gp_m": 32.00,
     "gp_a": 44.81,
-    "pr_m": 272.91,
-    "pr_a": 194.89
+    "pr_m": 273.53,
+    "pr_a": 195.34
   },
   "ledger": {
     "ep": [
@@ -168,12 +168,12 @@
       },
       {
         "ts": "2026-04-27T18:26:25\u002B02:00",
-        "delta": 615,
-        "desc": "Attendance EP (615) for raid (123 min @ 3 EP/min, buffed 123 min @ 1 EP/min, enchanted 123 min @ 1 EP/min) [source: Computed]"
+        "delta": 640,
+        "desc": "Attendance EP (640) for raid (128 min @ 3 EP/min, buffed 128 min @ 1 EP/min, enchanted 128 min @ 1 EP/min) [source: Computed]"
       },
       {
         "ts": "2026-04-27T18:26:33\u002B02:00",
-        "delta": -1626,
+        "delta": -1631,
         "desc": "Decay -20% applied to all players"
       },
       {
