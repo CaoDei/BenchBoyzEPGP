@@ -1,12 +1,12 @@
 {
-  "lastModified": "2026-05-05T13:26:53\u002B02:00",
+  "lastModified": "2026-05-05T13:39:31\u002B02:00",
   "player": "Einhorny",
   "main": "Einhorny",
   "saldo": {
-    "ep": 1431,
+    "ep": 1145,
     "gp_m": 10,
-    "gp_a": 100,
-    "pr_m": 143.1,
+    "gp_a": 80.00,
+    "pr_m": 114.5,
     "pr_a": 14.31
   },
   "ledger": {
@@ -25,6 +25,11 @@
         "ts": "2026-05-05T13:26:53\u002B02:00",
         "delta": 708,
         "desc": "Attendance EP (708) for raid (144 min @ 3 EP/min, buffed 132 min @ 1 EP/min, enchanted 144 min @ 1 EP/min) [source: Computed]"
+      },
+      {
+        "ts": "2026-05-05T13:39:31\u002B02:00",
+        "delta": -286,
+        "desc": "Decay -20% applied to all players"
       }
     ],
     "gp_m": [],
@@ -53,6 +58,11 @@
         "ts": "2026-05-04T22:05:24\u002B02:00",
         "delta": 30,
         "desc": "Obsidian Signet (ms-mid) [downgraded from ms-high: Below min EP (663/5000)]"
+      },
+      {
+        "ts": "2026-05-05T13:39:31\u002B02:00",
+        "delta": -20.00,
+        "desc": "Decay -20% applied to all players"
       }
     ]
   }
