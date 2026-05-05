@@ -1,13 +1,13 @@
 {
-  "lastModified": "2026-05-04T18:40:59\u002B02:00",
+  "lastModified": "2026-05-05T13:26:53\u002B02:00",
   "player": "Siestinkt",
   "main": "Siestinkt",
   "saldo": {
-    "ep": 3332,
+    "ep": 4100,
     "gp_m": 10,
     "gp_a": 399.60,
-    "pr_m": 333.2,
-    "pr_a": 8.34
+    "pr_m": 410,
+    "pr_a": 10.26
   },
   "ledger": {
     "ep": [
@@ -55,6 +55,16 @@
         "ts": "2026-05-04T18:40:59\u002B02:00",
         "delta": 663,
         "desc": "Attendance EP (663) for raid (135 min @ 3 EP/min, buffed 123 min @ 1 EP/min, enchanted 135 min @ 1 EP/min) [source: Manual]"
+      },
+      {
+        "ts": "2026-05-05T13:17:06\u002B02:00",
+        "delta": 60,
+        "desc": "Timely signup EP bonus for: Onyxia Ascended Montag 04.05.2026"
+      },
+      {
+        "ts": "2026-05-05T13:26:53\u002B02:00",
+        "delta": 708,
+        "desc": "Attendance EP (708) for raid (144 min @ 3 EP/min, buffed 132 min @ 1 EP/min, enchanted 144 min @ 1 EP/min) [source: Computed]"
       }
     ],
     "gp_m": [
