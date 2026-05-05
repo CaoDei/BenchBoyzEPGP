@@ -1,13 +1,13 @@
 {
-  "lastModified": "2026-05-05T13:26:53\u002B02:00",
+  "lastModified": "2026-05-05T13:39:31\u002B02:00",
   "player": "Slux",
   "main": "Slux",
   "saldo": {
-    "ep": 768,
+    "ep": 614,
     "gp_m": 10,
-    "gp_a": 40,
-    "pr_m": 76.8,
-    "pr_a": 19.2
+    "gp_a": 32.00,
+    "pr_m": 61.4,
+    "pr_a": 19.19
   },
   "ledger": {
     "ep": [
@@ -20,6 +20,11 @@
         "ts": "2026-05-05T13:26:53\u002B02:00",
         "delta": 708,
         "desc": "Attendance EP (708) for raid (144 min @ 3 EP/min, buffed 132 min @ 1 EP/min, enchanted 144 min @ 1 EP/min) [source: Computed]"
+      },
+      {
+        "ts": "2026-05-05T13:39:31\u002B02:00",
+        "delta": -154,
+        "desc": "Decay -20% applied to all players"
       }
     ],
     "gp_m": [],
@@ -28,6 +33,11 @@
         "ts": "2026-05-04T22:05:28\u002B02:00",
         "delta": 30,
         "desc": "Head of Onyxia (ms-mid) [downgraded from ms-high: Below min EP (0/5000)]"
+      },
+      {
+        "ts": "2026-05-05T13:39:31\u002B02:00",
+        "delta": -8.00,
+        "desc": "Decay -20% applied to all players"
       }
     ]
   }
