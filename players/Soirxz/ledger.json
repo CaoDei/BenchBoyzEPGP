@@ -1,13 +1,13 @@
 {
-  "lastModified": "2026-04-27T18:26:33\u002B02:00",
+  "lastModified": "2026-05-05T13:39:31\u002B02:00",
   "player": "Soirxz",
   "main": "Soirxz",
   "saldo": {
-    "ep": 190,
+    "ep": 152,
     "gp_m": 10,
     "gp_a": 10,
-    "pr_m": 19,
-    "pr_a": 19
+    "pr_m": 15.2,
+    "pr_a": 15.2
   },
   "ledger": {
     "ep": [
@@ -24,6 +24,11 @@
       {
         "ts": "2026-04-27T18:26:33\u002B02:00",
         "delta": -47,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-05-05T13:39:31\u002B02:00",
+        "delta": -38,
         "desc": "Decay -20% applied to all players"
       }
     ],
