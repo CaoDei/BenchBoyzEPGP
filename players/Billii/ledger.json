@@ -1,13 +1,13 @@
 {
-  "lastModified": "2026-05-05T13:26:53\u002B02:00",
+  "lastModified": "2026-05-05T13:39:31\u002B02:00",
   "player": "Billii",
   "main": "Billii",
   "saldo": {
-    "ep": 9777,
-    "gp_m": 11.01,
-    "gp_a": 44.08,
-    "pr_m": 888.01,
-    "pr_a": 221.80
+    "ep": 7822,
+    "gp_m": 10,
+    "gp_a": 35.26,
+    "pr_m": 782.2,
+    "pr_a": 221.84
   },
   "ledger": {
     "ep": [
@@ -220,6 +220,11 @@
         "ts": "2026-05-05T13:26:53\u002B02:00",
         "delta": 708,
         "desc": "Attendance EP (708) for raid (144 min @ 3 EP/min, buffed 132 min @ 1 EP/min, enchanted 144 min @ 1 EP/min) [source: Computed]"
+      },
+      {
+        "ts": "2026-05-05T13:39:31\u002B02:00",
+        "delta": -1955,
+        "desc": "Decay -20% applied to all players"
       }
     ],
     "gp_m": [
@@ -266,6 +271,11 @@
       {
         "ts": "2026-04-27T18:26:33\u002B02:00",
         "delta": -2.75,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-05-05T13:39:31\u002B02:00",
+        "delta": -1.01,
         "desc": "Decay -20% applied to all players"
       }
     ],
@@ -374,6 +384,11 @@
         "ts": "2026-04-27T21:53:57\u002B02:00",
         "delta": -10,
         "desc": "Undo loot: Deathbringer"
+      },
+      {
+        "ts": "2026-05-05T13:39:31\u002B02:00",
+        "delta": -8.82,
+        "desc": "Decay -20% applied to all players"
       }
     ]
   }
