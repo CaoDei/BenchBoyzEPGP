@@ -3,11 +3,11 @@
   "player": "Orthiad",
   "main": "Orthiad",
   "saldo": {
-    "ep": 6128,
+    "ep": 6148,
     "gp_m": 53.30,
     "gp_a": 73.69,
-    "pr_m": 114.97,
-    "pr_a": 83.16
+    "pr_m": 115.35,
+    "pr_a": 83.43
   },
   "ledger": {
     "ep": [
@@ -163,12 +163,12 @@
       },
       {
         "ts": "2026-04-27T18:26:25\u002B02:00",
-        "delta": 615,
-        "desc": "Attendance EP (615) for raid (123 min @ 3 EP/min, buffed 123 min @ 1 EP/min, enchanted 123 min @ 1 EP/min) [source: Computed]"
+        "delta": 640,
+        "desc": "Attendance EP (640) for raid (128 min @ 3 EP/min, buffed 128 min @ 1 EP/min, enchanted 128 min @ 1 EP/min) [source: Computed]"
       },
       {
         "ts": "2026-04-27T18:26:33\u002B02:00",
-        "delta": -1532,
+        "delta": -1537,
         "desc": "Decay -20% applied to all players"
       }
     ],
