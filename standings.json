@@ -15,41 +15,41 @@
       "player": "Billii",
       "main": "Billii",
       "class": "Warrior",
-      "ep": 9757,
+      "ep": 9777,
       "gp_m": 11.01,
-      "pr_m": 886.19,
+      "pr_m": 888.01,
       "gp_a": 44.08,
-      "pr_a": 221.35
+      "pr_a": 221.80
     },
     {
       "player": "Cao",
       "main": "Tayami",
       "class": "Priest",
-      "ep": 10107,
+      "ep": 10127,
       "gp_m": 14.02,
-      "pr_m": 720.90,
+      "pr_m": 722.33,
       "gp_a": 51.47,
-      "pr_a": 196.37
+      "pr_a": 196.76
     },
     {
       "player": "Bringschuld",
       "main": "Bringschuld",
       "class": "Shaman",
-      "ep": 8733,
+      "ep": 8753,
       "gp_m": 32.00,
-      "pr_m": 272.91,
+      "pr_m": 273.53,
       "gp_a": 44.81,
-      "pr_a": 194.89
+      "pr_a": 195.34
     },
     {
       "player": "Yolanda",
       "main": "Yolanda",
       "class": "Hunter",
-      "ep": 7613,
+      "ep": 7633,
       "gp_m": 10.48,
-      "pr_m": 726.43,
+      "pr_m": 728.34,
       "gp_a": 40.19,
-      "pr_a": 189.43
+      "pr_a": 189.92
     },
     {
       "player": "Dzemenka",
@@ -75,21 +75,21 @@
       "player": "Sandu",
       "main": "Sandu",
       "class": "Paladin",
-      "ep": 9587,
+      "ep": 9607,
       "gp_m": 14.59,
-      "pr_m": 657.09,
+      "pr_m": 658.46,
       "gp_a": 89.19,
-      "pr_a": 107.49
+      "pr_a": 107.71
     },
     {
       "player": "Parnn",
       "main": "Parnn",
       "class": "",
-      "ep": 1033,
+      "ep": 1053,
       "gp_m": 10,
-      "pr_m": 103.3,
+      "pr_m": 105.3,
       "gp_a": 10,
-      "pr_a": 103.3
+      "pr_a": 105.3
     },
     {
       "player": "Nofun",
@@ -105,11 +105,11 @@
       "player": "Orthiad",
       "main": "Orthiad",
       "class": "Hunter",
-      "ep": 6128,
+      "ep": 6148,
       "gp_m": 53.30,
-      "pr_m": 114.97,
+      "pr_m": 115.35,
       "gp_a": 73.69,
-      "pr_a": 83.16
+      "pr_a": 83.43
     },
     {
       "player": "Osvalld",
@@ -265,11 +265,11 @@
       "player": "Maerthyr",
       "main": "Maerthyr",
       "class": "Warlock",
-      "ep": 3851,
+      "ep": 3871,
       "gp_m": 10,
-      "pr_m": 385.1,
+      "pr_m": 387.1,
       "gp_a": 78.04,
-      "pr_a": 49.35
+      "pr_a": 49.60
     },
     {
       "player": "Kalija",
@@ -440,26 +440,6 @@
       "pr_m": 410,
       "gp_a": 399.60,
       "pr_a": 10.26
-    },
-    {
-      "player": "Elinea",
-      "main": "Elinea",
-      "class": "",
-      "ep": 0,
-      "gp_m": 10,
-      "pr_m": 0,
-      "gp_a": 10,
-      "pr_a": 0
-    },
-    {
-      "player": "Viperz",
-      "main": "Viperz",
-      "class": "",
-      "ep": 0,
-      "gp_m": 10,
-      "pr_m": 0,
-      "gp_a": 10,
-      "pr_a": 0
     }
   ]
 }
