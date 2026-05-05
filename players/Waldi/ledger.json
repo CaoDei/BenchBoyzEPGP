@@ -1,13 +1,13 @@
 {
-  "lastModified": "2026-05-04T18:40:59\u002B02:00",
+  "lastModified": "2026-05-05T13:26:53\u002B02:00",
   "player": "Waldi",
   "main": "Waldmeister",
   "saldo": {
-    "ep": 8766,
+    "ep": 9534,
     "gp_m": 23.13,
-    "gp_a": 177.86,
-    "pr_m": 378.99,
-    "pr_a": 49.29
+    "gp_a": 237.86,
+    "pr_m": 412.19,
+    "pr_a": 40.08
   },
   "ledger": {
     "ep": [
@@ -220,6 +220,16 @@
         "ts": "2026-05-04T18:40:59\u002B02:00",
         "delta": 663,
         "desc": "Attendance EP (663) for raid (135 min @ 3 EP/min, buffed 123 min @ 1 EP/min, enchanted 135 min @ 1 EP/min) [source: Manual]"
+      },
+      {
+        "ts": "2026-05-05T13:17:06\u002B02:00",
+        "delta": 60,
+        "desc": "Timely signup EP bonus for: Onyxia Ascended Montag 04.05.2026"
+      },
+      {
+        "ts": "2026-05-05T13:26:53\u002B02:00",
+        "delta": 708,
+        "desc": "Attendance EP (708) for raid (144 min @ 3 EP/min, buffed 132 min @ 1 EP/min, enchanted 144 min @ 1 EP/min) [source: Computed]"
       }
     ],
     "gp_m": [
@@ -374,6 +384,26 @@
         "ts": "2026-04-27T21:51:28\u002B02:00",
         "delta": 60,
         "desc": "Bindings of the Windseeker: Differenz zu MS-High"
+      },
+      {
+        "ts": "2026-05-04T22:05:25\u002B02:00",
+        "delta": 30,
+        "desc": "Deathbringer (ms-mid) [downgraded from ms-high: Below min PR (49,286/100)]"
+      },
+      {
+        "ts": "2026-05-04T22:05:40\u002B02:00",
+        "delta": 30,
+        "desc": "Vis\u0027kag the Bloodletter (ms-mid)"
+      },
+      {
+        "ts": "2026-05-04T22:08:04\u002B02:00",
+        "delta": -30,
+        "desc": "Undo loot: Vis\u0027kag the Bloodletter"
+      },
+      {
+        "ts": "2026-05-04T22:08:10\u002B02:00",
+        "delta": 30,
+        "desc": "Vis\u0027kag the Bloodletter (ms-mid)"
       }
     ]
   }
