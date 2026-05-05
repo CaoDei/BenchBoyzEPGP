@@ -1,13 +1,13 @@
 {
-  "lastModified": "2026-05-04T18:40:59\u002B02:00",
+  "lastModified": "2026-05-05T13:26:53\u002B02:00",
   "player": "Biggalow",
   "main": "Biggalow",
   "saldo": {
-    "ep": 1198,
+    "ep": 1966,
     "gp_m": 10,
-    "gp_a": 160,
-    "pr_m": 119.8,
-    "pr_a": 7.49
+    "gp_a": 190,
+    "pr_m": 196.6,
+    "pr_a": 10.35
   },
   "ledger": {
     "ep": [
@@ -20,6 +20,16 @@
         "ts": "2026-05-04T18:40:59\u002B02:00",
         "delta": 663,
         "desc": "Attendance EP (663) for raid (135 min @ 3 EP/min, buffed 123 min @ 1 EP/min, enchanted 135 min @ 1 EP/min) [source: Manual]"
+      },
+      {
+        "ts": "2026-05-05T13:17:06\u002B02:00",
+        "delta": 60,
+        "desc": "Timely signup EP bonus for: Onyxia Ascended Montag 04.05.2026"
+      },
+      {
+        "ts": "2026-05-05T13:26:53\u002B02:00",
+        "delta": 708,
+        "desc": "Attendance EP (708) for raid (144 min @ 3 EP/min, buffed 132 min @ 1 EP/min, enchanted 144 min @ 1 EP/min) [source: Computed]"
       }
     ],
     "gp_m": [],
@@ -48,6 +58,11 @@
         "ts": "2026-04-29T22:22:46\u002B02:00",
         "delta": 30,
         "desc": "Band of Sulfuras (ms-mid) [downgraded from ms-high: Below min EP (535/5000)]"
+      },
+      {
+        "ts": "2026-05-04T22:05:23\u002B02:00",
+        "delta": 30,
+        "desc": "Living Lavastone Conduit (ms-mid) [downgraded from ms-high: Below min EP (1198/5000)]"
       }
     ]
   }
