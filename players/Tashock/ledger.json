@@ -1,12 +1,12 @@
 {
-  "lastModified": "2026-05-05T13:26:53\u002B02:00",
+  "lastModified": "2026-05-05T13:39:31\u002B02:00",
   "player": "Tashock",
   "main": "Tashock",
   "saldo": {
-    "ep": 4493,
+    "ep": 3594,
     "gp_m": 10,
-    "gp_a": 192.00,
-    "pr_m": 449.3,
+    "gp_a": 153.60,
+    "pr_m": 359.4,
     "pr_a": 23.40
   },
   "ledger": {
@@ -105,6 +105,11 @@
         "ts": "2026-05-05T13:26:53\u002B02:00",
         "delta": 708,
         "desc": "Attendance EP (708) for raid (144 min @ 3 EP/min, buffed 132 min @ 1 EP/min, enchanted 144 min @ 1 EP/min) [source: Computed]"
+      },
+      {
+        "ts": "2026-05-05T13:39:31\u002B02:00",
+        "delta": -899,
+        "desc": "Decay -20% applied to all players"
       }
     ],
     "gp_m": [
@@ -233,6 +238,11 @@
       {
         "ts": "2026-04-27T18:26:33\u002B02:00",
         "delta": -48.00,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-05-05T13:39:31\u002B02:00",
+        "delta": -38.40,
         "desc": "Decay -20% applied to all players"
       }
     ]
