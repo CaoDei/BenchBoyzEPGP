@@ -1,12 +1,12 @@
 {
-  "lastModified": "2026-05-05T13:26:53\u002B02:00",
+  "lastModified": "2026-05-05T13:39:31\u002B02:00",
   "player": "Grokhna",
   "main": "Grokhna",
   "saldo": {
-    "ep": 7389,
+    "ep": 5911,
     "gp_m": 10,
-    "gp_a": 114.78,
-    "pr_m": 738.9,
+    "gp_a": 91.82,
+    "pr_m": 591.1,
     "pr_a": 64.38
   },
   "ledger": {
@@ -195,6 +195,11 @@
         "ts": "2026-05-05T13:26:53\u002B02:00",
         "delta": 684,
         "desc": "Attendance EP (684) for raid (144 min @ 3 EP/min, buffed 108 min @ 1 EP/min, enchanted 144 min @ 1 EP/min) [source: Computed]"
+      },
+      {
+        "ts": "2026-05-05T13:39:31\u002B02:00",
+        "delta": -1478,
+        "desc": "Decay -20% applied to all players"
       }
     ],
     "gp_m": [],
@@ -328,6 +333,11 @@
         "ts": "2026-04-27T21:54:51\u002B02:00",
         "delta": 10,
         "desc": "Deathbringer"
+      },
+      {
+        "ts": "2026-05-05T13:39:31\u002B02:00",
+        "delta": -22.96,
+        "desc": "Decay -20% applied to all players"
       }
     ]
   }
