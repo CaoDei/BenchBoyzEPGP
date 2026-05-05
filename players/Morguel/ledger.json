@@ -1,13 +1,13 @@
 {
-  "lastModified": "2026-05-05T13:26:53\u002B02:00",
+  "lastModified": "2026-05-05T13:39:31\u002B02:00",
   "player": "Morguel",
   "main": "Morguel",
   "saldo": {
-    "ep": 768,
+    "ep": 614,
     "gp_m": 10,
-    "gp_a": 50,
-    "pr_m": 76.8,
-    "pr_a": 15.36
+    "gp_a": 40.00,
+    "pr_m": 61.4,
+    "pr_a": 15.35
   },
   "ledger": {
     "ep": [
@@ -20,6 +20,11 @@
         "ts": "2026-05-05T13:26:53\u002B02:00",
         "delta": 708,
         "desc": "Attendance EP (708) for raid (144 min @ 3 EP/min, buffed 132 min @ 1 EP/min, enchanted 144 min @ 1 EP/min) [source: Computed]"
+      },
+      {
+        "ts": "2026-05-05T13:39:31\u002B02:00",
+        "delta": -154,
+        "desc": "Decay -20% applied to all players"
       }
     ],
     "gp_m": [],
@@ -43,6 +48,11 @@
         "ts": "2026-05-04T22:08:22\u002B02:00",
         "delta": 30,
         "desc": "Vis\u0027kag the Bloodletter (os-mid) [downgraded from os-high: Below min EP (0/5000)]"
+      },
+      {
+        "ts": "2026-05-05T13:39:31\u002B02:00",
+        "delta": -10.00,
+        "desc": "Decay -20% applied to all players"
       }
     ]
   }
