@@ -1,13 +1,13 @@
 {
-  "lastModified": "2026-05-05T13:26:53\u002B02:00",
+  "lastModified": "2026-05-05T13:39:31\u002B02:00",
   "player": "Sandu",
   "main": "Sandu",
   "saldo": {
-    "ep": 9607,
-    "gp_m": 14.59,
-    "gp_a": 89.19,
-    "pr_m": 658.46,
-    "pr_a": 107.71
+    "ep": 7686,
+    "gp_m": 11.67,
+    "gp_a": 71.35,
+    "pr_m": 658.61,
+    "pr_a": 107.72
   },
   "ledger": {
     "ep": [
@@ -225,6 +225,11 @@
         "ts": "2026-05-05T13:26:53\u002B02:00",
         "delta": 708,
         "desc": "Attendance EP (708) for raid (144 min @ 3 EP/min, buffed 132 min @ 1 EP/min, enchanted 144 min @ 1 EP/min) [source: Computed]"
+      },
+      {
+        "ts": "2026-05-05T13:39:31\u002B02:00",
+        "delta": -1921,
+        "desc": "Decay -20% applied to all players"
       }
     ],
     "gp_m": [
@@ -281,6 +286,11 @@
       {
         "ts": "2026-04-27T18:26:33\u002B02:00",
         "delta": -3.65,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-05-05T13:39:31\u002B02:00",
+        "delta": -2.92,
         "desc": "Decay -20% applied to all players"
       }
     ],
@@ -383,6 +393,11 @@
       {
         "ts": "2026-04-27T18:26:33\u002B02:00",
         "delta": -22.30,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-05-05T13:39:31\u002B02:00",
+        "delta": -17.84,
         "desc": "Decay -20% applied to all players"
       }
     ]
