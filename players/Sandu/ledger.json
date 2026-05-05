@@ -3,11 +3,11 @@
   "player": "Sandu",
   "main": "Sandu",
   "saldo": {
-    "ep": 9587,
+    "ep": 9607,
     "gp_m": 14.59,
     "gp_a": 89.19,
-    "pr_m": 657.09,
-    "pr_a": 107.49
+    "pr_m": 658.46,
+    "pr_a": 107.71
   },
   "ledger": {
     "ep": [
@@ -193,12 +193,12 @@
       },
       {
         "ts": "2026-04-27T18:26:25\u002B02:00",
-        "delta": 615,
-        "desc": "Attendance EP (615) for raid (123 min @ 3 EP/min, buffed 123 min @ 1 EP/min, enchanted 123 min @ 1 EP/min) [source: Computed]"
+        "delta": 640,
+        "desc": "Attendance EP (640) for raid (128 min @ 3 EP/min, buffed 128 min @ 1 EP/min, enchanted 128 min @ 1 EP/min) [source: Computed]"
       },
       {
         "ts": "2026-04-27T18:26:33\u002B02:00",
-        "delta": -1704,
+        "delta": -1709,
         "desc": "Decay -20% applied to all players"
       },
       {
