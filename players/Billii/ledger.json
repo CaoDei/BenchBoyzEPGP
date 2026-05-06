@@ -1,13 +1,13 @@
 {
-  "lastModified": "2026-05-05T13:39:31\u002B02:00",
+  "lastModified": "2026-05-06T23:09:14\u002B02:00",
   "player": "Billii",
   "main": "Billii",
   "saldo": {
-    "ep": 7822,
+    "ep": 8822,
     "gp_m": 10,
-    "gp_a": 35.26,
-    "pr_m": 782.2,
-    "pr_a": 221.84
+    "gp_a": 135.26,
+    "pr_m": 882.2,
+    "pr_a": 65.22
   },
   "ledger": {
     "ep": [
@@ -225,6 +225,16 @@
         "ts": "2026-05-05T13:39:31\u002B02:00",
         "delta": -1955,
         "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-05-06T23:08:36\u002B02:00",
+        "delta": 60,
+        "desc": "Timely signup EP bonus for: Molten Core Ascended Mittwoch 06.05.2026"
+      },
+      {
+        "ts": "2026-05-06T23:09:14\u002B02:00",
+        "delta": 940,
+        "desc": "Attendance EP (940) for raid (198 min @ 3 EP/min, buffed 148 min @ 1 EP/min, enchanted 198 min @ 1 EP/min) [source: Computed]"
       }
     ],
     "gp_m": [
@@ -389,6 +399,16 @@
         "ts": "2026-05-05T13:39:31\u002B02:00",
         "delta": -8.82,
         "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-05-06T21:20:52\u002B02:00",
+        "delta": 90,
+        "desc": "Eternal Flame Artifact (ms-high)"
+      },
+      {
+        "ts": "2026-05-06T21:20:56\u002B02:00",
+        "delta": 10,
+        "desc": "Molten Boots (ms-low)"
       }
     ]
   }
