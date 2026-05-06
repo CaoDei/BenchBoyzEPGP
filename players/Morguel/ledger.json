@@ -1,5 +1,5 @@
 {
-  "lastModified": "2026-05-05T13:39:31\u002B02:00",
+  "lastModified": "2026-05-06T18:49:16\u002B02:00",
   "player": "Morguel",
   "main": "Morguel",
   "saldo": {
@@ -53,6 +53,26 @@
         "ts": "2026-05-05T13:39:31\u002B02:00",
         "delta": -10.00,
         "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-05-06T18:42:38\u002B02:00",
+        "delta": -30,
+        "desc": "Undo loot: Vis\u0027kag the Bloodletter"
+      },
+      {
+        "ts": "2026-05-06T18:42:51\u002B02:00",
+        "delta": 30,
+        "desc": "Vis\u0027kag the Bloodletter (os-mid) [downgraded from os-high: Below min EP (614/5000)]"
+      },
+      {
+        "ts": "2026-05-06T18:42:56\u002B02:00",
+        "delta": -30,
+        "desc": "Undo loot: Vis\u0027kag the Bloodletter"
+      },
+      {
+        "ts": "2026-05-06T18:49:16\u002B02:00",
+        "delta": 30,
+        "desc": "Vis\u0027kag the Bloodletter (os-mid) [downgraded from os-high: Below min EP (614/5000)]"
       }
     ]
   }
