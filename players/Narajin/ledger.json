@@ -1,13 +1,13 @@
 {
-  "lastModified": "2026-05-05T13:39:31\u002B02:00",
+  "lastModified": "2026-05-06T23:09:14\u002B02:00",
   "player": "Narajin",
   "main": "Narajin",
   "saldo": {
-    "ep": 1130,
+    "ep": 2172,
     "gp_m": 10,
-    "gp_a": 32.00,
-    "pr_m": 113,
-    "pr_a": 35.31
+    "gp_a": 62.00,
+    "pr_m": 217.2,
+    "pr_a": 35.03
   },
   "ledger": {
     "ep": [
@@ -30,6 +30,16 @@
         "ts": "2026-05-05T13:39:31\u002B02:00",
         "delta": -282,
         "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-05-06T23:08:36\u002B02:00",
+        "delta": 60,
+        "desc": "Timely signup EP bonus for: Molten Core Ascended Mittwoch 06.05.2026"
+      },
+      {
+        "ts": "2026-05-06T23:09:14\u002B02:00",
+        "delta": 982,
+        "desc": "Attendance EP (982) for raid (198 min @ 3 EP/min, buffed 190 min @ 1 EP/min, enchanted 198 min @ 1 EP/min) [source: Computed]"
       }
     ],
     "gp_m": [],
@@ -43,6 +53,11 @@
         "ts": "2026-05-05T13:39:31\u002B02:00",
         "delta": -8.00,
         "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-05-06T21:20:48\u002B02:00",
+        "delta": 30,
+        "desc": "Chromatic Legguards (ms-mid) [downgraded from ms-high: Below min EP (1130/5000)]"
       }
     ]
   }
