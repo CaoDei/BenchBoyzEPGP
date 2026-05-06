@@ -1,13 +1,13 @@
 {
-  "lastModified": "2026-05-05T13:39:31\u002B02:00",
+  "lastModified": "2026-05-06T23:09:14\u002B02:00",
   "player": "Tazzbingo",
   "main": "Tazzbingo",
   "saldo": {
-    "ep": 343,
+    "ep": 1325,
     "gp_m": 10,
     "gp_a": 10,
-    "pr_m": 34.3,
-    "pr_a": 34.3
+    "pr_m": 132.5,
+    "pr_a": 132.5
   },
   "ledger": {
     "ep": [
@@ -30,6 +30,11 @@
         "ts": "2026-05-05T13:39:31\u002B02:00",
         "delta": -86,
         "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-05-06T23:09:14\u002B02:00",
+        "delta": 982,
+        "desc": "Attendance EP (982) for raid (198 min @ 3 EP/min, buffed 190 min @ 1 EP/min, enchanted 198 min @ 1 EP/min) [source: Computed]"
       }
     ],
     "gp_m": [],
