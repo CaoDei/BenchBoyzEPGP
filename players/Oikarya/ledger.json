@@ -1,13 +1,13 @@
 {
-  "lastModified": "2026-05-05T13:39:31\u002B02:00",
+  "lastModified": "2026-05-06T23:09:14\u002B02:00",
   "player": "Oikarya",
   "main": "Oikarya",
   "saldo": {
-    "ep": 1145,
+    "ep": 1813,
     "gp_m": 10,
-    "gp_a": 64.00,
-    "pr_m": 114.5,
-    "pr_a": 17.89
+    "gp_a": 194.00,
+    "pr_m": 181.3,
+    "pr_a": 9.35
   },
   "ledger": {
     "ep": [
@@ -30,6 +30,16 @@
         "ts": "2026-05-05T13:39:31\u002B02:00",
         "delta": -286,
         "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-05-06T23:08:36\u002B02:00",
+        "delta": 60,
+        "desc": "Timely signup EP bonus for: Molten Core Ascended Mittwoch 06.05.2026"
+      },
+      {
+        "ts": "2026-05-06T23:09:14\u002B02:00",
+        "delta": 608,
+        "desc": "Attendance EP (608) for raid (123 min @ 3 EP/min, buffed 116 min @ 1 EP/min, enchanted 123 min @ 1 EP/min) [source: Computed]"
       }
     ],
     "gp_m": [],
@@ -53,6 +63,51 @@
         "ts": "2026-05-05T13:39:31\u002B02:00",
         "delta": -16.00,
         "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-05-06T18:43:10\u002B02:00",
+        "delta": 10,
+        "desc": "Vis\u0027kag the Bloodletter (os-low)"
+      },
+      {
+        "ts": "2026-05-06T18:47:00\u002B02:00",
+        "delta": -10,
+        "desc": "Undo loot: Vis\u0027kag the Bloodletter"
+      },
+      {
+        "ts": "2026-05-06T18:47:06\u002B02:00",
+        "delta": 10,
+        "desc": "Vis\u0027kag the Bloodletter (os-low)"
+      },
+      {
+        "ts": "2026-05-06T18:47:14\u002B02:00",
+        "delta": -10,
+        "desc": "Undo loot: Vis\u0027kag the Bloodletter"
+      },
+      {
+        "ts": "2026-05-06T18:48:59\u002B02:00",
+        "delta": 10,
+        "desc": "Vis\u0027kag the Bloodletter (os-low)"
+      },
+      {
+        "ts": "2026-05-06T20:14:47\u002B02:00",
+        "delta": 30,
+        "desc": "Molten Girdle (os-mid)"
+      },
+      {
+        "ts": "2026-05-06T20:15:19\u002B02:00",
+        "delta": 30,
+        "desc": "Molten Legguards (os-mid) [downgraded from os-high: Below min EP (1145/5000)]"
+      },
+      {
+        "ts": "2026-05-06T21:21:00\u002B02:00",
+        "delta": 30,
+        "desc": "Shadowstrike (ms-mid) [downgraded from ms-high: Below min EP (1145/5000)]"
+      },
+      {
+        "ts": "2026-05-06T21:21:05\u002B02:00",
+        "delta": 30,
+        "desc": "Molten Handguards (os-mid)"
       }
     ]
   }
