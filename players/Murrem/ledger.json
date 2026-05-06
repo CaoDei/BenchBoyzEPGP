@@ -1,0 +1,79 @@
+{
+  "lastModified": "2026-05-06T23:09:14\u002B02:00",
+  "player": "Murrem",
+  "main": "Murrem",
+  "saldo": {
+    "ep": 668,
+    "gp_m": 10,
+    "gp_a": 310,
+    "pr_m": 66.8,
+    "pr_a": 2.15
+  },
+  "ledger": {
+    "ep": [
+      {
+        "ts": "2026-05-06T23:08:36\u002B02:00",
+        "delta": 60,
+        "desc": "Timely signup EP bonus for: Molten Core Ascended Mittwoch 06.05.2026"
+      },
+      {
+        "ts": "2026-05-06T23:09:14\u002B02:00",
+        "delta": 608,
+        "desc": "Attendance EP (608) for raid (123 min @ 3 EP/min, buffed 116 min @ 1 EP/min, enchanted 123 min @ 1 EP/min) [source: Computed]"
+      }
+    ],
+    "gp_m": [],
+    "gp_a": [
+      {
+        "ts": "2026-05-06T20:14:42\u002B02:00",
+        "delta": 30,
+        "desc": "Molten Spaulders (ms-mid) [downgraded from ms-high: Below min EP (0/5000)]"
+      },
+      {
+        "ts": "2026-05-06T20:14:44\u002B02:00",
+        "delta": 30,
+        "desc": "Molten Wristguards (os-mid)"
+      },
+      {
+        "ts": "2026-05-06T20:14:51\u002B02:00",
+        "delta": 30,
+        "desc": "Molten Girdle (os-mid)"
+      },
+      {
+        "ts": "2026-05-06T20:15:08\u002B02:00",
+        "delta": 30,
+        "desc": "Molten Headpiece (os-mid)"
+      },
+      {
+        "ts": "2026-05-06T20:15:20\u002B02:00",
+        "delta": 30,
+        "desc": "Molten Legguards (os-mid)"
+      },
+      {
+        "ts": "2026-05-06T21:20:54\u002B02:00",
+        "delta": 30,
+        "desc": "Molten Boots (ms-mid) [downgraded from ms-high: Below min EP (0/5000)]"
+      },
+      {
+        "ts": "2026-05-06T21:21:01\u002B02:00",
+        "delta": 30,
+        "desc": "Band of Sulfuras (ms-mid) [downgraded from ms-high: Below min EP (0/5000)]"
+      },
+      {
+        "ts": "2026-05-06T21:21:02\u002B02:00",
+        "delta": 30,
+        "desc": "Molten Tunic (os-mid)"
+      },
+      {
+        "ts": "2026-05-06T21:21:04\u002B02:00",
+        "delta": 30,
+        "desc": "Band of Accuria (os-mid)"
+      },
+      {
+        "ts": "2026-05-06T21:21:05\u002B02:00",
+        "delta": 30,
+        "desc": "Molten Handguards (os-mid)"
+      }
+    ]
+  }
+}
