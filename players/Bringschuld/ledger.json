@@ -1,13 +1,13 @@
 {
-  "lastModified": "2026-05-13T17:22:49\u002B02:00",
+  "lastModified": "2026-05-13T22:54:10\u002B02:00",
   "player": "Bringschuld",
   "main": "Bringschuld",
   "saldo": {
-    "ep": 7194,
+    "ep": 8143,
     "gp_m": 20.48,
     "gp_a": 28.68,
-    "pr_m": 351.27,
-    "pr_a": 250.84
+    "pr_m": 397.61,
+    "pr_a": 283.93
   },
   "ledger": {
     "ep": [
@@ -225,6 +225,21 @@
         "ts": "2026-05-13T17:22:49\u002B02:00",
         "delta": -1799,
         "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-05-13T22:50:25\u002B02:00",
+        "delta": 60,
+        "desc": "Timely signup EP bonus for: Molten Core Ascended Mittwoch 13.05.2026"
+      },
+      {
+        "ts": "2026-05-13T22:50:56\u002B02:00",
+        "delta": 664,
+        "desc": "Attendance EP (664) for raid (138 min @ 3 EP/min, buffed 112 min @ 1 EP/min, enchanted 138 min @ 1 EP/min) [source: Computed]"
+      },
+      {
+        "ts": "2026-05-13T22:54:10\u002B02:00",
+        "delta": 225,
+        "desc": "EP-Nachtrag f\u00FCr Basalthane"
       }
     ],
     "gp_m": [
