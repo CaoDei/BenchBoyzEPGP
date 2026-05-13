@@ -1,13 +1,13 @@
 {
-  "lastModified": "2026-05-13T17:22:49\u002B02:00",
+  "lastModified": "2026-05-13T22:54:10\u002B02:00",
   "player": "Retterfiemen",
   "main": "Retterfiemen",
   "saldo": {
-    "ep": 713,
+    "ep": 1614,
     "gp_m": 10,
     "gp_a": 56.00,
-    "pr_m": 71.3,
-    "pr_a": 12.73
+    "pr_m": 161.4,
+    "pr_a": 28.82
   },
   "ledger": {
     "ep": [
@@ -25,6 +25,16 @@
         "ts": "2026-05-13T17:22:49\u002B02:00",
         "delta": -178,
         "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-05-13T22:50:56\u002B02:00",
+        "delta": 676,
+        "desc": "Attendance EP (676) for raid (138 min @ 3 EP/min, buffed 124 min @ 1 EP/min, enchanted 138 min @ 1 EP/min) [source: Computed]"
+      },
+      {
+        "ts": "2026-05-13T22:54:10\u002B02:00",
+        "delta": 225,
+        "desc": "EP-Nachtrag f\u00FCr Basalthane"
       }
     ],
     "gp_m": [],
