@@ -1,13 +1,13 @@
 {
-  "lastModified": "2026-05-13T17:22:49\u002B02:00",
+  "lastModified": "2026-05-13T22:54:10\u002B02:00",
   "player": "Tazzbingo",
   "main": "Tazzbingo",
   "saldo": {
-    "ep": 1060,
+    "ep": 1949,
     "gp_m": 10,
-    "gp_a": 10,
-    "pr_m": 106,
-    "pr_a": 106
+    "gp_a": 190,
+    "pr_m": 194.9,
+    "pr_a": 10.26
   },
   "ledger": {
     "ep": [
@@ -40,9 +40,50 @@
         "ts": "2026-05-13T17:22:49\u002B02:00",
         "delta": -265,
         "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-05-13T22:50:56\u002B02:00",
+        "delta": 664,
+        "desc": "Attendance EP (664) for raid (138 min @ 3 EP/min, buffed 112 min @ 1 EP/min, enchanted 138 min @ 1 EP/min) [source: Computed]"
+      },
+      {
+        "ts": "2026-05-13T22:54:10\u002B02:00",
+        "delta": 225,
+        "desc": "EP-Nachtrag f\u00FCr Basalthane"
       }
     ],
     "gp_m": [],
-    "gp_a": []
+    "gp_a": [
+      {
+        "ts": "2026-05-13T20:26:22\u002B02:00",
+        "delta": 30,
+        "desc": "Molten Handguards (os-mid) [downgraded from ms-mid: Alt character (MS\u2192OS)]"
+      },
+      {
+        "ts": "2026-05-13T20:26:30\u002B02:00",
+        "delta": 30,
+        "desc": "Molten Legguards (os-mid) [downgraded from ms-mid: Alt character (MS\u2192OS)]"
+      },
+      {
+        "ts": "2026-05-13T20:26:32\u002B02:00",
+        "delta": 30,
+        "desc": "Molten Wristguards (os-mid) [downgraded from ms-mid: Alt character (MS\u2192OS)]"
+      },
+      {
+        "ts": "2026-05-13T20:26:33\u002B02:00",
+        "delta": 30,
+        "desc": "Quick Strike Ring (os-mid) [downgraded from ms-mid: Alt character (MS\u2192OS)]"
+      },
+      {
+        "ts": "2026-05-13T21:42:58\u002B02:00",
+        "delta": 30,
+        "desc": "Molten Boots (os-mid) [downgraded from ms-mid: Alt character (MS\u2192OS)]"
+      },
+      {
+        "ts": "2026-05-13T21:43:08\u002B02:00",
+        "delta": 30,
+        "desc": "Molten Tunic (os-mid) [downgraded from ms-mid: Alt character (MS\u2192OS)]"
+      }
+    ]
   }
 }
