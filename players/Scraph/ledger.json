@@ -1,12 +1,12 @@
 {
-  "lastModified": "2026-05-06T23:09:14\u002B02:00",
+  "lastModified": "2026-05-13T17:22:49\u002B02:00",
   "player": "Scraph",
   "main": "Scraph",
   "saldo": {
-    "ep": 985,
+    "ep": 788,
     "gp_m": 10,
-    "gp_a": 40,
-    "pr_m": 98.5,
+    "gp_a": 32.00,
+    "pr_m": 78.8,
     "pr_a": 24.62
   },
   "ledger": {
@@ -25,6 +25,11 @@
         "ts": "2026-05-06T23:09:14\u002B02:00",
         "delta": 705,
         "desc": "Attendance EP (705) for raid (141 min @ 3 EP/min, buffed 141 min @ 1 EP/min, enchanted 141 min @ 1 EP/min) [source: Computed]"
+      },
+      {
+        "ts": "2026-05-13T17:22:49\u002B02:00",
+        "delta": -197,
+        "desc": "Decay -20% applied to all players"
       }
     ],
     "gp_m": [],
@@ -33,6 +38,11 @@
         "ts": "2026-05-06T20:14:41\u002B02:00",
         "delta": 30,
         "desc": "Molten Spaulders (ms-mid)"
+      },
+      {
+        "ts": "2026-05-13T17:22:49\u002B02:00",
+        "delta": -8.00,
+        "desc": "Decay -20% applied to all players"
       }
     ]
   }
