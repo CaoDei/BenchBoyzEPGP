@@ -1,12 +1,12 @@
 {
-  "lastModified": "2026-05-06T23:09:14\u002B02:00",
+  "lastModified": "2026-05-13T17:22:49\u002B02:00",
   "player": "Waldi",
   "main": "Waldmeister",
   "saldo": {
-    "ep": 8669,
-    "gp_m": 18.50,
-    "gp_a": 160.29,
-    "pr_m": 468.59,
+    "ep": 6935,
+    "gp_m": 14.80,
+    "gp_a": 128.23,
+    "pr_m": 468.58,
     "pr_a": 54.08
   },
   "ledger": {
@@ -245,6 +245,11 @@
         "ts": "2026-05-06T23:09:14\u002B02:00",
         "delta": 982,
         "desc": "Attendance EP (982) for raid (198 min @ 3 EP/min, buffed 190 min @ 1 EP/min, enchanted 198 min @ 1 EP/min) [source: Computed]"
+      },
+      {
+        "ts": "2026-05-13T17:22:49\u002B02:00",
+        "delta": -1734,
+        "desc": "Decay -20% applied to all players"
       }
     ],
     "gp_m": [
@@ -311,6 +316,11 @@
       {
         "ts": "2026-05-05T13:39:31\u002B02:00",
         "delta": -4.63,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-05-13T17:22:49\u002B02:00",
+        "delta": -3.70,
         "desc": "Decay -20% applied to all players"
       }
     ],
@@ -434,6 +444,11 @@
         "ts": "2026-05-06T18:47:25\u002B02:00",
         "delta": -30,
         "desc": "Undo loot: Vis\u0027kag the Bloodletter"
+      },
+      {
+        "ts": "2026-05-13T17:22:49\u002B02:00",
+        "delta": -32.06,
+        "desc": "Decay -20% applied to all players"
       }
     ]
   }
