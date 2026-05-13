@@ -1,13 +1,13 @@
 {
-  "lastModified": "2026-05-06T23:09:14\u002B02:00",
+  "lastModified": "2026-05-13T17:22:49\u002B02:00",
   "player": "Murrem",
   "main": "Murrem",
   "saldo": {
-    "ep": 668,
+    "ep": 1098,
     "gp_m": 10,
-    "gp_a": 310,
-    "pr_m": 66.8,
-    "pr_a": 2.15
+    "gp_a": 296.00,
+    "pr_m": 109.8,
+    "pr_a": 3.71
   },
   "ledger": {
     "ep": [
@@ -20,6 +20,21 @@
         "ts": "2026-05-06T23:09:14\u002B02:00",
         "delta": 608,
         "desc": "Attendance EP (608) for raid (123 min @ 3 EP/min, buffed 116 min @ 1 EP/min, enchanted 123 min @ 1 EP/min) [source: Computed]"
+      },
+      {
+        "ts": "2026-05-13T17:22:26\u002B02:00",
+        "delta": 60,
+        "desc": "Timely signup EP bonus for: Onyxia Ascended Montag 11.05.2026"
+      },
+      {
+        "ts": "2026-05-13T17:22:42\u002B02:00",
+        "delta": 645,
+        "desc": "Attendance EP (645) for raid (131 min @ 3 EP/min, buffed 121 min @ 1 EP/min, enchanted 131 min @ 1 EP/min) [source: Computed]"
+      },
+      {
+        "ts": "2026-05-13T17:22:49\u002B02:00",
+        "delta": -275,
+        "desc": "Decay -20% applied to all players"
       }
     ],
     "gp_m": [],
@@ -73,6 +88,21 @@
         "ts": "2026-05-06T21:21:05\u002B02:00",
         "delta": 30,
         "desc": "Molten Handguards (os-mid)"
+      },
+      {
+        "ts": "2026-05-11T21:33:30\u002B02:00",
+        "delta": 30,
+        "desc": "Corelit Igneous (ms-mid) [downgraded from ms-high: Below min EP (668/5000)]"
+      },
+      {
+        "ts": "2026-05-11T21:34:04\u002B02:00",
+        "delta": 30,
+        "desc": "Ancient Cornerstone Grimoire (ms-mid)"
+      },
+      {
+        "ts": "2026-05-13T17:22:49\u002B02:00",
+        "delta": -74.00,
+        "desc": "Decay -20% applied to all players"
       }
     ]
   }
