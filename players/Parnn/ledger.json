@@ -1,13 +1,13 @@
 {
-  "lastModified": "2026-05-05T13:39:31\u002B02:00",
+  "lastModified": "2026-05-13T17:22:49\u002B02:00",
   "player": "Parnn",
   "main": "Parnn",
   "saldo": {
-    "ep": 842,
+    "ep": 674,
     "gp_m": 10,
     "gp_a": 10,
-    "pr_m": 84.2,
-    "pr_a": 84.2
+    "pr_m": 67.4,
+    "pr_a": 67.4
   },
   "ledger": {
     "ep": [
@@ -29,6 +29,11 @@
       {
         "ts": "2026-05-05T13:39:31\u002B02:00",
         "delta": -211,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-05-13T17:22:49\u002B02:00",
+        "delta": -168,
         "desc": "Decay -20% applied to all players"
       }
     ],
