@@ -1,13 +1,13 @@
 {
-  "lastModified": "2026-05-13T17:22:49\u002B02:00",
+  "lastModified": "2026-05-13T22:54:10\u002B02:00",
   "player": "Jaydizzle",
   "main": "Jaydizzle",
   "saldo": {
-    "ep": 2832,
+    "ep": 3803,
     "gp_m": 10,
-    "gp_a": 70.08,
-    "pr_m": 283.2,
-    "pr_a": 40.41
+    "gp_a": 80.08,
+    "pr_m": 380.3,
+    "pr_a": 47.49
   },
   "ledger": {
     "ep": [
@@ -80,6 +80,21 @@
         "ts": "2026-05-13T17:22:49\u002B02:00",
         "delta": -708,
         "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-05-13T22:50:25\u002B02:00",
+        "delta": 60,
+        "desc": "Timely signup EP bonus for: Molten Core Ascended Mittwoch 13.05.2026"
+      },
+      {
+        "ts": "2026-05-13T22:50:56\u002B02:00",
+        "delta": 686,
+        "desc": "Attendance EP (686) for raid (138 min @ 3 EP/min, buffed 134 min @ 1 EP/min, enchanted 138 min @ 1 EP/min) [source: Computed]"
+      },
+      {
+        "ts": "2026-05-13T22:54:10\u002B02:00",
+        "delta": 225,
+        "desc": "EP-Nachtrag f\u00FCr Basalthane"
       }
     ],
     "gp_m": [],
@@ -123,6 +138,11 @@
         "ts": "2026-05-13T17:22:49\u002B02:00",
         "delta": -17.52,
         "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-05-13T20:26:36\u002B02:00",
+        "delta": 10,
+        "desc": "Aged Core Leather Gloves (os-low)"
       }
     ]
   }
