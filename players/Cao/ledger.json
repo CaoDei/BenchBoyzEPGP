@@ -1,13 +1,13 @@
 {
-  "lastModified": "2026-05-06T23:09:14\u002B02:00",
+  "lastModified": "2026-05-13T17:22:49\u002B02:00",
   "player": "Cao",
   "main": "Tayami",
   "saldo": {
-    "ep": 9112,
-    "gp_m": 51.22,
-    "gp_a": 41.18,
-    "pr_m": 177.90,
-    "pr_a": 221.27
+    "ep": 8121,
+    "gp_m": 40.98,
+    "gp_a": 32.94,
+    "pr_m": 198.17,
+    "pr_a": 246.54
   },
   "ledger": {
     "ep": [
@@ -250,6 +250,21 @@
         "ts": "2026-05-06T23:09:14\u002B02:00",
         "delta": 950,
         "desc": "Attendance EP (950) for raid (198 min @ 3 EP/min, buffed 158 min @ 1 EP/min, enchanted 198 min @ 1 EP/min) [source: Computed]"
+      },
+      {
+        "ts": "2026-05-13T17:22:26\u002B02:00",
+        "delta": 60,
+        "desc": "Timely signup EP bonus for: Onyxia Ascended Montag 11.05.2026"
+      },
+      {
+        "ts": "2026-05-13T17:22:42\u002B02:00",
+        "delta": 979,
+        "desc": "Attendance EP (979) for raid (198 min @ 3 EP/min, buffed 187 min @ 1 EP/min, enchanted 198 min @ 1 EP/min) [source: Computed]"
+      },
+      {
+        "ts": "2026-05-13T17:22:49\u002B02:00",
+        "delta": -2030,
+        "desc": "Decay -20% applied to all players"
       }
     ],
     "gp_m": [
@@ -312,6 +327,11 @@
         "ts": "2026-05-06T22:56:59\u002B02:00",
         "delta": 30,
         "desc": "Shroud of Sacrifice (ms-mid)"
+      },
+      {
+        "ts": "2026-05-13T17:22:49\u002B02:00",
+        "delta": -10.24,
+        "desc": "Decay -20% applied to all players"
       }
     ],
     "gp_a": [
@@ -378,6 +398,11 @@
       {
         "ts": "2026-05-05T13:39:31\u002B02:00",
         "delta": -10.29,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-05-13T17:22:49\u002B02:00",
+        "delta": -8.24,
         "desc": "Decay -20% applied to all players"
       }
     ]
