@@ -1,13 +1,13 @@
 {
-  "lastModified": "2026-05-13T17:22:49\u002B02:00",
+  "lastModified": "2026-05-13T22:54:10\u002B02:00",
   "player": "Briar",
   "main": "Briaar",
   "saldo": {
-    "ep": 7638,
+    "ep": 8609,
     "gp_m": 16.00,
-    "gp_a": 16.00,
-    "pr_m": 477.38,
-    "pr_a": 477.38
+    "gp_a": 26.00,
+    "pr_m": 538.06,
+    "pr_a": 331.12
   },
   "ledger": {
     "ep": [
@@ -245,6 +245,21 @@
         "ts": "2026-05-13T17:22:49\u002B02:00",
         "delta": -1909,
         "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-05-13T22:50:25\u002B02:00",
+        "delta": 60,
+        "desc": "Timely signup EP bonus for: Molten Core Ascended Mittwoch 13.05.2026"
+      },
+      {
+        "ts": "2026-05-13T22:50:56\u002B02:00",
+        "delta": 686,
+        "desc": "Attendance EP (686) for raid (138 min @ 3 EP/min, buffed 134 min @ 1 EP/min, enchanted 138 min @ 1 EP/min) [source: Computed]"
+      },
+      {
+        "ts": "2026-05-13T22:54:10\u002B02:00",
+        "delta": 225,
+        "desc": "EP-Nachtrag f\u00FCr Basalthane"
       }
     ],
     "gp_m": [
@@ -294,6 +309,11 @@
         "ts": "2026-05-13T17:22:49\u002B02:00",
         "delta": -4.00,
         "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-05-13T21:44:05\u002B02:00",
+        "delta": 10,
+        "desc": "Choker of the Fire Lord (os-low) [downgraded from ms-low: Alt character (MS\u2192OS)]"
       }
     ]
   }
