@@ -1,13 +1,13 @@
 {
-  "lastModified": "2026-05-06T23:09:14\u002B02:00",
+  "lastModified": "2026-05-13T17:22:49\u002B02:00",
   "player": "Oikarya",
   "main": "Oikarya",
   "saldo": {
-    "ep": 1813,
+    "ep": 1450,
     "gp_m": 10,
-    "gp_a": 194.00,
-    "pr_m": 181.3,
-    "pr_a": 9.35
+    "gp_a": 155.20,
+    "pr_m": 145,
+    "pr_a": 9.34
   },
   "ledger": {
     "ep": [
@@ -40,6 +40,11 @@
         "ts": "2026-05-06T23:09:14\u002B02:00",
         "delta": 608,
         "desc": "Attendance EP (608) for raid (123 min @ 3 EP/min, buffed 116 min @ 1 EP/min, enchanted 123 min @ 1 EP/min) [source: Computed]"
+      },
+      {
+        "ts": "2026-05-13T17:22:49\u002B02:00",
+        "delta": -363,
+        "desc": "Decay -20% applied to all players"
       }
     ],
     "gp_m": [],
@@ -108,6 +113,11 @@
         "ts": "2026-05-06T21:21:05\u002B02:00",
         "delta": 30,
         "desc": "Molten Handguards (os-mid)"
+      },
+      {
+        "ts": "2026-05-13T17:22:49\u002B02:00",
+        "delta": -38.80,
+        "desc": "Decay -20% applied to all players"
       }
     ]
   }
