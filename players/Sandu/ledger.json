@@ -1,13 +1,13 @@
 {
-  "lastModified": "2026-05-13T17:22:49\u002B02:00",
+  "lastModified": "2026-05-13T22:54:10\u002B02:00",
   "player": "Sandu",
   "main": "Sandu",
   "saldo": {
-    "ep": 7780,
+    "ep": 8751,
     "gp_m": 10,
     "gp_a": 129.08,
-    "pr_m": 778,
-    "pr_a": 60.27
+    "pr_m": 875.1,
+    "pr_a": 67.80
   },
   "ledger": {
     "ep": [
@@ -255,6 +255,21 @@
         "ts": "2026-05-13T17:22:49\u002B02:00",
         "delta": -1945,
         "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-05-13T22:50:25\u002B02:00",
+        "delta": 60,
+        "desc": "Timely signup EP bonus for: Molten Core Ascended Mittwoch 13.05.2026"
+      },
+      {
+        "ts": "2026-05-13T22:50:56\u002B02:00",
+        "delta": 686,
+        "desc": "Attendance EP (686) for raid (138 min @ 3 EP/min, buffed 134 min @ 1 EP/min, enchanted 138 min @ 1 EP/min) [source: Computed]"
+      },
+      {
+        "ts": "2026-05-13T22:54:10\u002B02:00",
+        "delta": 225,
+        "desc": "EP-Nachtrag f\u00FCr Basalthane"
       }
     ],
     "gp_m": [
