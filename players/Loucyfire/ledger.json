@@ -1,12 +1,12 @@
 {
-  "lastModified": "2026-05-05T13:39:31\u002B02:00",
+  "lastModified": "2026-05-13T17:22:49\u002B02:00",
   "player": "Loucyfire",
   "main": "Loucyfire",
   "saldo": {
-    "ep": 530,
+    "ep": 424,
     "gp_m": 10,
-    "gp_a": 32.00,
-    "pr_m": 53,
+    "gp_a": 25.60,
+    "pr_m": 42.4,
     "pr_a": 16.56
   },
   "ledger": {
@@ -20,6 +20,11 @@
         "ts": "2026-05-05T13:39:31\u002B02:00",
         "delta": -133,
         "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-05-13T17:22:49\u002B02:00",
+        "delta": -106,
+        "desc": "Decay -20% applied to all players"
       }
     ],
     "gp_m": [],
@@ -32,6 +37,11 @@
       {
         "ts": "2026-05-05T13:39:31\u002B02:00",
         "delta": -8.00,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-05-13T17:22:49\u002B02:00",
+        "delta": -6.40,
         "desc": "Decay -20% applied to all players"
       }
     ]
