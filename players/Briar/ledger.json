@@ -1,13 +1,13 @@
 {
-  "lastModified": "2026-05-06T23:09:14\u002B02:00",
+  "lastModified": "2026-05-13T17:22:49\u002B02:00",
   "player": "Briar",
   "main": "Briaar",
   "saldo": {
-    "ep": 8508,
-    "gp_m": 20,
-    "gp_a": 20,
-    "pr_m": 425.4,
-    "pr_a": 425.4
+    "ep": 7638,
+    "gp_m": 16.00,
+    "gp_a": 16.00,
+    "pr_m": 477.38,
+    "pr_a": 477.38
   },
   "ledger": {
     "ep": [
@@ -230,6 +230,21 @@
         "ts": "2026-05-06T23:09:14\u002B02:00",
         "delta": 982,
         "desc": "Attendance EP (982) for raid (198 min @ 3 EP/min, buffed 190 min @ 1 EP/min, enchanted 198 min @ 1 EP/min) [source: Computed]"
+      },
+      {
+        "ts": "2026-05-13T17:22:26\u002B02:00",
+        "delta": 60,
+        "desc": "Timely signup EP bonus for: Onyxia Ascended Montag 11.05.2026"
+      },
+      {
+        "ts": "2026-05-13T17:22:42\u002B02:00",
+        "delta": 979,
+        "desc": "Attendance EP (979) for raid (198 min @ 3 EP/min, buffed 187 min @ 1 EP/min, enchanted 198 min @ 1 EP/min) [source: Computed]"
+      },
+      {
+        "ts": "2026-05-13T17:22:49\u002B02:00",
+        "delta": -1909,
+        "desc": "Decay -20% applied to all players"
       }
     ],
     "gp_m": [
@@ -237,6 +252,11 @@
         "ts": "2026-05-06T22:37:01\u002B02:00",
         "delta": 10,
         "desc": "Glaciermind Spellfocus (os-low) [downgraded from ms-low: Alt character (MS\u2192OS)]"
+      },
+      {
+        "ts": "2026-05-13T17:22:49\u002B02:00",
+        "delta": -4.00,
+        "desc": "Decay -20% applied to all players"
       }
     ],
     "gp_a": [
@@ -269,6 +289,11 @@
         "ts": "2026-05-06T21:20:59\u002B02:00",
         "delta": 10,
         "desc": "Chromatic Wristguards (os-low) [downgraded from ms-low: Alt character (MS\u2192OS)]"
+      },
+      {
+        "ts": "2026-05-13T17:22:49\u002B02:00",
+        "delta": -4.00,
+        "desc": "Decay -20% applied to all players"
       }
     ]
   }
