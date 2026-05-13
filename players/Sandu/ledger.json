@@ -1,13 +1,13 @@
 {
-  "lastModified": "2026-05-06T23:09:14\u002B02:00",
+  "lastModified": "2026-05-13T17:22:49\u002B02:00",
   "player": "Sandu",
   "main": "Sandu",
   "saldo": {
-    "ep": 8686,
-    "gp_m": 11.67,
-    "gp_a": 71.35,
-    "pr_m": 744.30,
-    "pr_a": 121.74
+    "ep": 7780,
+    "gp_m": 10,
+    "gp_a": 129.08,
+    "pr_m": 778,
+    "pr_a": 60.27
   },
   "ledger": {
     "ep": [
@@ -240,6 +240,21 @@
         "ts": "2026-05-06T23:09:14\u002B02:00",
         "delta": 940,
         "desc": "Attendance EP (940) for raid (198 min @ 3 EP/min, buffed 148 min @ 1 EP/min, enchanted 198 min @ 1 EP/min) [source: Computed]"
+      },
+      {
+        "ts": "2026-05-13T17:22:26\u002B02:00",
+        "delta": 60,
+        "desc": "Timely signup EP bonus for: Onyxia Ascended Montag 11.05.2026"
+      },
+      {
+        "ts": "2026-05-13T17:22:42\u002B02:00",
+        "delta": 979,
+        "desc": "Attendance EP (979) for raid (198 min @ 3 EP/min, buffed 187 min @ 1 EP/min, enchanted 198 min @ 1 EP/min) [source: Computed]"
+      },
+      {
+        "ts": "2026-05-13T17:22:49\u002B02:00",
+        "delta": -1945,
+        "desc": "Decay -20% applied to all players"
       }
     ],
     "gp_m": [
@@ -301,6 +316,11 @@
       {
         "ts": "2026-05-05T13:39:31\u002B02:00",
         "delta": -2.92,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-05-13T17:22:49\u002B02:00",
+        "delta": -1.67,
         "desc": "Decay -20% applied to all players"
       }
     ],
@@ -408,6 +428,16 @@
       {
         "ts": "2026-05-05T13:39:31\u002B02:00",
         "delta": -17.84,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-05-11T21:33:29\u002B02:00",
+        "delta": 90,
+        "desc": "Infernos, the Extinguished (ms-high)"
+      },
+      {
+        "ts": "2026-05-13T17:22:49\u002B02:00",
+        "delta": -32.27,
         "desc": "Decay -20% applied to all players"
       }
     ]
