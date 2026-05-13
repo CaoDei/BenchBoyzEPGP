@@ -1,13 +1,13 @@
 {
-  "lastModified": "2026-05-13T17:22:49\u002B02:00",
+  "lastModified": "2026-05-13T22:54:10\u002B02:00",
   "player": "Scraph",
   "main": "Scraph",
   "saldo": {
-    "ep": 788,
+    "ep": 1420,
     "gp_m": 10,
-    "gp_a": 32.00,
-    "pr_m": 78.8,
-    "pr_a": 24.62
+    "gp_a": 82.00,
+    "pr_m": 142,
+    "pr_a": 17.32
   },
   "ledger": {
     "ep": [
@@ -30,6 +30,16 @@
         "ts": "2026-05-13T17:22:49\u002B02:00",
         "delta": -197,
         "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-05-13T22:50:56\u002B02:00",
+        "delta": 407,
+        "desc": "Attendance EP (407) for raid (82 min @ 3 EP/min, buffed 79 min @ 1 EP/min, enchanted 82 min @ 1 EP/min) [source: Computed]"
+      },
+      {
+        "ts": "2026-05-13T22:54:10\u002B02:00",
+        "delta": 225,
+        "desc": "EP-Nachtrag f\u00FCr Basalthane"
       }
     ],
     "gp_m": [],
@@ -43,6 +53,21 @@
         "ts": "2026-05-13T17:22:49\u002B02:00",
         "delta": -8.00,
         "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-05-13T21:42:22\u002B02:00",
+        "delta": 30,
+        "desc": "Shadowstrike (ms-mid) [downgraded from ms-high: Below min EP (788/5000)]"
+      },
+      {
+        "ts": "2026-05-13T21:44:10\u002B02:00",
+        "delta": 10,
+        "desc": "Band of Sulfuras (os-low)"
+      },
+      {
+        "ts": "2026-05-13T21:44:11\u002B02:00",
+        "delta": 10,
+        "desc": "Wristguards of Stability (os-low)"
       }
     ]
   }
