@@ -1,12 +1,12 @@
 {
-  "lastModified": "2026-05-06T23:09:14\u002B02:00",
+  "lastModified": "2026-05-13T17:22:49\u002B02:00",
   "player": "Retterfiemen",
   "main": "Retterfiemen",
   "saldo": {
-    "ep": 891,
+    "ep": 713,
     "gp_m": 10,
-    "gp_a": 70,
-    "pr_m": 89.1,
+    "gp_a": 56.00,
+    "pr_m": 71.3,
     "pr_a": 12.73
   },
   "ledger": {
@@ -20,6 +20,11 @@
         "ts": "2026-05-06T23:09:14\u002B02:00",
         "delta": 831,
         "desc": "Attendance EP (831) for raid (174 min @ 3 EP/min, buffed 135 min @ 1 EP/min, enchanted 174 min @ 1 EP/min) [source: Computed]"
+      },
+      {
+        "ts": "2026-05-13T17:22:49\u002B02:00",
+        "delta": -178,
+        "desc": "Decay -20% applied to all players"
       }
     ],
     "gp_m": [],
@@ -43,6 +48,11 @@
         "ts": "2026-05-06T21:21:06\u002B02:00",
         "delta": 10,
         "desc": "Molten Handguards (os-low) [downgraded from ms-low: Alt character (MS\u2192OS)]"
+      },
+      {
+        "ts": "2026-05-13T17:22:49\u002B02:00",
+        "delta": -14.00,
+        "desc": "Decay -20% applied to all players"
       }
     ]
   }
