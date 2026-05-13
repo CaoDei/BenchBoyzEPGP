@@ -1,13 +1,13 @@
 {
-  "lastModified": "2026-05-06T23:09:14\u002B02:00",
+  "lastModified": "2026-05-13T17:22:49\u002B02:00",
   "player": "Nofun",
   "main": "Nofun",
   "saldo": {
-    "ep": 3484,
+    "ep": 2787,
     "gp_m": 10,
-    "gp_a": 52.00,
-    "pr_m": 348.4,
-    "pr_a": 67
+    "gp_a": 41.60,
+    "pr_m": 278.7,
+    "pr_a": 67.00
   },
   "ledger": {
     "ep": [
@@ -60,6 +60,11 @@
         "ts": "2026-05-06T23:09:14\u002B02:00",
         "delta": 593,
         "desc": "Attendance EP (593) for raid (123 min @ 3 EP/min, buffed 101 min @ 1 EP/min, enchanted 123 min @ 1 EP/min) [source: Computed]"
+      },
+      {
+        "ts": "2026-05-13T17:22:49\u002B02:00",
+        "delta": -697,
+        "desc": "Decay -20% applied to all players"
       }
     ],
     "gp_m": [],
@@ -83,6 +88,11 @@
         "ts": "2026-05-06T21:21:07\u002B02:00",
         "delta": 10,
         "desc": "Manastorm Leggings (os-low)"
+      },
+      {
+        "ts": "2026-05-13T17:22:49\u002B02:00",
+        "delta": -10.40,
+        "desc": "Decay -20% applied to all players"
       }
     ]
   }
