@@ -1,13 +1,13 @@
 {
-  "lastModified": "2026-05-06T23:09:14\u002B02:00",
+  "lastModified": "2026-05-13T17:22:49\u002B02:00",
   "player": "Siestinkt",
   "main": "Siestinkt",
   "saldo": {
-    "ep": 4172,
-    "gp_m": 10,
-    "gp_a": 389.68,
-    "pr_m": 417.2,
-    "pr_a": 10.71
+    "ep": 4161,
+    "gp_m": 32.00,
+    "gp_a": 335.74,
+    "pr_m": 130.03,
+    "pr_a": 12.39
   },
   "ledger": {
     "ep": [
@@ -80,6 +80,21 @@
         "ts": "2026-05-06T23:09:14\u002B02:00",
         "delta": 832,
         "desc": "Attendance EP (832) for raid (174 min @ 3 EP/min, buffed 136 min @ 1 EP/min, enchanted 174 min @ 1 EP/min) [source: Computed]"
+      },
+      {
+        "ts": "2026-05-13T17:22:26\u002B02:00",
+        "delta": 60,
+        "desc": "Timely signup EP bonus for: Onyxia Ascended Montag 11.05.2026"
+      },
+      {
+        "ts": "2026-05-13T17:22:42\u002B02:00",
+        "delta": 969,
+        "desc": "Attendance EP (969) for raid (198 min @ 3 EP/min, buffed 177 min @ 1 EP/min, enchanted 198 min @ 1 EP/min) [source: Computed]"
+      },
+      {
+        "ts": "2026-05-13T17:22:49\u002B02:00",
+        "delta": -1040,
+        "desc": "Decay -20% applied to all players"
       }
     ],
     "gp_m": [
@@ -92,6 +107,16 @@
         "ts": "2026-04-13T23:05:43\u002B02:00",
         "delta": -30,
         "desc": "Undo loot: Deep Sea Oculus"
+      },
+      {
+        "ts": "2026-05-11T22:21:47\u002B02:00",
+        "delta": 30,
+        "desc": "Azuresong Mageblade (os-mid)"
+      },
+      {
+        "ts": "2026-05-13T17:22:49\u002B02:00",
+        "delta": -8.00,
+        "desc": "Decay -20% applied to all players"
       }
     ],
     "gp_a": [
@@ -214,6 +239,16 @@
         "ts": "2026-05-06T21:21:02\u002B02:00",
         "delta": 30,
         "desc": "Molten Tunic (ms-mid)"
+      },
+      {
+        "ts": "2026-05-11T21:34:03\u002B02:00",
+        "delta": 30,
+        "desc": "Ancient Cornerstone Grimoire (ms-mid)"
+      },
+      {
+        "ts": "2026-05-13T17:22:49\u002B02:00",
+        "delta": -83.94,
+        "desc": "Decay -20% applied to all players"
       }
     ]
   }
