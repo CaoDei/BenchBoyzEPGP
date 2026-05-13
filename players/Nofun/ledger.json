@@ -1,13 +1,13 @@
 {
-  "lastModified": "2026-05-13T17:22:49\u002B02:00",
+  "lastModified": "2026-05-13T22:54:10\u002B02:00",
   "player": "Nofun",
   "main": "Nofun",
   "saldo": {
-    "ep": 2787,
+    "ep": 3740,
     "gp_m": 10,
-    "gp_a": 41.60,
-    "pr_m": 278.7,
-    "pr_a": 67.00
+    "gp_a": 91.60,
+    "pr_m": 374,
+    "pr_a": 40.83
   },
   "ledger": {
     "ep": [
@@ -65,6 +65,21 @@
         "ts": "2026-05-13T17:22:49\u002B02:00",
         "delta": -697,
         "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-05-13T22:50:25\u002B02:00",
+        "delta": 60,
+        "desc": "Timely signup EP bonus for: Molten Core Ascended Mittwoch 13.05.2026"
+      },
+      {
+        "ts": "2026-05-13T22:50:56\u002B02:00",
+        "delta": 668,
+        "desc": "Attendance EP (668) for raid (138 min @ 3 EP/min, buffed 116 min @ 1 EP/min, enchanted 138 min @ 1 EP/min) [source: Computed]"
+      },
+      {
+        "ts": "2026-05-13T22:54:10\u002B02:00",
+        "delta": 225,
+        "desc": "EP-Nachtrag f\u00FCr Basalthane"
       }
     ],
     "gp_m": [],
@@ -93,6 +108,21 @@
         "ts": "2026-05-13T17:22:49\u002B02:00",
         "delta": -10.40,
         "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-05-13T20:26:23\u002B02:00",
+        "delta": 30,
+        "desc": "Ring of Spell Power (ms-mid)"
+      },
+      {
+        "ts": "2026-05-13T20:26:34\u002B02:00",
+        "delta": 10,
+        "desc": "Mana Igniting Cord (ms-low)"
+      },
+      {
+        "ts": "2026-05-13T21:44:08\u002B02:00",
+        "delta": 10,
+        "desc": "Gloves of the Hypnotic Flame (ms-low)"
       }
     ]
   }
