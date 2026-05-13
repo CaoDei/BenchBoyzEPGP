@@ -1,13 +1,13 @@
 {
-  "lastModified": "2026-05-06T23:09:14\u002B02:00",
+  "lastModified": "2026-05-13T17:22:49\u002B02:00",
   "player": "Yuzuyuu",
   "main": "Yuzuyuu",
   "saldo": {
-    "ep": 5362,
+    "ep": 5121,
     "gp_m": 10,
-    "gp_a": 46.26,
-    "pr_m": 536.2,
-    "pr_a": 115.91
+    "gp_a": 37.01,
+    "pr_m": 512.1,
+    "pr_a": 138.37
   },
   "ledger": {
     "ep": [
@@ -190,6 +190,21 @@
         "ts": "2026-05-06T23:09:14\u002B02:00",
         "delta": 959,
         "desc": "Attendance EP (959) for raid (198 min @ 3 EP/min, buffed 167 min @ 1 EP/min, enchanted 198 min @ 1 EP/min) [source: Computed]"
+      },
+      {
+        "ts": "2026-05-13T17:22:26\u002B02:00",
+        "delta": 60,
+        "desc": "Timely signup EP bonus for: Onyxia Ascended Montag 11.05.2026"
+      },
+      {
+        "ts": "2026-05-13T17:22:42\u002B02:00",
+        "delta": 979,
+        "desc": "Attendance EP (979) for raid (198 min @ 3 EP/min, buffed 187 min @ 1 EP/min, enchanted 198 min @ 1 EP/min) [source: Computed]"
+      },
+      {
+        "ts": "2026-05-13T17:22:49\u002B02:00",
+        "delta": -1280,
+        "desc": "Decay -20% applied to all players"
       }
     ],
     "gp_m": [
@@ -329,6 +344,11 @@
         "ts": "2026-05-06T21:21:04\u002B02:00",
         "delta": 10,
         "desc": "Band of Accuria (ms-low)"
+      },
+      {
+        "ts": "2026-05-13T17:22:49\u002B02:00",
+        "delta": -9.25,
+        "desc": "Decay -20% applied to all players"
       }
     ]
   }
