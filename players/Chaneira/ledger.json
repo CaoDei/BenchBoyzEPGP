@@ -1,13 +1,13 @@
 {
-  "lastModified": "2026-05-05T13:39:31\u002B02:00",
+  "lastModified": "2026-05-13T17:22:49\u002B02:00",
   "player": "Chaneira",
   "main": "Chaneira",
   "saldo": {
-    "ep": 530,
+    "ep": 424,
     "gp_m": 10,
     "gp_a": 10,
-    "pr_m": 53,
-    "pr_a": 53
+    "pr_m": 42.4,
+    "pr_a": 42.4
   },
   "ledger": {
     "ep": [
@@ -19,6 +19,11 @@
       {
         "ts": "2026-05-05T13:39:31\u002B02:00",
         "delta": -133,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-05-13T17:22:49\u002B02:00",
+        "delta": -106,
         "desc": "Decay -20% applied to all players"
       }
     ],
