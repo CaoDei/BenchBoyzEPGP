@@ -1,13 +1,13 @@
 {
-  "lastModified": "2026-05-06T23:09:14\u002B02:00",
+  "lastModified": "2026-05-13T17:22:49\u002B02:00",
   "player": "Billii",
   "main": "Billii",
   "saldo": {
-    "ep": 8822,
+    "ep": 7874,
     "gp_m": 10,
-    "gp_a": 135.26,
-    "pr_m": 882.2,
-    "pr_a": 65.22
+    "gp_a": 132.21,
+    "pr_m": 787.4,
+    "pr_a": 59.56
   },
   "ledger": {
     "ep": [
@@ -235,6 +235,21 @@
         "ts": "2026-05-06T23:09:14\u002B02:00",
         "delta": 940,
         "desc": "Attendance EP (940) for raid (198 min @ 3 EP/min, buffed 148 min @ 1 EP/min, enchanted 198 min @ 1 EP/min) [source: Computed]"
+      },
+      {
+        "ts": "2026-05-13T17:22:26\u002B02:00",
+        "delta": 60,
+        "desc": "Timely signup EP bonus for: Onyxia Ascended Montag 11.05.2026"
+      },
+      {
+        "ts": "2026-05-13T17:22:42\u002B02:00",
+        "delta": 961,
+        "desc": "Attendance EP (961) for raid (198 min @ 3 EP/min, buffed 169 min @ 1 EP/min, enchanted 198 min @ 1 EP/min) [source: Computed]"
+      },
+      {
+        "ts": "2026-05-13T17:22:49\u002B02:00",
+        "delta": -1969,
+        "desc": "Decay -20% applied to all players"
       }
     ],
     "gp_m": [
@@ -409,6 +424,16 @@
         "ts": "2026-05-06T21:20:56\u002B02:00",
         "delta": 10,
         "desc": "Molten Boots (ms-low)"
+      },
+      {
+        "ts": "2026-05-11T21:34:02\u002B02:00",
+        "delta": 30,
+        "desc": "Draconic Effigy (os-mid) [downgraded from os-high: Below min PR (65,223/100)]"
+      },
+      {
+        "ts": "2026-05-13T17:22:49\u002B02:00",
+        "delta": -33.05,
+        "desc": "Decay -20% applied to all players"
       }
     ]
   }
