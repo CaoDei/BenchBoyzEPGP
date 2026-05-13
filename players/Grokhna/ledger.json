@@ -1,13 +1,13 @@
 {
-  "lastModified": "2026-05-13T17:22:49\u002B02:00",
+  "lastModified": "2026-05-13T22:54:10\u002B02:00",
   "player": "Grokhna",
   "main": "Grokhna",
   "saldo": {
-    "ep": 6366,
+    "ep": 7337,
     "gp_m": 10,
-    "gp_a": 73.46,
-    "pr_m": 636.6,
-    "pr_a": 86.66
+    "gp_a": 173.46,
+    "pr_m": 733.7,
+    "pr_a": 42.30
   },
   "ledger": {
     "ep": [
@@ -225,6 +225,21 @@
         "ts": "2026-05-13T17:22:49\u002B02:00",
         "delta": -1591,
         "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-05-13T22:50:25\u002B02:00",
+        "delta": 60,
+        "desc": "Timely signup EP bonus for: Molten Core Ascended Mittwoch 13.05.2026"
+      },
+      {
+        "ts": "2026-05-13T22:50:56\u002B02:00",
+        "delta": 686,
+        "desc": "Attendance EP (686) for raid (138 min @ 3 EP/min, buffed 134 min @ 1 EP/min, enchanted 138 min @ 1 EP/min) [source: Computed]"
+      },
+      {
+        "ts": "2026-05-13T22:54:10\u002B02:00",
+        "delta": 225,
+        "desc": "EP-Nachtrag f\u00FCr Basalthane"
       }
     ],
     "gp_m": [],
@@ -368,6 +383,21 @@
         "ts": "2026-05-13T17:22:49\u002B02:00",
         "delta": -18.36,
         "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-05-13T20:26:13\u002B02:00",
+        "delta": 30,
+        "desc": "Talisman of Binding Shard (ms-mid) [downgraded from ms-high: Below min PR (86,659/100)]"
+      },
+      {
+        "ts": "2026-05-13T21:43:52\u002B02:00",
+        "delta": 10,
+        "desc": "Chromatic Wristguards (ms-low)"
+      },
+      {
+        "ts": "2026-05-13T22:12:46\u002B02:00",
+        "delta": 60,
+        "desc": "Talisman (Differenz MS-Mid -\u003E MS-High f\u00FCr Legendary)"
       }
     ]
   }
