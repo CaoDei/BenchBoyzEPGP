@@ -1,13 +1,13 @@
 {
-  "lastModified": "2026-05-13T17:22:49\u002B02:00",
+  "lastModified": "2026-05-13T22:54:10\u002B02:00",
   "player": "Billii",
   "main": "Billii",
   "saldo": {
-    "ep": 7874,
+    "ep": 8842,
     "gp_m": 10,
-    "gp_a": 132.21,
-    "pr_m": 787.4,
-    "pr_a": 59.56
+    "gp_a": 162.21,
+    "pr_m": 884.2,
+    "pr_a": 54.51
   },
   "ledger": {
     "ep": [
@@ -250,6 +250,21 @@
         "ts": "2026-05-13T17:22:49\u002B02:00",
         "delta": -1969,
         "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-05-13T22:50:25\u002B02:00",
+        "delta": 60,
+        "desc": "Timely signup EP bonus for: Molten Core Ascended Mittwoch 13.05.2026"
+      },
+      {
+        "ts": "2026-05-13T22:50:56\u002B02:00",
+        "delta": 683,
+        "desc": "Attendance EP (683) for raid (138 min @ 3 EP/min, buffed 131 min @ 1 EP/min, enchanted 138 min @ 1 EP/min) [source: Computed]"
+      },
+      {
+        "ts": "2026-05-13T22:54:10\u002B02:00",
+        "delta": 225,
+        "desc": "EP-Nachtrag f\u00FCr Basalthane"
       }
     ],
     "gp_m": [
@@ -434,6 +449,21 @@
         "ts": "2026-05-13T17:22:49\u002B02:00",
         "delta": -33.05,
         "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-05-13T20:26:39\u002B02:00",
+        "delta": 10,
+        "desc": "Robe of Volatile Power (os-low)"
+      },
+      {
+        "ts": "2026-05-13T21:42:51\u002B02:00",
+        "delta": 10,
+        "desc": "Molten Boots (os-low) [downgraded from ms-low: Alt character (MS\u2192OS)]"
+      },
+      {
+        "ts": "2026-05-13T21:43:18\u002B02:00",
+        "delta": 10,
+        "desc": "Molten Tunic (os-low) [downgraded from ms-low: Alt character (MS\u2192OS)]"
       }
     ]
   }
