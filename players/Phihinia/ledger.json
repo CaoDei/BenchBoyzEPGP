@@ -1,13 +1,13 @@
 {
-  "lastModified": "2026-05-06T23:09:14\u002B02:00",
+  "lastModified": "2026-05-13T17:22:49\u002B02:00",
   "player": "Phihinia",
   "main": "Phihinia",
   "saldo": {
-    "ep": 1282,
+    "ep": 1026,
     "gp_m": 10,
-    "gp_a": 160,
-    "pr_m": 128.2,
-    "pr_a": 8.01
+    "gp_a": 128.00,
+    "pr_m": 102.6,
+    "pr_a": 8.02
   },
   "ledger": {
     "ep": [
@@ -35,6 +35,11 @@
         "ts": "2026-05-06T23:09:14\u002B02:00",
         "delta": 608,
         "desc": "Attendance EP (608) for raid (123 min @ 3 EP/min, buffed 116 min @ 1 EP/min, enchanted 123 min @ 1 EP/min) [source: Computed]"
+      },
+      {
+        "ts": "2026-05-13T17:22:49\u002B02:00",
+        "delta": -256,
+        "desc": "Decay -20% applied to all players"
       }
     ],
     "gp_m": [],
@@ -63,6 +68,11 @@
         "ts": "2026-05-06T21:20:57\u002B02:00",
         "delta": 30,
         "desc": "Chromatic Wristguards (ms-mid) [downgraded from ms-high: Below min EP (614/5000)]"
+      },
+      {
+        "ts": "2026-05-13T17:22:49\u002B02:00",
+        "delta": -32.00,
+        "desc": "Decay -20% applied to all players"
       }
     ]
   }
