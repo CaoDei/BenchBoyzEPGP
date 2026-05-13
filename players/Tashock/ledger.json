@@ -1,13 +1,13 @@
 {
-  "lastModified": "2026-05-13T17:22:49\u002B02:00",
+  "lastModified": "2026-05-13T22:54:10\u002B02:00",
   "player": "Tashock",
   "main": "Tashock",
   "saldo": {
-    "ep": 4472,
+    "ep": 5421,
     "gp_m": 10,
-    "gp_a": 122.88,
-    "pr_m": 447.2,
-    "pr_a": 36.39
+    "gp_a": 132.88,
+    "pr_m": 542.1,
+    "pr_a": 40.80
   },
   "ledger": {
     "ep": [
@@ -130,6 +130,21 @@
         "ts": "2026-05-13T17:22:49\u002B02:00",
         "delta": -1118,
         "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-05-13T22:50:25\u002B02:00",
+        "delta": 60,
+        "desc": "Timely signup EP bonus for: Molten Core Ascended Mittwoch 13.05.2026"
+      },
+      {
+        "ts": "2026-05-13T22:50:56\u002B02:00",
+        "delta": 664,
+        "desc": "Attendance EP (664) for raid (138 min @ 3 EP/min, buffed 112 min @ 1 EP/min, enchanted 138 min @ 1 EP/min) [source: Computed]"
+      },
+      {
+        "ts": "2026-05-13T22:54:10\u002B02:00",
+        "delta": 225,
+        "desc": "EP-Nachtrag f\u00FCr Basalthane"
       }
     ],
     "gp_m": [
@@ -269,6 +284,11 @@
         "ts": "2026-05-13T17:22:49\u002B02:00",
         "delta": -30.72,
         "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-05-13T21:43:34\u002B02:00",
+        "delta": 10,
+        "desc": "Essence of the Pure Flame (ms-low)"
       }
     ]
   }
