@@ -1,13 +1,13 @@
 {
-  "lastModified": "2026-05-20T17:57:34\u002B02:00",
+  "lastModified": "2026-05-20T22:32:07\u002B02:00",
   "player": "Tazzbingo",
   "main": "Tazzbingo",
   "saldo": {
-    "ep": 1559,
-    "gp_m": 10,
-    "gp_a": 152.00,
-    "pr_m": 155.9,
-    "pr_a": 10.26
+    "ep": 2487,
+    "gp_m": 70,
+    "gp_a": 202.00,
+    "pr_m": 35.53,
+    "pr_a": 12.31
   },
   "ledger": {
     "ep": [
@@ -55,9 +55,25 @@
         "ts": "2026-05-20T17:57:34\u002B02:00",
         "delta": -390,
         "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-05-20T22:32:07\u002B02:00",
+        "delta": 928,
+        "desc": "Attendance EP (928) for raid (189 min @ 3 EP/min, buffed 172 min @ 1 EP/min, enchanted 189 min @ 1 EP/min) [source: Computed]"
       }
     ],
-    "gp_m": [],
+    "gp_m": [
+      {
+        "ts": "2026-05-20T22:25:16\u002B02:00",
+        "delta": 30,
+        "desc": "Chromatic Headpiece (os-mid) [downgraded from ms-mid: Alt character (MS\u2192OS, 3 twink wins this raid)]"
+      },
+      {
+        "ts": "2026-05-20T22:25:24\u002B02:00",
+        "delta": 30,
+        "desc": "Fissured Warplate (os-mid) [downgraded from ms-mid: Alt character (MS\u2192OS, 4 twink wins this raid)]"
+      }
+    ],
     "gp_a": [
       {
         "ts": "2026-05-13T20:26:22\u002B02:00",
@@ -93,6 +109,31 @@
         "ts": "2026-05-20T17:57:34\u002B02:00",
         "delta": -38.00,
         "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-05-20T19:45:47\u002B02:00",
+        "delta": 30,
+        "desc": "Molten Wristguards (Twink-MS-Mid) [downgraded from ms-mid: Alt character (MS\u2192Twink-MS)]"
+      },
+      {
+        "ts": "2026-05-20T20:29:40\u002B02:00",
+        "delta": 30,
+        "desc": "Molten Spaulders (Twink-MS-Mid) [downgraded from ms-mid: Alt character (MS\u2192Twink-MS)]"
+      },
+      {
+        "ts": "2026-05-20T20:29:46\u002B02:00",
+        "delta": 10,
+        "desc": "Molten Headpiece (os-low) [downgraded from ms-low: Alt character (MS\u2192OS, 2 twink wins this raid)]"
+      },
+      {
+        "ts": "2026-05-20T20:29:54\u002B02:00",
+        "delta": 10,
+        "desc": "Magma Tempered Boots (os-low) [downgraded from os-mid: Below min PR for Mid (7,023/30)]"
+      },
+      {
+        "ts": "2026-05-20T21:11:21\u002B02:00",
+        "delta": -30,
+        "desc": "Undo loot: Molten Wristguards"
       }
     ]
   }
