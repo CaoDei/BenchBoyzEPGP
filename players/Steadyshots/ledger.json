@@ -1,13 +1,13 @@
 {
-  "lastModified": "2026-05-13T17:22:49\u002B02:00",
+  "lastModified": "2026-05-20T17:53:41\u002B02:00",
   "player": "Steadyshots",
   "main": "Steadyshots",
   "saldo": {
-    "ep": 1273,
+    "ep": 1752,
     "gp_m": 10.74,
-    "gp_a": 15.10,
-    "pr_m": 118.53,
-    "pr_a": 84.30
+    "gp_a": 25.10,
+    "pr_m": 163.13,
+    "pr_a": 69.80
   },
   "ledger": {
     "ep": [
@@ -75,6 +75,11 @@
         "ts": "2026-05-13T17:22:49\u002B02:00",
         "delta": -318,
         "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-05-20T17:53:41\u002B02:00",
+        "delta": 479,
+        "desc": "Attendance EP (479) for raid (96 min @ 3 EP/min, buffed 95 min @ 1 EP/min, enchanted 96 min @ 1 EP/min) [source: Computed]"
       }
     ],
     "gp_m": [
@@ -219,6 +224,11 @@
         "ts": "2026-05-13T17:22:49\u002B02:00",
         "delta": -3.77,
         "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-05-18T21:01:57\u002B02:00",
+        "delta": 10,
+        "desc": "Head of Onyxia (ms-low)"
       }
     ]
   }
