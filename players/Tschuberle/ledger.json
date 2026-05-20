@@ -1,13 +1,13 @@
 {
-  "lastModified": "2026-05-20T17:57:34\u002B02:00",
+  "lastModified": "2026-05-20T22:32:07\u002B02:00",
   "player": "Tschuberle",
   "main": "Tschuberle",
   "saldo": {
-    "ep": 7698,
+    "ep": 8543,
     "gp_m": 12.08,
     "gp_a": 77.34,
-    "pr_m": 637.25,
-    "pr_a": 99.53
+    "pr_m": 707.20,
+    "pr_a": 110.46
   },
   "ledger": {
     "ep": [
@@ -270,6 +270,11 @@
         "ts": "2026-05-20T17:57:34\u002B02:00",
         "delta": -1925,
         "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-05-20T22:32:07\u002B02:00",
+        "delta": 845,
+        "desc": "Attendance EP (845) for raid (172 min @ 3 EP/min, buffed 157 min @ 1 EP/min, enchanted 172 min @ 1 EP/min) [source: Computed]"
       }
     ],
     "gp_m": [
@@ -347,6 +352,16 @@
         "ts": "2026-05-20T17:57:34\u002B02:00",
         "delta": -3.02,
         "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-05-20T22:25:28\u002B02:00",
+        "delta": 90,
+        "desc": "Vis\u0027kag the Bloodletter (os-high)"
+      },
+      {
+        "ts": "2026-05-20T22:28:19\u002B02:00",
+        "delta": -90,
+        "desc": "Undo loot: Vis\u0027kag the Bloodletter"
       }
     ],
     "gp_a": [
