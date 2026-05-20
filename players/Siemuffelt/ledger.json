@@ -1,11 +1,11 @@
 {
-  "lastModified": "2026-05-20T17:53:41\u002B02:00",
+  "lastModified": "2026-05-20T17:57:34\u002B02:00",
   "player": "Siemuffelt",
   "main": "Siemuffelt",
   "saldo": {
-    "ep": 5303,
-    "gp_m": 132.00,
-    "gp_a": 335.74,
+    "ep": 4242,
+    "gp_m": 105.60,
+    "gp_a": 268.59,
     "pr_m": 40.17,
     "pr_a": 15.79
   },
@@ -105,6 +105,11 @@
         "ts": "2026-05-20T17:53:41\u002B02:00",
         "delta": 1082,
         "desc": "Attendance EP (1082) for raid (223 min @ 3 EP/min, buffed 190 min @ 1 EP/min, enchanted 223 min @ 1 EP/min) [source: Computed]"
+      },
+      {
+        "ts": "2026-05-20T17:57:34\u002B02:00",
+        "delta": -1061,
+        "desc": "Decay -20% applied to all players"
       }
     ],
     "gp_m": [
@@ -147,6 +152,11 @@
         "ts": "2026-05-18T23:04:20\u002B02:00",
         "delta": 10,
         "desc": "Fireproof Cloak (ms-low)"
+      },
+      {
+        "ts": "2026-05-20T17:57:34\u002B02:00",
+        "delta": -26.40,
+        "desc": "Decay -20% applied to all players"
       }
     ],
     "gp_a": [
@@ -278,6 +288,11 @@
       {
         "ts": "2026-05-13T17:22:49\u002B02:00",
         "delta": -83.94,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-05-20T17:57:34\u002B02:00",
+        "delta": -67.15,
         "desc": "Decay -20% applied to all players"
       }
     ]
