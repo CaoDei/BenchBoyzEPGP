@@ -1,13 +1,13 @@
 {
-  "lastModified": "2026-05-13T17:22:49\u002B02:00",
+  "lastModified": "2026-05-20T17:57:34\u002B02:00",
   "player": "Jujujan",
   "main": "Jujujan",
   "saldo": {
-    "ep": 1042,
+    "ep": 834,
     "gp_m": 10,
-    "gp_a": 32.00,
-    "pr_m": 104.2,
-    "pr_a": 32.56
+    "gp_a": 25.60,
+    "pr_m": 83.4,
+    "pr_a": 32.58
   },
   "ledger": {
     "ep": [
@@ -40,6 +40,11 @@
         "ts": "2026-05-13T17:22:49\u002B02:00",
         "delta": -261,
         "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-05-20T17:57:34\u002B02:00",
+        "delta": -208,
+        "desc": "Decay -20% applied to all players"
       }
     ],
     "gp_m": [],
@@ -52,6 +57,11 @@
       {
         "ts": "2026-05-13T17:22:49\u002B02:00",
         "delta": -8.00,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-05-20T17:57:34\u002B02:00",
+        "delta": -6.40,
         "desc": "Decay -20% applied to all players"
       }
     ]
