@@ -1,12 +1,12 @@
 {
-  "lastModified": "2026-05-13T22:54:10\u002B02:00",
+  "lastModified": "2026-05-20T17:57:34\u002B02:00",
   "player": "Retterfiemen",
   "main": "Retterfiemen",
   "saldo": {
-    "ep": 1614,
+    "ep": 1291,
     "gp_m": 10,
-    "gp_a": 56.00,
-    "pr_m": 161.4,
+    "gp_a": 44.80,
+    "pr_m": 129.1,
     "pr_a": 28.82
   },
   "ledger": {
@@ -35,6 +35,11 @@
         "ts": "2026-05-13T22:54:10\u002B02:00",
         "delta": 225,
         "desc": "EP-Nachtrag f\u00FCr Basalthane"
+      },
+      {
+        "ts": "2026-05-20T17:57:34\u002B02:00",
+        "delta": -323,
+        "desc": "Decay -20% applied to all players"
       }
     ],
     "gp_m": [],
@@ -62,6 +67,11 @@
       {
         "ts": "2026-05-13T17:22:49\u002B02:00",
         "delta": -14.00,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-05-20T17:57:34\u002B02:00",
+        "delta": -11.20,
         "desc": "Decay -20% applied to all players"
       }
     ]
