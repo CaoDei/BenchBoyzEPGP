@@ -1,12 +1,12 @@
 {
-  "lastModified": "2026-05-13T22:54:10\u002B02:00",
+  "lastModified": "2026-05-20T17:57:34\u002B02:00",
   "player": "Tazzbingo",
   "main": "Tazzbingo",
   "saldo": {
-    "ep": 1949,
+    "ep": 1559,
     "gp_m": 10,
-    "gp_a": 190,
-    "pr_m": 194.9,
+    "gp_a": 152.00,
+    "pr_m": 155.9,
     "pr_a": 10.26
   },
   "ledger": {
@@ -50,6 +50,11 @@
         "ts": "2026-05-13T22:54:10\u002B02:00",
         "delta": 225,
         "desc": "EP-Nachtrag f\u00FCr Basalthane"
+      },
+      {
+        "ts": "2026-05-20T17:57:34\u002B02:00",
+        "delta": -390,
+        "desc": "Decay -20% applied to all players"
       }
     ],
     "gp_m": [],
@@ -83,6 +88,11 @@
         "ts": "2026-05-13T21:43:08\u002B02:00",
         "delta": 30,
         "desc": "Molten Tunic (os-mid) [downgraded from ms-mid: Alt character (MS\u2192OS)]"
+      },
+      {
+        "ts": "2026-05-20T17:57:34\u002B02:00",
+        "delta": -38.00,
+        "desc": "Decay -20% applied to all players"
       }
     ]
   }
