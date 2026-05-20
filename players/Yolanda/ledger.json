@@ -1,13 +1,13 @@
 {
-  "lastModified": "2026-05-13T17:22:49\u002B02:00",
+  "lastModified": "2026-05-20T17:57:34\u002B02:00",
   "player": "Yolanda",
   "main": "Yolanda",
   "saldo": {
-    "ep": 4885,
+    "ep": 3908,
     "gp_m": 10,
-    "gp_a": 25.72,
-    "pr_m": 488.5,
-    "pr_a": 189.93
+    "gp_a": 20.58,
+    "pr_m": 390.8,
+    "pr_a": 189.89
   },
   "ledger": {
     "ep": [
@@ -210,6 +210,11 @@
         "ts": "2026-05-13T17:22:49\u002B02:00",
         "delta": -1221,
         "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-05-20T17:57:34\u002B02:00",
+        "delta": -977,
+        "desc": "Decay -20% applied to all players"
       }
     ],
     "gp_m": [
@@ -323,6 +328,11 @@
       {
         "ts": "2026-05-13T17:22:49\u002B02:00",
         "delta": -6.43,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-05-20T17:57:34\u002B02:00",
+        "delta": -5.14,
         "desc": "Decay -20% applied to all players"
       }
     ]
