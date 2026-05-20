@@ -1,12 +1,12 @@
 {
-  "lastModified": "2026-05-13T22:54:10\u002B02:00",
+  "lastModified": "2026-05-20T17:57:34\u002B02:00",
   "player": "Podragon",
   "main": "Podragon",
   "saldo": {
-    "ep": 960,
+    "ep": 768,
     "gp_m": 10,
-    "gp_a": 170,
-    "pr_m": 96,
+    "gp_a": 136.00,
+    "pr_m": 76.8,
     "pr_a": 5.65
   },
   "ledger": {
@@ -25,6 +25,11 @@
         "ts": "2026-05-13T22:54:10\u002B02:00",
         "delta": 225,
         "desc": "EP-Nachtrag f\u00FCr Basalthane"
+      },
+      {
+        "ts": "2026-05-20T17:57:34\u002B02:00",
+        "delta": -192,
+        "desc": "Decay -20% applied to all players"
       }
     ],
     "gp_m": [],
@@ -78,6 +83,11 @@
         "ts": "2026-05-13T21:43:54\u002B02:00",
         "delta": 30,
         "desc": "Malistar\u0027s Defender (ms-mid) [downgraded from ms-high: Below min EP (0/5000)]"
+      },
+      {
+        "ts": "2026-05-20T17:57:34\u002B02:00",
+        "delta": -34.00,
+        "desc": "Decay -20% applied to all players"
       }
     ]
   }
