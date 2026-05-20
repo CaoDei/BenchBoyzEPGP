@@ -1,13 +1,13 @@
 {
-  "lastModified": "2026-05-20T17:57:34\u002B02:00",
+  "lastModified": "2026-05-20T22:32:07\u002B02:00",
   "player": "Luisken",
   "main": "Luisken",
   "saldo": {
-    "ep": 8147,
+    "ep": 9135,
     "gp_m": 18.58,
     "gp_a": 121.57,
-    "pr_m": 438.48,
-    "pr_a": 67.01
+    "pr_m": 491.66,
+    "pr_a": 75.14
   },
   "ledger": {
     "ep": [
@@ -295,6 +295,16 @@
         "ts": "2026-05-20T17:57:34\u002B02:00",
         "delta": -2037,
         "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-05-20T22:32:00\u002B02:00",
+        "delta": 60,
+        "desc": "Timely signup EP bonus for: Molten Core Ascended 20.05.2026"
+      },
+      {
+        "ts": "2026-05-20T22:32:07\u002B02:00",
+        "delta": 928,
+        "desc": "Attendance EP (928) for raid (189 min @ 3 EP/min, buffed 172 min @ 1 EP/min, enchanted 189 min @ 1 EP/min) [source: Computed]"
       }
     ],
     "gp_m": [
