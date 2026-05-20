@@ -1,13 +1,13 @@
 {
-  "lastModified": "2026-05-13T22:54:10\u002B02:00",
+  "lastModified": "2026-05-20T17:53:41\u002B02:00",
   "player": "Luisken",
   "main": "Luisken",
   "saldo": {
-    "ep": 9067,
+    "ep": 10184,
     "gp_m": 23.23,
-    "gp_a": 121.96,
-    "pr_m": 390.31,
-    "pr_a": 74.34
+    "gp_a": 151.96,
+    "pr_m": 438.40,
+    "pr_a": 67.02
   },
   "ledger": {
     "ep": [
@@ -280,6 +280,16 @@
         "ts": "2026-05-13T22:54:10\u002B02:00",
         "delta": 225,
         "desc": "EP-Nachtrag f\u00FCr Basalthane"
+      },
+      {
+        "ts": "2026-05-20T17:53:06\u002B02:00",
+        "delta": 60,
+        "desc": "Timely signup EP bonus for: Onyxia Ascended Montag 18.05.2026"
+      },
+      {
+        "ts": "2026-05-20T17:53:41\u002B02:00",
+        "delta": 1057,
+        "desc": "Attendance EP (1057) for raid (223 min @ 3 EP/min, buffed 165 min @ 1 EP/min, enchanted 223 min @ 1 EP/min) [source: Computed]"
       }
     ],
     "gp_m": [
@@ -479,6 +489,11 @@
         "ts": "2026-05-13T17:22:49\u002B02:00",
         "delta": -30.49,
         "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-05-18T21:01:54\u002B02:00",
+        "delta": 30,
+        "desc": "Eruption Cord (ms-mid)"
       }
     ]
   }
