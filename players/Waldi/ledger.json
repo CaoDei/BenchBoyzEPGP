@@ -1,12 +1,12 @@
 {
-  "lastModified": "2026-05-20T17:53:41\u002B02:00",
+  "lastModified": "2026-05-20T17:57:34\u002B02:00",
   "player": "Waldi",
   "main": "Waldmeister",
   "saldo": {
-    "ep": 7044,
-    "gp_m": 14.80,
-    "gp_a": 128.23,
-    "pr_m": 475.95,
+    "ep": 5635,
+    "gp_m": 11.84,
+    "gp_a": 102.58,
+    "pr_m": 475.93,
     "pr_a": 54.93
   },
   "ledger": {
@@ -255,6 +255,11 @@
         "ts": "2026-05-20T17:53:41\u002B02:00",
         "delta": 109,
         "desc": "Attendance EP (109) for raid (22 min @ 3 EP/min, buffed 21 min @ 1 EP/min, enchanted 22 min @ 1 EP/min) [source: Computed]"
+      },
+      {
+        "ts": "2026-05-20T17:57:34\u002B02:00",
+        "delta": -1409,
+        "desc": "Decay -20% applied to all players"
       }
     ],
     "gp_m": [
@@ -326,6 +331,11 @@
       {
         "ts": "2026-05-13T17:22:49\u002B02:00",
         "delta": -3.70,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-05-20T17:57:34\u002B02:00",
+        "delta": -2.96,
         "desc": "Decay -20% applied to all players"
       }
     ],
@@ -453,6 +463,11 @@
       {
         "ts": "2026-05-13T17:22:49\u002B02:00",
         "delta": -32.06,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-05-20T17:57:34\u002B02:00",
+        "delta": -25.65,
         "desc": "Decay -20% applied to all players"
       }
     ]
