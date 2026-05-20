@@ -1,12 +1,12 @@
 {
-  "lastModified": "2026-05-13T17:22:49\u002B02:00",
+  "lastModified": "2026-05-20T17:57:34\u002B02:00",
   "player": "Morguel",
   "main": "Morguel",
   "saldo": {
-    "ep": 1055,
+    "ep": 844,
     "gp_m": 10,
-    "gp_a": 104.00,
-    "pr_m": 105.5,
+    "gp_a": 83.20,
+    "pr_m": 84.4,
     "pr_a": 10.14
   },
   "ledger": {
@@ -39,6 +39,11 @@
       {
         "ts": "2026-05-13T17:22:49\u002B02:00",
         "delta": -264,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-05-20T17:57:34\u002B02:00",
+        "delta": -211,
         "desc": "Decay -20% applied to all players"
       }
     ],
@@ -107,6 +112,11 @@
       {
         "ts": "2026-05-13T17:22:49\u002B02:00",
         "delta": -26.00,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-05-20T17:57:34\u002B02:00",
+        "delta": -20.80,
         "desc": "Decay -20% applied to all players"
       }
     ]
