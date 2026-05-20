@@ -1,13 +1,13 @@
 {
-  "lastModified": "2026-05-20T17:57:34\u002B02:00",
+  "lastModified": "2026-05-20T22:32:07\u002B02:00",
   "player": "Scraph",
   "main": "Scraph",
   "saldo": {
-    "ep": 1136,
-    "gp_m": 10,
-    "gp_a": 65.60,
-    "pr_m": 113.6,
-    "pr_a": 17.32
+    "ep": 1751,
+    "gp_m": 20,
+    "gp_a": 115.60,
+    "pr_m": 87.55,
+    "pr_a": 15.15
   },
   "ledger": {
     "ep": [
@@ -45,9 +45,20 @@
         "ts": "2026-05-20T17:57:34\u002B02:00",
         "delta": -284,
         "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-05-20T22:32:07\u002B02:00",
+        "delta": 615,
+        "desc": "Attendance EP (615) for raid (123 min @ 3 EP/min, buffed 123 min @ 1 EP/min, enchanted 123 min @ 1 EP/min) [source: Computed]"
       }
     ],
-    "gp_m": [],
+    "gp_m": [
+      {
+        "ts": "2026-05-20T22:25:20\u002B02:00",
+        "delta": 10,
+        "desc": "Obsidian Emberlance (os-low) [downgraded from ms-high: Below min EP (1136/5000); Below min EP for Mid (1136/1500); Loot cap: \u003C1500 EP with 5 wins this raid]"
+      }
+    ],
     "gp_a": [
       {
         "ts": "2026-05-06T20:14:41\u002B02:00",
@@ -78,6 +89,31 @@
         "ts": "2026-05-20T17:57:34\u002B02:00",
         "delta": -16.40,
         "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-05-20T21:24:59\u002B02:00",
+        "delta": 10,
+        "desc": "Chromatic Legguards (ms-low) [downgraded from ms-high: Below min EP (1136/5000); Below min EP for Mid (1136/1500)]"
+      },
+      {
+        "ts": "2026-05-20T21:25:30\u002B02:00",
+        "delta": 10,
+        "desc": "Chromatic Wristguards (ms-low)"
+      },
+      {
+        "ts": "2026-05-20T21:25:32\u002B02:00",
+        "delta": 10,
+        "desc": "Essence of the Pure Flame (os-low) [downgraded from os-low: Loot cap: \u003C1500 EP with 2 wins this raid]"
+      },
+      {
+        "ts": "2026-05-20T21:25:32\u002B02:00",
+        "delta": 10,
+        "desc": "Finkle\u0027s Lava Dredger (os-low) [downgraded from os-low: Loot cap: \u003C1500 EP with 3 wins this raid]"
+      },
+      {
+        "ts": "2026-05-20T21:25:33\u002B02:00",
+        "delta": 10,
+        "desc": "Flamewalker\u0027s Rage Idol (os-low) [downgraded from os-low: Loot cap: \u003C1500 EP with 4 wins this raid]"
       }
     ]
   }
