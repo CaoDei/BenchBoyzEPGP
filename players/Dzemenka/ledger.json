@@ -1,13 +1,13 @@
 {
-  "lastModified": "2026-05-13T17:22:49\u002B02:00",
+  "lastModified": "2026-05-20T17:57:34\u002B02:00",
   "player": "Dzemenka",
   "main": "Dzemenka",
   "saldo": {
-    "ep": 874,
+    "ep": 699,
     "gp_m": 10,
     "gp_a": 10,
-    "pr_m": 87.4,
-    "pr_a": 87.4
+    "pr_m": 69.9,
+    "pr_a": 69.9
   },
   "ledger": {
     "ep": [
@@ -79,6 +79,11 @@
       {
         "ts": "2026-05-13T17:22:49\u002B02:00",
         "delta": -219,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-05-20T17:57:34\u002B02:00",
+        "delta": -175,
         "desc": "Decay -20% applied to all players"
       }
     ],
