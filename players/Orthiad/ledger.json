@@ -1,13 +1,13 @@
 {
-  "lastModified": "2026-05-13T17:22:49\u002B02:00",
+  "lastModified": "2026-05-20T17:57:34\u002B02:00",
   "player": "Orthiad",
   "main": "Orthiad",
   "saldo": {
-    "ep": 3934,
-    "gp_m": 34.11,
-    "gp_a": 47.16,
-    "pr_m": 115.33,
-    "pr_a": 83.42
+    "ep": 3147,
+    "gp_m": 27.29,
+    "gp_a": 37.73,
+    "pr_m": 115.32,
+    "pr_a": 83.41
   },
   "ledger": {
     "ep": [
@@ -180,6 +180,11 @@
         "ts": "2026-05-13T17:22:49\u002B02:00",
         "delta": -984,
         "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-05-20T17:57:34\u002B02:00",
+        "delta": -787,
+        "desc": "Decay -20% applied to all players"
       }
     ],
     "gp_m": [
@@ -276,6 +281,11 @@
       {
         "ts": "2026-05-13T17:22:49\u002B02:00",
         "delta": -8.53,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-05-20T17:57:34\u002B02:00",
+        "delta": -6.82,
         "desc": "Decay -20% applied to all players"
       }
     ],
@@ -403,6 +413,11 @@
       {
         "ts": "2026-05-13T17:22:49\u002B02:00",
         "delta": -11.79,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-05-20T17:57:34\u002B02:00",
+        "delta": -9.43,
         "desc": "Decay -20% applied to all players"
       }
     ]
