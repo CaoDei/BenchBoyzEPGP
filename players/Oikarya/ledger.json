@@ -1,12 +1,12 @@
 {
-  "lastModified": "2026-05-13T17:22:49\u002B02:00",
+  "lastModified": "2026-05-20T17:57:34\u002B02:00",
   "player": "Oikarya",
   "main": "Oikarya",
   "saldo": {
-    "ep": 1450,
+    "ep": 1160,
     "gp_m": 10,
-    "gp_a": 155.20,
-    "pr_m": 145,
+    "gp_a": 124.16,
+    "pr_m": 116,
     "pr_a": 9.34
   },
   "ledger": {
@@ -44,6 +44,11 @@
       {
         "ts": "2026-05-13T17:22:49\u002B02:00",
         "delta": -363,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-05-20T17:57:34\u002B02:00",
+        "delta": -290,
         "desc": "Decay -20% applied to all players"
       }
     ],
@@ -117,6 +122,11 @@
       {
         "ts": "2026-05-13T17:22:49\u002B02:00",
         "delta": -38.80,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-05-20T17:57:34\u002B02:00",
+        "delta": -31.04,
         "desc": "Decay -20% applied to all players"
       }
     ]
