@@ -1,13 +1,13 @@
 {
-  "lastModified": "2026-05-20T17:53:41\u002B02:00",
+  "lastModified": "2026-05-20T17:57:34\u002B02:00",
   "player": "Kuyon",
   "main": "Kuyon",
   "saldo": {
-    "ep": 386,
-    "gp_m": 130,
+    "ep": 309,
+    "gp_m": 104.00,
     "gp_a": 10,
     "pr_m": 2.97,
-    "pr_a": 38.6
+    "pr_a": 30.9
   },
   "ledger": {
     "ep": [
@@ -15,6 +15,11 @@
         "ts": "2026-05-20T17:53:41\u002B02:00",
         "delta": 386,
         "desc": "Attendance EP (386) for raid (90 min @ 3 EP/min, buffed 26 min @ 1 EP/min, enchanted 90 min @ 1 EP/min) [source: Computed]"
+      },
+      {
+        "ts": "2026-05-20T17:57:34\u002B02:00",
+        "delta": -77,
+        "desc": "Decay -20% applied to all players"
       }
     ],
     "gp_m": [
@@ -77,6 +82,11 @@
         "ts": "2026-05-18T23:04:23\u002B02:00",
         "delta": 10,
         "desc": "Chromatic Wristguards (os-low) [downgraded from os-low: Loot cap: \u003C1500 EP with 11 wins this raid]"
+      },
+      {
+        "ts": "2026-05-20T17:57:34\u002B02:00",
+        "delta": -26.00,
+        "desc": "Decay -20% applied to all players"
       }
     ],
     "gp_a": []
