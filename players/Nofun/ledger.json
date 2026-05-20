@@ -1,13 +1,13 @@
 {
-  "lastModified": "2026-05-20T17:57:34\u002B02:00",
+  "lastModified": "2026-05-20T22:32:07\u002B02:00",
   "player": "Nofun",
   "main": "Nofun",
   "saldo": {
-    "ep": 2992,
+    "ep": 3980,
     "gp_m": 10,
-    "gp_a": 73.28,
-    "pr_m": 299.2,
-    "pr_a": 40.83
+    "gp_a": 123.28,
+    "pr_m": 398,
+    "pr_a": 32.28
   },
   "ledger": {
     "ep": [
@@ -85,6 +85,16 @@
         "ts": "2026-05-20T17:57:34\u002B02:00",
         "delta": -748,
         "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-05-20T22:32:00\u002B02:00",
+        "delta": 60,
+        "desc": "Timely signup EP bonus for: Molten Core Ascended 20.05.2026"
+      },
+      {
+        "ts": "2026-05-20T22:32:07\u002B02:00",
+        "delta": 928,
+        "desc": "Attendance EP (928) for raid (189 min @ 3 EP/min, buffed 172 min @ 1 EP/min, enchanted 189 min @ 1 EP/min) [source: Computed]"
       }
     ],
     "gp_m": [],
@@ -133,6 +143,21 @@
         "ts": "2026-05-20T17:57:34\u002B02:00",
         "delta": -18.32,
         "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-05-20T19:45:57\u002B02:00",
+        "delta": 30,
+        "desc": "Drillborer Disk (os-mid)"
+      },
+      {
+        "ts": "2026-05-20T20:29:45\u002B02:00",
+        "delta": 10,
+        "desc": "Overloaded Totem (ms-low) [downgraded from ms-mid: Below min PR for Mid (28,970/30)]"
+      },
+      {
+        "ts": "2026-05-20T20:29:53\u002B02:00",
+        "delta": 10,
+        "desc": "Heavy Boulder Totem (os-low) [downgraded from os-mid: Below min PR for Mid (26,412/30)]"
       }
     ]
   }
