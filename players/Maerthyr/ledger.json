@@ -1,13 +1,13 @@
 {
-  "lastModified": "2026-05-13T17:22:49\u002B02:00",
+  "lastModified": "2026-05-20T17:57:34\u002B02:00",
   "player": "Maerthyr",
   "main": "Maerthyr",
   "saldo": {
-    "ep": 3042,
+    "ep": 2434,
     "gp_m": 10,
-    "gp_a": 49.94,
-    "pr_m": 304.2,
-    "pr_a": 60.91
+    "gp_a": 39.95,
+    "pr_m": 243.4,
+    "pr_a": 60.93
   },
   "ledger": {
     "ep": [
@@ -165,6 +165,11 @@
         "ts": "2026-05-13T17:22:49\u002B02:00",
         "delta": -760,
         "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-05-20T17:57:34\u002B02:00",
+        "delta": -608,
+        "desc": "Decay -20% applied to all players"
       }
     ],
     "gp_m": [
@@ -273,6 +278,11 @@
       {
         "ts": "2026-05-13T17:22:49\u002B02:00",
         "delta": -12.49,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-05-20T17:57:34\u002B02:00",
+        "delta": -9.99,
         "desc": "Decay -20% applied to all players"
       }
     ]
