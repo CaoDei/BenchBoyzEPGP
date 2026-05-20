@@ -1,12 +1,12 @@
 {
-  "lastModified": "2026-05-20T17:53:41\u002B02:00",
+  "lastModified": "2026-05-20T17:57:34\u002B02:00",
   "player": "Biggalow",
   "main": "Biggalow",
   "saldo": {
-    "ep": 2476,
+    "ep": 1981,
     "gp_m": 10,
-    "gp_a": 145.60,
-    "pr_m": 247.6,
+    "gp_a": 116.48,
+    "pr_m": 198.1,
     "pr_a": 17.01
   },
   "ledger": {
@@ -55,6 +55,11 @@
         "ts": "2026-05-20T17:53:41\u002B02:00",
         "delta": 479,
         "desc": "Attendance EP (479) for raid (96 min @ 3 EP/min, buffed 95 min @ 1 EP/min, enchanted 96 min @ 1 EP/min) [source: Computed]"
+      },
+      {
+        "ts": "2026-05-20T17:57:34\u002B02:00",
+        "delta": -495,
+        "desc": "Decay -20% applied to all players"
       }
     ],
     "gp_m": [],
@@ -102,6 +107,11 @@
       {
         "ts": "2026-05-13T17:22:49\u002B02:00",
         "delta": -36.40,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-05-20T17:57:34\u002B02:00",
+        "delta": -29.12,
         "desc": "Decay -20% applied to all players"
       }
     ]
