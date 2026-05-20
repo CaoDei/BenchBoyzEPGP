@@ -1,13 +1,13 @@
 {
-  "lastModified": "2026-05-13T17:22:49\u002B02:00",
+  "lastModified": "2026-05-20T17:57:34\u002B02:00",
   "player": "Parum",
   "main": "Parum",
   "saldo": {
-    "ep": 491,
+    "ep": 393,
     "gp_m": 10,
     "gp_a": 10,
-    "pr_m": 49.1,
-    "pr_a": 49.1
+    "pr_m": 39.3,
+    "pr_a": 39.3
   },
   "ledger": {
     "ep": [
@@ -29,6 +29,11 @@
       {
         "ts": "2026-05-13T17:22:49\u002B02:00",
         "delta": -123,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-05-20T17:57:34\u002B02:00",
+        "delta": -98,
         "desc": "Decay -20% applied to all players"
       }
     ],
