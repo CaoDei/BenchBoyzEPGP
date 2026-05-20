@@ -1,11 +1,11 @@
 {
-  "lastModified": "2026-05-13T17:22:49\u002B02:00",
+  "lastModified": "2026-05-20T17:57:34\u002B02:00",
   "player": "Serpsass",
   "main": "Serpsass",
   "saldo": {
-    "ep": 1090,
-    "gp_m": 18.35,
-    "gp_a": 62.91,
+    "ep": 872,
+    "gp_m": 14.68,
+    "gp_a": 50.33,
     "pr_m": 59.40,
     "pr_a": 17.33
   },
@@ -65,6 +65,11 @@
         "ts": "2026-05-13T17:22:49\u002B02:00",
         "delta": -272,
         "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-05-20T17:57:34\u002B02:00",
+        "delta": -218,
+        "desc": "Decay -20% applied to all players"
       }
     ],
     "gp_m": [
@@ -106,6 +111,11 @@
       {
         "ts": "2026-05-13T17:22:49\u002B02:00",
         "delta": -4.59,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-05-20T17:57:34\u002B02:00",
+        "delta": -3.67,
         "desc": "Decay -20% applied to all players"
       }
     ],
@@ -188,6 +198,11 @@
       {
         "ts": "2026-05-13T17:22:49\u002B02:00",
         "delta": -15.73,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-05-20T17:57:34\u002B02:00",
+        "delta": -12.58,
         "desc": "Decay -20% applied to all players"
       }
     ]
