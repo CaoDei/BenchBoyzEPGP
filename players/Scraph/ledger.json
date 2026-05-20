@@ -1,12 +1,12 @@
 {
-  "lastModified": "2026-05-13T22:54:10\u002B02:00",
+  "lastModified": "2026-05-20T17:57:34\u002B02:00",
   "player": "Scraph",
   "main": "Scraph",
   "saldo": {
-    "ep": 1420,
+    "ep": 1136,
     "gp_m": 10,
-    "gp_a": 82.00,
-    "pr_m": 142,
+    "gp_a": 65.60,
+    "pr_m": 113.6,
     "pr_a": 17.32
   },
   "ledger": {
@@ -40,6 +40,11 @@
         "ts": "2026-05-13T22:54:10\u002B02:00",
         "delta": 225,
         "desc": "EP-Nachtrag f\u00FCr Basalthane"
+      },
+      {
+        "ts": "2026-05-20T17:57:34\u002B02:00",
+        "delta": -284,
+        "desc": "Decay -20% applied to all players"
       }
     ],
     "gp_m": [],
@@ -68,6 +73,11 @@
         "ts": "2026-05-13T21:44:11\u002B02:00",
         "delta": 10,
         "desc": "Wristguards of Stability (os-low)"
+      },
+      {
+        "ts": "2026-05-20T17:57:34\u002B02:00",
+        "delta": -16.40,
+        "desc": "Decay -20% applied to all players"
       }
     ]
   }
