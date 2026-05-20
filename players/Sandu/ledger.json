@@ -1,13 +1,13 @@
 {
-  "lastModified": "2026-05-20T17:57:34\u002B02:00",
+  "lastModified": "2026-05-20T22:32:07\u002B02:00",
   "player": "Sandu",
   "main": "Sandu",
   "saldo": {
-    "ep": 7940,
-    "gp_m": 10,
+    "ep": 8928,
+    "gp_m": 20,
     "gp_a": 111.26,
-    "pr_m": 794,
-    "pr_a": 71.36
+    "pr_m": 446.4,
+    "pr_a": 80.24
   },
   "ledger": {
     "ep": [
@@ -285,6 +285,16 @@
         "ts": "2026-05-20T17:57:34\u002B02:00",
         "delta": -1985,
         "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-05-20T22:32:00\u002B02:00",
+        "delta": 60,
+        "desc": "Timely signup EP bonus for: Molten Core Ascended 20.05.2026"
+      },
+      {
+        "ts": "2026-05-20T22:32:07\u002B02:00",
+        "delta": 928,
+        "desc": "Attendance EP (928) for raid (189 min @ 3 EP/min, buffed 172 min @ 1 EP/min, enchanted 189 min @ 1 EP/min) [source: Computed]"
       }
     ],
     "gp_m": [
@@ -352,6 +362,11 @@
         "ts": "2026-05-13T17:22:49\u002B02:00",
         "delta": -1.67,
         "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-05-20T22:25:27\u002B02:00",
+        "delta": 10,
+        "desc": "Head of Onyxia (os-low)"
       }
     ],
     "gp_a": [
