@@ -1,13 +1,13 @@
 {
-  "lastModified": "2026-05-13T17:22:49\u002B02:00",
+  "lastModified": "2026-05-20T17:57:34\u002B02:00",
   "player": "Anatash",
   "main": "Anatash",
   "saldo": {
-    "ep": 346,
+    "ep": 277,
     "gp_m": 10,
     "gp_a": 10,
-    "pr_m": 34.6,
-    "pr_a": 34.6
+    "pr_m": 27.7,
+    "pr_a": 27.7
   },
   "ledger": {
     "ep": [
@@ -24,6 +24,11 @@
       {
         "ts": "2026-05-13T17:22:49\u002B02:00",
         "delta": -87,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-05-20T17:57:34\u002B02:00",
+        "delta": -69,
         "desc": "Decay -20% applied to all players"
       }
     ],
