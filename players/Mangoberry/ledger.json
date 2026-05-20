@@ -1,13 +1,13 @@
 {
-  "lastModified": "2026-05-13T17:22:49\u002B02:00",
+  "lastModified": "2026-05-20T17:57:34\u002B02:00",
   "player": "Mangoberry",
   "main": "Mangoberry",
   "saldo": {
-    "ep": 442,
+    "ep": 354,
     "gp_m": 10,
     "gp_a": 10,
-    "pr_m": 44.2,
-    "pr_a": 44.2
+    "pr_m": 35.4,
+    "pr_a": 35.4
   },
   "ledger": {
     "ep": [
@@ -34,6 +34,11 @@
       {
         "ts": "2026-05-13T17:22:49\u002B02:00",
         "delta": -111,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-05-20T17:57:34\u002B02:00",
+        "delta": -88,
         "desc": "Decay -20% applied to all players"
       }
     ],
