@@ -1,13 +1,13 @@
 {
-  "lastModified": "2026-05-20T22:32:07\u002B02:00",
+  "lastModified": "2026-05-26T08:39:44\u002B02:00",
   "player": "Cao",
   "main": "Tayami",
   "saldo": {
-    "ep": 9198,
-    "gp_m": 42.78,
-    "gp_a": 66.35,
-    "pr_m": 215.01,
-    "pr_a": 138.63
+    "ep": 8139,
+    "gp_m": 34.22,
+    "gp_a": 53.08,
+    "pr_m": 237.84,
+    "pr_a": 153.33
   },
   "ledger": {
     "ep": [
@@ -305,6 +305,21 @@
         "ts": "2026-05-20T22:32:07\u002B02:00",
         "delta": 928,
         "desc": "Attendance EP (928) for raid (189 min @ 3 EP/min, buffed 172 min @ 1 EP/min, enchanted 189 min @ 1 EP/min) [source: Computed]"
+      },
+      {
+        "ts": "2026-05-26T08:37:38\u002B02:00",
+        "delta": 60,
+        "desc": "Timely signup EP bonus for: Onyxia Ascended Montag 25.05.2026"
+      },
+      {
+        "ts": "2026-05-26T08:37:59\u002B02:00",
+        "delta": 916,
+        "desc": "Attendance EP (916) for raid (191 min @ 3 EP/min, buffed 152 min @ 1 EP/min, enchanted 191 min @ 1 EP/min) [source: Computed]"
+      },
+      {
+        "ts": "2026-05-26T08:39:44\u002B02:00",
+        "delta": -2035,
+        "desc": "Decay -20% applied to all players"
       }
     ],
     "gp_m": [
@@ -382,6 +397,11 @@
         "ts": "2026-05-20T22:25:29\u002B02:00",
         "delta": 10,
         "desc": "Living Lavastone Conduit (os-low)"
+      },
+      {
+        "ts": "2026-05-26T08:39:44\u002B02:00",
+        "delta": -8.56,
+        "desc": "Decay -20% applied to all players"
       }
     ],
     "gp_a": [
@@ -469,6 +489,11 @@
         "ts": "2026-05-20T21:25:26\u002B02:00",
         "delta": 10,
         "desc": "Choker of the Fire Lord (Twink-MS-Low) [downgraded from ms-low: Alt character (MS\u2192Twink-MS)]"
+      },
+      {
+        "ts": "2026-05-26T08:39:44\u002B02:00",
+        "delta": -13.27,
+        "desc": "Decay -20% applied to all players"
       }
     ]
   }
