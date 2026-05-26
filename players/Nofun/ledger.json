@@ -1,13 +1,13 @@
 {
-  "lastModified": "2026-05-20T22:32:07\u002B02:00",
+  "lastModified": "2026-05-26T08:39:44\u002B02:00",
   "player": "Nofun",
   "main": "Nofun",
   "saldo": {
-    "ep": 3980,
+    "ep": 3184,
     "gp_m": 10,
-    "gp_a": 123.28,
-    "pr_m": 398,
-    "pr_a": 32.28
+    "gp_a": 98.62,
+    "pr_m": 318.4,
+    "pr_a": 32.29
   },
   "ledger": {
     "ep": [
@@ -95,6 +95,11 @@
         "ts": "2026-05-20T22:32:07\u002B02:00",
         "delta": 928,
         "desc": "Attendance EP (928) for raid (189 min @ 3 EP/min, buffed 172 min @ 1 EP/min, enchanted 189 min @ 1 EP/min) [source: Computed]"
+      },
+      {
+        "ts": "2026-05-26T08:39:44\u002B02:00",
+        "delta": -796,
+        "desc": "Decay -20% applied to all players"
       }
     ],
     "gp_m": [],
@@ -158,6 +163,11 @@
         "ts": "2026-05-20T20:29:53\u002B02:00",
         "delta": 10,
         "desc": "Heavy Boulder Totem (os-low) [downgraded from os-mid: Below min PR for Mid (26,412/30)]"
+      },
+      {
+        "ts": "2026-05-26T08:39:44\u002B02:00",
+        "delta": -24.66,
+        "desc": "Decay -20% applied to all players"
       }
     ]
   }
