@@ -1,13 +1,13 @@
 {
-  "lastModified": "2026-05-20T17:57:34\u002B02:00",
+  "lastModified": "2026-05-26T08:39:44\u002B02:00",
   "player": "Managlow",
   "main": "Managlow",
   "saldo": {
-    "ep": 741,
+    "ep": 593,
     "gp_m": 10,
     "gp_a": 10,
-    "pr_m": 74.1,
-    "pr_a": 74.1
+    "pr_m": 59.3,
+    "pr_a": 59.3
   },
   "ledger": {
     "ep": [
@@ -44,6 +44,11 @@
       {
         "ts": "2026-05-20T17:57:34\u002B02:00",
         "delta": -185,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-05-26T08:39:44\u002B02:00",
+        "delta": -148,
         "desc": "Decay -20% applied to all players"
       }
     ],
