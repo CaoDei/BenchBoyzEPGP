@@ -1,12 +1,12 @@
 {
-  "lastModified": "2026-05-20T17:57:34\u002B02:00",
+  "lastModified": "2026-05-26T08:39:44\u002B02:00",
   "player": "Biggalow",
   "main": "Biggalow",
   "saldo": {
-    "ep": 1981,
+    "ep": 1585,
     "gp_m": 10,
-    "gp_a": 116.48,
-    "pr_m": 198.1,
+    "gp_a": 93.18,
+    "pr_m": 158.5,
     "pr_a": 17.01
   },
   "ledger": {
@@ -60,6 +60,11 @@
         "ts": "2026-05-20T17:57:34\u002B02:00",
         "delta": -495,
         "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-05-26T08:39:44\u002B02:00",
+        "delta": -396,
+        "desc": "Decay -20% applied to all players"
       }
     ],
     "gp_m": [],
@@ -112,6 +117,11 @@
       {
         "ts": "2026-05-20T17:57:34\u002B02:00",
         "delta": -29.12,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-05-26T08:39:44\u002B02:00",
+        "delta": -23.30,
         "desc": "Decay -20% applied to all players"
       }
     ]
