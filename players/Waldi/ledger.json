@@ -1,13 +1,13 @@
 {
-  "lastModified": "2026-05-20T17:57:34\u002B02:00",
+  "lastModified": "2026-05-26T08:39:44\u002B02:00",
   "player": "Waldi",
   "main": "Waldmeister",
   "saldo": {
-    "ep": 5635,
-    "gp_m": 11.84,
-    "gp_a": 102.58,
-    "pr_m": 475.93,
-    "pr_a": 54.93
+    "ep": 4508,
+    "gp_m": 10,
+    "gp_a": 82.06,
+    "pr_m": 450.8,
+    "pr_a": 54.94
   },
   "ledger": {
     "ep": [
@@ -260,6 +260,11 @@
         "ts": "2026-05-20T17:57:34\u002B02:00",
         "delta": -1409,
         "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-05-26T08:39:44\u002B02:00",
+        "delta": -1127,
+        "desc": "Decay -20% applied to all players"
       }
     ],
     "gp_m": [
@@ -336,6 +341,11 @@
       {
         "ts": "2026-05-20T17:57:34\u002B02:00",
         "delta": -2.96,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-05-26T08:39:44\u002B02:00",
+        "delta": -1.84,
         "desc": "Decay -20% applied to all players"
       }
     ],
@@ -468,6 +478,11 @@
       {
         "ts": "2026-05-20T17:57:34\u002B02:00",
         "delta": -25.65,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-05-26T08:39:44\u002B02:00",
+        "delta": -20.52,
         "desc": "Decay -20% applied to all players"
       }
     ]
