@@ -1,13 +1,13 @@
 {
-  "lastModified": "2026-05-20T22:32:07\u002B02:00",
+  "lastModified": "2026-05-26T08:39:44\u002B02:00",
   "player": "Briar",
   "main": "Briaar",
   "saldo": {
-    "ep": 8814,
-    "gp_m": 44.80,
-    "gp_a": 20.80,
-    "pr_m": 196.74,
-    "pr_a": 423.75
+    "ep": 7826,
+    "gp_m": 35.84,
+    "gp_a": 16.64,
+    "pr_m": 218.36,
+    "pr_a": 470.31
   },
   "ledger": {
     "ep": [
@@ -285,6 +285,21 @@
         "ts": "2026-05-20T22:32:07\u002B02:00",
         "delta": 928,
         "desc": "Attendance EP (928) for raid (189 min @ 3 EP/min, buffed 172 min @ 1 EP/min, enchanted 189 min @ 1 EP/min) [source: Computed]"
+      },
+      {
+        "ts": "2026-05-26T08:37:38\u002B02:00",
+        "delta": 60,
+        "desc": "Timely signup EP bonus for: Onyxia Ascended Montag 25.05.2026"
+      },
+      {
+        "ts": "2026-05-26T08:37:59\u002B02:00",
+        "delta": 909,
+        "desc": "Attendance EP (909) for raid (191 min @ 3 EP/min, buffed 145 min @ 1 EP/min, enchanted 191 min @ 1 EP/min) [source: Computed]"
+      },
+      {
+        "ts": "2026-05-26T08:39:44\u002B02:00",
+        "delta": -1957,
+        "desc": "Decay -20% applied to all players"
       }
     ],
     "gp_m": [
@@ -321,6 +336,11 @@
       {
         "ts": "2026-05-20T17:57:34\u002B02:00",
         "delta": -11.20,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-05-26T08:39:44\u002B02:00",
+        "delta": -8.96,
         "desc": "Decay -20% applied to all players"
       }
     ],
@@ -368,6 +388,11 @@
       {
         "ts": "2026-05-20T17:57:34\u002B02:00",
         "delta": -5.20,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-05-26T08:39:44\u002B02:00",
+        "delta": -4.16,
         "desc": "Decay -20% applied to all players"
       }
     ]
