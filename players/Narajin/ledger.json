@@ -1,12 +1,12 @@
 {
-  "lastModified": "2026-05-20T17:57:34\u002B02:00",
+  "lastModified": "2026-05-26T08:39:44\u002B02:00",
   "player": "Narajin",
   "main": "Narajin",
   "saldo": {
-    "ep": 1390,
+    "ep": 1112,
     "gp_m": 10,
-    "gp_a": 39.68,
-    "pr_m": 139,
+    "gp_a": 31.74,
+    "pr_m": 111.2,
     "pr_a": 35.03
   },
   "ledger": {
@@ -50,6 +50,11 @@
         "ts": "2026-05-20T17:57:34\u002B02:00",
         "delta": -348,
         "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-05-26T08:39:44\u002B02:00",
+        "delta": -278,
+        "desc": "Decay -20% applied to all players"
       }
     ],
     "gp_m": [],
@@ -77,6 +82,11 @@
       {
         "ts": "2026-05-20T17:57:34\u002B02:00",
         "delta": -9.92,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-05-26T08:39:44\u002B02:00",
+        "delta": -7.94,
         "desc": "Decay -20% applied to all players"
       }
     ]
