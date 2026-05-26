@@ -1,13 +1,13 @@
 {
-  "lastModified": "2026-05-20T22:32:07\u002B02:00",
+  "lastModified": "2026-05-26T08:39:44\u002B02:00",
   "player": "Sandu",
   "main": "Sandu",
   "saldo": {
-    "ep": 8928,
-    "gp_m": 20,
-    "gp_a": 111.26,
-    "pr_m": 446.4,
-    "pr_a": 80.24
+    "ep": 7914,
+    "gp_m": 16.00,
+    "gp_a": 89.01,
+    "pr_m": 494.62,
+    "pr_a": 88.91
   },
   "ledger": {
     "ep": [
@@ -295,6 +295,21 @@
         "ts": "2026-05-20T22:32:07\u002B02:00",
         "delta": 928,
         "desc": "Attendance EP (928) for raid (189 min @ 3 EP/min, buffed 172 min @ 1 EP/min, enchanted 189 min @ 1 EP/min) [source: Computed]"
+      },
+      {
+        "ts": "2026-05-26T08:37:38\u002B02:00",
+        "delta": 60,
+        "desc": "Timely signup EP bonus for: Onyxia Ascended Montag 25.05.2026"
+      },
+      {
+        "ts": "2026-05-26T08:37:59\u002B02:00",
+        "delta": 904,
+        "desc": "Attendance EP (904) for raid (191 min @ 3 EP/min, buffed 140 min @ 1 EP/min, enchanted 191 min @ 1 EP/min) [source: Computed]"
+      },
+      {
+        "ts": "2026-05-26T08:39:44\u002B02:00",
+        "delta": -1978,
+        "desc": "Decay -20% applied to all players"
       }
     ],
     "gp_m": [
@@ -367,6 +382,11 @@
         "ts": "2026-05-20T22:25:27\u002B02:00",
         "delta": 10,
         "desc": "Head of Onyxia (os-low)"
+      },
+      {
+        "ts": "2026-05-26T08:39:44\u002B02:00",
+        "delta": -4.00,
+        "desc": "Decay -20% applied to all players"
       }
     ],
     "gp_a": [
@@ -493,6 +513,11 @@
       {
         "ts": "2026-05-20T17:57:34\u002B02:00",
         "delta": -27.82,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-05-26T08:39:44\u002B02:00",
+        "delta": -22.25,
         "desc": "Decay -20% applied to all players"
       }
     ]
