@@ -1,12 +1,12 @@
 {
-  "lastModified": "2026-05-20T22:32:07\u002B02:00",
+  "lastModified": "2026-05-26T08:39:44\u002B02:00",
   "player": "Tazzbingo",
   "main": "Tazzbingo",
   "saldo": {
-    "ep": 2487,
-    "gp_m": 70,
-    "gp_a": 202.00,
-    "pr_m": 35.53,
+    "ep": 1990,
+    "gp_m": 56.00,
+    "gp_a": 161.60,
+    "pr_m": 35.54,
     "pr_a": 12.31
   },
   "ledger": {
@@ -60,6 +60,11 @@
         "ts": "2026-05-20T22:32:07\u002B02:00",
         "delta": 928,
         "desc": "Attendance EP (928) for raid (189 min @ 3 EP/min, buffed 172 min @ 1 EP/min, enchanted 189 min @ 1 EP/min) [source: Computed]"
+      },
+      {
+        "ts": "2026-05-26T08:39:44\u002B02:00",
+        "delta": -497,
+        "desc": "Decay -20% applied to all players"
       }
     ],
     "gp_m": [
@@ -72,6 +77,11 @@
         "ts": "2026-05-20T22:25:24\u002B02:00",
         "delta": 30,
         "desc": "Fissured Warplate (os-mid) [downgraded from ms-mid: Alt character (MS\u2192OS, 4 twink wins this raid)]"
+      },
+      {
+        "ts": "2026-05-26T08:39:44\u002B02:00",
+        "delta": -14.00,
+        "desc": "Decay -20% applied to all players"
       }
     ],
     "gp_a": [
@@ -134,6 +144,11 @@
         "ts": "2026-05-20T21:11:21\u002B02:00",
         "delta": -30,
         "desc": "Undo loot: Molten Wristguards"
+      },
+      {
+        "ts": "2026-05-26T08:39:44\u002B02:00",
+        "delta": -40.40,
+        "desc": "Decay -20% applied to all players"
       }
     ]
   }
