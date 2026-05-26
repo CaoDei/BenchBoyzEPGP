@@ -1,0 +1,28 @@
+{
+  "lastModified": "2026-05-26T08:39:44\u002B02:00",
+  "player": "Skorr",
+  "main": "Skorr",
+  "saldo": {
+    "ep": 365,
+    "gp_m": 10,
+    "gp_a": 10,
+    "pr_m": 36.5,
+    "pr_a": 36.5
+  },
+  "ledger": {
+    "ep": [
+      {
+        "ts": "2026-05-26T08:37:59\u002B02:00",
+        "delta": 456,
+        "desc": "Attendance EP (456) for raid (152 min @ 3 EP/min, buffed 0 min @ 1 EP/min, enchanted 0 min @ 1 EP/min) [source: Computed]"
+      },
+      {
+        "ts": "2026-05-26T08:39:44\u002B02:00",
+        "delta": -91,
+        "desc": "Decay -20% applied to all players"
+      }
+    ],
+    "gp_m": [],
+    "gp_a": []
+  }
+}
