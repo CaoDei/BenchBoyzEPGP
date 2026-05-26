@@ -1,12 +1,12 @@
 {
-  "lastModified": "2026-05-20T17:57:34\u002B02:00",
+  "lastModified": "2026-05-26T08:39:44\u002B02:00",
   "player": "Phihinia",
   "main": "Phihinia",
   "saldo": {
-    "ep": 821,
+    "ep": 657,
     "gp_m": 10,
-    "gp_a": 102.40,
-    "pr_m": 82.1,
+    "gp_a": 81.92,
+    "pr_m": 65.7,
     "pr_a": 8.02
   },
   "ledger": {
@@ -45,6 +45,11 @@
         "ts": "2026-05-20T17:57:34\u002B02:00",
         "delta": -205,
         "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-05-26T08:39:44\u002B02:00",
+        "delta": -164,
+        "desc": "Decay -20% applied to all players"
       }
     ],
     "gp_m": [],
@@ -82,6 +87,11 @@
       {
         "ts": "2026-05-20T17:57:34\u002B02:00",
         "delta": -25.60,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-05-26T08:39:44\u002B02:00",
+        "delta": -20.48,
         "desc": "Decay -20% applied to all players"
       }
     ]
