@@ -1,12 +1,12 @@
 {
-  "lastModified": "2026-05-20T22:32:07\u002B02:00",
+  "lastModified": "2026-05-26T08:39:44\u002B02:00",
   "player": "Podragon",
   "main": "Podragon",
   "saldo": {
-    "ep": 1581,
-    "gp_m": 20,
-    "gp_a": 216.00,
-    "pr_m": 79.05,
+    "ep": 1265,
+    "gp_m": 16.00,
+    "gp_a": 172.80,
+    "pr_m": 79.06,
     "pr_a": 7.32
   },
   "ledger": {
@@ -35,6 +35,11 @@
         "ts": "2026-05-20T22:32:07\u002B02:00",
         "delta": 813,
         "desc": "Attendance EP (813) for raid (172 min @ 3 EP/min, buffed 125 min @ 1 EP/min, enchanted 172 min @ 1 EP/min) [source: Computed]"
+      },
+      {
+        "ts": "2026-05-26T08:39:44\u002B02:00",
+        "delta": -316,
+        "desc": "Decay -20% applied to all players"
       }
     ],
     "gp_m": [
@@ -42,6 +47,11 @@
         "ts": "2026-05-20T22:25:22\u002B02:00",
         "delta": 10,
         "desc": "Flame-Infused Sceptre (os-low) [downgraded from ms-mid: Below min EP for Mid (768/1500); Loot cap: \u003C1500 EP with 8 wins this raid]"
+      },
+      {
+        "ts": "2026-05-26T08:39:44\u002B02:00",
+        "delta": -4.00,
+        "desc": "Decay -20% applied to all players"
       }
     ],
     "gp_a": [
@@ -139,6 +149,11 @@
         "ts": "2026-05-20T21:25:31\u002B02:00",
         "delta": 10,
         "desc": "Deep Earth Spaulders (os-low) [downgraded from ms-low: Loot cap: \u003C1500 EP with 7 wins this raid]"
+      },
+      {
+        "ts": "2026-05-26T08:39:44\u002B02:00",
+        "delta": -43.20,
+        "desc": "Decay -20% applied to all players"
       }
     ]
   }
