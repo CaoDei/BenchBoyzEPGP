@@ -1,13 +1,13 @@
 {
-  "lastModified": "2026-05-20T17:57:34\u002B02:00",
+  "lastModified": "2026-05-26T08:39:44\u002B02:00",
   "player": "Kanzler",
   "main": "Kanzler",
   "saldo": {
-    "ep": 347,
+    "ep": 278,
     "gp_m": 10,
     "gp_a": 10,
-    "pr_m": 34.7,
-    "pr_a": 34.7
+    "pr_m": 27.8,
+    "pr_a": 27.8
   },
   "ledger": {
     "ep": [
@@ -24,6 +24,11 @@
       {
         "ts": "2026-05-20T17:57:34\u002B02:00",
         "delta": -87,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-05-26T08:39:44\u002B02:00",
+        "delta": -69,
         "desc": "Decay -20% applied to all players"
       }
     ],
