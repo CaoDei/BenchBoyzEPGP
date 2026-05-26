@@ -1,13 +1,13 @@
 {
-  "lastModified": "2026-05-20T17:57:34\u002B02:00",
+  "lastModified": "2026-05-26T08:39:44\u002B02:00",
   "player": "Einhorny",
   "main": "Einhorny",
   "saldo": {
-    "ep": 1611,
+    "ep": 1289,
     "gp_m": 10,
-    "gp_a": 51.20,
-    "pr_m": 161.1,
-    "pr_a": 31.46
+    "gp_a": 40.96,
+    "pr_m": 128.9,
+    "pr_a": 31.47
   },
   "ledger": {
     "ep": [
@@ -60,6 +60,11 @@
         "ts": "2026-05-20T17:57:34\u002B02:00",
         "delta": -403,
         "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-05-26T08:39:44\u002B02:00",
+        "delta": -322,
+        "desc": "Decay -20% applied to all players"
       }
     ],
     "gp_m": [],
@@ -102,6 +107,11 @@
       {
         "ts": "2026-05-20T17:57:34\u002B02:00",
         "delta": -12.80,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-05-26T08:39:44\u002B02:00",
+        "delta": -10.24,
         "desc": "Decay -20% applied to all players"
       }
     ]
