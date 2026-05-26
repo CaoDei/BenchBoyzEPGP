@@ -1,13 +1,13 @@
 {
-  "lastModified": "2026-05-20T22:32:07\u002B02:00",
+  "lastModified": "2026-05-26T08:39:44\u002B02:00",
   "player": "Siemuffelt",
   "main": "Siemuffelt",
   "saldo": {
-    "ep": 5230,
-    "gp_m": 135.60,
-    "gp_a": 288.59,
-    "pr_m": 38.57,
-    "pr_a": 18.12
+    "ep": 4952,
+    "gp_m": 164.48,
+    "gp_a": 230.87,
+    "pr_m": 30.11,
+    "pr_a": 21.45
   },
   "ledger": {
     "ep": [
@@ -120,6 +120,21 @@
         "ts": "2026-05-20T22:32:07\u002B02:00",
         "delta": 928,
         "desc": "Attendance EP (928) for raid (189 min @ 3 EP/min, buffed 172 min @ 1 EP/min, enchanted 189 min @ 1 EP/min) [source: Computed]"
+      },
+      {
+        "ts": "2026-05-26T08:37:38\u002B02:00",
+        "delta": 60,
+        "desc": "Timely signup EP bonus for: Onyxia Ascended Montag 25.05.2026"
+      },
+      {
+        "ts": "2026-05-26T08:37:59\u002B02:00",
+        "delta": 900,
+        "desc": "Attendance EP (900) for raid (191 min @ 3 EP/min, buffed 136 min @ 1 EP/min, enchanted 191 min @ 1 EP/min) [source: Computed]"
+      },
+      {
+        "ts": "2026-05-26T08:39:44\u002B02:00",
+        "delta": -1238,
+        "desc": "Decay -20% applied to all players"
       }
     ],
     "gp_m": [
@@ -172,6 +187,26 @@
         "ts": "2026-05-20T22:25:21\u002B02:00",
         "delta": 30,
         "desc": "Flame-Infused Sceptre (ms-mid) [downgraded from ms-high: Below min EP (4242/5000)]"
+      },
+      {
+        "ts": "2026-05-25T22:34:50\u002B02:00",
+        "delta": 30,
+        "desc": "Molten Headpiece (os-mid)"
+      },
+      {
+        "ts": "2026-05-25T22:34:50\u002B02:00",
+        "delta": 30,
+        "desc": "Molten Boots (os-mid)"
+      },
+      {
+        "ts": "2026-05-25T22:34:52\u002B02:00",
+        "delta": 10,
+        "desc": "Molten Handguards (os-low) [downgraded from os-mid: Below min PR for Mid (26,738/30)]"
+      },
+      {
+        "ts": "2026-05-26T08:39:44\u002B02:00",
+        "delta": -41.12,
+        "desc": "Decay -20% applied to all players"
       }
     ],
     "gp_a": [
@@ -319,6 +354,11 @@
         "ts": "2026-05-20T21:25:28\u002B02:00",
         "delta": 10,
         "desc": "Chromatic Legguards (ms-low) [downgraded from ms-mid: Below min PR for Mid (15,227/30)]"
+      },
+      {
+        "ts": "2026-05-26T08:39:44\u002B02:00",
+        "delta": -57.72,
+        "desc": "Decay -20% applied to all players"
       }
     ]
   }
