@@ -1,12 +1,12 @@
 {
-  "lastModified": "2026-05-20T22:32:07\u002B02:00",
+  "lastModified": "2026-05-26T08:39:44\u002B02:00",
   "player": "Jaydizzle",
   "main": "Jaydizzle",
   "saldo": {
-    "ep": 4447,
+    "ep": 3558,
     "gp_m": 10,
-    "gp_a": 64.06,
-    "pr_m": 444.7,
+    "gp_a": 51.25,
+    "pr_m": 355.8,
     "pr_a": 69.42
   },
   "ledger": {
@@ -120,6 +120,11 @@
         "ts": "2026-05-20T22:32:07\u002B02:00",
         "delta": 913,
         "desc": "Attendance EP (913) for raid (189 min @ 3 EP/min, buffed 157 min @ 1 EP/min, enchanted 189 min @ 1 EP/min) [source: Computed]"
+      },
+      {
+        "ts": "2026-05-26T08:39:44\u002B02:00",
+        "delta": -889,
+        "desc": "Decay -20% applied to all players"
       }
     ],
     "gp_m": [],
@@ -172,6 +177,11 @@
       {
         "ts": "2026-05-20T17:57:34\u002B02:00",
         "delta": -16.02,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-05-26T08:39:44\u002B02:00",
+        "delta": -12.81,
         "desc": "Decay -20% applied to all players"
       }
     ]
