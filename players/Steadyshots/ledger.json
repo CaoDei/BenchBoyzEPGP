@@ -1,13 +1,13 @@
 {
-  "lastModified": "2026-05-20T17:57:34\u002B02:00",
+  "lastModified": "2026-05-26T08:39:44\u002B02:00",
   "player": "Steadyshots",
   "main": "Steadyshots",
   "saldo": {
-    "ep": 1402,
+    "ep": 1122,
     "gp_m": 10,
-    "gp_a": 20.08,
-    "pr_m": 140.2,
-    "pr_a": 69.82
+    "gp_a": 16.06,
+    "pr_m": 112.2,
+    "pr_a": 69.86
   },
   "ledger": {
     "ep": [
@@ -84,6 +84,11 @@
       {
         "ts": "2026-05-20T17:57:34\u002B02:00",
         "delta": -350,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-05-26T08:39:44\u002B02:00",
+        "delta": -280,
         "desc": "Decay -20% applied to all players"
       }
     ],
@@ -243,6 +248,11 @@
       {
         "ts": "2026-05-20T17:57:34\u002B02:00",
         "delta": -5.02,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-05-26T08:39:44\u002B02:00",
+        "delta": -4.02,
         "desc": "Decay -20% applied to all players"
       }
     ]
