@@ -1,12 +1,12 @@
 {
-  "lastModified": "2026-05-20T17:57:34\u002B02:00",
+  "lastModified": "2026-05-26T08:39:44\u002B02:00",
   "player": "Murrem",
   "main": "Murrem",
   "saldo": {
-    "ep": 878,
+    "ep": 702,
     "gp_m": 10,
-    "gp_a": 236.80,
-    "pr_m": 87.8,
+    "gp_a": 189.44,
+    "pr_m": 70.2,
     "pr_a": 3.71
   },
   "ledger": {
@@ -39,6 +39,11 @@
       {
         "ts": "2026-05-20T17:57:34\u002B02:00",
         "delta": -220,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-05-26T08:39:44\u002B02:00",
+        "delta": -176,
         "desc": "Decay -20% applied to all players"
       }
     ],
@@ -112,6 +117,11 @@
       {
         "ts": "2026-05-20T17:57:34\u002B02:00",
         "delta": -59.20,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-05-26T08:39:44\u002B02:00",
+        "delta": -47.36,
         "desc": "Decay -20% applied to all players"
       }
     ]
