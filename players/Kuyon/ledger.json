@@ -1,13 +1,13 @@
 {
-  "lastModified": "2026-05-26T08:39:44\u002B02:00",
+  "lastModified": "2026-05-27T23:32:38\u002B02:00",
   "player": "Kuyon",
   "main": "Kuyon",
   "saldo": {
-    "ep": 1242,
+    "ep": 1697,
     "gp_m": 91.20,
-    "gp_a": 88.00,
-    "pr_m": 13.62,
-    "pr_a": 14.11
+    "gp_a": 158.00,
+    "pr_m": 18.61,
+    "pr_a": 10.74
   },
   "ledger": {
     "ep": [
@@ -40,6 +40,11 @@
         "ts": "2026-05-26T08:39:44\u002B02:00",
         "delta": -311,
         "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-05-27T23:32:38\u002B02:00",
+        "delta": 455,
+        "desc": "Attendance EP (455) for raid (91 min @ 3 EP/min, buffed 91 min @ 1 EP/min, enchanted 91 min @ 1 EP/min) [source: Computed]"
       }
     ],
     "gp_m": [
@@ -174,6 +179,41 @@
         "ts": "2026-05-26T08:39:44\u002B02:00",
         "delta": -22.00,
         "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-05-27T20:41:28\u002B02:00",
+        "delta": 10,
+        "desc": "Molten Headpiece (os-low)"
+      },
+      {
+        "ts": "2026-05-27T20:41:46\u002B02:00",
+        "delta": 10,
+        "desc": "Striker\u0027s Mark (ms-low)"
+      },
+      {
+        "ts": "2026-05-27T20:42:08\u002B02:00",
+        "delta": 10,
+        "desc": "Molten Boots (os-low) [downgraded from os-low: Loot cap: \u003C1500 EP with 2 wins this raid]"
+      },
+      {
+        "ts": "2026-05-27T20:42:22\u002B02:00",
+        "delta": 10,
+        "desc": "Molten Tunic (os-low) [downgraded from os-low: Loot cap: \u003C1500 EP with 3 wins this raid]"
+      },
+      {
+        "ts": "2026-05-27T20:42:24\u002B02:00",
+        "delta": 10,
+        "desc": "Gutgore Ripper (os-low) [downgraded from os-low: Loot cap: \u003C1500 EP with 4 wins this raid]"
+      },
+      {
+        "ts": "2026-05-27T21:31:23\u002B02:00",
+        "delta": 10,
+        "desc": "Perdition\u0027s Blade (os-low) [downgraded from os-low: Loot cap: \u003C1500 EP with 5 wins this raid]"
+      },
+      {
+        "ts": "2026-05-27T21:31:44\u002B02:00",
+        "delta": 10,
+        "desc": "Cloak of the Shrouded Mists (os-low) [downgraded from os-low: Loot cap: \u003C1500 EP with 6 wins this raid]"
       }
     ]
   }
