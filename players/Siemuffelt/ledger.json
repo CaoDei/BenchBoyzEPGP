@@ -1,13 +1,13 @@
 {
-  "lastModified": "2026-05-26T08:39:44\u002B02:00",
+  "lastModified": "2026-05-27T23:32:38\u002B02:00",
   "player": "Siemuffelt",
   "main": "Siemuffelt",
   "saldo": {
-    "ep": 4952,
+    "ep": 6250,
     "gp_m": 164.48,
-    "gp_a": 230.87,
-    "pr_m": 30.11,
-    "pr_a": 21.45
+    "gp_a": 310.87,
+    "pr_m": 38.00,
+    "pr_a": 20.10
   },
   "ledger": {
     "ep": [
@@ -135,6 +135,16 @@
         "ts": "2026-05-26T08:39:44\u002B02:00",
         "delta": -1238,
         "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-05-27T23:31:25\u002B02:00",
+        "delta": 60,
+        "desc": "Timely signup EP bonus for: Molten Core Ascended 27.05.2026"
+      },
+      {
+        "ts": "2026-05-27T23:32:38\u002B02:00",
+        "delta": 1238,
+        "desc": "Attendance EP (1238) for raid (250 min @ 3 EP/min, buffed 238 min @ 1 EP/min, enchanted 250 min @ 1 EP/min) [source: Computed]"
       }
     ],
     "gp_m": [
@@ -359,6 +369,46 @@
         "ts": "2026-05-26T08:39:44\u002B02:00",
         "delta": -57.72,
         "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-05-27T19:44:41\u002B02:00",
+        "delta": 10,
+        "desc": "Molten Wristguards (os-low) [downgraded from os-mid: Below min PR for Mid (21,449/30)]"
+      },
+      {
+        "ts": "2026-05-27T19:44:42\u002B02:00",
+        "delta": 10,
+        "desc": "Molten Girdle (os-low) [downgraded from os-mid: Below min PR for Mid (20,559/30)]"
+      },
+      {
+        "ts": "2026-05-27T19:44:43\u002B02:00",
+        "delta": 10,
+        "desc": "Molten Legguards (os-low) [downgraded from os-mid: Below min PR for Mid (19,739/30)]"
+      },
+      {
+        "ts": "2026-05-27T20:40:56\u002B02:00",
+        "delta": 10,
+        "desc": "Aurastone Hammer (ms-low) [downgraded from ms-mid: Below min PR for Mid (18,983/30)]"
+      },
+      {
+        "ts": "2026-05-27T20:41:25\u002B02:00",
+        "delta": 10,
+        "desc": "Molten Headpiece (os-low) [downgraded from os-mid: Below min PR for Mid (18,282/30)]"
+      },
+      {
+        "ts": "2026-05-27T20:41:41\u002B02:00",
+        "delta": 10,
+        "desc": "Molten Handguards (os-low) [downgraded from os-mid: Below min PR for Mid (17,631/30)]"
+      },
+      {
+        "ts": "2026-05-27T20:42:01\u002B02:00",
+        "delta": 10,
+        "desc": "Molten Boots (os-low) [downgraded from os-mid: Below min PR for Mid (17,025/30)]"
+      },
+      {
+        "ts": "2026-05-27T20:42:22\u002B02:00",
+        "delta": 10,
+        "desc": "Molten Tunic (os-low) [downgraded from os-mid: Below min PR for Mid (16,459/30)]"
       }
     ]
   }
