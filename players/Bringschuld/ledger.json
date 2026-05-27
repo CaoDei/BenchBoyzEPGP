@@ -1,13 +1,13 @@
 {
-  "lastModified": "2026-05-26T08:39:44\u002B02:00",
+  "lastModified": "2026-05-27T23:32:38\u002B02:00",
   "player": "Bringschuld",
   "main": "Bringschuld",
   "saldo": {
-    "ep": 7412,
+    "ep": 8673,
     "gp_m": 13.10,
     "gp_a": 18.35,
-    "pr_m": 565.80,
-    "pr_a": 403.92
+    "pr_m": 662.06,
+    "pr_a": 472.64
   },
   "ledger": {
     "ep": [
@@ -280,6 +280,16 @@
         "ts": "2026-05-26T08:39:44\u002B02:00",
         "delta": -1853,
         "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-05-27T23:31:25\u002B02:00",
+        "delta": 60,
+        "desc": "Timely signup EP bonus for: Molten Core Ascended 27.05.2026"
+      },
+      {
+        "ts": "2026-05-27T23:32:38\u002B02:00",
+        "delta": 1201,
+        "desc": "Attendance EP (1201) for raid (250 min @ 3 EP/min, buffed 201 min @ 1 EP/min, enchanted 250 min @ 1 EP/min) [source: Computed]"
       }
     ],
     "gp_m": [
