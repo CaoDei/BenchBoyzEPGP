@@ -1,13 +1,13 @@
 {
-  "lastModified": "2026-05-26T08:39:44\u002B02:00",
+  "lastModified": "2026-05-27T23:32:38\u002B02:00",
   "player": "Morguel",
   "main": "Morguel",
   "saldo": {
-    "ep": 675,
+    "ep": 1420,
     "gp_m": 10,
-    "gp_a": 66.56,
-    "pr_m": 67.5,
-    "pr_a": 10.14
+    "gp_a": 106.56,
+    "pr_m": 142,
+    "pr_a": 13.33
   },
   "ledger": {
     "ep": [
@@ -50,6 +50,16 @@
         "ts": "2026-05-26T08:39:44\u002B02:00",
         "delta": -169,
         "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-05-27T23:31:25\u002B02:00",
+        "delta": 60,
+        "desc": "Timely signup EP bonus for: Molten Core Ascended 27.05.2026"
+      },
+      {
+        "ts": "2026-05-27T23:32:38\u002B02:00",
+        "delta": 685,
+        "desc": "Attendance EP (685) for raid (137 min @ 3 EP/min, buffed 137 min @ 1 EP/min, enchanted 137 min @ 1 EP/min) [source: Computed]"
       }
     ],
     "gp_m": [],
@@ -128,6 +138,26 @@
         "ts": "2026-05-26T08:39:44\u002B02:00",
         "delta": -16.64,
         "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-05-27T21:30:52\u002B02:00",
+        "delta": 10,
+        "desc": "Chromatic Wristguards (ms-low) [downgraded from ms-high: Below min EP (675/5000); Below min EP for Mid (675/1500)]"
+      },
+      {
+        "ts": "2026-05-27T21:31:21\u002B02:00",
+        "delta": 10,
+        "desc": "Chromatic Legguards (ms-low) [downgraded from ms-high: Below min EP (675/5000); Below min EP for Mid (675/1500)]"
+      },
+      {
+        "ts": "2026-05-27T21:31:43\u002B02:00",
+        "delta": 10,
+        "desc": "Bonereaver\u0027s Edge (os-low) [downgraded from os-mid: Below min EP for Mid (675/1500); Loot cap: \u003C1500 EP with 2 wins this raid]"
+      },
+      {
+        "ts": "2026-05-27T23:21:24\u002B02:00",
+        "delta": 10,
+        "desc": "Emberthorn (os-low) [downgraded from os-low: Loot cap: \u003C1500 EP with 3 wins this raid]"
       }
     ]
   }
