@@ -1,13 +1,13 @@
 {
-  "lastModified": "2026-05-26T08:39:44\u002B02:00",
+  "lastModified": "2026-05-27T23:32:38\u002B02:00",
   "player": "Jujujan",
   "main": "Jujujan",
   "saldo": {
-    "ep": 667,
+    "ep": 1872,
     "gp_m": 10,
     "gp_a": 20.48,
-    "pr_m": 66.7,
-    "pr_a": 32.57
+    "pr_m": 187.2,
+    "pr_a": 91.41
   },
   "ledger": {
     "ep": [
@@ -50,6 +50,11 @@
         "ts": "2026-05-26T08:39:44\u002B02:00",
         "delta": -167,
         "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-05-27T23:32:38\u002B02:00",
+        "delta": 1205,
+        "desc": "Attendance EP (1205) for raid (250 min @ 3 EP/min, buffed 205 min @ 1 EP/min, enchanted 250 min @ 1 EP/min) [source: Computed]"
       }
     ],
     "gp_m": [],
