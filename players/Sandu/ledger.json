@@ -1,13 +1,13 @@
 {
-  "lastModified": "2026-05-26T08:39:44\u002B02:00",
+  "lastModified": "2026-05-27T23:32:38\u002B02:00",
   "player": "Sandu",
   "main": "Sandu",
   "saldo": {
-    "ep": 7914,
+    "ep": 9198,
     "gp_m": 16.00,
     "gp_a": 89.01,
-    "pr_m": 494.62,
-    "pr_a": 88.91
+    "pr_m": 574.88,
+    "pr_a": 103.34
   },
   "ledger": {
     "ep": [
@@ -310,6 +310,16 @@
         "ts": "2026-05-26T08:39:44\u002B02:00",
         "delta": -1978,
         "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-05-27T23:31:25\u002B02:00",
+        "delta": 60,
+        "desc": "Timely signup EP bonus for: Molten Core Ascended 27.05.2026"
+      },
+      {
+        "ts": "2026-05-27T23:32:38\u002B02:00",
+        "delta": 1224,
+        "desc": "Attendance EP (1224) for raid (250 min @ 3 EP/min, buffed 224 min @ 1 EP/min, enchanted 250 min @ 1 EP/min) [source: Computed]"
       }
     ],
     "gp_m": [
