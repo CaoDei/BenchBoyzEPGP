@@ -1,13 +1,13 @@
 {
-  "lastModified": "2026-05-26T08:39:44\u002B02:00",
+  "lastModified": "2026-05-27T23:32:38\u002B02:00",
   "player": "Slux",
   "main": "Slux",
   "saldo": {
-    "ep": 2838,
+    "ep": 4099,
     "gp_m": 10,
     "gp_a": 41.98,
-    "pr_m": 283.8,
-    "pr_a": 67.60
+    "pr_m": 409.9,
+    "pr_a": 97.64
   },
   "ledger": {
     "ep": [
@@ -85,6 +85,16 @@
         "ts": "2026-05-26T08:39:44\u002B02:00",
         "delta": -710,
         "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-05-27T23:31:25\u002B02:00",
+        "delta": 60,
+        "desc": "Timely signup EP bonus for: Molten Core Ascended 27.05.2026"
+      },
+      {
+        "ts": "2026-05-27T23:32:38\u002B02:00",
+        "delta": 1201,
+        "desc": "Attendance EP (1201) for raid (250 min @ 3 EP/min, buffed 201 min @ 1 EP/min, enchanted 250 min @ 1 EP/min) [source: Computed]"
       }
     ],
     "gp_m": [],
