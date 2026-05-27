@@ -1,13 +1,13 @@
 {
-  "lastModified": "2026-05-26T08:39:44\u002B02:00",
+  "lastModified": "2026-05-27T23:32:38\u002B02:00",
   "player": "Yuzuyuu",
   "main": "Yuzuyuu",
   "saldo": {
-    "ep": 5441,
+    "ep": 6516,
     "gp_m": 10,
-    "gp_a": 62.09,
-    "pr_m": 544.1,
-    "pr_a": 87.63
+    "gp_a": 122.09,
+    "pr_m": 651.6,
+    "pr_a": 53.37
   },
   "ledger": {
     "ep": [
@@ -250,6 +250,11 @@
         "ts": "2026-05-26T08:39:44\u002B02:00",
         "delta": -1360,
         "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-05-27T23:32:38\u002B02:00",
+        "delta": 1075,
+        "desc": "Attendance EP (1075) for raid (215 min @ 3 EP/min, buffed 215 min @ 1 EP/min, enchanted 215 min @ 1 EP/min) [source: Computed]"
       }
     ],
     "gp_m": [
@@ -414,6 +419,16 @@
         "ts": "2026-05-26T08:39:44\u002B02:00",
         "delta": -15.52,
         "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-05-27T20:41:20\u002B02:00",
+        "delta": 30,
+        "desc": "Molten Spaulders (ms-mid)"
+      },
+      {
+        "ts": "2026-05-27T23:21:10\u002B02:00",
+        "delta": 30,
+        "desc": "Obsidian Heartseeker (ms-mid)"
       }
     ]
   }
