@@ -1,13 +1,13 @@
 {
-  "lastModified": "2026-05-26T08:39:44\u002B02:00",
+  "lastModified": "2026-05-27T23:32:38\u002B02:00",
   "player": "Cao",
   "main": "Tayami",
   "saldo": {
-    "ep": 8139,
+    "ep": 9394,
     "gp_m": 34.22,
-    "gp_a": 53.08,
-    "pr_m": 237.84,
-    "pr_a": 153.33
+    "gp_a": 63.08,
+    "pr_m": 274.52,
+    "pr_a": 148.92
   },
   "ledger": {
     "ep": [
@@ -320,6 +320,16 @@
         "ts": "2026-05-26T08:39:44\u002B02:00",
         "delta": -2035,
         "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-05-27T23:31:25\u002B02:00",
+        "delta": 60,
+        "desc": "Timely signup EP bonus for: Molten Core Ascended 27.05.2026"
+      },
+      {
+        "ts": "2026-05-27T23:32:38\u002B02:00",
+        "delta": 1195,
+        "desc": "Attendance EP (1195) for raid (250 min @ 3 EP/min, buffed 195 min @ 1 EP/min, enchanted 250 min @ 1 EP/min) [source: Computed]"
       }
     ],
     "gp_m": [
@@ -494,6 +504,11 @@
         "ts": "2026-05-26T08:39:44\u002B02:00",
         "delta": -13.27,
         "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-05-27T21:31:37\u002B02:00",
+        "delta": 10,
+        "desc": "Cauterizing Band (Twink-MS-Low) [downgraded from ms-low: Alt character (MS\u2192Twink-MS)]"
       }
     ]
   }
