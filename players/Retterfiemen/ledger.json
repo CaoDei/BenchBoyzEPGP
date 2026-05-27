@@ -1,13 +1,13 @@
 {
-  "lastModified": "2026-05-26T08:39:44\u002B02:00",
+  "lastModified": "2026-05-27T23:32:38\u002B02:00",
   "player": "Retterfiemen",
   "main": "Retterfiemen",
   "saldo": {
-    "ep": 1033,
+    "ep": 1376,
     "gp_m": 10,
     "gp_a": 35.84,
-    "pr_m": 103.3,
-    "pr_a": 28.82
+    "pr_m": 137.6,
+    "pr_a": 38.39
   },
   "ledger": {
     "ep": [
@@ -45,6 +45,11 @@
         "ts": "2026-05-26T08:39:44\u002B02:00",
         "delta": -258,
         "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-05-27T23:32:38\u002B02:00",
+        "delta": 343,
+        "desc": "Attendance EP (343) for raid (71 min @ 3 EP/min, buffed 59 min @ 1 EP/min, enchanted 71 min @ 1 EP/min) [source: Computed]"
       }
     ],
     "gp_m": [],
