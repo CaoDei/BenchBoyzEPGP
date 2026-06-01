@@ -1,12 +1,12 @@
 {
-  "lastModified": "2026-05-26T08:39:44\u002B02:00",
+  "lastModified": "2026-06-01T23:27:00\u002B02:00",
   "player": "Podragon",
   "main": "Podragon",
   "saldo": {
-    "ep": 1265,
-    "gp_m": 16.00,
-    "gp_a": 172.80,
-    "pr_m": 79.06,
+    "ep": 648,
+    "gp_m": 10,
+    "gp_a": 88.47,
+    "pr_m": 64.8,
     "pr_a": 7.32
   },
   "ledger": {
@@ -40,6 +40,21 @@
         "ts": "2026-05-26T08:39:44\u002B02:00",
         "delta": -316,
         "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-06-01T23:26:47\u002B02:00",
+        "delta": -253,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-06-01T23:26:57\u002B02:00",
+        "delta": -202,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-06-01T23:27:00\u002B02:00",
+        "delta": -162,
+        "desc": "Decay -20% applied to all players"
       }
     ],
     "gp_m": [
@@ -51,6 +66,21 @@
       {
         "ts": "2026-05-26T08:39:44\u002B02:00",
         "delta": -4.00,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-06-01T23:26:47\u002B02:00",
+        "delta": -3.20,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-06-01T23:26:57\u002B02:00",
+        "delta": -2.56,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-06-01T23:27:00\u002B02:00",
+        "delta": -0.24,
         "desc": "Decay -20% applied to all players"
       }
     ],
@@ -153,6 +183,21 @@
       {
         "ts": "2026-05-26T08:39:44\u002B02:00",
         "delta": -43.20,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-06-01T23:26:47\u002B02:00",
+        "delta": -34.56,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-06-01T23:26:57\u002B02:00",
+        "delta": -27.65,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-06-01T23:27:00\u002B02:00",
+        "delta": -22.12,
         "desc": "Decay -20% applied to all players"
       }
     ]
