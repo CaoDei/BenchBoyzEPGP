@@ -1,13 +1,13 @@
 {
-  "lastModified": "2026-05-27T23:32:38\u002B02:00",
+  "lastModified": "2026-06-01T23:27:00\u002B02:00",
   "player": "Billii",
   "main": "Billii",
   "saldo": {
-    "ep": 9154,
-    "gp_m": 80.00,
-    "gp_a": 135.82,
-    "pr_m": 114.42,
-    "pr_a": 67.40
+    "ep": 5284,
+    "gp_m": 40.96,
+    "gp_a": 69.54,
+    "pr_m": 129.00,
+    "pr_a": 75.99
   },
   "ledger": {
     "ep": [
@@ -310,6 +310,26 @@
         "ts": "2026-05-27T23:32:38\u002B02:00",
         "delta": 1190,
         "desc": "Attendance EP (1190) for raid (238 min @ 3 EP/min, buffed 238 min @ 1 EP/min, enchanted 238 min @ 1 EP/min) [source: Computed]"
+      },
+      {
+        "ts": "2026-06-01T23:26:38\u002B02:00",
+        "delta": 1166,
+        "desc": "Attendance EP (1166) for raid (240 min @ 3 EP/min, buffed 206 min @ 1 EP/min, enchanted 240 min @ 1 EP/min) [source: Computed]"
+      },
+      {
+        "ts": "2026-06-01T23:26:47\u002B02:00",
+        "delta": -2064,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-06-01T23:26:57\u002B02:00",
+        "delta": -1651,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-06-01T23:27:00\u002B02:00",
+        "delta": -1321,
+        "desc": "Decay -20% applied to all players"
       }
     ],
     "gp_m": [
@@ -371,6 +391,21 @@
       {
         "ts": "2026-05-26T08:39:44\u002B02:00",
         "delta": -20.00,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-06-01T23:26:47\u002B02:00",
+        "delta": -16.00,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-06-01T23:26:57\u002B02:00",
+        "delta": -12.80,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-06-01T23:27:00\u002B02:00",
+        "delta": -10.24,
         "desc": "Decay -20% applied to all players"
       }
     ],
@@ -538,6 +573,21 @@
       {
         "ts": "2026-05-26T08:39:44\u002B02:00",
         "delta": -33.95,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-06-01T23:26:47\u002B02:00",
+        "delta": -27.16,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-06-01T23:26:57\u002B02:00",
+        "delta": -21.73,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-06-01T23:27:00\u002B02:00",
+        "delta": -17.39,
         "desc": "Decay -20% applied to all players"
       }
     ]
