@@ -1,13 +1,13 @@
 {
-  "lastModified": "2026-05-26T08:39:44\u002B02:00",
+  "lastModified": "2026-06-01T23:27:00\u002B02:00",
   "player": "Kanzler",
   "main": "Kanzler",
   "saldo": {
-    "ep": 278,
-    "gp_m": 10,
+    "ep": 729,
+    "gp_m": 51.20,
     "gp_a": 10,
-    "pr_m": 27.8,
-    "pr_a": 27.8
+    "pr_m": 14.24,
+    "pr_a": 72.9
   },
   "ledger": {
     "ep": [
@@ -30,9 +30,50 @@
         "ts": "2026-05-26T08:39:44\u002B02:00",
         "delta": -69,
         "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-06-01T23:26:38\u002B02:00",
+        "delta": 1146,
+        "desc": "Attendance EP (1146) for raid (240 min @ 3 EP/min, buffed 186 min @ 1 EP/min, enchanted 240 min @ 1 EP/min) [source: Computed]"
+      },
+      {
+        "ts": "2026-06-01T23:26:47\u002B02:00",
+        "delta": -285,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-06-01T23:26:57\u002B02:00",
+        "delta": -228,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-06-01T23:27:00\u002B02:00",
+        "delta": -182,
+        "desc": "Decay -20% applied to all players"
       }
     ],
-    "gp_m": [],
+    "gp_m": [
+      {
+        "ts": "2026-06-01T23:16:48\u002B02:00",
+        "delta": 90,
+        "desc": "Essence Gatherer (Twink-MS-High) [downgraded from ms-high: Alt character (MS\u2192Twink-MS)]"
+      },
+      {
+        "ts": "2026-06-01T23:26:47\u002B02:00",
+        "delta": -20.00,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-06-01T23:26:57\u002B02:00",
+        "delta": -16.00,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-06-01T23:27:00\u002B02:00",
+        "delta": -12.80,
+        "desc": "Decay -20% applied to all players"
+      }
+    ],
     "gp_a": []
   }
 }
