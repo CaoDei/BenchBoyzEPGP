@@ -1,23 +1,99 @@
 {
-  "lastModified": "2026-05-27T23:32:38\u002B02:00",
+  "lastModified": "2026-06-01T23:27:00\u002B02:00",
   "player": "Paruw",
   "main": "Paruw",
   "saldo": {
-    "ep": 1238,
-    "gp_m": 10,
+    "ep": 1429,
+    "gp_m": 10.24,
     "gp_a": 10,
-    "pr_m": 123.8,
-    "pr_a": 123.8
+    "pr_m": 139.55,
+    "pr_a": 142.9
   },
   "ledger": {
     "ep": [
       {
+        "ts": "2026-05-05T13:17:06\u002B02:00",
+        "delta": 60,
+        "desc": "Timely signup EP bonus for: Onyxia Ascended Montag 04.05.2026"
+      },
+      {
+        "ts": "2026-05-05T13:26:53\u002B02:00",
+        "delta": 708,
+        "desc": "Attendance EP (708) for raid (144 min @ 3 EP/min, buffed 132 min @ 1 EP/min, enchanted 144 min @ 1 EP/min) [source: Computed]"
+      },
+      {
+        "ts": "2026-05-05T13:39:31\u002B02:00",
+        "delta": -154,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-05-13T17:22:49\u002B02:00",
+        "delta": -123,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-05-20T17:57:34\u002B02:00",
+        "delta": -98,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-05-26T08:39:44\u002B02:00",
+        "delta": -79,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
         "ts": "2026-05-27T23:32:38\u002B02:00",
         "delta": 1238,
         "desc": "Attendance EP (1238) for raid (250 min @ 3 EP/min, buffed 238 min @ 1 EP/min, enchanted 250 min @ 1 EP/min) [source: Computed]"
+      },
+      {
+        "ts": "2026-06-01T23:26:23\u002B02:00",
+        "delta": 60,
+        "desc": "Timely signup EP bonus for: BWL Progress Montag 01.06.2026"
+      },
+      {
+        "ts": "2026-06-01T23:26:38\u002B02:00",
+        "delta": 1178,
+        "desc": "Attendance EP (1178) for raid (240 min @ 3 EP/min, buffed 218 min @ 1 EP/min, enchanted 240 min @ 1 EP/min) [source: Computed]"
+      },
+      {
+        "ts": "2026-06-01T23:26:47\u002B02:00",
+        "delta": -558,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-06-01T23:26:57\u002B02:00",
+        "delta": -446,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-06-01T23:27:00\u002B02:00",
+        "delta": -357,
+        "desc": "Decay -20% applied to all players"
       }
     ],
-    "gp_m": [],
+    "gp_m": [
+      {
+        "ts": "2026-06-01T23:16:49\u002B02:00",
+        "delta": 10,
+        "desc": "Kirasath\u0027Dargonax, Fate of the Devourer (os-low)"
+      },
+      {
+        "ts": "2026-06-01T23:26:47\u002B02:00",
+        "delta": -4.00,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-06-01T23:26:57\u002B02:00",
+        "delta": -3.20,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-06-01T23:27:00\u002B02:00",
+        "delta": -2.56,
+        "desc": "Decay -20% applied to all players"
+      }
+    ],
     "gp_a": []
   }
 }
