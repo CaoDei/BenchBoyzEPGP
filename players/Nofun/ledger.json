@@ -1,13 +1,13 @@
 {
-  "lastModified": "2026-05-26T08:39:44\u002B02:00",
+  "lastModified": "2026-06-01T23:27:00\u002B02:00",
   "player": "Nofun",
   "main": "Nofun",
   "saldo": {
-    "ep": 3184,
+    "ep": 1630,
     "gp_m": 10,
-    "gp_a": 98.62,
-    "pr_m": 318.4,
-    "pr_a": 32.29
+    "gp_a": 50.50,
+    "pr_m": 163,
+    "pr_a": 32.28
   },
   "ledger": {
     "ep": [
@@ -100,6 +100,21 @@
         "ts": "2026-05-26T08:39:44\u002B02:00",
         "delta": -796,
         "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-06-01T23:26:47\u002B02:00",
+        "delta": -637,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-06-01T23:26:57\u002B02:00",
+        "delta": -509,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-06-01T23:27:00\u002B02:00",
+        "delta": -408,
+        "desc": "Decay -20% applied to all players"
       }
     ],
     "gp_m": [],
@@ -167,6 +182,21 @@
       {
         "ts": "2026-05-26T08:39:44\u002B02:00",
         "delta": -24.66,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-06-01T23:26:47\u002B02:00",
+        "delta": -19.72,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-06-01T23:26:57\u002B02:00",
+        "delta": -15.78,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-06-01T23:27:00\u002B02:00",
+        "delta": -12.62,
         "desc": "Decay -20% applied to all players"
       }
     ]
