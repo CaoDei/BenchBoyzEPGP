@@ -1,13 +1,13 @@
 {
-  "lastModified": "2026-05-27T23:32:38\u002B02:00",
+  "lastModified": "2026-06-01T23:27:00\u002B02:00",
   "player": "Yuzuyuu",
   "main": "Yuzuyuu",
   "saldo": {
-    "ep": 6516,
-    "gp_m": 10,
-    "gp_a": 122.09,
-    "pr_m": 651.6,
-    "pr_a": 53.37
+    "ep": 3956,
+    "gp_m": 51.20,
+    "gp_a": 62.51,
+    "pr_m": 77.27,
+    "pr_a": 63.29
   },
   "ledger": {
     "ep": [
@@ -255,6 +255,31 @@
         "ts": "2026-05-27T23:32:38\u002B02:00",
         "delta": 1075,
         "desc": "Attendance EP (1075) for raid (215 min @ 3 EP/min, buffed 215 min @ 1 EP/min, enchanted 215 min @ 1 EP/min) [source: Computed]"
+      },
+      {
+        "ts": "2026-06-01T23:26:23\u002B02:00",
+        "delta": 60,
+        "desc": "Timely signup EP bonus for: BWL Progress Montag 01.06.2026"
+      },
+      {
+        "ts": "2026-06-01T23:26:38\u002B02:00",
+        "delta": 1150,
+        "desc": "Attendance EP (1150) for raid (230 min @ 3 EP/min, buffed 230 min @ 1 EP/min, enchanted 230 min @ 1 EP/min) [source: Computed]"
+      },
+      {
+        "ts": "2026-06-01T23:26:47\u002B02:00",
+        "delta": -1545,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-06-01T23:26:57\u002B02:00",
+        "delta": -1236,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-06-01T23:27:00\u002B02:00",
+        "delta": -989,
+        "desc": "Decay -20% applied to all players"
       }
     ],
     "gp_m": [
@@ -316,6 +341,26 @@
       {
         "ts": "2026-04-13T23:13:05\u002B02:00",
         "delta": -0.48,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-06-01T21:28:54\u002B02:00",
+        "delta": 90,
+        "desc": "Chromatic Girdle (ms-high)"
+      },
+      {
+        "ts": "2026-06-01T23:26:47\u002B02:00",
+        "delta": -20.00,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-06-01T23:26:57\u002B02:00",
+        "delta": -16.00,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-06-01T23:27:00\u002B02:00",
+        "delta": -12.80,
         "desc": "Decay -20% applied to all players"
       }
     ],
@@ -429,6 +474,21 @@
         "ts": "2026-05-27T23:21:10\u002B02:00",
         "delta": 30,
         "desc": "Obsidian Heartseeker (ms-mid)"
+      },
+      {
+        "ts": "2026-06-01T23:26:47\u002B02:00",
+        "delta": -24.42,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-06-01T23:26:57\u002B02:00",
+        "delta": -19.53,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-06-01T23:27:00\u002B02:00",
+        "delta": -15.63,
+        "desc": "Decay -20% applied to all players"
       }
     ]
   }
