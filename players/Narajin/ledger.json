@@ -1,13 +1,13 @@
 {
-  "lastModified": "2026-05-26T08:39:44\u002B02:00",
+  "lastModified": "2026-06-01T23:27:00\u002B02:00",
   "player": "Narajin",
   "main": "Narajin",
   "saldo": {
-    "ep": 1112,
-    "gp_m": 10,
-    "gp_a": 31.74,
-    "pr_m": 111.2,
-    "pr_a": 35.03
+    "ep": 1198,
+    "gp_m": 10.24,
+    "gp_a": 16.25,
+    "pr_m": 116.99,
+    "pr_a": 73.72
   },
   "ledger": {
     "ep": [
@@ -55,9 +55,55 @@
         "ts": "2026-05-26T08:39:44\u002B02:00",
         "delta": -278,
         "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-06-01T23:26:23\u002B02:00",
+        "delta": 60,
+        "desc": "Timely signup EP bonus for: BWL Progress Montag 01.06.2026"
+      },
+      {
+        "ts": "2026-06-01T23:26:38\u002B02:00",
+        "delta": 1167,
+        "desc": "Attendance EP (1167) for raid (240 min @ 3 EP/min, buffed 207 min @ 1 EP/min, enchanted 240 min @ 1 EP/min) [source: Computed]"
+      },
+      {
+        "ts": "2026-06-01T23:26:47\u002B02:00",
+        "delta": -468,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-06-01T23:26:57\u002B02:00",
+        "delta": -374,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-06-01T23:27:00\u002B02:00",
+        "delta": -299,
+        "desc": "Decay -20% applied to all players"
       }
     ],
-    "gp_m": [],
+    "gp_m": [
+      {
+        "ts": "2026-06-01T21:29:27\u002B02:00",
+        "delta": 10,
+        "desc": "Mantle of the Blackwing Cabal (ms-low)"
+      },
+      {
+        "ts": "2026-06-01T23:26:47\u002B02:00",
+        "delta": -4.00,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-06-01T23:26:57\u002B02:00",
+        "delta": -3.20,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-06-01T23:27:00\u002B02:00",
+        "delta": -2.56,
+        "desc": "Decay -20% applied to all players"
+      }
+    ],
     "gp_a": [
       {
         "ts": "2026-05-04T22:05:10\u002B02:00",
@@ -87,6 +133,21 @@
       {
         "ts": "2026-05-26T08:39:44\u002B02:00",
         "delta": -7.94,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-06-01T23:26:47\u002B02:00",
+        "delta": -6.35,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-06-01T23:26:57\u002B02:00",
+        "delta": -5.08,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-06-01T23:27:00\u002B02:00",
+        "delta": -4.06,
         "desc": "Decay -20% applied to all players"
       }
     ]
