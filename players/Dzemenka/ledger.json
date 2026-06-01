@@ -1,13 +1,13 @@
 {
-  "lastModified": "2026-05-26T08:39:44\u002B02:00",
+  "lastModified": "2026-06-01T23:27:00\u002B02:00",
   "player": "Dzemenka",
   "main": "Dzemenka",
   "saldo": {
-    "ep": 559,
+    "ep": 286,
     "gp_m": 10,
     "gp_a": 10,
-    "pr_m": 55.9,
-    "pr_a": 55.9
+    "pr_m": 28.6,
+    "pr_a": 28.6
   },
   "ledger": {
     "ep": [
@@ -89,6 +89,21 @@
       {
         "ts": "2026-05-26T08:39:44\u002B02:00",
         "delta": -140,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-06-01T23:26:47\u002B02:00",
+        "delta": -112,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-06-01T23:26:57\u002B02:00",
+        "delta": -89,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-06-01T23:27:00\u002B02:00",
+        "delta": -72,
         "desc": "Decay -20% applied to all players"
       }
     ],
