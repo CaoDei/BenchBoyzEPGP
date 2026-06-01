@@ -1,13 +1,13 @@
 {
-  "lastModified": "2026-05-27T23:32:38\u002B02:00",
+  "lastModified": "2026-06-01T23:27:00\u002B02:00",
   "player": "Tashock",
   "main": "Tashock",
   "saldo": {
-    "ep": 6733,
-    "gp_m": 10,
-    "gp_a": 114.24,
-    "pr_m": 673.3,
-    "pr_a": 58.94
+    "ep": 4077,
+    "gp_m": 20.48,
+    "gp_a": 58.49,
+    "pr_m": 199.07,
+    "pr_a": 69.70
   },
   "ledger": {
     "ep": [
@@ -190,6 +190,31 @@
         "ts": "2026-05-27T23:32:38\u002B02:00",
         "delta": 1196,
         "desc": "Attendance EP (1196) for raid (250 min @ 3 EP/min, buffed 196 min @ 1 EP/min, enchanted 250 min @ 1 EP/min) [source: Computed]"
+      },
+      {
+        "ts": "2026-06-01T23:26:23\u002B02:00",
+        "delta": 60,
+        "desc": "Timely signup EP bonus for: BWL Progress Montag 01.06.2026"
+      },
+      {
+        "ts": "2026-06-01T23:26:38\u002B02:00",
+        "delta": 1169,
+        "desc": "Attendance EP (1169) for raid (240 min @ 3 EP/min, buffed 209 min @ 1 EP/min, enchanted 240 min @ 1 EP/min) [source: Computed]"
+      },
+      {
+        "ts": "2026-06-01T23:26:47\u002B02:00",
+        "delta": -1592,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-06-01T23:26:57\u002B02:00",
+        "delta": -1274,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-06-01T23:27:00\u002B02:00",
+        "delta": -1019,
+        "desc": "Decay -20% applied to all players"
       }
     ],
     "gp_m": [
@@ -202,6 +227,26 @@
         "ts": "2026-04-08T23:01:37\u002B02:00",
         "delta": -10,
         "desc": "Undo loot: Desecrator"
+      },
+      {
+        "ts": "2026-06-01T23:16:44\u002B02:00",
+        "delta": 30,
+        "desc": "Chromatic Boots (ms-mid)"
+      },
+      {
+        "ts": "2026-06-01T23:26:47\u002B02:00",
+        "delta": -8.00,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-06-01T23:26:57\u002B02:00",
+        "delta": -6.40,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-06-01T23:27:00\u002B02:00",
+        "delta": -5.12,
+        "desc": "Decay -20% applied to all players"
       }
     ],
     "gp_a": [
@@ -354,6 +399,21 @@
         "ts": "2026-05-27T23:21:18\u002B02:00",
         "delta": 10,
         "desc": "Wyrmguard Talisman (ms-low)"
+      },
+      {
+        "ts": "2026-06-01T23:26:47\u002B02:00",
+        "delta": -22.85,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-06-01T23:26:57\u002B02:00",
+        "delta": -18.28,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-06-01T23:27:00\u002B02:00",
+        "delta": -14.62,
+        "desc": "Decay -20% applied to all players"
       }
     ]
   }
