@@ -1,13 +1,13 @@
 {
-  "lastModified": "2026-05-26T08:39:44\u002B02:00",
+  "lastModified": "2026-06-01T23:27:00\u002B02:00",
   "player": "Kalija",
   "main": "Kalija",
   "saldo": {
-    "ep": 182,
+    "ep": 94,
     "gp_m": 10,
     "gp_a": 10,
-    "pr_m": 18.2,
-    "pr_a": 18.2
+    "pr_m": 9.4,
+    "pr_a": 9.4
   },
   "ledger": {
     "ep": [
@@ -34,6 +34,21 @@
       {
         "ts": "2026-05-26T08:39:44\u002B02:00",
         "delta": -46,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-06-01T23:26:47\u002B02:00",
+        "delta": -36,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-06-01T23:26:57\u002B02:00",
+        "delta": -29,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-06-01T23:27:00\u002B02:00",
+        "delta": -23,
         "desc": "Decay -20% applied to all players"
       }
     ],
