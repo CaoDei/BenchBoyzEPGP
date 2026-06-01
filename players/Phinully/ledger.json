@@ -1,13 +1,13 @@
 {
-  "lastModified": "2026-05-26T08:39:44\u002B02:00",
+  "lastModified": "2026-06-01T23:27:00\u002B02:00",
   "player": "Phinully",
   "main": "Phinully",
   "saldo": {
-    "ep": 271,
+    "ep": 139,
     "gp_m": 10,
     "gp_a": 10,
-    "pr_m": 27.1,
-    "pr_a": 27.1
+    "pr_m": 13.9,
+    "pr_a": 13.9
   },
   "ledger": {
     "ep": [
@@ -34,6 +34,21 @@
       {
         "ts": "2026-05-26T08:39:44\u002B02:00",
         "delta": -68,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-06-01T23:26:47\u002B02:00",
+        "delta": -54,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-06-01T23:26:57\u002B02:00",
+        "delta": -43,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-06-01T23:27:00\u002B02:00",
+        "delta": -35,
         "desc": "Decay -20% applied to all players"
       }
     ],
