@@ -1,0 +1,38 @@
+{
+  "lastModified": "2026-06-01T23:27:00\u002B02:00",
+  "player": "Sanguil",
+  "main": "Sanguil",
+  "saldo": {
+    "ep": 605,
+    "gp_m": 10,
+    "gp_a": 10,
+    "pr_m": 60.5,
+    "pr_a": 60.5
+  },
+  "ledger": {
+    "ep": [
+      {
+        "ts": "2026-06-01T23:26:38\u002B02:00",
+        "delta": 1181,
+        "desc": "Attendance EP (1181) for raid (240 min @ 3 EP/min, buffed 221 min @ 1 EP/min, enchanted 240 min @ 1 EP/min) [source: Computed]"
+      },
+      {
+        "ts": "2026-06-01T23:26:47\u002B02:00",
+        "delta": -236,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-06-01T23:26:57\u002B02:00",
+        "delta": -189,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-06-01T23:27:00\u002B02:00",
+        "delta": -151,
+        "desc": "Decay -20% applied to all players"
+      }
+    ],
+    "gp_m": [],
+    "gp_a": []
+  }
+}
