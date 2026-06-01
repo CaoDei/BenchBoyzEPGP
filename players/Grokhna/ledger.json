@@ -1,13 +1,13 @@
 {
-  "lastModified": "2026-05-27T23:32:38\u002B02:00",
+  "lastModified": "2026-06-01T23:27:00\u002B02:00",
   "player": "Grokhna",
   "main": "Grokhna",
   "saldo": {
-    "ep": 7454,
-    "gp_m": 40.00,
-    "gp_a": 137.02,
-    "pr_m": 186.35,
-    "pr_a": 54.40
+    "ep": 4452,
+    "gp_m": 25.60,
+    "gp_a": 70.16,
+    "pr_m": 173.91,
+    "pr_a": 63.45
   },
   "ledger": {
     "ep": [
@@ -280,6 +280,31 @@
         "ts": "2026-05-27T23:32:38\u002B02:00",
         "delta": 1207,
         "desc": "Attendance EP (1207) for raid (250 min @ 3 EP/min, buffed 207 min @ 1 EP/min, enchanted 250 min @ 1 EP/min) [source: Computed]"
+      },
+      {
+        "ts": "2026-06-01T23:26:23\u002B02:00",
+        "delta": 60,
+        "desc": "Timely signup EP bonus for: BWL Progress Montag 01.06.2026"
+      },
+      {
+        "ts": "2026-06-01T23:26:38\u002B02:00",
+        "delta": 1181,
+        "desc": "Attendance EP (1181) for raid (240 min @ 3 EP/min, buffed 221 min @ 1 EP/min, enchanted 240 min @ 1 EP/min) [source: Computed]"
+      },
+      {
+        "ts": "2026-06-01T23:26:47\u002B02:00",
+        "delta": -1739,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-06-01T23:26:57\u002B02:00",
+        "delta": -1391,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-06-01T23:27:00\u002B02:00",
+        "delta": -1113,
+        "desc": "Decay -20% applied to all players"
       }
     ],
     "gp_m": [
@@ -296,6 +321,26 @@
       {
         "ts": "2026-05-26T08:39:44\u002B02:00",
         "delta": -10.00,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-06-01T21:29:31\u002B02:00",
+        "delta": 10,
+        "desc": "Scrolls of Blinding Light (ms-low)"
+      },
+      {
+        "ts": "2026-06-01T23:26:47\u002B02:00",
+        "delta": -10.00,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-06-01T23:26:57\u002B02:00",
+        "delta": -8.00,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-06-01T23:27:00\u002B02:00",
+        "delta": -6.40,
         "desc": "Decay -20% applied to all players"
       }
     ],
@@ -479,6 +524,21 @@
         "ts": "2026-05-27T21:31:45\u002B02:00",
         "delta": 10,
         "desc": "Essence of the Pure Flame (os-low)"
+      },
+      {
+        "ts": "2026-06-01T23:26:47\u002B02:00",
+        "delta": -27.40,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-06-01T23:26:57\u002B02:00",
+        "delta": -21.92,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-06-01T23:27:00\u002B02:00",
+        "delta": -17.54,
+        "desc": "Decay -20% applied to all players"
       }
     ]
   }
