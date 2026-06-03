@@ -1,13 +1,13 @@
 {
-  "lastModified": "2026-06-01T23:27:00\u002B02:00",
+  "lastModified": "2026-06-04T00:03:30\u002B02:00",
   "player": "Tashock",
   "main": "Tashock",
   "saldo": {
-    "ep": 4077,
-    "gp_m": 20.48,
-    "gp_a": 58.49,
-    "pr_m": 199.07,
-    "pr_a": 69.70
+    "ep": 4862,
+    "gp_m": 32.00,
+    "gp_a": 46.79,
+    "pr_m": 151.94,
+    "pr_a": 103.91
   },
   "ledger": {
     "ep": [
@@ -192,6 +192,21 @@
         "desc": "Attendance EP (1196) for raid (250 min @ 3 EP/min, buffed 196 min @ 1 EP/min, enchanted 250 min @ 1 EP/min) [source: Computed]"
       },
       {
+        "ts": "2026-06-01T13:26:47\u002B02:00",
+        "delta": -1347,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-06-01T13:26:57\u002B02:00",
+        "delta": -1077,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-06-01T13:26:57\u002B02:00",
+        "delta": -862,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
         "ts": "2026-06-01T23:26:23\u002B02:00",
         "delta": 60,
         "desc": "Timely signup EP bonus for: BWL Progress Montag 01.06.2026"
@@ -202,19 +217,19 @@
         "desc": "Attendance EP (1169) for raid (240 min @ 3 EP/min, buffed 209 min @ 1 EP/min, enchanted 240 min @ 1 EP/min) [source: Computed]"
       },
       {
-        "ts": "2026-06-01T23:26:47\u002B02:00",
-        "delta": -1592,
-        "desc": "Decay -20% applied to all players"
-      },
-      {
-        "ts": "2026-06-01T23:26:57\u002B02:00",
-        "delta": -1274,
-        "desc": "Decay -20% applied to all players"
-      },
-      {
         "ts": "2026-06-01T23:27:00\u002B02:00",
-        "delta": -1019,
+        "delta": -935,
         "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-06-04T00:02:57\u002B02:00",
+        "delta": 60,
+        "desc": "Timely signup EP bonus for: BWL Mythic Mittwoch 03.06.2026"
+      },
+      {
+        "ts": "2026-06-04T00:03:30\u002B02:00",
+        "delta": 1061,
+        "desc": "Attendance EP (1061) for raid (216 min @ 3 EP/min, buffed 197 min @ 1 EP/min, enchanted 216 min @ 1 EP/min) [source: Computed]"
       }
     ],
     "gp_m": [
@@ -234,18 +249,8 @@
         "desc": "Chromatic Boots (ms-mid)"
       },
       {
-        "ts": "2026-06-01T23:26:47\u002B02:00",
-        "delta": -8.00,
-        "desc": "Decay -20% applied to all players"
-      },
-      {
-        "ts": "2026-06-01T23:26:57\u002B02:00",
-        "delta": -6.40,
-        "desc": "Decay -20% applied to all players"
-      },
-      {
         "ts": "2026-06-01T23:27:00\u002B02:00",
-        "delta": -5.12,
+        "delta": -8.00,
         "desc": "Decay -20% applied to all players"
       }
     ],
@@ -401,18 +406,23 @@
         "desc": "Wyrmguard Talisman (ms-low)"
       },
       {
-        "ts": "2026-06-01T23:26:47\u002B02:00",
+        "ts": "2026-06-01T13:26:47\u002B02:00",
         "delta": -22.85,
         "desc": "Decay -20% applied to all players"
       },
       {
-        "ts": "2026-06-01T23:26:57\u002B02:00",
+        "ts": "2026-06-01T13:26:57\u002B02:00",
         "delta": -18.28,
         "desc": "Decay -20% applied to all players"
       },
       {
-        "ts": "2026-06-01T23:27:00\u002B02:00",
+        "ts": "2026-06-01T13:26:57\u002B02:00",
         "delta": -14.62,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-06-01T23:27:00\u002B02:00",
+        "delta": -11.70,
         "desc": "Decay -20% applied to all players"
       }
     ]
