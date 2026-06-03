@@ -3,11 +3,11 @@
   "player": "Solerios",
   "main": "Solerios",
   "saldo": {
-    "ep": 289,
+    "ep": 231,
     "gp_m": 10,
     "gp_a": 10,
-    "pr_m": 28.9,
-    "pr_a": 28.9
+    "pr_m": 23.1,
+    "pr_a": 23.1
   },
   "ledger": {
     "ep": [
@@ -17,18 +17,23 @@
         "desc": "Attendance EP (564) for raid (144 min @ 3 EP/min, buffed 132 min @ 1 EP/min, enchanted 0 min @ 1 EP/min) [source: Computed]"
       },
       {
-        "ts": "2026-06-01T23:26:47\u002B02:00",
+        "ts": "2026-06-01T13:26:47\u002B02:00",
         "delta": -113,
         "desc": "Decay -20% applied to all players"
       },
       {
-        "ts": "2026-06-01T23:26:57\u002B02:00",
+        "ts": "2026-06-01T13:26:57\u002B02:00",
         "delta": -90,
         "desc": "Decay -20% applied to all players"
       },
       {
-        "ts": "2026-06-01T23:27:00\u002B02:00",
+        "ts": "2026-06-01T13:26:57\u002B02:00",
         "delta": -72,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-06-01T23:27:00\u002B02:00",
+        "delta": -58,
         "desc": "Decay -20% applied to all players"
       }
     ],
