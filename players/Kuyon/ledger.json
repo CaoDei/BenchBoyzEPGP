@@ -1,13 +1,13 @@
 {
-  "lastModified": "2026-06-01T23:27:00\u002B02:00",
+  "lastModified": "2026-06-04T00:03:30\u002B02:00",
   "player": "Kuyon",
   "main": "Kuyon",
   "saldo": {
-    "ep": 1451,
-    "gp_m": 46.70,
-    "gp_a": 80.90,
-    "pr_m": 31.07,
-    "pr_a": 17.94
+    "ep": 2756,
+    "gp_m": 47.36,
+    "gp_a": 64.72,
+    "pr_m": 58.19,
+    "pr_a": 42.58
   },
   "ledger": {
     "ep": [
@@ -47,24 +47,39 @@
         "desc": "Attendance EP (455) for raid (91 min @ 3 EP/min, buffed 91 min @ 1 EP/min, enchanted 91 min @ 1 EP/min) [source: Computed]"
       },
       {
+        "ts": "2026-06-01T13:26:47\u002B02:00",
+        "delta": -339,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-06-01T13:26:57\u002B02:00",
+        "delta": -272,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-06-01T13:26:57\u002B02:00",
+        "delta": -217,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
         "ts": "2026-06-01T23:26:38\u002B02:00",
         "delta": 1138,
         "desc": "Attendance EP (1138) for raid (240 min @ 3 EP/min, buffed 178 min @ 1 EP/min, enchanted 240 min @ 1 EP/min) [source: Computed]"
       },
       {
-        "ts": "2026-06-01T23:26:47\u002B02:00",
-        "delta": -567,
-        "desc": "Decay -20% applied to all players"
-      },
-      {
-        "ts": "2026-06-01T23:26:57\u002B02:00",
-        "delta": -454,
-        "desc": "Decay -20% applied to all players"
-      },
-      {
         "ts": "2026-06-01T23:27:00\u002B02:00",
-        "delta": -363,
+        "delta": -401,
         "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-06-04T00:02:57\u002B02:00",
+        "delta": 60,
+        "desc": "Timely signup EP bonus for: BWL Mythic Mittwoch 03.06.2026"
+      },
+      {
+        "ts": "2026-06-04T00:03:30\u002B02:00",
+        "delta": 1090,
+        "desc": "Attendance EP (1090) for raid (224 min @ 3 EP/min, buffed 194 min @ 1 EP/min, enchanted 224 min @ 1 EP/min) [source: Computed]"
       }
     ],
     "gp_m": [
@@ -144,19 +159,29 @@
         "desc": "Decay -20% applied to all players"
       },
       {
-        "ts": "2026-06-01T23:26:47\u002B02:00",
+        "ts": "2026-06-01T13:26:47\u002B02:00",
         "delta": -18.24,
         "desc": "Decay -20% applied to all players"
       },
       {
-        "ts": "2026-06-01T23:26:57\u002B02:00",
+        "ts": "2026-06-01T13:26:57\u002B02:00",
         "delta": -14.59,
         "desc": "Decay -20% applied to all players"
       },
       {
-        "ts": "2026-06-01T23:27:00\u002B02:00",
+        "ts": "2026-06-01T13:26:57\u002B02:00",
         "delta": -11.67,
         "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-06-01T23:27:00\u002B02:00",
+        "delta": -9.34,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-06-03T21:19:56\u002B02:00",
+        "delta": 10,
+        "desc": "Taut Dragonhide Bracers (ms-low)"
       }
     ],
     "gp_a": [
@@ -251,18 +276,23 @@
         "desc": "Cloak of the Shrouded Mists (os-low) [downgraded from os-low: Loot cap: \u003C1500 EP with 6 wins this raid]"
       },
       {
-        "ts": "2026-06-01T23:26:47\u002B02:00",
+        "ts": "2026-06-01T13:26:47\u002B02:00",
         "delta": -31.60,
         "desc": "Decay -20% applied to all players"
       },
       {
-        "ts": "2026-06-01T23:26:57\u002B02:00",
+        "ts": "2026-06-01T13:26:57\u002B02:00",
         "delta": -25.28,
         "desc": "Decay -20% applied to all players"
       },
       {
-        "ts": "2026-06-01T23:27:00\u002B02:00",
+        "ts": "2026-06-01T13:26:57\u002B02:00",
         "delta": -20.22,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-06-01T23:27:00\u002B02:00",
+        "delta": -16.18,
         "desc": "Decay -20% applied to all players"
       }
     ]
