@@ -3,11 +3,11 @@
   "player": "Einhorny",
   "main": "Einhorny",
   "saldo": {
-    "ep": 660,
+    "ep": 528,
     "gp_m": 10,
-    "gp_a": 20.98,
-    "pr_m": 66,
-    "pr_a": 31.46
+    "gp_a": 16.78,
+    "pr_m": 52.8,
+    "pr_a": 31.47
   },
   "ledger": {
     "ep": [
@@ -67,18 +67,23 @@
         "desc": "Decay -20% applied to all players"
       },
       {
-        "ts": "2026-06-01T23:26:47\u002B02:00",
+        "ts": "2026-06-01T13:26:47\u002B02:00",
         "delta": -258,
         "desc": "Decay -20% applied to all players"
       },
       {
-        "ts": "2026-06-01T23:26:57\u002B02:00",
+        "ts": "2026-06-01T13:26:57\u002B02:00",
         "delta": -206,
         "desc": "Decay -20% applied to all players"
       },
       {
-        "ts": "2026-06-01T23:27:00\u002B02:00",
+        "ts": "2026-06-01T13:26:57\u002B02:00",
         "delta": -165,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-06-01T23:27:00\u002B02:00",
+        "delta": -132,
         "desc": "Decay -20% applied to all players"
       }
     ],
@@ -130,18 +135,23 @@
         "desc": "Decay -20% applied to all players"
       },
       {
-        "ts": "2026-06-01T23:26:47\u002B02:00",
+        "ts": "2026-06-01T13:26:47\u002B02:00",
         "delta": -8.19,
         "desc": "Decay -20% applied to all players"
       },
       {
-        "ts": "2026-06-01T23:26:57\u002B02:00",
+        "ts": "2026-06-01T13:26:57\u002B02:00",
         "delta": -6.55,
         "desc": "Decay -20% applied to all players"
       },
       {
-        "ts": "2026-06-01T23:27:00\u002B02:00",
+        "ts": "2026-06-01T13:26:57\u002B02:00",
         "delta": -5.24,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-06-01T23:27:00\u002B02:00",
+        "delta": -4.20,
         "desc": "Decay -20% applied to all players"
       }
     ]
