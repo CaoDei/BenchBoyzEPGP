@@ -1,13 +1,13 @@
 {
-  "lastModified": "2026-06-01T23:27:00\u002B02:00",
+  "lastModified": "2026-06-04T00:03:30\u002B02:00",
   "player": "Bringschuld",
   "main": "Bringschuld",
   "saldo": {
-    "ep": 5062,
-    "gp_m": 22.06,
+    "ep": 5677,
+    "gp_m": 72.00,
     "gp_a": 10,
-    "pr_m": 229.47,
-    "pr_a": 506.2
+    "pr_m": 78.85,
+    "pr_a": 567.7
   },
   "ledger": {
     "ep": [
@@ -292,6 +292,21 @@
         "desc": "Attendance EP (1201) for raid (250 min @ 3 EP/min, buffed 201 min @ 1 EP/min, enchanted 250 min @ 1 EP/min) [source: Computed]"
       },
       {
+        "ts": "2026-06-01T13:26:47\u002B02:00",
+        "delta": -1735,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-06-01T13:26:57\u002B02:00",
+        "delta": -1388,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-06-01T13:26:57\u002B02:00",
+        "delta": -1110,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
         "ts": "2026-06-01T23:26:23\u002B02:00",
         "delta": 60,
         "desc": "Timely signup EP bonus for: BWL Progress Montag 01.06.2026"
@@ -302,19 +317,19 @@
         "desc": "Attendance EP (1155) for raid (240 min @ 3 EP/min, buffed 195 min @ 1 EP/min, enchanted 240 min @ 1 EP/min) [source: Computed]"
       },
       {
-        "ts": "2026-06-01T23:26:47\u002B02:00",
-        "delta": -1978,
-        "desc": "Decay -20% applied to all players"
-      },
-      {
-        "ts": "2026-06-01T23:26:57\u002B02:00",
-        "delta": -1582,
-        "desc": "Decay -20% applied to all players"
-      },
-      {
         "ts": "2026-06-01T23:27:00\u002B02:00",
-        "delta": -1266,
+        "delta": -1131,
         "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-06-04T00:02:57\u002B02:00",
+        "delta": 60,
+        "desc": "Timely signup EP bonus for: BWL Mythic Mittwoch 03.06.2026"
+      },
+      {
+        "ts": "2026-06-04T00:03:30\u002B02:00",
+        "delta": 1093,
+        "desc": "Attendance EP (1093) for raid (224 min @ 3 EP/min, buffed 197 min @ 1 EP/min, enchanted 224 min @ 1 EP/min) [source: Computed]"
       }
     ],
     "gp_m": [
@@ -359,24 +374,34 @@
         "desc": "Decay -20% applied to all players"
       },
       {
+        "ts": "2026-06-01T13:26:47\u002B02:00",
+        "delta": -2.62,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-06-01T13:26:57\u002B02:00",
+        "delta": -0.48,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
         "ts": "2026-06-01T21:28:56\u002B02:00",
         "delta": 30,
         "desc": "Chromatic Girdle (ms-mid)"
       },
       {
-        "ts": "2026-06-01T23:26:47\u002B02:00",
-        "delta": -8.62,
-        "desc": "Decay -20% applied to all players"
-      },
-      {
-        "ts": "2026-06-01T23:26:57\u002B02:00",
-        "delta": -6.90,
-        "desc": "Decay -20% applied to all players"
-      },
-      {
         "ts": "2026-06-01T23:27:00\u002B02:00",
-        "delta": -5.52,
+        "delta": -8.00,
         "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-06-03T21:19:52\u002B02:00",
+        "delta": 30,
+        "desc": "Dragon Hunter\u0027s Mantle (ms-mid)"
+      },
+      {
+        "ts": "2026-06-03T21:19:55\u002B02:00",
+        "delta": 10,
+        "desc": "Ring of Blackrock (ms-low)"
       }
     ],
     "gp_a": [
@@ -471,17 +496,17 @@
         "desc": "Decay -20% applied to all players"
       },
       {
-        "ts": "2026-06-01T23:26:47\u002B02:00",
+        "ts": "2026-06-01T13:26:47\u002B02:00",
         "delta": -3.67,
         "desc": "Decay -20% applied to all players"
       },
       {
-        "ts": "2026-06-01T23:26:57\u002B02:00",
+        "ts": "2026-06-01T13:26:57\u002B02:00",
         "delta": -2.94,
         "desc": "Decay -20% applied to all players"
       },
       {
-        "ts": "2026-06-01T23:27:00\u002B02:00",
+        "ts": "2026-06-01T13:26:57\u002B02:00",
         "delta": -1.74,
         "desc": "Decay -20% applied to all players"
       }
