@@ -1,13 +1,13 @@
 {
-  "lastModified": "2026-06-01T23:27:00\u002B02:00",
+  "lastModified": "2026-06-04T00:03:30\u002B02:00",
   "player": "Yolanda",
   "main": "Yolanda",
   "saldo": {
-    "ep": 2206,
-    "gp_m": 10,
+    "ep": 3379,
+    "gp_m": 40,
     "gp_a": 10,
-    "pr_m": 220.6,
-    "pr_a": 220.6
+    "pr_m": 84.48,
+    "pr_a": 337.9
   },
   "ledger": {
     "ep": [
@@ -222,24 +222,39 @@
         "desc": "Decay -20% applied to all players"
       },
       {
+        "ts": "2026-06-01T13:26:47\u002B02:00",
+        "delta": -625,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-06-01T13:26:57\u002B02:00",
+        "delta": -500,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-06-01T13:26:57\u002B02:00",
+        "delta": -400,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
         "ts": "2026-06-01T23:26:38\u002B02:00",
         "delta": 1181,
         "desc": "Attendance EP (1181) for raid (240 min @ 3 EP/min, buffed 221 min @ 1 EP/min, enchanted 240 min @ 1 EP/min) [source: Computed]"
       },
       {
-        "ts": "2026-06-01T23:26:47\u002B02:00",
-        "delta": -861,
-        "desc": "Decay -20% applied to all players"
-      },
-      {
-        "ts": "2026-06-01T23:26:57\u002B02:00",
-        "delta": -689,
-        "desc": "Decay -20% applied to all players"
-      },
-      {
         "ts": "2026-06-01T23:27:00\u002B02:00",
-        "delta": -551,
+        "delta": -556,
         "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-06-04T00:02:57\u002B02:00",
+        "delta": 60,
+        "desc": "Timely signup EP bonus for: BWL Mythic Mittwoch 03.06.2026"
+      },
+      {
+        "ts": "2026-06-04T00:03:30\u002B02:00",
+        "delta": 1093,
+        "desc": "Attendance EP (1093) for raid (224 min @ 3 EP/min, buffed 197 min @ 1 EP/min, enchanted 224 min @ 1 EP/min) [source: Computed]"
       }
     ],
     "gp_m": [
@@ -282,6 +297,11 @@
         "ts": "2026-05-05T13:39:31\u002B02:00",
         "delta": -0.48,
         "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-06-03T22:54:13\u002B02:00",
+        "delta": 30,
+        "desc": "Chromatic Handguards (ms-mid)"
       }
     ],
     "gp_a": [
@@ -366,17 +386,17 @@
         "desc": "Decay -20% applied to all players"
       },
       {
-        "ts": "2026-06-01T23:26:47\u002B02:00",
+        "ts": "2026-06-01T13:26:47\u002B02:00",
         "delta": -3.29,
         "desc": "Decay -20% applied to all players"
       },
       {
-        "ts": "2026-06-01T23:26:57\u002B02:00",
+        "ts": "2026-06-01T13:26:57\u002B02:00",
         "delta": -2.63,
         "desc": "Decay -20% applied to all players"
       },
       {
-        "ts": "2026-06-01T23:27:00\u002B02:00",
+        "ts": "2026-06-01T13:26:57\u002B02:00",
         "delta": -0.54,
         "desc": "Decay -20% applied to all players"
       }
