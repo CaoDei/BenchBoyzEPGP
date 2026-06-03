@@ -1,13 +1,13 @@
 {
-  "lastModified": "2026-06-01T23:27:00\u002B02:00",
+  "lastModified": "2026-06-04T00:03:30\u002B02:00",
   "player": "Narajin",
   "main": "Narajin",
   "saldo": {
-    "ep": 1198,
-    "gp_m": 10.24,
-    "gp_a": 16.25,
-    "pr_m": 116.99,
-    "pr_a": 73.72
+    "ep": 2495,
+    "gp_m": 16.00,
+    "gp_a": 13.00,
+    "pr_m": 155.94,
+    "pr_a": 191.92
   },
   "ledger": {
     "ep": [
@@ -57,6 +57,21 @@
         "desc": "Decay -20% applied to all players"
       },
       {
+        "ts": "2026-06-01T13:26:47\u002B02:00",
+        "delta": -222,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-06-01T13:26:57\u002B02:00",
+        "delta": -178,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-06-01T13:26:57\u002B02:00",
+        "delta": -142,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
         "ts": "2026-06-01T23:26:23\u002B02:00",
         "delta": 60,
         "desc": "Timely signup EP bonus for: BWL Progress Montag 01.06.2026"
@@ -67,19 +82,14 @@
         "desc": "Attendance EP (1167) for raid (240 min @ 3 EP/min, buffed 207 min @ 1 EP/min, enchanted 240 min @ 1 EP/min) [source: Computed]"
       },
       {
-        "ts": "2026-06-01T23:26:47\u002B02:00",
-        "delta": -468,
-        "desc": "Decay -20% applied to all players"
-      },
-      {
-        "ts": "2026-06-01T23:26:57\u002B02:00",
-        "delta": -374,
-        "desc": "Decay -20% applied to all players"
-      },
-      {
         "ts": "2026-06-01T23:27:00\u002B02:00",
-        "delta": -299,
+        "delta": -359,
         "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-06-04T00:03:30\u002B02:00",
+        "delta": 1057,
+        "desc": "Attendance EP (1057) for raid (216 min @ 3 EP/min, buffed 193 min @ 1 EP/min, enchanted 216 min @ 1 EP/min) [source: Computed]"
       }
     ],
     "gp_m": [
@@ -89,18 +99,8 @@
         "desc": "Mantle of the Blackwing Cabal (ms-low)"
       },
       {
-        "ts": "2026-06-01T23:26:47\u002B02:00",
-        "delta": -4.00,
-        "desc": "Decay -20% applied to all players"
-      },
-      {
-        "ts": "2026-06-01T23:26:57\u002B02:00",
-        "delta": -3.20,
-        "desc": "Decay -20% applied to all players"
-      },
-      {
         "ts": "2026-06-01T23:27:00\u002B02:00",
-        "delta": -2.56,
+        "delta": -4.00,
         "desc": "Decay -20% applied to all players"
       }
     ],
@@ -136,18 +136,23 @@
         "desc": "Decay -20% applied to all players"
       },
       {
-        "ts": "2026-06-01T23:26:47\u002B02:00",
+        "ts": "2026-06-01T13:26:47\u002B02:00",
         "delta": -6.35,
         "desc": "Decay -20% applied to all players"
       },
       {
-        "ts": "2026-06-01T23:26:57\u002B02:00",
+        "ts": "2026-06-01T13:26:57\u002B02:00",
         "delta": -5.08,
         "desc": "Decay -20% applied to all players"
       },
       {
-        "ts": "2026-06-01T23:27:00\u002B02:00",
+        "ts": "2026-06-01T13:26:57\u002B02:00",
         "delta": -4.06,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-06-01T23:27:00\u002B02:00",
+        "delta": -3.25,
         "desc": "Decay -20% applied to all players"
       }
     ]
