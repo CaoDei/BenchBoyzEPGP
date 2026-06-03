@@ -1,0 +1,23 @@
+{
+  "lastModified": "2026-06-04T00:03:30\u002B02:00",
+  "player": "Lonarius",
+  "main": "Lonarius",
+  "saldo": {
+    "ep": 110,
+    "gp_m": 10,
+    "gp_a": 10,
+    "pr_m": 11,
+    "pr_a": 11
+  },
+  "ledger": {
+    "ep": [
+      {
+        "ts": "2026-06-04T00:03:30\u002B02:00",
+        "delta": 110,
+        "desc": "Attendance EP (110) for raid (22 min @ 3 EP/min, buffed 22 min @ 1 EP/min, enchanted 22 min @ 1 EP/min) [source: Computed]"
+      }
+    ],
+    "gp_m": [],
+    "gp_a": []
+  }
+}
