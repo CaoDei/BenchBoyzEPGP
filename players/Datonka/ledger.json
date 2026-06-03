@@ -3,11 +3,11 @@
   "player": "Datonka",
   "main": "Datonka",
   "saldo": {
-    "ep": 50,
+    "ep": 40,
     "gp_m": 10,
     "gp_a": 10,
-    "pr_m": 5,
-    "pr_a": 5
+    "pr_m": 4,
+    "pr_a": 4
   },
   "ledger": {
     "ep": [
@@ -22,18 +22,23 @@
         "desc": "Decay -20% applied to all players"
       },
       {
-        "ts": "2026-06-01T23:26:47\u002B02:00",
+        "ts": "2026-06-01T13:26:47\u002B02:00",
         "delta": -20,
         "desc": "Decay -20% applied to all players"
       },
       {
-        "ts": "2026-06-01T23:26:57\u002B02:00",
+        "ts": "2026-06-01T13:26:57\u002B02:00",
         "delta": -16,
         "desc": "Decay -20% applied to all players"
       },
       {
-        "ts": "2026-06-01T23:27:00\u002B02:00",
+        "ts": "2026-06-01T13:26:57\u002B02:00",
         "delta": -12,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-06-01T23:27:00\u002B02:00",
+        "delta": -10,
         "desc": "Decay -20% applied to all players"
       }
     ],
