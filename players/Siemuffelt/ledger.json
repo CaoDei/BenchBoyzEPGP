@@ -1,13 +1,13 @@
 {
-  "lastModified": "2026-06-01T23:27:00\u002B02:00",
+  "lastModified": "2026-06-04T00:03:30\u002B02:00",
   "player": "Siemuffelt",
   "main": "Siemuffelt",
   "saldo": {
-    "ep": 3782,
-    "gp_m": 84.21,
-    "gp_a": 159.17,
-    "pr_m": 44.91,
-    "pr_a": 23.76
+    "ep": 4463,
+    "gp_m": 97.37,
+    "gp_a": 127.34,
+    "pr_m": 45.84,
+    "pr_a": 35.05
   },
   "ledger": {
     "ep": [
@@ -147,24 +147,34 @@
         "desc": "Attendance EP (1238) for raid (250 min @ 3 EP/min, buffed 238 min @ 1 EP/min, enchanted 250 min @ 1 EP/min) [source: Computed]"
       },
       {
+        "ts": "2026-06-01T13:26:47\u002B02:00",
+        "delta": -1250,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-06-01T13:26:57\u002B02:00",
+        "delta": -1000,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-06-01T13:26:57\u002B02:00",
+        "delta": -800,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
         "ts": "2026-06-01T23:26:38\u002B02:00",
         "delta": 1138,
         "desc": "Attendance EP (1138) for raid (240 min @ 3 EP/min, buffed 178 min @ 1 EP/min, enchanted 240 min @ 1 EP/min) [source: Computed]"
       },
       {
-        "ts": "2026-06-01T23:26:47\u002B02:00",
-        "delta": -1478,
-        "desc": "Decay -20% applied to all players"
-      },
-      {
-        "ts": "2026-06-01T23:26:57\u002B02:00",
-        "delta": -1182,
-        "desc": "Decay -20% applied to all players"
-      },
-      {
         "ts": "2026-06-01T23:27:00\u002B02:00",
-        "delta": -946,
+        "delta": -868,
         "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-06-04T00:03:30\u002B02:00",
+        "delta": 993,
+        "desc": "Attendance EP (993) for raid (205 min @ 3 EP/min, buffed 173 min @ 1 EP/min, enchanted 205 min @ 1 EP/min) [source: Computed]"
       }
     ],
     "gp_m": [
@@ -239,19 +249,29 @@
         "desc": "Decay -20% applied to all players"
       },
       {
-        "ts": "2026-06-01T23:26:47\u002B02:00",
+        "ts": "2026-06-01T13:26:47\u002B02:00",
         "delta": -32.90,
         "desc": "Decay -20% applied to all players"
       },
       {
-        "ts": "2026-06-01T23:26:57\u002B02:00",
+        "ts": "2026-06-01T13:26:57\u002B02:00",
         "delta": -26.32,
         "desc": "Decay -20% applied to all players"
       },
       {
-        "ts": "2026-06-01T23:27:00\u002B02:00",
+        "ts": "2026-06-01T13:26:57\u002B02:00",
         "delta": -21.05,
         "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-06-01T23:27:00\u002B02:00",
+        "delta": -16.84,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-06-03T21:19:42\u002B02:00",
+        "delta": 30,
+        "desc": "Dragonrider\u0027s Crown (ms-mid) [downgraded from ms-high: Below min EP (3470/5000)]"
       }
     ],
     "gp_a": [
@@ -446,18 +466,23 @@
         "desc": "Molten Tunic (os-low) [downgraded from os-mid: Below min PR for Mid (16,459/30)]"
       },
       {
-        "ts": "2026-06-01T23:26:47\u002B02:00",
+        "ts": "2026-06-01T13:26:47\u002B02:00",
         "delta": -62.17,
         "desc": "Decay -20% applied to all players"
       },
       {
-        "ts": "2026-06-01T23:26:57\u002B02:00",
+        "ts": "2026-06-01T13:26:57\u002B02:00",
         "delta": -49.74,
         "desc": "Decay -20% applied to all players"
       },
       {
-        "ts": "2026-06-01T23:27:00\u002B02:00",
+        "ts": "2026-06-01T13:26:57\u002B02:00",
         "delta": -39.79,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-06-01T23:27:00\u002B02:00",
+        "delta": -31.83,
         "desc": "Decay -20% applied to all players"
       }
     ]
