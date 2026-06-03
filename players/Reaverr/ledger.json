@@ -3,11 +3,11 @@
   "player": "Reaverr",
   "main": "Reaverr",
   "saldo": {
-    "ep": 213,
+    "ep": 170,
     "gp_m": 10,
     "gp_a": 10,
-    "pr_m": 21.3,
-    "pr_a": 21.3
+    "pr_m": 17,
+    "pr_a": 17
   },
   "ledger": {
     "ep": [
@@ -17,18 +17,23 @@
         "desc": "Attendance EP (415) for raid (86 min @ 3 EP/min, buffed 71 min @ 1 EP/min, enchanted 86 min @ 1 EP/min) [source: Computed]"
       },
       {
-        "ts": "2026-06-01T23:26:47\u002B02:00",
+        "ts": "2026-06-01T13:26:47\u002B02:00",
         "delta": -83,
         "desc": "Decay -20% applied to all players"
       },
       {
-        "ts": "2026-06-01T23:26:57\u002B02:00",
+        "ts": "2026-06-01T13:26:57\u002B02:00",
         "delta": -66,
         "desc": "Decay -20% applied to all players"
       },
       {
-        "ts": "2026-06-01T23:27:00\u002B02:00",
+        "ts": "2026-06-01T13:26:57\u002B02:00",
         "delta": -53,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-06-01T23:27:00\u002B02:00",
+        "delta": -43,
         "desc": "Decay -20% applied to all players"
       }
     ],
