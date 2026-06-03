@@ -1,13 +1,13 @@
 {
-  "lastModified": "2026-06-01T23:27:00\u002B02:00",
+  "lastModified": "2026-06-04T00:03:30\u002B02:00",
   "player": "Paruw",
   "main": "Paruw",
   "saldo": {
-    "ep": 1429,
-    "gp_m": 10.24,
+    "ep": 2779,
+    "gp_m": 46.00,
     "gp_a": 10,
-    "pr_m": 139.55,
-    "pr_a": 142.9
+    "pr_m": 60.41,
+    "pr_a": 277.9
   },
   "ledger": {
     "ep": [
@@ -47,6 +47,21 @@
         "desc": "Attendance EP (1238) for raid (250 min @ 3 EP/min, buffed 238 min @ 1 EP/min, enchanted 250 min @ 1 EP/min) [source: Computed]"
       },
       {
+        "ts": "2026-06-01T13:26:47\u002B02:00",
+        "delta": -310,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-06-01T13:26:57\u002B02:00",
+        "delta": -248,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-06-01T13:26:57\u002B02:00",
+        "delta": -199,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
         "ts": "2026-06-01T23:26:23\u002B02:00",
         "delta": 60,
         "desc": "Timely signup EP bonus for: BWL Progress Montag 01.06.2026"
@@ -57,19 +72,19 @@
         "desc": "Attendance EP (1178) for raid (240 min @ 3 EP/min, buffed 218 min @ 1 EP/min, enchanted 240 min @ 1 EP/min) [source: Computed]"
       },
       {
-        "ts": "2026-06-01T23:26:47\u002B02:00",
-        "delta": -558,
-        "desc": "Decay -20% applied to all players"
-      },
-      {
-        "ts": "2026-06-01T23:26:57\u002B02:00",
-        "delta": -446,
-        "desc": "Decay -20% applied to all players"
-      },
-      {
         "ts": "2026-06-01T23:27:00\u002B02:00",
-        "delta": -357,
+        "delta": -407,
         "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-06-04T00:02:57\u002B02:00",
+        "delta": 60,
+        "desc": "Timely signup EP bonus for: BWL Mythic Mittwoch 03.06.2026"
+      },
+      {
+        "ts": "2026-06-04T00:03:30\u002B02:00",
+        "delta": 1093,
+        "desc": "Attendance EP (1093) for raid (224 min @ 3 EP/min, buffed 197 min @ 1 EP/min, enchanted 224 min @ 1 EP/min) [source: Computed]"
       }
     ],
     "gp_m": [
@@ -79,19 +94,14 @@
         "desc": "Kirasath\u0027Dargonax, Fate of the Devourer (os-low)"
       },
       {
-        "ts": "2026-06-01T23:26:47\u002B02:00",
+        "ts": "2026-06-01T23:27:00\u002B02:00",
         "delta": -4.00,
         "desc": "Decay -20% applied to all players"
       },
       {
-        "ts": "2026-06-01T23:26:57\u002B02:00",
-        "delta": -3.20,
-        "desc": "Decay -20% applied to all players"
-      },
-      {
-        "ts": "2026-06-01T23:27:00\u002B02:00",
-        "delta": -2.56,
-        "desc": "Decay -20% applied to all players"
+        "ts": "2026-06-03T21:19:46\u002B02:00",
+        "delta": 30,
+        "desc": "Chromatic Girdle (ms-mid) [downgraded from ms-high: Below min EP (1626/5000)]"
       }
     ],
     "gp_a": []
