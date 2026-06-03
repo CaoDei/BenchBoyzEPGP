@@ -3,11 +3,11 @@
   "player": "Grogmok",
   "main": "Grogmok",
   "saldo": {
-    "ep": 375,
+    "ep": 300,
     "gp_m": 10,
     "gp_a": 10,
-    "pr_m": 37.5,
-    "pr_a": 37.5
+    "pr_m": 30,
+    "pr_a": 30
   },
   "ledger": {
     "ep": [
@@ -22,18 +22,23 @@
         "desc": "Attendance EP (673) for raid (144 min @ 3 EP/min, buffed 97 min @ 1 EP/min, enchanted 144 min @ 1 EP/min) [source: Computed]"
       },
       {
-        "ts": "2026-06-01T23:26:47\u002B02:00",
+        "ts": "2026-06-01T13:26:47\u002B02:00",
         "delta": -147,
         "desc": "Decay -20% applied to all players"
       },
       {
-        "ts": "2026-06-01T23:26:57\u002B02:00",
+        "ts": "2026-06-01T13:26:57\u002B02:00",
         "delta": -117,
         "desc": "Decay -20% applied to all players"
       },
       {
-        "ts": "2026-06-01T23:27:00\u002B02:00",
+        "ts": "2026-06-01T13:26:57\u002B02:00",
         "delta": -94,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-06-01T23:27:00\u002B02:00",
+        "delta": -75,
         "desc": "Decay -20% applied to all players"
       }
     ],
