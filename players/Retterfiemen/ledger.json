@@ -3,10 +3,10 @@
   "player": "Retterfiemen",
   "main": "Retterfiemen",
   "saldo": {
-    "ep": 705,
+    "ep": 564,
     "gp_m": 10,
-    "gp_a": 18.35,
-    "pr_m": 70.5,
+    "gp_a": 14.68,
+    "pr_m": 56.4,
     "pr_a": 38.42
   },
   "ledger": {
@@ -52,18 +52,23 @@
         "desc": "Attendance EP (343) for raid (71 min @ 3 EP/min, buffed 59 min @ 1 EP/min, enchanted 71 min @ 1 EP/min) [source: Computed]"
       },
       {
-        "ts": "2026-06-01T23:26:47\u002B02:00",
+        "ts": "2026-06-01T13:26:47\u002B02:00",
         "delta": -275,
         "desc": "Decay -20% applied to all players"
       },
       {
-        "ts": "2026-06-01T23:26:57\u002B02:00",
+        "ts": "2026-06-01T13:26:57\u002B02:00",
         "delta": -220,
         "desc": "Decay -20% applied to all players"
       },
       {
-        "ts": "2026-06-01T23:27:00\u002B02:00",
+        "ts": "2026-06-01T13:26:57\u002B02:00",
         "delta": -176,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-06-01T23:27:00\u002B02:00",
+        "delta": -141,
         "desc": "Decay -20% applied to all players"
       }
     ],
@@ -105,18 +110,23 @@
         "desc": "Decay -20% applied to all players"
       },
       {
-        "ts": "2026-06-01T23:26:47\u002B02:00",
+        "ts": "2026-06-01T13:26:47\u002B02:00",
         "delta": -7.17,
         "desc": "Decay -20% applied to all players"
       },
       {
-        "ts": "2026-06-01T23:26:57\u002B02:00",
+        "ts": "2026-06-01T13:26:57\u002B02:00",
         "delta": -5.73,
         "desc": "Decay -20% applied to all players"
       },
       {
-        "ts": "2026-06-01T23:27:00\u002B02:00",
+        "ts": "2026-06-01T13:26:57\u002B02:00",
         "delta": -4.59,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-06-01T23:27:00\u002B02:00",
+        "delta": -3.67,
         "desc": "Decay -20% applied to all players"
       }
     ]
