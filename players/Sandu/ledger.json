@@ -1,13 +1,13 @@
 {
-  "lastModified": "2026-06-01T23:27:00\u002B02:00",
+  "lastModified": "2026-06-04T00:03:30\u002B02:00",
   "player": "Sandu",
   "main": "Sandu",
   "saldo": {
-    "ep": 5345,
-    "gp_m": 23.55,
-    "gp_a": 45.58,
-    "pr_m": 226.96,
-    "pr_a": 117.27
+    "ep": 5913,
+    "gp_m": 92.00,
+    "gp_a": 36.46,
+    "pr_m": 64.27,
+    "pr_a": 162.18
   },
   "ledger": {
     "ep": [
@@ -322,6 +322,21 @@
         "desc": "Attendance EP (1224) for raid (250 min @ 3 EP/min, buffed 224 min @ 1 EP/min, enchanted 250 min @ 1 EP/min) [source: Computed]"
       },
       {
+        "ts": "2026-06-01T13:26:47\u002B02:00",
+        "delta": -1840,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-06-01T13:26:57\u002B02:00",
+        "delta": -1472,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-06-01T13:26:57\u002B02:00",
+        "delta": -1177,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
         "ts": "2026-06-01T23:26:23\u002B02:00",
         "delta": 60,
         "desc": "Timely signup EP bonus for: BWL Progress Montag 01.06.2026"
@@ -332,19 +347,19 @@
         "desc": "Attendance EP (1181) for raid (240 min @ 3 EP/min, buffed 221 min @ 1 EP/min, enchanted 240 min @ 1 EP/min) [source: Computed]"
       },
       {
-        "ts": "2026-06-01T23:26:47\u002B02:00",
-        "delta": -2088,
-        "desc": "Decay -20% applied to all players"
-      },
-      {
-        "ts": "2026-06-01T23:26:57\u002B02:00",
-        "delta": -1670,
-        "desc": "Decay -20% applied to all players"
-      },
-      {
         "ts": "2026-06-01T23:27:00\u002B02:00",
-        "delta": -1336,
+        "delta": -1190,
         "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-06-04T00:02:57\u002B02:00",
+        "delta": 60,
+        "desc": "Timely signup EP bonus for: BWL Mythic Mittwoch 03.06.2026"
+      },
+      {
+        "ts": "2026-06-04T00:03:30\u002B02:00",
+        "delta": 1093,
+        "desc": "Attendance EP (1093) for raid (224 min @ 3 EP/min, buffed 197 min @ 1 EP/min, enchanted 224 min @ 1 EP/min) [source: Computed]"
       }
     ],
     "gp_m": [
@@ -424,24 +439,39 @@
         "desc": "Decay -20% applied to all players"
       },
       {
+        "ts": "2026-06-01T13:26:47\u002B02:00",
+        "delta": -3.20,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-06-01T13:26:57\u002B02:00",
+        "delta": -2.56,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-06-01T13:26:57\u002B02:00",
+        "delta": -0.24,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
         "ts": "2026-06-01T23:16:45\u002B02:00",
         "delta": 30,
         "desc": "Chromatic Boots (ms-mid)"
       },
       {
-        "ts": "2026-06-01T23:26:47\u002B02:00",
-        "delta": -9.20,
-        "desc": "Decay -20% applied to all players"
-      },
-      {
-        "ts": "2026-06-01T23:26:57\u002B02:00",
-        "delta": -7.36,
-        "desc": "Decay -20% applied to all players"
-      },
-      {
         "ts": "2026-06-01T23:27:00\u002B02:00",
-        "delta": -5.89,
+        "delta": -8.00,
         "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-06-03T21:19:45\u002B02:00",
+        "delta": 30,
+        "desc": "Chromatic Girdle (ms-mid)"
+      },
+      {
+        "ts": "2026-06-03T21:19:53\u002B02:00",
+        "delta": 30,
+        "desc": "Ring of Trinity Force (ms-mid)"
       }
     ],
     "gp_a": [
@@ -576,18 +606,23 @@
         "desc": "Decay -20% applied to all players"
       },
       {
-        "ts": "2026-06-01T23:26:47\u002B02:00",
+        "ts": "2026-06-01T13:26:47\u002B02:00",
         "delta": -17.80,
         "desc": "Decay -20% applied to all players"
       },
       {
-        "ts": "2026-06-01T23:26:57\u002B02:00",
+        "ts": "2026-06-01T13:26:57\u002B02:00",
         "delta": -14.24,
         "desc": "Decay -20% applied to all players"
       },
       {
-        "ts": "2026-06-01T23:27:00\u002B02:00",
+        "ts": "2026-06-01T13:26:57\u002B02:00",
         "delta": -11.39,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-06-01T23:27:00\u002B02:00",
+        "delta": -9.12,
         "desc": "Decay -20% applied to all players"
       }
     ]
