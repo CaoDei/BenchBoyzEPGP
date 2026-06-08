@@ -1,13 +1,13 @@
 {
-  "lastModified": "2026-06-01T23:27:00\u002B02:00",
+  "lastModified": "2026-06-09T01:54:13\u002B02:00",
   "player": "Veltrana",
   "main": "Veltrana",
   "saldo": {
-    "ep": 174,
+    "ep": 139,
     "gp_m": 10,
-    "gp_a": 16.38,
-    "pr_m": 17.4,
-    "pr_a": 10.62
+    "gp_a": 13.10,
+    "pr_m": 13.9,
+    "pr_a": 10.61
   },
   "ledger": {
     "ep": [
@@ -34,6 +34,11 @@
       {
         "ts": "2026-06-01T23:27:00\u002B02:00",
         "delta": -43,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-06-09T01:54:13\u002B02:00",
+        "delta": -35,
         "desc": "Decay -20% applied to all players"
       }
     ],
@@ -72,6 +77,11 @@
       {
         "ts": "2026-06-01T23:27:00\u002B02:00",
         "delta": -4.10,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-06-09T01:54:13\u002B02:00",
+        "delta": -3.28,
         "desc": "Decay -20% applied to all players"
       }
     ]
