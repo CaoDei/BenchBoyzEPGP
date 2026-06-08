@@ -1,13 +1,13 @@
 {
-  "lastModified": "2026-06-01T23:27:00\u002B02:00",
+  "lastModified": "2026-06-09T01:54:13\u002B02:00",
   "player": "Solro",
   "main": "Solro",
   "saldo": {
-    "ep": 798,
+    "ep": 638,
     "gp_m": 10,
-    "gp_a": 16.58,
-    "pr_m": 79.8,
-    "pr_a": 48.13
+    "gp_a": 13.26,
+    "pr_m": 63.8,
+    "pr_a": 48.11
   },
   "ledger": {
     "ep": [
@@ -80,6 +80,11 @@
         "ts": "2026-06-01T23:27:00\u002B02:00",
         "delta": -200,
         "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-06-09T01:54:13\u002B02:00",
+        "delta": -160,
+        "desc": "Decay -20% applied to all players"
       }
     ],
     "gp_m": [],
@@ -132,6 +137,11 @@
       {
         "ts": "2026-06-01T23:27:00\u002B02:00",
         "delta": -4.14,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-06-09T01:54:13\u002B02:00",
+        "delta": -3.32,
         "desc": "Decay -20% applied to all players"
       }
     ]
