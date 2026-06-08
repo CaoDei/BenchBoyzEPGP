@@ -1,13 +1,13 @@
 {
-  "lastModified": "2026-06-04T00:03:30\u002B02:00",
+  "lastModified": "2026-06-09T01:54:13\u002B02:00",
   "player": "Luisken",
   "main": "Luisken",
   "saldo": {
-    "ep": 5958,
-    "gp_m": 10,
-    "gp_a": 39.84,
-    "pr_m": 595.8,
-    "pr_a": 149.55
+    "ep": 5748,
+    "gp_m": 16.00,
+    "gp_a": 31.87,
+    "pr_m": 359.25,
+    "pr_a": 180.36
   },
   "ledger": {
     "ep": [
@@ -370,6 +370,21 @@
         "ts": "2026-06-04T00:03:30\u002B02:00",
         "delta": 1093,
         "desc": "Attendance EP (1093) for raid (224 min @ 3 EP/min, buffed 197 min @ 1 EP/min, enchanted 224 min @ 1 EP/min) [source: Computed]"
+      },
+      {
+        "ts": "2026-06-09T01:53:54\u002B02:00",
+        "delta": 60,
+        "desc": "Timely signup EP bonus for: BWL Mythic Montag 08.06.2026"
+      },
+      {
+        "ts": "2026-06-09T01:54:04\u002B02:00",
+        "delta": 1167,
+        "desc": "Attendance EP (1167) for raid (238 min @ 3 EP/min, buffed 215 min @ 1 EP/min, enchanted 238 min @ 1 EP/min) [source: Computed]"
+      },
+      {
+        "ts": "2026-06-09T01:54:13\u002B02:00",
+        "delta": -1437,
+        "desc": "Decay -20% applied to all players"
       }
     ],
     "gp_m": [
@@ -466,6 +481,16 @@
       {
         "ts": "2026-06-01T13:26:57\u002B02:00",
         "delta": -1.89,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-06-08T21:37:21\u002B02:00",
+        "delta": 10,
+        "desc": "Royal Cloak of Lord Victor Nefarius of the Weapon Master (ms-low)"
+      },
+      {
+        "ts": "2026-06-09T01:54:13\u002B02:00",
+        "delta": -4.00,
         "desc": "Decay -20% applied to all players"
       }
     ],
@@ -623,6 +648,11 @@
       {
         "ts": "2026-06-01T23:27:00\u002B02:00",
         "delta": -9.96,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-06-09T01:54:13\u002B02:00",
+        "delta": -7.97,
         "desc": "Decay -20% applied to all players"
       }
     ]
