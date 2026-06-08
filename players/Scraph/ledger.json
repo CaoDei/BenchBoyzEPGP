@@ -1,13 +1,13 @@
 {
-  "lastModified": "2026-06-01T23:27:00\u002B02:00",
+  "lastModified": "2026-06-09T01:54:13\u002B02:00",
   "player": "Scraph",
   "main": "Scraph",
   "saldo": {
-    "ep": 574,
+    "ep": 459,
     "gp_m": 10,
-    "gp_a": 37.87,
-    "pr_m": 57.4,
-    "pr_a": 15.16
+    "gp_a": 30.30,
+    "pr_m": 45.9,
+    "pr_a": 15.15
   },
   "ledger": {
     "ep": [
@@ -74,6 +74,11 @@
       {
         "ts": "2026-06-01T23:27:00\u002B02:00",
         "delta": -144,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-06-09T01:54:13\u002B02:00",
+        "delta": -115,
         "desc": "Decay -20% applied to all players"
       }
     ],
@@ -183,6 +188,11 @@
       {
         "ts": "2026-06-01T23:27:00\u002B02:00",
         "delta": -9.47,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-06-09T01:54:13\u002B02:00",
+        "delta": -7.57,
         "desc": "Decay -20% applied to all players"
       }
     ]
