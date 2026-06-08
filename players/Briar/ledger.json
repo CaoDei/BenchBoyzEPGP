@@ -1,13 +1,13 @@
 {
-  "lastModified": "2026-06-01T23:27:00\u002B02:00",
+  "lastModified": "2026-06-09T01:54:13\u002B02:00",
   "player": "Briar",
   "main": "Briaar",
   "saldo": {
-    "ep": 3667,
-    "gp_m": 14.68,
-    "gp_a": 10.91,
-    "pr_m": 249.80,
-    "pr_a": 336.11
+    "ep": 3915,
+    "gp_m": 11.74,
+    "gp_a": 16.73,
+    "pr_m": 333.48,
+    "pr_a": 234.01
   },
   "ledger": {
     "ep": [
@@ -330,6 +330,21 @@
         "ts": "2026-06-01T23:27:00\u002B02:00",
         "delta": -917,
         "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-06-09T01:53:54\u002B02:00",
+        "delta": 60,
+        "desc": "Timely signup EP bonus for: BWL Mythic Montag 08.06.2026"
+      },
+      {
+        "ts": "2026-06-09T01:54:04\u002B02:00",
+        "delta": 1167,
+        "desc": "Attendance EP (1167) for raid (238 min @ 3 EP/min, buffed 215 min @ 1 EP/min, enchanted 238 min @ 1 EP/min) [source: Computed]"
+      },
+      {
+        "ts": "2026-06-09T01:54:13\u002B02:00",
+        "delta": -979,
+        "desc": "Decay -20% applied to all players"
       }
     ],
     "gp_m": [
@@ -391,6 +406,11 @@
       {
         "ts": "2026-06-01T23:27:00\u002B02:00",
         "delta": -3.67,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-06-09T01:54:13\u002B02:00",
+        "delta": -2.94,
         "desc": "Decay -20% applied to all players"
       }
     ],
@@ -468,6 +488,16 @@
       {
         "ts": "2026-06-01T23:27:00\u002B02:00",
         "delta": -2.73,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-06-08T23:06:49\u002B02:00",
+        "delta": 10,
+        "desc": "Chromatic Legguards (ms-low)"
+      },
+      {
+        "ts": "2026-06-09T01:54:13\u002B02:00",
+        "delta": -4.18,
         "desc": "Decay -20% applied to all players"
       }
     ]
