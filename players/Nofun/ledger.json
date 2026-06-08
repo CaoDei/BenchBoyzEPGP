@@ -1,13 +1,13 @@
 {
-  "lastModified": "2026-06-01T23:27:00\u002B02:00",
+  "lastModified": "2026-06-09T01:54:13\u002B02:00",
   "player": "Nofun",
   "main": "Nofun",
   "saldo": {
-    "ep": 1304,
+    "ep": 1043,
     "gp_m": 10,
-    "gp_a": 40.40,
-    "pr_m": 130.4,
-    "pr_a": 32.28
+    "gp_a": 32.32,
+    "pr_m": 104.3,
+    "pr_a": 32.27
   },
   "ledger": {
     "ep": [
@@ -120,6 +120,11 @@
         "ts": "2026-06-01T23:27:00\u002B02:00",
         "delta": -326,
         "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-06-09T01:54:13\u002B02:00",
+        "delta": -261,
+        "desc": "Decay -20% applied to all players"
       }
     ],
     "gp_m": [],
@@ -207,6 +212,11 @@
       {
         "ts": "2026-06-01T23:27:00\u002B02:00",
         "delta": -10.10,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-06-09T01:54:13\u002B02:00",
+        "delta": -8.08,
         "desc": "Decay -20% applied to all players"
       }
     ]
