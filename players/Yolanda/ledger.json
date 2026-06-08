@@ -1,13 +1,13 @@
 {
-  "lastModified": "2026-06-04T00:03:30\u002B02:00",
+  "lastModified": "2026-06-09T01:54:13\u002B02:00",
   "player": "Yolanda",
   "main": "Yolanda",
   "saldo": {
-    "ep": 3379,
-    "gp_m": 40,
-    "gp_a": 10,
-    "pr_m": 84.48,
-    "pr_a": 337.9
+    "ep": 3685,
+    "gp_m": 32.00,
+    "gp_a": 24.00,
+    "pr_m": 115.16,
+    "pr_a": 153.54
   },
   "ledger": {
     "ep": [
@@ -255,6 +255,21 @@
         "ts": "2026-06-04T00:03:30\u002B02:00",
         "delta": 1093,
         "desc": "Attendance EP (1093) for raid (224 min @ 3 EP/min, buffed 197 min @ 1 EP/min, enchanted 224 min @ 1 EP/min) [source: Computed]"
+      },
+      {
+        "ts": "2026-06-09T01:53:54\u002B02:00",
+        "delta": 60,
+        "desc": "Timely signup EP bonus for: BWL Mythic Montag 08.06.2026"
+      },
+      {
+        "ts": "2026-06-09T01:54:04\u002B02:00",
+        "delta": 1167,
+        "desc": "Attendance EP (1167) for raid (238 min @ 3 EP/min, buffed 215 min @ 1 EP/min, enchanted 238 min @ 1 EP/min) [source: Computed]"
+      },
+      {
+        "ts": "2026-06-09T01:54:13\u002B02:00",
+        "delta": -921,
+        "desc": "Decay -20% applied to all players"
       }
     ],
     "gp_m": [
@@ -302,6 +317,11 @@
         "ts": "2026-06-03T22:54:13\u002B02:00",
         "delta": 30,
         "desc": "Chromatic Handguards (ms-mid)"
+      },
+      {
+        "ts": "2026-06-09T01:54:13\u002B02:00",
+        "delta": -8.00,
+        "desc": "Decay -20% applied to all players"
       }
     ],
     "gp_a": [
@@ -398,6 +418,21 @@
       {
         "ts": "2026-06-01T13:26:57\u002B02:00",
         "delta": -0.54,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-06-08T23:06:34\u002B02:00",
+        "delta": 10,
+        "desc": "Pyroclasmic Longbow (ms-low)"
+      },
+      {
+        "ts": "2026-06-08T23:10:27\u002B02:00",
+        "delta": 10,
+        "desc": "Toxicant-Draped Shroud (ms-low)"
+      },
+      {
+        "ts": "2026-06-09T01:54:13\u002B02:00",
+        "delta": -6.00,
         "desc": "Decay -20% applied to all players"
       }
     ]
