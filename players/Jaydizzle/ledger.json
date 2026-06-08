@@ -1,13 +1,13 @@
 {
-  "lastModified": "2026-06-04T00:03:30\u002B02:00",
+  "lastModified": "2026-06-09T01:54:13\u002B02:00",
   "player": "Jaydizzle",
   "main": "Jaydizzle",
   "saldo": {
-    "ep": 3925,
-    "gp_m": 62.00,
-    "gp_a": 20.99,
-    "pr_m": 63.31,
-    "pr_a": 186.99
+    "ep": 4122,
+    "gp_m": 49.60,
+    "gp_a": 16.79,
+    "pr_m": 83.10,
+    "pr_a": 245.50
   },
   "ledger": {
     "ep": [
@@ -175,6 +175,21 @@
         "ts": "2026-06-04T00:03:30\u002B02:00",
         "delta": 1100,
         "desc": "Attendance EP (1100) for raid (224 min @ 3 EP/min, buffed 204 min @ 1 EP/min, enchanted 224 min @ 1 EP/min) [source: Manual]"
+      },
+      {
+        "ts": "2026-06-09T01:53:54\u002B02:00",
+        "delta": 60,
+        "desc": "Timely signup EP bonus for: BWL Mythic Montag 08.06.2026"
+      },
+      {
+        "ts": "2026-06-09T01:54:04\u002B02:00",
+        "delta": 1167,
+        "desc": "Attendance EP (1167) for raid (238 min @ 3 EP/min, buffed 215 min @ 1 EP/min, enchanted 238 min @ 1 EP/min) [source: Computed]"
+      },
+      {
+        "ts": "2026-06-09T01:54:13\u002B02:00",
+        "delta": -1030,
+        "desc": "Decay -20% applied to all players"
       }
     ],
     "gp_m": [
@@ -192,6 +207,11 @@
         "ts": "2026-06-03T21:19:51\u002B02:00",
         "delta": 30,
         "desc": "Chromatic Boots (ms-mid)"
+      },
+      {
+        "ts": "2026-06-09T01:54:13\u002B02:00",
+        "delta": -12.40,
+        "desc": "Decay -20% applied to all players"
       }
     ],
     "gp_a": [
@@ -268,6 +288,11 @@
       {
         "ts": "2026-06-01T23:27:00\u002B02:00",
         "delta": -5.25,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-06-09T01:54:13\u002B02:00",
+        "delta": -4.20,
         "desc": "Decay -20% applied to all players"
       }
     ]
