@@ -1,12 +1,12 @@
 {
-  "lastModified": "2026-06-01T23:27:00\u002B02:00",
+  "lastModified": "2026-06-09T01:54:13\u002B02:00",
   "player": "Retterfiemen",
   "main": "Retterfiemen",
   "saldo": {
-    "ep": 564,
+    "ep": 451,
     "gp_m": 10,
-    "gp_a": 14.68,
-    "pr_m": 56.4,
+    "gp_a": 11.74,
+    "pr_m": 45.1,
     "pr_a": 38.42
   },
   "ledger": {
@@ -70,6 +70,11 @@
         "ts": "2026-06-01T23:27:00\u002B02:00",
         "delta": -141,
         "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-06-09T01:54:13\u002B02:00",
+        "delta": -113,
+        "desc": "Decay -20% applied to all players"
       }
     ],
     "gp_m": [],
@@ -127,6 +132,11 @@
       {
         "ts": "2026-06-01T23:27:00\u002B02:00",
         "delta": -3.67,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-06-09T01:54:13\u002B02:00",
+        "delta": -2.94,
         "desc": "Decay -20% applied to all players"
       }
     ]
