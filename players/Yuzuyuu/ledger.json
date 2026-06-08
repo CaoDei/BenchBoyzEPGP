@@ -1,13 +1,13 @@
 {
-  "lastModified": "2026-06-04T00:03:30\u002B02:00",
+  "lastModified": "2026-06-09T01:54:13\u002B02:00",
   "player": "Yuzuyuu",
   "main": "Yuzuyuu",
   "saldo": {
-    "ep": 4797,
-    "gp_m": 80.00,
-    "gp_a": 50.01,
-    "pr_m": 59.96,
-    "pr_a": 95.92
+    "ep": 4819,
+    "gp_m": 112.00,
+    "gp_a": 64.01,
+    "pr_m": 43.03,
+    "pr_a": 75.29
   },
   "ledger": {
     "ep": [
@@ -295,6 +295,21 @@
         "ts": "2026-06-04T00:03:30\u002B02:00",
         "delta": 1100,
         "desc": "Attendance EP (1100) for raid (224 min @ 3 EP/min, buffed 204 min @ 1 EP/min, enchanted 224 min @ 1 EP/min) [source: Computed]"
+      },
+      {
+        "ts": "2026-06-09T01:53:54\u002B02:00",
+        "delta": 60,
+        "desc": "Timely signup EP bonus for: BWL Mythic Montag 08.06.2026"
+      },
+      {
+        "ts": "2026-06-09T01:54:04\u002B02:00",
+        "delta": 1167,
+        "desc": "Attendance EP (1167) for raid (238 min @ 3 EP/min, buffed 215 min @ 1 EP/min, enchanted 238 min @ 1 EP/min) [source: Computed]"
+      },
+      {
+        "ts": "2026-06-09T01:54:13\u002B02:00",
+        "delta": -1205,
+        "desc": "Decay -20% applied to all players"
       }
     ],
     "gp_m": [
@@ -366,6 +381,21 @@
       {
         "ts": "2026-06-01T23:27:00\u002B02:00",
         "delta": -20.00,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-06-08T21:37:20\u002B02:00",
+        "delta": 30,
+        "desc": "Chromatic Spaulders (ms-mid)"
+      },
+      {
+        "ts": "2026-06-08T21:37:21\u002B02:00",
+        "delta": 30,
+        "desc": "Boots of the Shadow Flame (ms-mid)"
+      },
+      {
+        "ts": "2026-06-09T01:54:13\u002B02:00",
+        "delta": -28.00,
         "desc": "Decay -20% applied to all players"
       }
     ],
@@ -498,6 +528,16 @@
       {
         "ts": "2026-06-01T23:27:00\u002B02:00",
         "delta": -12.50,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-06-08T23:10:27\u002B02:00",
+        "delta": 30,
+        "desc": "Xarthos\u0027 Bonerender (ms-mid)"
+      },
+      {
+        "ts": "2026-06-09T01:54:13\u002B02:00",
+        "delta": -16.00,
         "desc": "Decay -20% applied to all players"
       }
     ]
