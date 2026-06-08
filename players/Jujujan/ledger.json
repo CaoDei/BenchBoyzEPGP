@@ -1,13 +1,13 @@
 {
-  "lastModified": "2026-06-01T23:27:00\u002B02:00",
+  "lastModified": "2026-06-09T01:54:13\u002B02:00",
   "player": "Jujujan",
   "main": "Jujujan",
   "saldo": {
-    "ep": 766,
-    "gp_m": 10,
-    "gp_a": 10,
-    "pr_m": 76.6,
-    "pr_a": 76.6
+    "ep": 1546,
+    "gp_m": 16.00,
+    "gp_a": 24.00,
+    "pr_m": 96.62,
+    "pr_a": 64.42
   },
   "ledger": {
     "ep": [
@@ -75,9 +75,30 @@
         "ts": "2026-06-01T23:27:00\u002B02:00",
         "delta": -192,
         "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-06-09T01:54:04\u002B02:00",
+        "delta": 1167,
+        "desc": "Attendance EP (1167) for raid (238 min @ 3 EP/min, buffed 215 min @ 1 EP/min, enchanted 238 min @ 1 EP/min) [source: Computed]"
+      },
+      {
+        "ts": "2026-06-09T01:54:13\u002B02:00",
+        "delta": -387,
+        "desc": "Decay -20% applied to all players"
       }
     ],
-    "gp_m": [],
+    "gp_m": [
+      {
+        "ts": "2026-06-08T21:37:23\u002B02:00",
+        "delta": 10,
+        "desc": "Shimmering Geta (os-low)"
+      },
+      {
+        "ts": "2026-06-09T01:54:13\u002B02:00",
+        "delta": -4.00,
+        "desc": "Decay -20% applied to all players"
+      }
+    ],
     "gp_a": [
       {
         "ts": "2026-05-11T21:33:23\u002B02:00",
@@ -117,6 +138,21 @@
       {
         "ts": "2026-06-01T23:27:00\u002B02:00",
         "delta": -0.48,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-06-08T23:06:36\u002B02:00",
+        "delta": 10,
+        "desc": "Molten Spaulders (os-low)"
+      },
+      {
+        "ts": "2026-06-08T23:06:45\u002B02:00",
+        "delta": 10,
+        "desc": "Molten Boots (os-low) [downgraded from os-low: Loot cap: \u003C1500 EP with 2 wins this raid]"
+      },
+      {
+        "ts": "2026-06-09T01:54:13\u002B02:00",
+        "delta": -6.00,
         "desc": "Decay -20% applied to all players"
       }
     ]
