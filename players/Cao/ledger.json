@@ -1,13 +1,13 @@
 {
-  "lastModified": "2026-06-04T00:03:30\u002B02:00",
+  "lastModified": "2026-06-09T01:54:13\u002B02:00",
   "player": "Cao",
   "main": "Tayami",
   "saldo": {
-    "ep": 5994,
-    "gp_m": 32.02,
-    "gp_a": 25.84,
-    "pr_m": 187.20,
-    "pr_a": 231.97
+    "ep": 5777,
+    "gp_m": 49.62,
+    "gp_a": 20.67,
+    "pr_m": 116.42,
+    "pr_a": 279.49
   },
   "ledger": {
     "ep": [
@@ -370,6 +370,21 @@
         "ts": "2026-06-04T00:03:30\u002B02:00",
         "delta": 1093,
         "desc": "Attendance EP (1093) for raid (224 min @ 3 EP/min, buffed 197 min @ 1 EP/min, enchanted 224 min @ 1 EP/min) [source: Computed]"
+      },
+      {
+        "ts": "2026-06-09T01:53:54\u002B02:00",
+        "delta": 60,
+        "desc": "Timely signup EP bonus for: BWL Mythic Montag 08.06.2026"
+      },
+      {
+        "ts": "2026-06-09T01:54:04\u002B02:00",
+        "delta": 1167,
+        "desc": "Attendance EP (1167) for raid (238 min @ 3 EP/min, buffed 215 min @ 1 EP/min, enchanted 238 min @ 1 EP/min) [source: Computed]"
+      },
+      {
+        "ts": "2026-06-09T01:54:13\u002B02:00",
+        "delta": -1444,
+        "desc": "Decay -20% applied to all players"
       }
     ],
     "gp_m": [
@@ -482,6 +497,16 @@
         "ts": "2026-06-03T21:20:04\u002B02:00",
         "delta": 10,
         "desc": "Black Ash Robe (ms-low)"
+      },
+      {
+        "ts": "2026-06-08T21:37:22\u002B02:00",
+        "delta": 30,
+        "desc": "Staff of the Shadow Flame (os-mid)"
+      },
+      {
+        "ts": "2026-06-09T01:54:13\u002B02:00",
+        "delta": -12.40,
+        "desc": "Decay -20% applied to all players"
       }
     ],
     "gp_a": [
@@ -598,6 +623,11 @@
       {
         "ts": "2026-06-01T23:27:00\u002B02:00",
         "delta": -6.46,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-06-09T01:54:13\u002B02:00",
+        "delta": -5.17,
         "desc": "Decay -20% applied to all players"
       }
     ]
