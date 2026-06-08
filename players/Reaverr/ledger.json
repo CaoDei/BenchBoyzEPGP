@@ -1,13 +1,13 @@
 {
-  "lastModified": "2026-06-01T23:27:00\u002B02:00",
+  "lastModified": "2026-06-09T01:54:13\u002B02:00",
   "player": "Reaverr",
   "main": "Reaverr",
   "saldo": {
-    "ep": 170,
+    "ep": 136,
     "gp_m": 10,
     "gp_a": 10,
-    "pr_m": 17,
-    "pr_a": 17
+    "pr_m": 13.6,
+    "pr_a": 13.6
   },
   "ledger": {
     "ep": [
@@ -34,6 +34,11 @@
       {
         "ts": "2026-06-01T23:27:00\u002B02:00",
         "delta": -43,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-06-09T01:54:13\u002B02:00",
+        "delta": -34,
         "desc": "Decay -20% applied to all players"
       }
     ],
