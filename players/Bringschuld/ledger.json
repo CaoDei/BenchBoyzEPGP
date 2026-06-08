@@ -1,13 +1,13 @@
 {
-  "lastModified": "2026-06-04T00:03:30\u002B02:00",
+  "lastModified": "2026-06-09T01:54:13\u002B02:00",
   "player": "Bringschuld",
   "main": "Bringschuld",
   "saldo": {
-    "ep": 5677,
-    "gp_m": 72.00,
-    "gp_a": 10,
-    "pr_m": 78.85,
-    "pr_a": 567.7
+    "ep": 5514,
+    "gp_m": 57.60,
+    "gp_a": 16.00,
+    "pr_m": 95.73,
+    "pr_a": 344.62
   },
   "ledger": {
     "ep": [
@@ -330,6 +330,21 @@
         "ts": "2026-06-04T00:03:30\u002B02:00",
         "delta": 1093,
         "desc": "Attendance EP (1093) for raid (224 min @ 3 EP/min, buffed 197 min @ 1 EP/min, enchanted 224 min @ 1 EP/min) [source: Computed]"
+      },
+      {
+        "ts": "2026-06-09T01:53:54\u002B02:00",
+        "delta": 60,
+        "desc": "Timely signup EP bonus for: BWL Mythic Montag 08.06.2026"
+      },
+      {
+        "ts": "2026-06-09T01:54:04\u002B02:00",
+        "delta": 1155,
+        "desc": "Attendance EP (1155) for raid (238 min @ 3 EP/min, buffed 203 min @ 1 EP/min, enchanted 238 min @ 1 EP/min) [source: Computed]"
+      },
+      {
+        "ts": "2026-06-09T01:54:13\u002B02:00",
+        "delta": -1378,
+        "desc": "Decay -20% applied to all players"
       }
     ],
     "gp_m": [
@@ -402,6 +417,11 @@
         "ts": "2026-06-03T21:19:55\u002B02:00",
         "delta": 10,
         "desc": "Ring of Blackrock (ms-low)"
+      },
+      {
+        "ts": "2026-06-09T01:54:13\u002B02:00",
+        "delta": -14.40,
+        "desc": "Decay -20% applied to all players"
       }
     ],
     "gp_a": [
@@ -508,6 +528,16 @@
       {
         "ts": "2026-06-01T13:26:57\u002B02:00",
         "delta": -1.74,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-06-08T23:10:28\u002B02:00",
+        "delta": 10,
+        "desc": "Ice Stitched Waist (ms-low)"
+      },
+      {
+        "ts": "2026-06-09T01:54:13\u002B02:00",
+        "delta": -4.00,
         "desc": "Decay -20% applied to all players"
       }
     ]
