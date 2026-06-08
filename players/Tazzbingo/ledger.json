@@ -1,11 +1,11 @@
 {
-  "lastModified": "2026-06-01T23:27:00\u002B02:00",
+  "lastModified": "2026-06-09T01:54:13\u002B02:00",
   "player": "Tazzbingo",
   "main": "Tazzbingo",
   "saldo": {
-    "ep": 815,
-    "gp_m": 22.94,
-    "gp_a": 66.19,
+    "ep": 652,
+    "gp_m": 18.35,
+    "gp_a": 52.95,
     "pr_m": 35.53,
     "pr_a": 12.31
   },
@@ -85,6 +85,11 @@
         "ts": "2026-06-01T23:27:00\u002B02:00",
         "delta": -204,
         "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-06-09T01:54:13\u002B02:00",
+        "delta": -163,
+        "desc": "Decay -20% applied to all players"
       }
     ],
     "gp_m": [
@@ -121,6 +126,11 @@
       {
         "ts": "2026-06-01T23:27:00\u002B02:00",
         "delta": -5.73,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-06-09T01:54:13\u002B02:00",
+        "delta": -4.59,
         "desc": "Decay -20% applied to all players"
       }
     ],
@@ -208,6 +218,11 @@
       {
         "ts": "2026-06-01T23:27:00\u002B02:00",
         "delta": -16.55,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-06-09T01:54:13\u002B02:00",
+        "delta": -13.24,
         "desc": "Decay -20% applied to all players"
       }
     ]
