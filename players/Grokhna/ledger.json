@@ -1,13 +1,13 @@
 {
-  "lastModified": "2026-06-01T23:27:00\u002B02:00",
+  "lastModified": "2026-06-09T01:54:13\u002B02:00",
   "player": "Grokhna",
   "main": "Grokhna",
   "saldo": {
-    "ep": 4046,
-    "gp_m": 24.38,
-    "gp_a": 56.13,
-    "pr_m": 165.96,
-    "pr_a": 72.08
+    "ep": 4218,
+    "gp_m": 19.50,
+    "gp_a": 52.90,
+    "pr_m": 216.31,
+    "pr_a": 79.74
   },
   "ledger": {
     "ep": [
@@ -310,6 +310,21 @@
         "ts": "2026-06-01T23:27:00\u002B02:00",
         "delta": -1011,
         "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-06-09T01:53:54\u002B02:00",
+        "delta": 60,
+        "desc": "Timely signup EP bonus for: BWL Mythic Montag 08.06.2026"
+      },
+      {
+        "ts": "2026-06-09T01:54:04\u002B02:00",
+        "delta": 1167,
+        "desc": "Attendance EP (1167) for raid (238 min @ 3 EP/min, buffed 215 min @ 1 EP/min, enchanted 238 min @ 1 EP/min) [source: Computed]"
+      },
+      {
+        "ts": "2026-06-09T01:54:13\u002B02:00",
+        "delta": -1055,
+        "desc": "Decay -20% applied to all players"
       }
     ],
     "gp_m": [
@@ -351,6 +366,11 @@
       {
         "ts": "2026-06-01T23:27:00\u002B02:00",
         "delta": -6.10,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-06-09T01:54:13\u002B02:00",
+        "delta": -4.88,
         "desc": "Decay -20% applied to all players"
       }
     ],
@@ -553,6 +573,16 @@
       {
         "ts": "2026-06-01T23:27:00\u002B02:00",
         "delta": -14.03,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-06-08T23:10:28\u002B02:00",
+        "delta": 10,
+        "desc": "Subject Zero Plate (os-low)"
+      },
+      {
+        "ts": "2026-06-09T01:54:13\u002B02:00",
+        "delta": -13.23,
         "desc": "Decay -20% applied to all players"
       }
     ]
