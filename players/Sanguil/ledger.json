@@ -1,13 +1,13 @@
 {
-  "lastModified": "2026-06-01T23:27:00\u002B02:00",
+  "lastModified": "2026-06-09T01:54:13\u002B02:00",
   "player": "Sanguil",
   "main": "Sanguil",
   "saldo": {
-    "ep": 945,
+    "ep": 756,
     "gp_m": 10,
     "gp_a": 10,
-    "pr_m": 94.5,
-    "pr_a": 94.5
+    "pr_m": 75.6,
+    "pr_a": 75.6
   },
   "ledger": {
     "ep": [
@@ -19,6 +19,11 @@
       {
         "ts": "2026-06-01T23:27:00\u002B02:00",
         "delta": -236,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-06-09T01:54:13\u002B02:00",
+        "delta": -189,
         "desc": "Decay -20% applied to all players"
       }
     ],
