@@ -1,11 +1,11 @@
 {
-  "lastModified": "2026-06-04T00:03:30\u002B02:00",
+  "lastModified": "2026-06-09T01:54:13\u002B02:00",
   "player": "Narajin",
   "main": "Narajin",
   "saldo": {
-    "ep": 2495,
-    "gp_m": 16.00,
-    "gp_a": 13.00,
+    "ep": 1996,
+    "gp_m": 12.80,
+    "gp_a": 10.40,
     "pr_m": 155.94,
     "pr_a": 191.92
   },
@@ -90,6 +90,11 @@
         "ts": "2026-06-04T00:03:30\u002B02:00",
         "delta": 1057,
         "desc": "Attendance EP (1057) for raid (216 min @ 3 EP/min, buffed 193 min @ 1 EP/min, enchanted 216 min @ 1 EP/min) [source: Computed]"
+      },
+      {
+        "ts": "2026-06-09T01:54:13\u002B02:00",
+        "delta": -499,
+        "desc": "Decay -20% applied to all players"
       }
     ],
     "gp_m": [
@@ -101,6 +106,11 @@
       {
         "ts": "2026-06-01T23:27:00\u002B02:00",
         "delta": -4.00,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-06-09T01:54:13\u002B02:00",
+        "delta": -3.20,
         "desc": "Decay -20% applied to all players"
       }
     ],
@@ -153,6 +163,11 @@
       {
         "ts": "2026-06-01T23:27:00\u002B02:00",
         "delta": -3.25,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-06-09T01:54:13\u002B02:00",
+        "delta": -2.60,
         "desc": "Decay -20% applied to all players"
       }
     ]
