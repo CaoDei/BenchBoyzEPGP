@@ -1,13 +1,13 @@
 {
-  "lastModified": "2026-06-04T00:03:30\u002B02:00",
+  "lastModified": "2026-06-09T01:54:13\u002B02:00",
   "player": "Kanzler",
   "main": "Kanzler",
   "saldo": {
-    "ep": 1066,
-    "gp_m": 80.00,
+    "ep": 853,
+    "gp_m": 64.00,
     "gp_a": 10,
-    "pr_m": 13.32,
-    "pr_a": 106.6
+    "pr_m": 13.33,
+    "pr_a": 85.3
   },
   "ledger": {
     "ep": [
@@ -60,6 +60,11 @@
         "ts": "2026-06-04T00:03:30\u002B02:00",
         "delta": 36,
         "desc": "Attendance EP (36) for raid (8 min @ 3 EP/min, buffed 4 min @ 1 EP/min, enchanted 8 min @ 1 EP/min) [source: Computed]"
+      },
+      {
+        "ts": "2026-06-09T01:54:13\u002B02:00",
+        "delta": -213,
+        "desc": "Decay -20% applied to all players"
       }
     ],
     "gp_m": [
@@ -71,6 +76,11 @@
       {
         "ts": "2026-06-01T23:27:00\u002B02:00",
         "delta": -20.00,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-06-09T01:54:13\u002B02:00",
+        "delta": -16.00,
         "desc": "Decay -20% applied to all players"
       }
     ],
