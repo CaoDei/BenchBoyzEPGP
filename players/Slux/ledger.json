@@ -1,13 +1,13 @@
 {
-  "lastModified": "2026-06-04T00:03:30\u002B02:00",
+  "lastModified": "2026-06-09T01:54:13\u002B02:00",
   "player": "Slux",
   "main": "Slux",
   "saldo": {
-    "ep": 3831,
-    "gp_m": 70,
-    "gp_a": 17.19,
+    "ep": 3065,
+    "gp_m": 56.00,
+    "gp_a": 13.75,
     "pr_m": 54.73,
-    "pr_a": 222.86
+    "pr_a": 222.91
   },
   "ledger": {
     "ep": [
@@ -135,6 +135,11 @@
         "ts": "2026-06-04T00:03:30\u002B02:00",
         "delta": 1100,
         "desc": "Attendance EP (1100) for raid (224 min @ 3 EP/min, buffed 204 min @ 1 EP/min, enchanted 224 min @ 1 EP/min) [source: Computed]"
+      },
+      {
+        "ts": "2026-06-09T01:54:13\u002B02:00",
+        "delta": -766,
+        "desc": "Decay -20% applied to all players"
       }
     ],
     "gp_m": [
@@ -147,6 +152,11 @@
         "ts": "2026-06-03T22:54:16\u002B02:00",
         "delta": 30,
         "desc": "Chromatic Handguards (ms-mid)"
+      },
+      {
+        "ts": "2026-06-09T01:54:13\u002B02:00",
+        "delta": -14.00,
+        "desc": "Decay -20% applied to all players"
       }
     ],
     "gp_a": [
@@ -203,6 +213,11 @@
       {
         "ts": "2026-06-01T23:27:00\u002B02:00",
         "delta": -4.30,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-06-09T01:54:13\u002B02:00",
+        "delta": -3.44,
         "desc": "Decay -20% applied to all players"
       }
     ]
