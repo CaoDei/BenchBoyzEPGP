@@ -212,16 +212,6 @@
       "pr_a": 64.42
     },
     {
-      "player": "Maerthyr",
-      "main": "Maerthyr",
-      "class": "Warlock",
-      "ep": 638,
-      "gp_m": 10,
-      "pr_m": 63.8,
-      "gp_a": 10.48,
-      "pr_a": 60.88
-    },
-    {
       "player": "Kuyon",
       "main": "Kuyon",
       "class": "",
@@ -290,16 +280,6 @@
       "pr_m": 104.3,
       "gp_a": 32.32,
       "pr_a": 32.27
-    },
-    {
-      "player": "Einhorny",
-      "main": "Einhorny",
-      "class": "",
-      "ep": 422,
-      "gp_m": 10,
-      "pr_m": 42.2,
-      "gp_a": 13.42,
-      "pr_a": 31.45
     },
     {
       "player": "Despo",
@@ -402,16 +382,6 @@
       "pr_a": 7.31
     },
     {
-      "player": "Murrem",
-      "main": "Murrem",
-      "class": "",
-      "ep": 230,
-      "gp_m": 10,
-      "pr_m": 23,
-      "gp_a": 62.07,
-      "pr_a": 3.71
-    },
-    {
       "player": "Datonka",
       "main": "Datonka",
       "class": "",
@@ -420,26 +390,6 @@
       "pr_m": 3.2,
       "gp_a": 10,
       "pr_a": 3.2
-    },
-    {
-      "player": "Kokwiz",
-      "main": "Kokwiz",
-      "class": "",
-      "ep": 0,
-      "gp_m": 10,
-      "pr_m": 0,
-      "gp_a": 10,
-      "pr_a": 0
-    },
-    {
-      "player": "Skorrnn",
-      "main": "Skorrnn",
-      "class": "",
-      "ep": 0,
-      "gp_m": 10,
-      "pr_m": 0,
-      "gp_a": 10,
-      "pr_a": 0
     }
   ]
 }
