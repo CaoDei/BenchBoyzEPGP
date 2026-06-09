@@ -7,7 +7,13 @@
   <script src="https://unpkg.com/gridjs/dist/gridjs.umd.js"></script>
   <style>
     body { font-family: sans-serif; }
+
+    /* Single horizontal scroller for the wide raid matrix.
+       gridjs's inner wrapper is set to render at natural width so it
+       doesn't clip the rightmost columns; #tableWrapper provides the scrollbar. */
     #tableWrapper { overflow-x: auto; }
+    #tableWrapper .gridjs-wrapper { overflow: visible; }
+    #tableWrapper .gridjs-container { width: max-content; }
 
     /* Raid header cells (5th column onward): tall, narrow, bottom-aligned */
     #tableWrapper .gridjs-thead th.gridjs-th:nth-child(n+5) {
@@ -25,9 +31,11 @@
       text-align: left;
     }
 
-    /* Center percentage values in computed + raid data cells */
+    /* Center values in computed + raid data cells (no wrapping on short markers) */
     #tableWrapper .gridjs-tbody td.gridjs-td:nth-child(n+2) {
       text-align: center;
+      vertical-align: middle;
+      white-space: nowrap;
     }
   </style>
 </head>
@@ -51,7 +59,7 @@
 
     const fmtPct = (val) => {
       if (val === null || val === undefined) return '???';
-      if (val === 0) return '---';
+      if (val === 0) return '–';
       return Math.round(val) + '%';
     };
 
