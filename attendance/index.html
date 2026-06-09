@@ -11,34 +11,43 @@
     /* Horizontal scroll for the wide raid matrix.
        gridjs caps the table at width:100% (table-layout:fixed) and the
        container has overflow:hidden, so extra columns get squeezed/clipped
-       with no scrollbar. Let the table grow to its natural width and let
-       .gridjs-wrapper provide the horizontal scrollbar. */
+       with no scrollbar. Let the table grow to its natural width and make
+       #tableWrapper the single horizontal scroll container. */
     #tableWrapper { overflow-x: auto; }
     #tableWrapper .gridjs-container { display: block; overflow: visible; }
-    #tableWrapper .gridjs-wrapper { overflow-x: auto; }
+    #tableWrapper .gridjs-wrapper { overflow: visible; }
     #tableWrapper table.gridjs-table { width: max-content !important; max-width: none !important; }
 
-    /* Raid header cells (5th column onward): tall, narrow, bottom-aligned */
-    #tableWrapper .gridjs-thead th.gridjs-th:nth-child(n+5) {
+    /* Move the horizontal scrollbar to the TOP of the table: flip the scroll
+       container vertically, then flip its child back so content reads normally. */
+    #tableWrapper { transform: rotateX(180deg); }
+    #tableWrapper > * { transform: rotateX(180deg); }
+
+    /* Header cells from the 2nd column onward (averages + raids):
+       tall, narrow, bottom-aligned with vertical text. */
+    #tableWrapper .gridjs-thead th.gridjs-th:nth-child(n+2) {
       height: 160px;
       vertical-align: bottom;
       overflow: visible;
       padding: 0 2px 4px 2px;
     }
 
-    /* Rotate raid header text 90° (reads bottom-to-top) */
-    #tableWrapper .gridjs-thead th.gridjs-th:nth-child(n+5) .gridjs-th-content {
+    /* Rotate header text 90° (reads bottom-to-top) */
+    #tableWrapper .gridjs-thead th.gridjs-th:nth-child(n+2) .gridjs-th-content {
       writing-mode: vertical-rl;
       transform: rotate(180deg);
       white-space: nowrap;
       text-align: left;
     }
 
-    /* Center values in computed + raid data cells (no wrapping on short markers) */
+    /* Center values in computed + raid data cells (no wrapping on short markers),
+       with reduced horizontal padding so the narrowed columns stay tight. */
     #tableWrapper .gridjs-tbody td.gridjs-td:nth-child(n+2) {
       text-align: center !important;
       vertical-align: middle;
       white-space: nowrap;
+      padding-left: 5px;
+      padding-right: 5px;
     }
   </style>
 </head>
@@ -80,27 +89,34 @@
         const raids = data.raids ?? [];
         const players = data.players ?? [];
 
+        // Narrowed data-column width (~40% off the previous ~76px). autoWidth:false
+        // (below) makes gridjs honor these widths exactly instead of auto-expanding.
+        const dataWidth = '46px';
+
         const raidColumns = raids.map(r => ({
           name: r.totalMinutes !== null ? `${r.name} · ${r.totalMinutes} min` : r.name,
-          width: '52px',
+          width: dataWidth,
           sort: { compare: sortNum },
           formatter: (cell) => fmtPct(cell)
         }));
 
         const columns = [
-          { name: 'Player', sort: true },
+          { name: 'Player', width: '160px', sort: true },
           {
             name: 'Overall',
+            width: dataWidth,
             sort: { compare: sortNum },
             formatter: (cell) => fmtPct(cell)
           },
           {
             name: 'Weighted',
+            width: dataWidth,
             sort: { compare: sortNum },
             formatter: (cell) => fmtPct(cell)
           },
           {
             name: 'Weighted since member',
+            width: dataWidth,
             sort: { compare: sortNum },
             formatter: (cell) => fmtPct(cell)
           },
@@ -118,7 +134,8 @@
         new gridjs.Grid({
           columns,
           data: tableData,
-          sort: true
+          sort: true,
+          autoWidth: false
         }).render(document.getElementById('tableWrapper'));
       });
   </script>
