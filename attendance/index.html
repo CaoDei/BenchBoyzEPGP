@@ -8,12 +8,15 @@
   <style>
     body { font-family: sans-serif; }
 
-    /* Single horizontal scroller for the wide raid matrix.
-       gridjs's inner wrapper is set to render at natural width so it
-       doesn't clip the rightmost columns; #tableWrapper provides the scrollbar. */
+    /* Horizontal scroll for the wide raid matrix.
+       gridjs caps the table at width:100% (table-layout:fixed) and the
+       container has overflow:hidden, so extra columns get squeezed/clipped
+       with no scrollbar. Let the table grow to its natural width and let
+       .gridjs-wrapper provide the horizontal scrollbar. */
     #tableWrapper { overflow-x: auto; }
-    #tableWrapper .gridjs-wrapper { overflow: visible; }
-    #tableWrapper .gridjs-container { width: max-content; }
+    #tableWrapper .gridjs-container { display: block; overflow: visible; }
+    #tableWrapper .gridjs-wrapper { overflow-x: auto; }
+    #tableWrapper table.gridjs-table { width: max-content !important; max-width: none !important; }
 
     /* Raid header cells (5th column onward): tall, narrow, bottom-aligned */
     #tableWrapper .gridjs-thead th.gridjs-th:nth-child(n+5) {
@@ -33,7 +36,7 @@
 
     /* Center values in computed + raid data cells (no wrapping on short markers) */
     #tableWrapper .gridjs-tbody td.gridjs-td:nth-child(n+2) {
-      text-align: center;
+      text-align: center !important;
       vertical-align: middle;
       white-space: nowrap;
     }
