@@ -1,13 +1,13 @@
 {
-  "lastModified": "2026-06-09T01:54:13\u002B02:00",
+  "lastModified": "2026-06-11T00:21:48\u002B02:00",
   "player": "Waldi",
   "main": "Waldmeister",
   "saldo": {
-    "ep": 4181,
+    "ep": 5283,
     "gp_m": 41.60,
-    "gp_a": 26.90,
-    "pr_m": 100.50,
-    "pr_a": 155.43
+    "gp_a": 86.90,
+    "pr_m": 127.00,
+    "pr_a": 60.79
   },
   "ledger": {
     "ep": [
@@ -320,6 +320,11 @@
         "ts": "2026-06-09T01:54:13\u002B02:00",
         "delta": -1045,
         "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-06-11T00:21:48\u002B02:00",
+        "delta": 1102,
+        "desc": "Attendance EP (1102) for raid (227 min @ 3 EP/min, buffed 194 min @ 1 EP/min, enchanted 227 min @ 1 EP/min) [source: Computed]"
       }
     ],
     "gp_m": [
@@ -589,6 +594,26 @@
         "ts": "2026-06-09T01:54:13\u002B02:00",
         "delta": -6.72,
         "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-06-10T23:13:57\u002B02:00",
+        "delta": 30,
+        "desc": "Chromatic Boots (ms-mid)"
+      },
+      {
+        "ts": "2026-06-10T23:14:07\u002B02:00",
+        "delta": 30,
+        "desc": "Chromatic Handguards (ms-mid)"
+      },
+      {
+        "ts": "2026-06-10T23:29:11\u002B02:00",
+        "delta": -30,
+        "desc": "Undo loot: Chromatic Handguards"
+      },
+      {
+        "ts": "2026-06-10T23:29:42\u002B02:00",
+        "delta": 30,
+        "desc": "Chromatic Handguards (ms-mid)"
       }
     ]
   }
