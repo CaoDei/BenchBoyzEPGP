@@ -1,13 +1,13 @@
 {
-  "lastModified": "2026-06-09T01:54:13\u002B02:00",
+  "lastModified": "2026-06-11T00:21:48\u002B02:00",
   "player": "Kuyon",
   "main": "Kuyon",
   "saldo": {
-    "ep": 3132,
+    "ep": 3514,
     "gp_m": 61.89,
     "gp_a": 51.78,
-    "pr_m": 50.61,
-    "pr_a": 60.49
+    "pr_m": 56.78,
+    "pr_a": 67.86
   },
   "ledger": {
     "ep": [
@@ -90,6 +90,11 @@
         "ts": "2026-06-09T01:54:13\u002B02:00",
         "delta": -783,
         "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-06-11T00:21:48\u002B02:00",
+        "delta": 382,
+        "desc": "Attendance EP (382) for raid (80 min @ 3 EP/min, buffed 62 min @ 1 EP/min, enchanted 80 min @ 1 EP/min) [source: Computed]"
       }
     ],
     "gp_m": [
