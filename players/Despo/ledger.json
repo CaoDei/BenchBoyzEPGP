@@ -1,13 +1,13 @@
 {
-  "lastModified": "2026-06-09T01:54:13\u002B02:00",
+  "lastModified": "2026-06-11T00:21:48\u002B02:00",
   "player": "Despo",
   "main": "Despo",
   "saldo": {
-    "ep": 1078,
+    "ep": 1210,
     "gp_m": 10,
     "gp_a": 40.00,
-    "pr_m": 107.8,
-    "pr_a": 26.95
+    "pr_m": 121,
+    "pr_a": 30.25
   },
   "ledger": {
     "ep": [
@@ -55,6 +55,16 @@
         "ts": "2026-06-09T01:54:13\u002B02:00",
         "delta": -269,
         "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-06-11T00:21:01\u002B02:00",
+        "delta": 60,
+        "desc": "Timely signup EP bonus for: BWL Ascended Mittwoch 10.06.2026"
+      },
+      {
+        "ts": "2026-06-11T00:21:48\u002B02:00",
+        "delta": 72,
+        "desc": "Attendance EP (72) for raid (18 min @ 3 EP/min, buffed 0 min @ 1 EP/min, enchanted 18 min @ 1 EP/min) [source: Computed]"
       }
     ],
     "gp_m": [
