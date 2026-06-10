@@ -1,13 +1,13 @@
 {
-  "lastModified": "2026-06-09T01:54:13\u002B02:00",
+  "lastModified": "2026-06-11T00:21:48\u002B02:00",
   "player": "Morguel",
   "main": "Morguel",
   "saldo": {
-    "ep": 1159,
+    "ep": 1652,
     "gp_m": 10,
     "gp_a": 34.92,
-    "pr_m": 115.9,
-    "pr_a": 33.19
+    "pr_m": 165.2,
+    "pr_a": 47.31
   },
   "ledger": {
     "ep": [
@@ -95,6 +95,11 @@
         "ts": "2026-06-09T01:54:13\u002B02:00",
         "delta": -290,
         "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-06-11T00:21:48\u002B02:00",
+        "delta": 493,
+        "desc": "Attendance EP (493) for raid (100 min @ 3 EP/min, buffed 93 min @ 1 EP/min, enchanted 100 min @ 1 EP/min) [source: Computed]"
       }
     ],
     "gp_m": [],
