@@ -1,13 +1,13 @@
 {
-  "lastModified": "2026-06-09T01:54:13\u002B02:00",
+  "lastModified": "2026-06-11T00:21:48\u002B02:00",
   "player": "Tschuberle",
   "main": "Tschuberle",
   "saldo": {
-    "ep": 4022,
+    "ep": 5103,
     "gp_m": 16.00,
-    "gp_a": 44.27,
-    "pr_m": 251.38,
-    "pr_a": 90.85
+    "gp_a": 54.27,
+    "pr_m": 318.94,
+    "pr_a": 94.03
   },
   "ledger": {
     "ep": [
@@ -320,6 +320,11 @@
         "ts": "2026-06-09T01:54:13\u002B02:00",
         "delta": -1005,
         "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-06-11T00:21:48\u002B02:00",
+        "delta": 1081,
+        "desc": "Attendance EP (1081) for raid (227 min @ 3 EP/min, buffed 173 min @ 1 EP/min, enchanted 227 min @ 1 EP/min) [source: Computed]"
       }
     ],
     "gp_m": [
@@ -574,6 +579,11 @@
         "ts": "2026-06-09T01:54:13\u002B02:00",
         "delta": -11.07,
         "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-06-10T21:03:46\u002B02:00",
+        "delta": 10,
+        "desc": "Spineshatter (ms-low)"
       }
     ]
   }
