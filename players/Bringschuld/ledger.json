@@ -1,13 +1,13 @@
 {
-  "lastModified": "2026-06-09T01:54:13\u002B02:00",
+  "lastModified": "2026-06-11T00:21:48\u002B02:00",
   "player": "Bringschuld",
   "main": "Bringschuld",
   "saldo": {
-    "ep": 5514,
+    "ep": 6576,
     "gp_m": 57.60,
-    "gp_a": 16.00,
-    "pr_m": 95.73,
-    "pr_a": 344.62
+    "gp_a": 26.00,
+    "pr_m": 114.17,
+    "pr_a": 252.92
   },
   "ledger": {
     "ep": [
@@ -345,6 +345,11 @@
         "ts": "2026-06-09T01:54:13\u002B02:00",
         "delta": -1378,
         "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-06-11T00:21:48\u002B02:00",
+        "delta": 1062,
+        "desc": "Attendance EP (1062) for raid (227 min @ 3 EP/min, buffed 154 min @ 1 EP/min, enchanted 227 min @ 1 EP/min) [source: Computed]"
       }
     ],
     "gp_m": [
@@ -539,6 +544,11 @@
         "ts": "2026-06-09T01:54:13\u002B02:00",
         "delta": -4.00,
         "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-06-10T21:04:01\u002B02:00",
+        "delta": 10,
+        "desc": "Ring of Blackrock (ms-low)"
       }
     ]
   }
