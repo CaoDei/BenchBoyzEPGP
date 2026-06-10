@@ -1,13 +1,13 @@
 {
-  "lastModified": "2026-06-09T01:54:13\u002B02:00",
+  "lastModified": "2026-06-11T00:21:48\u002B02:00",
   "player": "Reaverr",
   "main": "Reaverr",
   "saldo": {
-    "ep": 136,
+    "ep": 1298,
     "gp_m": 10,
     "gp_a": 10,
-    "pr_m": 13.6,
-    "pr_a": 13.6
+    "pr_m": 129.8,
+    "pr_a": 129.8
   },
   "ledger": {
     "ep": [
@@ -40,6 +40,16 @@
         "ts": "2026-06-09T01:54:13\u002B02:00",
         "delta": -34,
         "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-06-11T00:21:01\u002B02:00",
+        "delta": 60,
+        "desc": "Timely signup EP bonus for: BWL Ascended Mittwoch 10.06.2026"
+      },
+      {
+        "ts": "2026-06-11T00:21:48\u002B02:00",
+        "delta": 1102,
+        "desc": "Attendance EP (1102) for raid (227 min @ 3 EP/min, buffed 194 min @ 1 EP/min, enchanted 227 min @ 1 EP/min) [source: Computed]"
       }
     ],
     "gp_m": [],
