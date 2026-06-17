@@ -1,13 +1,13 @@
 {
-  "lastModified": "2026-06-11T00:21:48\u002B02:00",
+  "lastModified": "2026-06-17T18:22:04\u002B02:00",
   "player": "Sandu",
   "main": "Sandu",
   "saldo": {
-    "ep": 6874,
-    "gp_m": 73.60,
-    "gp_a": 49.17,
-    "pr_m": 93.40,
-    "pr_a": 139.80
+    "ep": 5979,
+    "gp_m": 58.88,
+    "gp_a": 39.34,
+    "pr_m": 101.55,
+    "pr_a": 151.98
   },
   "ledger": {
     "ep": [
@@ -385,6 +385,16 @@
         "ts": "2026-06-11T00:21:48\u002B02:00",
         "delta": 1102,
         "desc": "Attendance EP (1102) for raid (227 min @ 3 EP/min, buffed 194 min @ 1 EP/min, enchanted 227 min @ 1 EP/min) [source: Computed]"
+      },
+      {
+        "ts": "2026-06-17T18:21:54\u002B02:00",
+        "delta": 600,
+        "desc": "Attendance EP (600) for raid (120 min @ 3 EP/min, buffed 120 min @ 1 EP/min, enchanted 120 min @ 1 EP/min) [source: Computed]"
+      },
+      {
+        "ts": "2026-06-17T18:22:04\u002B02:00",
+        "delta": -1495,
+        "desc": "Decay -20% applied to all players"
       }
     ],
     "gp_m": [
@@ -501,6 +511,11 @@
       {
         "ts": "2026-06-09T01:54:13\u002B02:00",
         "delta": -18.40,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-06-17T18:22:04\u002B02:00",
+        "delta": -14.72,
         "desc": "Decay -20% applied to all players"
       }
     ],
@@ -669,6 +684,11 @@
         "ts": "2026-06-10T21:04:03\u002B02:00",
         "delta": 10,
         "desc": "Scrolls of Blinding Light (ms-low)"
+      },
+      {
+        "ts": "2026-06-17T18:22:04\u002B02:00",
+        "delta": -9.83,
+        "desc": "Decay -20% applied to all players"
       }
     ]
   }
