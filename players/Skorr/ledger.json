@@ -1,13 +1,13 @@
 {
-  "lastModified": "2026-06-09T01:54:13\u002B02:00",
+  "lastModified": "2026-06-17T18:22:04\u002B02:00",
   "player": "Skorr",
   "main": "Skorr",
   "saldo": {
-    "ep": 120,
+    "ep": 96,
     "gp_m": 10,
     "gp_a": 10,
-    "pr_m": 12,
-    "pr_a": 12
+    "pr_m": 9.6,
+    "pr_a": 9.6
   },
   "ledger": {
     "ep": [
@@ -44,6 +44,11 @@
       {
         "ts": "2026-06-09T01:54:13\u002B02:00",
         "delta": -30,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-06-17T18:22:04\u002B02:00",
+        "delta": -24,
         "desc": "Decay -20% applied to all players"
       }
     ],
