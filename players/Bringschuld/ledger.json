@@ -1,13 +1,13 @@
 {
-  "lastModified": "2026-06-11T00:21:48\u002B02:00",
+  "lastModified": "2026-06-17T18:22:04\u002B02:00",
   "player": "Bringschuld",
   "main": "Bringschuld",
   "saldo": {
-    "ep": 6576,
-    "gp_m": 57.60,
-    "gp_a": 26.00,
-    "pr_m": 114.17,
-    "pr_a": 252.92
+    "ep": 5762,
+    "gp_m": 46.08,
+    "gp_a": 20.80,
+    "pr_m": 125.04,
+    "pr_a": 277.02
   },
   "ledger": {
     "ep": [
@@ -350,6 +350,21 @@
         "ts": "2026-06-11T00:21:48\u002B02:00",
         "delta": 1062,
         "desc": "Attendance EP (1062) for raid (227 min @ 3 EP/min, buffed 154 min @ 1 EP/min, enchanted 227 min @ 1 EP/min) [source: Computed]"
+      },
+      {
+        "ts": "2026-06-17T18:21:26\u002B02:00",
+        "delta": 60,
+        "desc": "Timely signup EP bonus for: BWL Ascended Montag 15.06.2026"
+      },
+      {
+        "ts": "2026-06-17T18:21:54\u002B02:00",
+        "delta": 566,
+        "desc": "Attendance EP (566) for raid (120 min @ 3 EP/min, buffed 86 min @ 1 EP/min, enchanted 120 min @ 1 EP/min) [source: Computed]"
+      },
+      {
+        "ts": "2026-06-17T18:22:04\u002B02:00",
+        "delta": -1440,
+        "desc": "Decay -20% applied to all players"
       }
     ],
     "gp_m": [
@@ -426,6 +441,11 @@
       {
         "ts": "2026-06-09T01:54:13\u002B02:00",
         "delta": -14.40,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-06-17T18:22:04\u002B02:00",
+        "delta": -11.52,
         "desc": "Decay -20% applied to all players"
       }
     ],
@@ -549,6 +569,11 @@
         "ts": "2026-06-10T21:04:01\u002B02:00",
         "delta": 10,
         "desc": "Ring of Blackrock (ms-low)"
+      },
+      {
+        "ts": "2026-06-17T18:22:04\u002B02:00",
+        "delta": -5.20,
+        "desc": "Decay -20% applied to all players"
       }
     ]
   }
