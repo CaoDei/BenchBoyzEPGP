@@ -1,11 +1,11 @@
 {
-  "lastModified": "2026-06-09T01:54:13\u002B02:00",
+  "lastModified": "2026-06-17T18:22:04\u002B02:00",
   "player": "Slux",
   "main": "Slux",
   "saldo": {
-    "ep": 3065,
-    "gp_m": 56.00,
-    "gp_a": 13.75,
+    "ep": 2452,
+    "gp_m": 44.80,
+    "gp_a": 11.00,
     "pr_m": 54.73,
     "pr_a": 222.91
   },
@@ -140,6 +140,11 @@
         "ts": "2026-06-09T01:54:13\u002B02:00",
         "delta": -766,
         "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-06-17T18:22:04\u002B02:00",
+        "delta": -613,
+        "desc": "Decay -20% applied to all players"
       }
     ],
     "gp_m": [
@@ -156,6 +161,11 @@
       {
         "ts": "2026-06-09T01:54:13\u002B02:00",
         "delta": -14.00,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-06-17T18:22:04\u002B02:00",
+        "delta": -11.20,
         "desc": "Decay -20% applied to all players"
       }
     ],
@@ -218,6 +228,11 @@
       {
         "ts": "2026-06-09T01:54:13\u002B02:00",
         "delta": -3.44,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-06-17T18:22:04\u002B02:00",
+        "delta": -2.75,
         "desc": "Decay -20% applied to all players"
       }
     ]
