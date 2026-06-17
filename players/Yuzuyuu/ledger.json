@@ -1,13 +1,13 @@
 {
-  "lastModified": "2026-06-09T01:54:13\u002B02:00",
+  "lastModified": "2026-06-17T18:22:04\u002B02:00",
   "player": "Yuzuyuu",
   "main": "Yuzuyuu",
   "saldo": {
-    "ep": 4819,
-    "gp_m": 112.00,
-    "gp_a": 64.01,
-    "pr_m": 43.03,
-    "pr_a": 75.29
+    "ep": 3855,
+    "gp_m": 89.60,
+    "gp_a": 51.21,
+    "pr_m": 43.02,
+    "pr_a": 75.28
   },
   "ledger": {
     "ep": [
@@ -310,6 +310,11 @@
         "ts": "2026-06-09T01:54:13\u002B02:00",
         "delta": -1205,
         "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-06-17T18:22:04\u002B02:00",
+        "delta": -964,
+        "desc": "Decay -20% applied to all players"
       }
     ],
     "gp_m": [
@@ -396,6 +401,11 @@
       {
         "ts": "2026-06-09T01:54:13\u002B02:00",
         "delta": -28.00,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-06-17T18:22:04\u002B02:00",
+        "delta": -22.40,
         "desc": "Decay -20% applied to all players"
       }
     ],
@@ -538,6 +548,11 @@
       {
         "ts": "2026-06-09T01:54:13\u002B02:00",
         "delta": -16.00,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-06-17T18:22:04\u002B02:00",
+        "delta": -12.80,
         "desc": "Decay -20% applied to all players"
       }
     ]
