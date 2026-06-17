@@ -1,13 +1,13 @@
 {
-  "lastModified": "2026-06-11T00:21:48\u002B02:00",
+  "lastModified": "2026-06-17T18:22:04\u002B02:00",
   "player": "Grokhna",
   "main": "Grokhna",
   "saldo": {
-    "ep": 5380,
-    "gp_m": 19.50,
-    "gp_a": 82.90,
-    "pr_m": 275.90,
-    "pr_a": 64.90
+    "ep": 4827,
+    "gp_m": 15.60,
+    "gp_a": 66.32,
+    "pr_m": 309.42,
+    "pr_a": 72.78
   },
   "ledger": {
     "ep": [
@@ -335,6 +335,21 @@
         "ts": "2026-06-11T00:21:48\u002B02:00",
         "delta": 1102,
         "desc": "Attendance EP (1102) for raid (227 min @ 3 EP/min, buffed 194 min @ 1 EP/min, enchanted 227 min @ 1 EP/min) [source: Computed]"
+      },
+      {
+        "ts": "2026-06-17T18:21:26\u002B02:00",
+        "delta": 60,
+        "desc": "Timely signup EP bonus for: BWL Ascended Montag 15.06.2026"
+      },
+      {
+        "ts": "2026-06-17T18:21:54\u002B02:00",
+        "delta": 594,
+        "desc": "Attendance EP (594) for raid (120 min @ 3 EP/min, buffed 114 min @ 1 EP/min, enchanted 120 min @ 1 EP/min) [source: Computed]"
+      },
+      {
+        "ts": "2026-06-17T18:22:04\u002B02:00",
+        "delta": -1207,
+        "desc": "Decay -20% applied to all players"
       }
     ],
     "gp_m": [
@@ -381,6 +396,11 @@
       {
         "ts": "2026-06-09T01:54:13\u002B02:00",
         "delta": -4.88,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-06-17T18:22:04\u002B02:00",
+        "delta": -3.90,
         "desc": "Decay -20% applied to all players"
       }
     ],
@@ -619,6 +639,11 @@
         "ts": "2026-06-10T23:29:27\u002B02:00",
         "delta": -30,
         "desc": "Undo loot: Chromatic Handguards"
+      },
+      {
+        "ts": "2026-06-17T18:22:04\u002B02:00",
+        "delta": -16.58,
+        "desc": "Decay -20% applied to all players"
       }
     ]
   }
