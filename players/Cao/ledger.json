@@ -1,13 +1,13 @@
 {
-  "lastModified": "2026-06-11T00:21:48\u002B02:00",
+  "lastModified": "2026-06-17T18:22:04\u002B02:00",
   "player": "Cao",
   "main": "Tayami",
   "saldo": {
-    "ep": 6899,
-    "gp_m": 49.62,
-    "gp_a": 70.67,
-    "pr_m": 139.04,
-    "pr_a": 97.62
+    "ep": 6046,
+    "gp_m": 39.70,
+    "gp_a": 56.54,
+    "pr_m": 152.29,
+    "pr_a": 106.93
   },
   "ledger": {
     "ep": [
@@ -395,6 +395,21 @@
         "ts": "2026-06-11T00:21:48\u002B02:00",
         "delta": 1062,
         "desc": "Attendance EP (1062) for raid (227 min @ 3 EP/min, buffed 154 min @ 1 EP/min, enchanted 227 min @ 1 EP/min) [source: Computed]"
+      },
+      {
+        "ts": "2026-06-17T18:21:26\u002B02:00",
+        "delta": 60,
+        "desc": "Timely signup EP bonus for: BWL Ascended Montag 15.06.2026"
+      },
+      {
+        "ts": "2026-06-17T18:21:54\u002B02:00",
+        "delta": 598,
+        "desc": "Attendance EP (598) for raid (120 min @ 3 EP/min, buffed 118 min @ 1 EP/min, enchanted 120 min @ 1 EP/min) [source: Computed]"
+      },
+      {
+        "ts": "2026-06-17T18:22:04\u002B02:00",
+        "delta": -1511,
+        "desc": "Decay -20% applied to all players"
       }
     ],
     "gp_m": [
@@ -516,6 +531,11 @@
       {
         "ts": "2026-06-09T01:54:13\u002B02:00",
         "delta": -12.40,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-06-17T18:22:04\u002B02:00",
+        "delta": -9.92,
         "desc": "Decay -20% applied to all players"
       }
     ],
@@ -654,6 +674,11 @@
         "ts": "2026-06-10T23:14:37\u002B02:00",
         "delta": 10,
         "desc": "Firemaw\u0027s Clutch (os-low)"
+      },
+      {
+        "ts": "2026-06-17T18:22:04\u002B02:00",
+        "delta": -14.13,
+        "desc": "Decay -20% applied to all players"
       }
     ]
   }
