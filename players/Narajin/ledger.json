@@ -1,13 +1,13 @@
 {
-  "lastModified": "2026-06-11T00:21:48\u002B02:00",
+  "lastModified": "2026-06-17T18:22:04\u002B02:00",
   "player": "Narajin",
   "main": "Narajin",
   "saldo": {
-    "ep": 2562,
-    "gp_m": 12.80,
-    "gp_a": 40.40,
-    "pr_m": 200.16,
-    "pr_a": 63.42
+    "ep": 2050,
+    "gp_m": 10.24,
+    "gp_a": 32.32,
+    "pr_m": 200.20,
+    "pr_a": 63.43
   },
   "ledger": {
     "ep": [
@@ -100,6 +100,11 @@
         "ts": "2026-06-11T00:21:48\u002B02:00",
         "delta": 566,
         "desc": "Attendance EP (566) for raid (131 min @ 3 EP/min, buffed 42 min @ 1 EP/min, enchanted 131 min @ 1 EP/min) [source: Computed]"
+      },
+      {
+        "ts": "2026-06-17T18:22:04\u002B02:00",
+        "delta": -512,
+        "desc": "Decay -20% applied to all players"
       }
     ],
     "gp_m": [
@@ -116,6 +121,11 @@
       {
         "ts": "2026-06-09T01:54:13\u002B02:00",
         "delta": -3.20,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-06-17T18:22:04\u002B02:00",
+        "delta": -2.56,
         "desc": "Decay -20% applied to all players"
       }
     ],
@@ -179,6 +189,11 @@
         "ts": "2026-06-10T23:29:39\u002B02:00",
         "delta": 30,
         "desc": "Chromatic Handguards (ms-mid)"
+      },
+      {
+        "ts": "2026-06-17T18:22:04\u002B02:00",
+        "delta": -8.08,
+        "desc": "Decay -20% applied to all players"
       }
     ]
   }
