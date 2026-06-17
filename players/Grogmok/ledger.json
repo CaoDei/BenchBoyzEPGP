@@ -1,13 +1,13 @@
 {
-  "lastModified": "2026-06-09T01:54:13\u002B02:00",
+  "lastModified": "2026-06-17T18:22:04\u002B02:00",
   "player": "Grogmok",
   "main": "Grogmok",
   "saldo": {
-    "ep": 240,
+    "ep": 192,
     "gp_m": 10,
     "gp_a": 10,
-    "pr_m": 24,
-    "pr_a": 24
+    "pr_m": 19.2,
+    "pr_a": 19.2
   },
   "ledger": {
     "ep": [
@@ -44,6 +44,11 @@
       {
         "ts": "2026-06-09T01:54:13\u002B02:00",
         "delta": -60,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-06-17T18:22:04\u002B02:00",
+        "delta": -48,
         "desc": "Decay -20% applied to all players"
       }
     ],
