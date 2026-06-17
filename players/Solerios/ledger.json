@@ -1,13 +1,13 @@
 {
-  "lastModified": "2026-06-09T01:54:13\u002B02:00",
+  "lastModified": "2026-06-17T18:22:04\u002B02:00",
   "player": "Solerios",
   "main": "Solerios",
   "saldo": {
-    "ep": 185,
+    "ep": 148,
     "gp_m": 10,
     "gp_a": 10,
-    "pr_m": 18.5,
-    "pr_a": 18.5
+    "pr_m": 14.8,
+    "pr_a": 14.8
   },
   "ledger": {
     "ep": [
@@ -39,6 +39,11 @@
       {
         "ts": "2026-06-09T01:54:13\u002B02:00",
         "delta": -46,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-06-17T18:22:04\u002B02:00",
+        "delta": -37,
         "desc": "Decay -20% applied to all players"
       }
     ],
