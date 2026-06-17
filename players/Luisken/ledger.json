@@ -1,13 +1,13 @@
 {
-  "lastModified": "2026-06-11T00:21:48\u002B02:00",
+  "lastModified": "2026-06-17T18:22:04\u002B02:00",
   "player": "Luisken",
   "main": "Luisken",
   "saldo": {
-    "ep": 6910,
-    "gp_m": 16.00,
-    "gp_a": 31.87,
-    "pr_m": 431.88,
-    "pr_a": 216.82
+    "ep": 6034,
+    "gp_m": 12.80,
+    "gp_a": 25.50,
+    "pr_m": 471.41,
+    "pr_a": 236.63
   },
   "ledger": {
     "ep": [
@@ -395,6 +395,21 @@
         "ts": "2026-06-11T00:21:48\u002B02:00",
         "delta": 1102,
         "desc": "Attendance EP (1102) for raid (227 min @ 3 EP/min, buffed 194 min @ 1 EP/min, enchanted 227 min @ 1 EP/min) [source: Computed]"
+      },
+      {
+        "ts": "2026-06-17T18:21:26\u002B02:00",
+        "delta": 60,
+        "desc": "Timely signup EP bonus for: BWL Ascended Montag 15.06.2026"
+      },
+      {
+        "ts": "2026-06-17T18:21:54\u002B02:00",
+        "delta": 573,
+        "desc": "Attendance EP (573) for raid (120 min @ 3 EP/min, buffed 93 min @ 1 EP/min, enchanted 120 min @ 1 EP/min) [source: Computed]"
+      },
+      {
+        "ts": "2026-06-17T18:22:04\u002B02:00",
+        "delta": -1509,
+        "desc": "Decay -20% applied to all players"
       }
     ],
     "gp_m": [
@@ -501,6 +516,11 @@
       {
         "ts": "2026-06-09T01:54:13\u002B02:00",
         "delta": -4.00,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-06-17T18:22:04\u002B02:00",
+        "delta": -3.20,
         "desc": "Decay -20% applied to all players"
       }
     ],
@@ -663,6 +683,11 @@
       {
         "ts": "2026-06-09T01:54:13\u002B02:00",
         "delta": -7.97,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-06-17T18:22:04\u002B02:00",
+        "delta": -6.37,
         "desc": "Decay -20% applied to all players"
       }
     ]
