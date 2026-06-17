@@ -1,13 +1,13 @@
 {
-  "lastModified": "2026-06-11T00:21:48\u002B02:00",
+  "lastModified": "2026-06-17T18:22:04\u002B02:00",
   "player": "Nightmaster",
   "main": "Nightmaster",
   "saldo": {
-    "ep": 1109,
+    "ep": 887,
     "gp_m": 10,
     "gp_a": 10,
-    "pr_m": 110.9,
-    "pr_a": 110.9
+    "pr_m": 88.7,
+    "pr_a": 88.7
   },
   "ledger": {
     "ep": [
@@ -15,6 +15,11 @@
         "ts": "2026-06-11T00:21:48\u002B02:00",
         "delta": 1109,
         "desc": "Attendance EP (1109) for raid (227 min @ 3 EP/min, buffed 201 min @ 1 EP/min, enchanted 227 min @ 1 EP/min) [source: Computed]"
+      },
+      {
+        "ts": "2026-06-17T18:22:04\u002B02:00",
+        "delta": -222,
+        "desc": "Decay -20% applied to all players"
       }
     ],
     "gp_m": [],
