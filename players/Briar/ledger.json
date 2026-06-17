@@ -1,13 +1,13 @@
 {
-  "lastModified": "2026-06-11T00:21:48\u002B02:00",
+  "lastModified": "2026-06-17T18:22:04\u002B02:00",
   "player": "Briar",
   "main": "Briaar",
   "saldo": {
-    "ep": 5077,
-    "gp_m": 11.74,
-    "gp_a": 26.73,
-    "pr_m": 432.45,
-    "pr_a": 189.94
+    "ep": 4278,
+    "gp_m": 10,
+    "gp_a": 21.38,
+    "pr_m": 427.8,
+    "pr_a": 200.09
   },
   "ledger": {
     "ep": [
@@ -355,6 +355,21 @@
         "ts": "2026-06-11T00:21:48\u002B02:00",
         "delta": 1102,
         "desc": "Attendance EP (1102) for raid (227 min @ 3 EP/min, buffed 194 min @ 1 EP/min, enchanted 227 min @ 1 EP/min) [source: Computed]"
+      },
+      {
+        "ts": "2026-06-17T18:21:26\u002B02:00",
+        "delta": 60,
+        "desc": "Timely signup EP bonus for: BWL Ascended Montag 15.06.2026"
+      },
+      {
+        "ts": "2026-06-17T18:21:54\u002B02:00",
+        "delta": 210,
+        "desc": "Attendance EP (210) for raid (42 min @ 3 EP/min, buffed 42 min @ 1 EP/min, enchanted 42 min @ 1 EP/min) [source: Computed]"
+      },
+      {
+        "ts": "2026-06-17T18:22:04\u002B02:00",
+        "delta": -1069,
+        "desc": "Decay -20% applied to all players"
       }
     ],
     "gp_m": [
@@ -421,6 +436,11 @@
       {
         "ts": "2026-06-09T01:54:13\u002B02:00",
         "delta": -2.94,
+        "desc": "Decay -20% applied to all players"
+      },
+      {
+        "ts": "2026-06-17T18:22:04\u002B02:00",
+        "delta": -1.74,
         "desc": "Decay -20% applied to all players"
       }
     ],
@@ -514,6 +534,11 @@
         "ts": "2026-06-10T21:03:39\u002B02:00",
         "delta": 10,
         "desc": "Chromatic Girdle (ms-low)"
+      },
+      {
+        "ts": "2026-06-17T18:22:04\u002B02:00",
+        "delta": -5.35,
+        "desc": "Decay -20% applied to all players"
       }
     ]
   }
